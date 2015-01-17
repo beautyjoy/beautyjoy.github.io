@@ -1,0 +1,179 @@
+/* A Linux- and Windows-friendly sans-serif font stack: http://prospects.mhurrell.co.uk/post/updating-the-helvetica-font-stack */
+body {font: 13px Helmet, Freesans, sans-serif;}
+
+/* Using local fonts? Check out Font Squirrel's webfont generator: http://www.fontsquirrel.com/tools/webfont-generator */
+
+/* We like off-black for text. */
+body, select, input, textarea {color: #333;}
+
+a {color: #03f;}
+a:hover {color: #69f;}
+
+/* Custom text-selection colors (remove any text shadows: http://twitter.com/miketaylr/status/12228805301) */
+::-moz-selection{background: #fcd700; color: #fff; text-shadow: none;}
+::selection {background: #fcd700; color: #fff; text-shadow: none;} 
+
+/*	j.mp/webkit-tap-highlight-color */
+a:link {-webkit-tap-highlight-color: #fcd700;} 
+
+ins {background-color: #fcd700; color: #000; text-decoration: none;}
+mark {background-color: #fcd700; color: #000; font-style: italic; font-weight: bold;}
+
+/* Mozilla dosen't style place holders by default */
+input:-moz-placeholder { color:#a9a9a9; }
+textarea:-moz-placeholder { color:#a9a9a9; }
+
+
+
+/* Media queries
+-------------------------------------------------------------------------------*/
+
+@media screen {
+	
+html, body {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: none repeat scroll 0 0 #fff;
+    padding-bottom: 20px;
+    text-align: left;
+}
+a {
+    background: inherit;
+    color: #0066b3;
+    text-decoration: none;
+}
+h1 {
+    font: bold 2.1em Arial,Arial,sans-serif;
+}
+h2 {
+    font: bold 1.1em Arial,Arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background: none repeat scroll 0 0 #bbd9ee;
+    overflow: hidden;
+    width: 100%;
+}
+header h1, div#menu {
+    margin: 0 auto;
+    text-align: left;
+    width: 770px;
+}
+header h1 {
+    color: #fff;
+    padding: 30px 0 20px;
+}
+ul#nav, ul#nav li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul#nav {
+    float: right;
+    font-size: 80%;
+}
+ul#nav li {
+    float: left;
+    margin-left: 3px;
+    text-align: center;
+}
+ul#nav a {
+    background: none repeat scroll 0 0 #e7f1f8;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+    border-top: 1px solid #fff;
+    color: #666;
+    float: left;
+    padding: 5px 0;
+    text-decoration: none;
+    width: 95px;
+}
+ul#nav a:hover {
+    background: none repeat scroll 0 0 #fff;
+    color: #000;
+}
+ul#nav li.activelink a, ul#nav li.activelink a:hover {
+    background: none repeat scroll 0 0 #fff;
+    color: #003;
+}
+#right {
+    background: none repeat scroll 0 0 #eee;
+    float: left;
+    margin-bottom: 1.2em;
+    padding: 1em;
+    text-align: justify;
+    width: 76%;
+}
+#left {
+    float: right;
+    margin: 0 0 10px;
+    width: 20%;
+}
+#left .box {
+    background: none repeat scroll 0 0 #fff6bf;
+    margin: 0 0 1em;
+    padding: 1em;
+}
+#content {
+    background: none repeat scroll 0 0 #fff;
+    font: 95%/1.3 TrebuchetMS,Arial,sans-serif;
+    margin: 0 auto;
+    padding: 15px;
+}
+body {
+    background-image: url("/assets/images/background_circuits.png");
+    font-family: Tahoma,Geneva,serif;
+    font-size: 100%;
+    padding: 5px 0;
+    text-align: left;
+}
+
+header {
+    background-color: #164cba;
+    background-image: url("/assets/images/Summary_Gradient.png");
+    background-repeat: repeat-x;
+    border: 1px solid #000;
+    color: #fff;
+    font-size: 1.4em;
+    font-variant: small-caps;
+    font-weight: bold;
+    letter-spacing: 0.5px;
+    padding: 9px 0 6px 8px;
+    width: 450px;
+}
+.wrapper {
+    background-color: #fff;
+    border: 2px solid #000066;
+    border-radius: 8px;
+    margin: 0 auto;
+    min-height: 530px;
+    padding: 15px;
+    text-align: left;
+    width: 980px;
+}
+.imageRight {
+    float: right;
+    margin: 0 20px 15px 15px;
+}
+.email {
+    color: blue;
+    font-family: monospace;
+    font-size: 90%;
+}
+
+
+		
+}
+
+
+
+/* Print styles
+-------------------------------------------------------------------------------*/
+@media print {
+
+
+
+}
