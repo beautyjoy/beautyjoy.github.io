@@ -1,3 +1,3 @@
-BJC_Website
+ESLX website
 ===========
-This is the website for the UC Berkeley's Beauty and Joy of Computing Project
+This is the website for the ESL X project
