@@ -1,3 +1,0 @@
-umask 002
-cp -f index.html ..
-cp -rf website ..
