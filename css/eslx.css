@@ -14,3 +14,39 @@
 .top15 { margin-top:15px; }
 .top17 { margin-top:17px; }
 .top30 { margin-top:30px; }
+
+
+body {
+	padding-top: 80px;
+}
+
+.navbar {
+	background-color: #0f3549;
+	min-height: 80px;
+	border: 0px;
+}
+
+.navbar-topstripe {
+	height:73px;
+}
+
+.navbar-goldstripe {
+	background-color: #b6a268; 
+	height:8px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	max-width: inherit;
+}
+
+
+.jumbotron {
+	padding: 0px;
+	background: white;
+}
+
+
+footer {
+	background-color: #ebe2d0;
+}
