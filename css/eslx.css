@@ -43,8 +43,8 @@ body {
 
 .jumbotron {
 	padding: 0px;
-	background: white;
-}
+	background: none;
+ }
 
 
 footer {
