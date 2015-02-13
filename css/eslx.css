@@ -40,6 +40,21 @@ body {
 	max-width: inherit;
 }
 
+/* navbar menu links */
+
+.navbar-inverse .navbar-nav > li > a:link, .navbar-inverse .navbar-nav> li > a:visited {
+	color: #FFFFFF;
+	font-size: larger;
+	margin-top: 18px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav> li > a:active {
+	color: #999999;
+	font-size: larger;
+	margin-top: 18px;
+}
+
+
 
 .jumbotron {
 	padding: 0px;
@@ -54,3 +69,12 @@ footer {
 	padding: 50px 25px;
 	
 }
+
+a:link, a:visited {
+    color: #447189;
+}
+a:hover, a:active {
+	color: #000000;
+	text-decoration: none;
+}
+

@@ -3773,6 +3773,11 @@ textarea.input-group-sm > .input-group-btn > .btn {
   z-index: 2;
 }
 
+
+/* NAVBAR STUFF */
+
+
+
 .nav {
   padding-left: 0;
   margin-bottom: 0;
@@ -3889,7 +3894,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   text-align: center;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .nav-tabs.nav-justified > li {
     display: table-cell;
     width: 1%;
@@ -3945,7 +3950,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   text-align: center;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .nav-justified > li {
     display: table-cell;
     width: 1%;
@@ -4038,7 +4043,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   clear: both;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar {
     border-radius: 4px;
   }
@@ -4064,7 +4069,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   clear: both;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-header {
     float: left;
   }
@@ -4104,7 +4109,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   overflow-y: auto;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-collapse {
     width: auto;
     border-top: 0;
@@ -4136,7 +4141,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-left: -15px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .container > .navbar-header,
   .container > .navbar-collapse {
     margin-right: 0;
@@ -4148,7 +4153,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-width: 0 0 1px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-static-top {
     border-radius: 0;
   }
@@ -4162,7 +4167,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-width: 0 0 1px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-fixed-top,
   .navbar-fixed-bottom {
     border-radius: 0;
@@ -4191,7 +4196,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   text-decoration: none;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar > .container .navbar-brand {
     margin-left: -15px;
   }
@@ -4220,7 +4225,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-top: 4px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-toggle {
     display: none;
   }
@@ -4236,7 +4241,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   line-height: 20px;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 994px) {
   .navbar-nav .open .dropdown-menu {
     position: static;
     float: none;
@@ -4259,7 +4264,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-nav {
     float: left;
     margin: 0;
@@ -4273,7 +4278,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-left {
     float: left !important;
   }
@@ -4294,7 +4299,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
           box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 1px 0 rgba(255, 255, 255, 0.1);
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-form .form-group {
     display: inline-block;
     margin-bottom: 0;
@@ -4317,13 +4322,13 @@ textarea.input-group-sm > .input-group-btn > .btn {
   }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 994px) {
   .navbar-form .form-group {
     margin-bottom: 5px;
   }
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-form {
     width: auto;
     padding-top: 0;
@@ -4364,7 +4369,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   margin-bottom: 15px;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 995px) {
   .navbar-text {
     margin-right: 15px;
     margin-left: 15px;
@@ -4457,7 +4462,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom-color: #777777;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 994px) {
   .navbar-default .navbar-nav .open .dropdown-menu > li > a {
     color: #777777;
   }
@@ -4573,7 +4578,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
   border-bottom-color: #ffffff;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 994px) {
   .navbar-inverse .navbar-nav .open .dropdown-menu > .dropdown-header {
     border-color: #080808;
   }
@@ -4606,6 +4611,9 @@ textarea.input-group-sm > .input-group-btn > .btn {
 .navbar-inverse .navbar-link:hover {
   color: #ffffff;
 }
+
+
+/* NAVBAR END */
 
 .breadcrumb {
   padding: 8px 15px;
