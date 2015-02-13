@@ -63,12 +63,30 @@ body {
  }
 
 
+/*  sticky footer stuff */
+
 footer {
 	background-color: #ebe2d0;
-	margin-bottom: 0px;
-	padding: 50px 25px;
-	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	bottom: 0;
+	position: absolute;
+	height: 120px;
+	width: 100%;
+	margin: 0px;
 }
+
+html {
+	min-height:100%;
+	position: relative;
+	height: auto;
+}
+
+body {
+	margin-bottom: 120px;	
+	height: auto;
+}
+/* end sticky footer */
 
 a:link, a:visited {
     color: #447189;
@@ -77,4 +95,5 @@ a:hover, a:active {
 	color: #000000;
 	text-decoration: none;
 }
+
 
