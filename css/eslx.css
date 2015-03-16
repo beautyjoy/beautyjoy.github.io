@@ -40,6 +40,10 @@ body {
 	max-width: inherit;
 }
 
+
+
+
+
 /* navbar menu links */
 
 .navbar-inverse .navbar-nav > li > a:link, .navbar-inverse .navbar-nav> li > a:visited {
@@ -55,6 +59,27 @@ body {
 }
 
 
+
+a:link.btn-primary, a:visited.btn-primary {	
+	color: #FFFFFF;
+ }
+
+a:hover.btn-primary, .btn-primary {	
+	color: #999999;
+ }
+
+
+
+/* 
+a:link, a:visited {
+    color: #447189;
+}
+a:hover, a:active {
+	color: #000000;
+	text-decoration: none;
+}
+
+*/
 
 .jumbotron {
 	padding: 0px;
@@ -88,12 +113,5 @@ body {
 }
 /* end sticky footer */
 
-a:link, a:visited {
-    color: #447189;
-}
-a:hover, a:active {
-	color: #000000;
-	text-decoration: none;
-}
 
 
