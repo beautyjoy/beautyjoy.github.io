@@ -1,0 +1,69 @@
+body {
+	margin-top: 580px; /* 50px is the height of the navbar - change this if the navbarn height changes */
+}
+
+.jumbotron {
+              position: relative;
+              padding: 20px 0;
+              color: #fff;
+              text-align: center;
+              text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+         /*     background: #020031; /* Old browsers */
+          /*    background: -moz-linear-gradient(45deg,  #020031 0%, #6d3353 100%); /* FF3.6+ */
+          /*    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,#020031), color-stop(100%,#6d3353)); /* Chrome,Safari4+ */
+          /*    background: -webkit-linear-gradient(45deg, #049cdb 0%, #FFFFFF 100%); /* Chrome10+,Safari5.1+ */
+          /*   background: -o-linear-gradient(45deg,  #020031 0%,#6d3353 100%); /* Opera 11.10+ */
+          /*    background: -ms-linear-gradient(45deg,  #020031 0%,#6d3353 100%); /* IE10+ */
+          /*    background: linear-gradient(45deg,  #020031 0%,#6d3353 100%); /* W3C */
+         /*     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#020031', endColorstr='#6d3353',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+      /*        -webkit-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+                 -moz-box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+                      box-shadow: inset 0 3px 7px rgba(0,0,0,.2), inset 0 -3px 7px rgba(0,0,0,.2);
+ */                     
+}
+
+.full-width-image-1 {
+	background: url(http://lorempixel.com/g/1920/500/) no-repeat center center;
+	background-size: cover;
+	text-align: center;
+	padding: 100px 0;
+}
+
+.logo-wrapper {
+	display: inline-block;
+}
+
+.section {
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.section-heading {
+	font-size: 4em;
+	margin: 30px 0;
+}
+
+.section-lead {
+	margin: 30px 0;
+}
+
+.section-paragraph {
+	margin: 30px 0;
+}
+
+footer {
+	margin: 50px 0;
+}
+
+@media (max-width: 768px) {
+
+.section-heading {
+	font-size: 2em;
+}
+
+.section {
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+}

@@ -1,0 +1,117 @@
+/*!
+ * 
+ * custom css for eslx stuff
+ */
+
+
+/* add these to rows to get margin at top
+ * 
+ */
+
+.top5 { margin-top:5px; }
+.top7 { margin-top:7px; }
+.top10 { margin-top:10px; }
+.top15 { margin-top:15px; }
+.top17 { margin-top:17px; }
+.top30 { margin-top:30px; }
+
+
+body {
+	padding-top: 80px;
+}
+
+.navbar {
+	background-color: #0f3549;
+	min-height: 80px;
+	border: 0px;
+}
+
+.navbar-topstripe {
+	min-height:73px;
+}
+
+.navbar-goldstripe {
+	background-color: #b6a268; 
+	height:8px;
+	padding-left:0px;
+	padding-right:0px;
+	margin-left: 0px;
+	margin-right: 0px;
+	max-width: inherit;
+}
+
+
+
+
+
+/* navbar menu links */
+
+.navbar-inverse .navbar-nav > li > a:link, .navbar-inverse .navbar-nav> li > a:visited {
+	color: #FFFFFF;
+	font-size: larger;
+	margin-top: 18px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav> li > a:active {
+	color: #999999;
+	font-size: larger;
+	margin-top: 18px;
+}
+
+
+
+a:link.btn-primary, a:visited.btn-primary {	
+	color: #FFFFFF;
+ }
+
+a:hover.btn-primary, .btn-primary {	
+	color: #999999;
+ }
+
+
+
+/* 
+a:link, a:visited {
+    color: #447189;
+}
+a:hover, a:active {
+	color: #000000;
+	text-decoration: none;
+}
+
+*/
+
+.jumbotron {
+	padding: 0px;
+	background: none;
+	margin: 0px;
+ }
+
+
+/*  sticky footer stuff */
+
+footer {
+	background-color: #ebe2d0;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	bottom: 0;
+	position: absolute;
+	height: 120px;
+	width: 100%;
+	margin: 0px;
+}
+
+html {
+	min-height:100%;
+	position: relative;
+	height: auto;
+}
+
+body {
+	margin-bottom: 120px;	
+	height: auto;
+}
+/* end sticky footer */
+
+
+
