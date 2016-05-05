@@ -15,123 +15,102 @@
     <link href="css/modern-business.css" rel="stylesheet">
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
     <link rel="shortcut icon" href="images/bjcfav.png" type="image/png">
+      
+      <!-- Custom CSS -->
+        <link href="/website/css/styles.css" rel="stylesheet">
+        
+        <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
   </head>
 
   <body>
 
-   <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-            <span class="sr-only">Toggle navigation</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-        <a class="navbar-brand" href="../index.html">BJC - Beauty and Joy of Computing</a>
-        </div>
+   <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
+            <div class="container">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
+                    <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
+                    <a class="navbar-brand" href="/index.html">
+                        <img alt="BJC Logo" src="/website/images/bjc_logo.png">
+                        Beauty and Joy of Computing</a>
+                </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-          <ul class="nav navbar-nav navbar-right">
-            <li><a href="Mission.html">About</a></li>
-            <li><a href="curriculum.html">Curriculum</a></li>
-             <li><a href="privacy.html">Privacy</a></li>
-            <li><a href="contact.html">Contact</a></li>
-          </ul>
-        </div><!-- /.navbar-collapse -->
-      </div><!-- /.container -->
-    </nav>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse navbar-ex1-collapse">
+                    <ul class="nav navbar-nav navbar-right list-unstyled">
+                        <li><a href="/website/mission.html">About</a></li>
+                        <li><a href="/website/curriculum.html">Curriculum</a></li>
+                        <li><a href="/website/privacy.html">Privacy</a></li>
+                        <li><a href="/website/contact.html">Contact</a></li>
+                    </ul>
+                </div><!-- /.navbar-collapse -->
+            </div><!-- /.container -->
+            <div class="trapezoid"></div>
+        </nav>
 
     <!-- Page Content -->
-
+    <div class="jumbotron">
+        <div class="container">
+            <h3>Contact</h3>
+            <p> We'd love to hear from you!</p>
+        </div>
+        <div class="trapezoid"></div>
+    </div>
+<div class="section section-breadcrumb">
     <div class="container">
-      
-      <div class="row">
-      
-        <div class="col-lg-12">
-          <h1 class="page-header">Contact <small>We'd Love to Hear From You!</small></h1>
-          <ol class="breadcrumb">
-            <li><a href="../index.html">Home</a></li>
+    <ol class="breadcrumb list-unstyled">
+            <li><a href="/index.html">Home</a></li>
             <li class="active">Contact</li>
-          </ol>
-        </div>
-      
-      </div><!-- /.row -->
-      
-      <div class="row">
-
-<!-- 
-
-        <div class="col-sm-8">
-          
-			
-            
-            <form id="contact-form" action="serv/email-bjc.php" method="post">
-              <div class="form-group col-lg-4">
-                <label for="input1">Name</label>
-                <input type="text" name="contact_name" class="form-control" id="input1">
-              </div>
-              <div class="form-group col-lg-4">
-                <label for="input2">Email Address</label>
-                <input type="email" name="contact_email" class="form-control" id="input2">
-              </div>
-              <div class="form-group col-lg-4">
-                <label for="input3">Phone Number</label>
-                <input type="phone" name="contact_phone" class="form-control" id="input3">
-              </div>
-              <div class="clearfix"></div>
-              <div class="form-group col-lg-12">
-                <label for="input4">Message</label>
-                <textarea name="contact_message" class="form-control" rows="6" id="input4"></textarea>
-              </div>
-              <div class="form-group col-lg-12">
-                <input type="hidden" name="save" value="contact">
-                <button id="submit-button" type="submit" class="btn btn-primary">Submit</button>
-              </div>
-            </form>
-        </div>
-
- -->
-
-        <div class="col-sm-4">
-          <h3>Beauty and Joy of Computing</h3>
+    </ol>
+    </div>
+    <div class="trapezoid"></div>
+</div>
+<div class="section">
+    <div class="section-container">
+        <div class="row">
+            <div class="col-xs-12">
+            <h3>Beauty and Joy of Computing</h3>
           <h4>An AP CS Principles Course</h4>
           <p>
             Computer Science Division<br>
             777 Soda Hall<br>
             Berkeley, CA 94720-1776<br>
           </p>
-<!--
-          <p><i class="icon-phone"></i> <abbr title="Phone">P</abbr>: (555) 984-3600</p>
- -->
-          <p><i class="icon-envelope-alt"></i> <abbr title="Email">E</abbr>: <a href="mailto:bjc@bspace.berkeley.edu">bjc@bspace.berkeley.edu</a></p>
+          <p><i class="icon-envelope-alt"></i> <abbr title="Email">E-mail</abbr>: <a href="mailto:contact@bjc.berkeley.edu">contact@bjc.berkeley.edu</a></p>
           <ul class="list-unstyled list-inline list-social-icons">
-            <li class="tooltip-social twitter-link"><a href="https://twitter.com/bjcberkeley" data-toggle="tooltip" data-placement="top" title="Twitter"><i class="icon-twitter-sign icon-2x"></i></a></li>
+            <li class="tooltip-social twitter-link"><a href="https://twitter.com/CSPBJC" data-toggle="tooltip" data-placement="top" title="Twitter" target="_blank"><i class="icon-twitter-sign icon-2x"></i></a></li>
+            <li class="tooltip-social facebook-link"><a href="https://www.facebook.com/cspbjc/" data-toggle="tooltip" data-placement="top" title="Facebook" target="_blank"><i class="icon-facebook-sign icon-2x"></i></a></li>
           </ul>
+            </div>
         </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
 
-
-
-
-      </div><!-- /.row -->
-
-    </div><!-- /.container -->
-
-    <div class="container">
-
-      <hr>
-
-      <footer>
-        <div class="row">
-          <div class="col-lg-12">
-              <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beauty and Joy of Computing</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">University of California, Berkeley</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-          </div>
-        </div>
-      </footer>
-
-    </div><!-- /.container -->
+        <!-- FOOTER -->
+        <footer>
+            <div class="container">
+            <div class="row">
+                <div class="col-sm-2">
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+                    
+                </div>
+                <div class="col-sm-10">
+                    <div>
+                        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beauty and Joy of Computing</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">University of California, Berkeley</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+                    </div>
+                </div>
+            </div>
+            </div>
+        </footer>
     <!-- Bootstrap core JavaScript -->
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="js/jquery.js"></script>
