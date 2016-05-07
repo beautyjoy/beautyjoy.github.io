@@ -17,10 +17,19 @@
         <link href="css/modern-business.css" rel="stylesheet">
         <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
         <link rel="shortcut icon" href="http://bjc.berkeley.edu/bjcfav.png" type="image/png">
+        
+        <!-- Custom CSS -->
+        <link href="/website/css/styles.css" rel="stylesheet">
+        
+        <!-- Google Fonts -->
+        <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Lato:400,300,700,900' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Raleway:800' rel='stylesheet' type='text/css'>
+        <link href='https://fonts.googleapis.com/css?family=Roboto+Condensed' rel='stylesheet' type='text/css'>
     </head>
 
     <body>
-        <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+    <nav class="navbar navbar-fixed-top navbar-inverse" role="navigation">
             <div class="container">
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
@@ -30,58 +39,51 @@
                         <span class="icon-bar"></span>
                     </button>
                     <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-                    <a class="navbar-brand" href="../index.html">BJC - Beauty and Joy of Computing</a>
+                    <a class="navbar-brand" href="/index.html">
+                        <img alt="BJC Logo" src="/website/images/bjc_logo.png">
+                        Beauty and Joy of Computing</a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse navbar-ex1-collapse">
-                    <ul class="nav navbar-nav navbar-right">
-                        <li>
-                            <a href="Mission.html">About</a>
-                        </li>
-                        <li>
-                            <a href="curriculum.html">Curriculum</a>
-                        </li>
-                        <li>
-                            <a href="privacy.html">Privacy</a>
-                        </li>
-                        <li>
-                            <a href="contact.html">Contact</a>
-                        </li>
+                    <ul class="nav navbar-nav navbar-right list-unstyled">
+                        <li><a href="/website/mission.html">About</a></li>
+                        <li><a href="/website/curriculum.html">Curriculum</a></li>
+                        <li><a href="/website/privacy.html">Privacy</a></li>
+                        <li><a href="/website/contact.html">Contact</a></li>
                     </ul>
                 </div><!-- /.navbar-collapse -->
             </div><!-- /.container -->
+            <div class="trapezoid"></div>
         </nav>
 
         <!-- Page Content -->
+    <div class="jumbotron">
+            <div class="container">
+                <h3>Curriculum</h3>
+                <p>What we offer</p>
+            </div>
+            <div class="trapezoid"></div>
+    </div>
 
-        <div class="container">
-
-            <div class="row">
-
-                <div class="col-lg-12">
-                    <h1 class="page-header">Curriculum <small>What We offer</small></h1>
-                    <ol class="breadcrumb">
-                        <li>
-                            <a href="../index.html">Home</a>
-                        </li>
-                        <li class="active">
-                            Curriculum
-                        </li>
-                    </ol>
-                </div>
-
-            </div><!-- /.row -->
-
+<div class="section section-breadcrumb">
+    <div class="container">
+    <ol class="breadcrumb list-unstyled">
+            <li><a href="/index.html">Home</a></li>
+            <li class="active"> Curriculum</li>
+    </ol>
+    </div>
+    <div class="trapezoid"></div>
+</div>
             <!-- Service Paragraphs -->
-
-            <div class="row">
-
-                <div class="col-md-8">
-                    <h2 class="page-header">Beauty and Joy of Computing course at UC Berkeley </h2>
-
-                    <!-- topic_link's in this div will get novideo=true appended to their hrefs, woot  -->
-                    <div class="topic_container">
+<div class="section">
+    <div class="section-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="page-header">Beauty and Joy of Computing course at UC Berkeley </h2>
+            </div>
+            <div class="col-xs-12">
+<div class="topic_container">
 
                         <div class="topic_link">
 
@@ -157,155 +159,155 @@
                             href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/additional-videos-reading.topic">Additional Videos and Readings</a>
                         </div>
                     </div>
+            </div>
+        </div>
+        <br>
+        <h4>(For our most recent work, go to <a href="http://bjc.berkeley.edu/bjc-r/">http://bjc.berkeley.edu/bjc-r/</a>)</h4>
+    </div> <!-- end container -->
+    
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
 
-                    <div style="margin-top:20px">
-                        <!-- spacer -->
-                    </div>
-
-                    <h4>(For our most recent work, go to <a href="http://bjc.berkeley.edu/bjc-r/">http://bjc.berkeley.edu/bjc-r/</a>)</h4>
-
-                </div>
-
-            </div><!-- /.row -->
-
-            <div class="row">
-                <div class="col-md-8">
-                    <h2 class="page-header">Lecture slides on Social Implications of Computing</h2>
-
-                    <div class="topic_container">
-
+<div class="section">
+    <div class="section-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="page-header">Lecture slides on Social Implications of Computing</h2>
+            </div>
+            <div class="col-xs-12">
+                <div class="topic_container">
                         <ol>
                             <li>
-                                <a href="../cs10social/01privacy.pptx">Privacy</a>
+                                <a href="../cs10social/01privacy.pptx">Privacy</a></li>
                             <li>
-                                <a href="../cs10social/02ip.pptx">Owning Ideas</a>
+                                <a href="../cs10social/02ip.pptx">Owning Ideas</a></li>
                             <li>
                                 <a href="../cs10social/03ethics.pptx">Ethics</a>
                             <li>
-                                <a href="../cs10social/04war.pptx">Computers and War</a>
+                                <a href="../cs10social/04war.pptx">Computers and War</a></li>
                             <li>
-                                <a href="../cs10social/05self.pptx">Computers and Self</a>
+                                <a href="../cs10social/05self.pptx">Computers and Self</a></li>
                             <li>
-                                <a href="../cs10social/06community.pptx">Computers and Community</a>
+                                <a href="../cs10social/06community.pptx">Computers and Community</a></li>
                             <li>
-                                <a href="../cs10social/07education.pptx">Computers and Education</a>
+                                <a href="../cs10social/07education.pptx">Computers and Education</a></li>
                             <li>
-                                <a href="../cs10social/08risks.pptx">Risks of Computing</a>
+                                <a href="../cs10social/08risks.pptx">Risks of Computing</a></li>
                             <li>
-                                <a href="../cs10social/09work.pptx">Computers and Work</a>
+                                <a href="../cs10social/09work.pptx">Computers and Work</a></li>
                             <li>
-                                <a href="../cs10social/10censorship.pptx">Censorship and Pornography</a>
+                                <a href="../cs10social/10censorship.pptx">Censorship and Pornography</a></li>
                             <li>
-                                <a href="../cs10social/11prof-ethics.pptx">Professional Standards of Ethics</a>
+                                <a href="../cs10social/11prof-ethics.pptx">Professional Standards of Ethics</a></li>
                         </ol>
                     </div>
-                </div>
             </div>
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
 
-            <!-- row -->
-
-            <!-- Project Images -->
-
-            <div class="row">
-                <div class="col-md-8">
-                    <h2 class="page-header">Hour of Code</h2>
-                    <h4>BJC's <a href="http://code.org/">Hour of Code</a> tutorial is <a href="http://snap.berkeley.edu/hoc">here</a>.</h4>
-                </div>
+<div class="section">
+    <div class="section-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="page-header">Hour of Code</h2>
+                    <p>BJC's <a href="http://code.org/">Hour of Code</a> tutorial is <a href="http://snap.berkeley.edu/hoc">here</a>.</p>
             </div>
-	    <div class="row">
-		<div class="col-md-8">
-			<h2 class="page-header">Snap Manuals</h2>
-               <h4><a href="http://snap.berkeley.edu/SnapManual.pdf">Snap<i>!</i> Manual &mdash; part reference, part advanced tutorial (pdf)</a></h4>
-		</div>
-	   </div>
-            <div class="row">
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
 
-                <div class="col-lg-12">
-                    <h2 class="page-header">Snap Projects</h2>
-                </div>
-
-                <div class="col-lg-3 col-md-3 hero-feature">
+<div class="section">
+    <div class="section-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="page-header">Snap Manuals</h2>
+                <p><a href="http://snap.berkeley.edu/SnapManual.pdf">S<small><small>NAP</small></small><i>!</i> Manual &mdash; part reference, part advanced tutorial (pdf)</a></p>
+            </div>
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+        
+<div class="section">
+    <div class="section-container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h2 class="page-header">Snap Projects</h2>
+            </div>
+            <div class="project-container">
+                <div class="col-lg-3 col-sm-6 col-xs-12   hero-feature">
                     <div class="thumbnail">
                         <img class="img-responsive" src="images/snap_tree.png">
                         <div class="caption">
-                            <h3>Fractal Fruit Tree</h3>
-                            <p>
+                            <h3 class="project-title">Fractal Fruit Tree</h3>
+                            <p class="project-description">
                                 Fractal Fruit Tree by Josh Paley, created using recursion.
                             </p>
-                            <p>
                                 <a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/fractal_fruit_tree.xml" class="btn btn-primary">Launch!</a>
-                            </p>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-3 hero-feature">
+                <div class="col-lg-3 col-sm-6 col-xs-12   hero-feature">
                     <div class="thumbnail">
                         <img class="img-responsive" src="images/snap_starwars.png">
                         <div class="caption">
-                            <h3>Star Wars Game</h3>
-                            <p>
+                            <h3 class="project-title">Star Wars Game</h3>
+                            <p class="project-description">
                                 Project converted from Scratch.
                             </p>
-                            <p>
                                 <a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/star%20wars.xml" class="btn btn-primary">Launch!</a>
-                            </p>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-3 hero-feature">
+                <div class="col-lg-3 col-sm-6 col-xs-12   hero-feature">
                     <div class="thumbnail">
                         <img class="img-responsive" src="images/snap_fractal.png">
                         <div class="caption">
-                            <h3>Fractal - Double Jurrasic Park</h3>
-                            <p>
+                            <h3 class="project-title">Fractal - Double Jurassic Park</h3>
+                            <p class="project-description">
                                 Converted from BYOB.
                             </p>
-                            <p>
                                 <a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/Double%20Jurassic%20Park.xml" class="btn btn-primary">Launch!</a>
-                            </p>
                         </div>
                     </div>
                 </div>
-
-                <div class="col-lg-3 col-md-3 hero-feature">
+                <div class="col-lg-3 col-sm-6 col-xs-12   hero-feature">
                     <div class="thumbnail">
                         <img class="img-responsive" src="images/snap_funnyface.png">
                         <div class="caption">
-                            <h3>Funny Face</h3>
-                            <p>
+                            <h3 class="project-title">Funny Face</h3>
+                            <p class="project-description">
                                 Converted from Scratch.
                             </p>
-                            <p>
                                 <a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/funny%20face.xml" class="btn btn-primary">Launch!</a>
-                            </p>
                         </div>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
 
-            </div><!-- /.row -->
-
-        </div><!-- /.container -->
-
-        <div class="container">
-
-            <hr>
-
-            <footer>
-                <div class="row">
-                    <div class="col-lg-12">
-                        <div style="text-align:right;margin-right:30px">
-                            <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"> <img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-                        </div>
-                        <div style="text-align:right;margin-right:30px">
-                            <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beauty and Joy of Computing</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">University of California, Berkeley</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
-                        </div>
+        <!-- FOOTER -->
+        <footer>
+            <div class="container">
+            <div class="row">
+                <div class="col-sm-2">
+                    <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" src="http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+                    
+                </div>
+                <div class="col-sm-10">
+                    <div>
+                        <span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Beauty and Joy of Computing</span> by <span xmlns:cc="http://creativecommons.org/ns#" property="cc:attributionName">University of California, Berkeley</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
                     </div>
                 </div>
-            </footer>
-
-        </div><!-- /.container -->
+            </div>
+            </div>
+        </footer>
 
         <!-- Bootstrap core JavaScript -->
         <!-- Placed at the end of the document so the pages load faster -->

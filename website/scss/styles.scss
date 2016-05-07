@@ -1,0 +1,226 @@
+$dark-color: #2c3e50;
+$primary-color: #516db1;
+$primary-color-snap: #d6a62c;
+$breadcrumb-color: #D1DBDE;
+$secondary-color: #2980b9;
+$link-hover-color: #41ABF2;
+$background-light: #f5f9fA;
+$background-dark: #ecf0f1;
+$header-font-stack:    "Raleway", sans-serif;
+$body-font-stack:    "Roboto Condensed", sans-serif;
+
+@import 'mixins';
+body{ padding: 0; margin-top: 50px; }
+h1, h2, h3, h4, h5, h6, th{
+    font-family: $header-font-stack;
+    font-weight: 900;
+}
+a, p, li, td{
+    font-weight: lighter;
+    font-family: $body-font-stack;
+    line-height: 1.5em;
+}
+.section p{ text-indent: 1em; }
+th, td{ padding: .25em 1em; }
+th{ background-color: $secondary-color; }
+li{ list-style: none; }
+li:before {
+    /*Using a Bootstrap glyphicon as the bullet point*/
+    content: "\e080";
+    font-family: 'Glyphicons Halflings';
+    font-size: 9px;
+    float: left;
+    margin-right: 1.5em;
+    color: $secondary-color;
+}
+.list-unstyled li:before{ content: none; }
+.page-header{ 
+    display: inline-block;
+    border-bottom-width: 5px;
+    border-bottom-color: $primary-color;
+}
+a{ color: $secondary-color; }
+a:hover{ color: $link-hover-color; }
+.btn-extra-large{ font-size: 1.2em; }
+.btn.btn-primary{
+    box-shadow: none;
+    border: none;
+    background-color: $secondary-color;
+    &:hover{
+        @include transition(background-color 0.2s ease);
+        background-color: $link-hover-color;
+    }
+}
+.navbar-inverse{
+    margin: 0;
+    padding: 0;
+    background-color: $dark-color;
+    border: none;
+    .navbar-brand{
+        color: white;
+        font-family: $header-font-stack;
+        img{
+            max-height: 1.5em;
+            margin-right: .5em;
+        }
+    }
+    .navbar-collapse ul li a{
+        color: white;
+        &:hover{ color: $link-hover-color; }
+    }
+    .trapezoid{ border-top: 12px solid $dark-color; }
+}
+
+
+.jumbotron{
+    margin: 0;
+    padding: 0;
+    background-color: $dark-color;
+    background-image: url("/website/images/bjc_pattern_alt.png");
+    background-size: 400px;
+    background-attachment: fixed;
+    border: none;
+    box-shadow: none;
+    .container{
+        padding: 2em;
+        color: white;
+        margin-left: 1em;
+        text-align: left;
+        padding: none;
+        h3{ 
+            font-size: 3.5em;
+            text-transform: uppercase; 
+            text-shadow: 0 1px 3px rgba(0,0,0,.4), 0 0 30px rgba(0,0,0,.075);
+        }
+    }
+}
+#use-devices-with-snap{
+    background-color: white;
+    background-image: url("/website/images/finch-robot.jpg");
+    background-repeat: no-repeat;
+    background-position: 100% 115%;
+    .trapezoid{ border-top: 12px solid white; }
+    
+}
+#snap-intro{
+    color: white;
+    background-image: url("/website/images/snap-screen.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    .trapezoid{ border-top-color: #333; }
+}
+#snap{
+    .jumbotron{ 
+        background-image: url("/website/images/snap_pattern.png"); 
+        .container{
+            padding-top: 5em;
+            padding-bottom: 5em;
+        }
+        .trapezoid{ border-top-color: $primary-color-snap; }
+        h3, p{ text-align: center; }
+        .btn{ margin-top: 1.5em; }
+    }
+    .page-header{ border-bottom-color: $primary-color-snap; }
+    footer{ background-color: $primary-color-snap; color: white; }
+}
+.trapezoid {
+    position: relative;
+    top: 12px;
+    margin-left: 40px;
+	border-top: 12px solid $primary-color;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	height: 0;
+	width: 64px;
+    z-index: 100;
+}
+.section{
+    padding: 0;
+    color: $dark-color;
+    &:nth-child(even){
+        background-color: $background-light;
+        .trapezoid{ border-top: 12px solid $background-light; }
+    }
+    &:nth-child(odd){
+        background-color: $background-dark;
+        .trapezoid{ border-top: 12px solid $background-dark; }
+    }
+}
+.section.section-inverted{
+    background-color: $primary-color;
+}
+.section-container{
+    max-width: 900px;
+    padding: 4em 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section-breadcrumb{ 
+    padding: 0;
+    background-color: $breadcrumb-color;
+    .breadcrumb{
+        margin: 0;
+        margin-top: 1.5em;
+        border-radius: 0;
+        background-color: transparent;
+    }
+    .trapezoid{ border-top: 12px solid $breadcrumb-color; }
+}
+.vcenter{
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+}
+.thumbnail{
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    .img-container{
+        padding: 1.5em;
+    }
+
+}
+.caption{
+    background-color: $dark-color;
+    
+    .project-title{
+        color: $primary-color;
+    }
+    .project-description{
+        color: $background-light;
+    }
+}
+#bjc-logo{
+    display: block;
+    max-width: 80%;
+    max-height: auto;
+    margin-bottom: 2em;
+    margin-right: auto;
+    margin-left: auto;
+}
+#using_snap{
+    text-align: center;
+    padding: 0;
+    overflow: hidden;
+    img{ max-width: 100%; }
+}
+footer{
+    margin: 0;
+    background-color: $primary-color;
+    .container{
+        padding: 1em;
+    }
+}
+@media only screen and (max-width : 800px){
+    .page-header{ text-indent: 0em; }
+#use-devices-with-snap{ 
+        background-image: url("/website/images/finch-robot-blurred.jpg");
+        @include transition(background-image .4s ease-in-out);
+    }   
+}
+@media only screen and (max-width : 500px){
+    .jumbotron .container h3{ font-size: 1.5em; }
+    .navbar-brand span{ display: none; }
+    #use-devices-with-snap{ background-position: 0% 115%; }
+}
