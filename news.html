@@ -1,0 +1,16 @@
+---
+layout: page
+title: News
+---
+{% for post in site.posts %}
+{% capture section_content %}
+<a href="{{ post.url | prepend: site.baseurl }}">
+  <h3>{{ post.title | escape }}</h3>
+</a>
+<p>
+  {{ post.excerpt }}
+</p>
+{% endcapture %}
+
+{% include section.html %}
+{% endfor %}

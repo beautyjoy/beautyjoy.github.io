@@ -1,0 +1,12 @@
+---
+layout: default
+---
+{% capture section_content %}
+<h2 class="page-header">{{ page.title }}</h2>
+{% if page.subtitle %}
+<h4>{{ page.subtitle }}</h4>
+{% endif %}
+{{ content }}
+{% endcapture %}
+
+{% include section.html %}

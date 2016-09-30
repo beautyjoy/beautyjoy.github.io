@@ -1,0 +1,124 @@
+---
+layout: page
+title: About
+---
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3>Beauty and Joy of Computing</h3>
+
+                <p>Computing has changed the world in profound ways. It
+                    has opened up wonderful new ways for people to connect, design, research,
+                    play, create, and express themselves. However, just using a computer is only a
+                    small part of the picture. The real transformative and empowering experience
+                    comes when one learns how to program the computer, to translate ideas into
+                    code. This course teaches students how to do exactly that, using <a
+                            href="http://snap.berkeley.edu">{% include snap_stylized.html %}</a> (based on <a
+                            href="http://www.scratch.mit.edu">Scratch</a>), one of the friendliest
+                    programming languages ever invented. It&#39;s purely graphical, which means
+                    programming involves simply dragging blocks around, and building bigger blocks
+                    out of smaller blocks. </p>
+
+                <p>But this course is far more than just learning to program.
+                    We focus on some of the "Big Ideas" of computing, such as abstraction,
+                    design, recursion, concurrency, simulations, and the limits of computation.
+                    We show some beautiful applications of computing that have changed the
+                    world, talk about the history of computing, and where it will go in the
+                    future. Throughout the course, relevance is emphasized: relevance to the
+                    student and to society. As an example, the final project is completely of
+                    the students&#39; choosing, on a topic most interesting to them. The
+                    overarching theme is to expose students to the beauty and joy of computing.
+                    We are especially excited
+                    about bringing computing (through this course) to traditionally
+                    under-represented groups in computing, i.e., women and ethnic minorities.
+                </p>
+            </div>
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section grid-gallery">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-uppercase">Leadership Team</h3>
+            </div>
+            {% for profile in site.data.leadership_team %}
+            <div class="col-md-4 col-sm-6 grid-item">
+                <div class="circle-frame">
+                    <img src="/img/people/{{ profile.image }}" alt="{{ profile.name }}">
+                </div>
+                <div class="caption">
+                    <h4>{{ profile.name }}</h4>
+                    <p>{{ profile.description | markdownify }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section grid-gallery master-teachers">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-uppercase">Master Teachers</h3>
+            </div>
+            {% for profile in site.data.master_teachers %}
+            <div class="col-sm-3 col-xs-6 grid-item">
+                <div class="circle-frame">
+                    <img src="/img/people/{{ profile.image }}" alt="{{ profile.name }}">
+                </div>
+                <div class="caption">
+                    <h4>{{ profile.name }}</h4>
+                    {% if profile.location %}
+                    <h6>{{ profile.location }}</h6>
+                    {% endif %}
+                    {% if profile.description %}
+                    <p>{{ profile.description}}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-3 hidden-xs vcenter">
+                <img src="/img/jabberwocky.jpg" class="img-responsive">
+            </div>
+            <div class="col-sm-9 col-xs-12 vcenter">
+                <p>Our "FRABJOUS CS" (Framing a
+                    Rigorous Approach to Beauty and Joy for Outreach to Underrepresented Students in Computing at Scale) NSF-funded project:
+                    <a href="CE21-BYOBSummary.pdf">one-page summary</a> and
+                    <a href="CE21-BYOBDescription.pdf">full proposal</a>.
+                </p>
+                <p><small><em>
+                    "And, has thou slain the Jabberwock?<br />
+                    Come to my arms, my beamish boy!<br />
+                    O frabjous day! Callooh! Callay!"<br />
+                    He chortled in his joy.
+                </em></small></p>
+            </div>
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section">
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 nsf-disclaimer">
+                <p>This material is based upon work supported by the National Science Foundation under Grant No. 1138596. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.</p>
+            </div>
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
