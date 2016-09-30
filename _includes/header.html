@@ -15,13 +15,13 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
     <!-- Custom CSS for the 'Full Width Pics' Template -->
-    <link href="/css/full-width-pics.css" rel="stylesheet">
-    <link href="/css/modern-business.css" rel="stylesheet">
-    <link href="/font-awesome/css/font-awesome.min.css" rel="stylesheet">
-    <link rel="shortcut icon" href="/img/bjcfav.png" type="image/png">
+    <link href="{{ site.baseurl }}/css/full-width-pics.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/modern-business.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/img/bjcfav.png" type="image/png">
 
     <!-- Custom CSS -->
-    <link href="/css/styles.css" rel="stylesheet">
+    <link href="{{ site.baseurl }}/css/styles.css" rel="stylesheet">
 
     <!-- Google Fonts -->
     <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
@@ -42,8 +42,8 @@
                     <span class="icon-bar"></span>
                 </button>
                 <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-                <a class="navbar-brand" href="/">
-                    <img alt="BJC Logo" src="/img/bjc_logo.png">
+                <a class="navbar-brand" href="{{ site.baseurl }}/">
+                    <img alt="BJC Logo" src="{{ site.baseurl }}/img/bjc_logo.png">
                 </a>
             </div>
 
@@ -51,19 +51,19 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav navbar-right list-unstyled">
                     <li>
-                        <a href="/about"><span class="hover-accent">About</span></a>
+                        <a href="{{ site.baseurl }}/about"><span class="hover-accent">About</span></a>
                     </li>
                     <li>
-                        <a href="/resources"><span class="hover-accent">Resources</span></a>
+                        <a href="{{ site.baseurl }}/resources"><span class="hover-accent">Resources</span></a>
                     </li>
                     <li>
-                        <a href="/curriculum"><span class="hover-accent">Curriculum</span></a>
+                        <a href="{{ site.baseurl }}/curriculum"><span class="hover-accent">Curriculum</span></a>
                     </li>
                     <li>
-                        <a href="/professional-development"><span class="hover-accent">Professional Development</span></a>
+                        <a href="{{ site.baseurl }}/professional-development"><span class="hover-accent">Professional Development</span></a>
                     </li>
                     <li>
-                        <a href="/news"><span class="hover-accent">News</span></a>
+                        <a href="{{ site.baseurl }}/news"><span class="hover-accent">News</span></a>
                     </li>
                 </ul>
             </div><!-- /.navbar-collapse -->

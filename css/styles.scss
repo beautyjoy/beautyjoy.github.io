@@ -183,13 +183,13 @@ a {
 
     &.homepage {
         padding: 150px 0;
-        background: url("/img/students-at-computers-1.jpg");
+        background: url("{{ site.baseurl }}/img/students-at-computers-1.jpg");
         background-size: cover;
     }
 
     &.headlines {
         padding: 150px 0;
-        background: url("/img/new-york.jpg");
+        background: url("{{ site.baseurl }}/img/new-york.jpg");
         background-size: cover;
     }
 
@@ -457,7 +457,7 @@ footer {
 
 @media only screen and (max-width : 800px){
     #use-devices-with-snap {
-        background-image: url("/img/finch-robot-blurred.jpg");
+        background-image: url("{{ site.baseurl }}/img/finch-robot-blurred.jpg");
         @include transition(background-image .4s ease-in-out);
     }   
 }
@@ -470,7 +470,7 @@ footer {
 
 #use-devices-with-snap{
     background-color: white;
-    background-image: url("/img/finch-robot.jpg");
+    background-image: url("{{ site.baseurl }}/img/finch-robot.jpg");
     background-repeat: no-repeat;
     background-position: 100% 115%;
     .trapezoid{ border-top: 12px solid white; }
@@ -478,7 +478,7 @@ footer {
 }
 #snap-intro{
     color: white;
-    background-image: url("/img/snap-screen.jpg");
+    background-image: url("{{ site.baseurl }}/img/snap-screen.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
@@ -486,7 +486,7 @@ footer {
 }
 #snap{
     .jumbotron{
-        background-image: url("/img/snap_pattern.png");
+        background-image: url("{{ site.baseurl }}{{ site.baseurl }}/img/snap_pattern.png");
         .container{
             padding-top: 5em;
             padding-bottom: 5em;
