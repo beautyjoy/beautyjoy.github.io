@@ -301,7 +301,7 @@ a {
         .caption {
             margin-top: -75px;
             padding: 75px 15px 15px;
-            @include prefix(border-radius, 12px);
+            @include prefix(border-radius, 6px);
 
             h4, .h4 {
               text-align: center;
