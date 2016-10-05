@@ -135,11 +135,10 @@ a {
 
     .navbar-brand {
         color: $inverted-text-color;
+        padding: 8px 15px;
 
         > img {
-            max-height: 1.5em;
-            margin-right: .5em;
-            // display: inline;
+            max-height: 36px;
         }
     }
 
@@ -464,7 +463,6 @@ footer {
 
 @media only screen and (max-width : 500px) {
     .jumbotron .container h3{ font-size: 1.5em; }
-    .navbar-brand span{ display: none; }
     #use-devices-with-snap{ background-position: 0% 115%; }
 }
 
