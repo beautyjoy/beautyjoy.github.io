@@ -14,14 +14,15 @@ $inverted-text-color: #ffffff;
 $background-light: #f5f9fA;
 $background-dark: #ecf0f1;
 $background-darker: #D7DBDC;
-$header-font-stack: "Raleway", sans-serif;
-$body-font-stack:   "Roboto Condensed", sans-serif;
+$header-font-stack: "Montserrat", sans-serif;
+$body-font-stack:   "Open Sans", sans-serif;
 
 @import 'mixins';
 
 body {
     padding: 0;
     margin-top: 50px;
+    font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -34,6 +35,10 @@ a, p, li, td {
     font-weight: lighter;
     font-family: $body-font-stack;
     line-height: 1.5em;
+
+    .homepage & {
+        line-height: 1.8;
+    }
 }
 
 // th, td{ padding: .25em 1em; }
@@ -87,7 +92,7 @@ a {
     border-style: solid;
     border-color: $background-dark;
 
-    &.homepage {
+    .homepage & {
         width: 200px;
         height: 200px;
         margin: 0 auto;
@@ -135,7 +140,7 @@ a {
 
     .navbar-brand {
         color: $inverted-text-color;
-        padding: 8px 15px;
+        padding: 10px 15px;
 
         > img {
             max-height: 36px;
@@ -148,10 +153,11 @@ a {
         li a {
             color: $inverted-text-color;
             font-weight: bold;
+            line-height: 1.8;
 
             &:hover .hover-accent {
                 padding-bottom: 2px;
-                border-bottom: 2px solid $accent-color;
+                border-bottom: 3px solid $accent-color;
             }
         }
     }
@@ -210,13 +216,13 @@ a {
         text-align: center;
     }
 
-    h3 {
-        font-size: 350%;
+    h1 {
+        font-size: 48px;
         text-transform: uppercase;
     }
 
-    h4 {
-        font-size: 200%;
+    h3 {
+        font-size: 32px;
     }
 
     a {
@@ -227,7 +233,7 @@ a {
         @include transition(border-color 0.2s ease, color 0.2s ease);
         padding: 15px 30px;
         margin: 20px;
-        font-size: 150%;
+        font-size: 20px;
         border: 2px white solid;
         background: rgba(255, 255, 255, 0.15);
 
@@ -382,14 +388,15 @@ span.vcenter {
 
 .resources-list {
     list-style: none;
-    padding-left: 25px;
+    padding-left: 24px;
 
     .resource-title {
         margin-bottom: 10px;
 
         .fa-caret-down {
-            margin-right: 10px;
+            margin-right: 7px;
             margin-left: -21px;
+            font-size: 18px;
         }
 
         .resource-name {
