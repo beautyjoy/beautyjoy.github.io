@@ -174,6 +174,7 @@ a {
 }
 
 .jumbotron {
+    position: relative;
     margin: 0;
     padding: 40px 0;
     background: $primary-color;
@@ -182,7 +183,7 @@ a {
 
     &.homepage {
         padding: 150px 0;
-        background: url("{{ site.baseurl }}/img/students-at-computers-1.jpg");
+        background: url("{{ site.baseurl }}/img/bjc-team.jpg");
         background-size: cover;
     }
 
@@ -192,7 +193,19 @@ a {
         background-size: cover;
     }
 
+    .background-overlay {
+        position: absolute;
+        z-index: 0;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(0, 0, 0, 0.4);
+    }
+
     .container {
+        position: relative;
+        z-index: 999;
         color: $inverted-text-color;
         text-align: center;
     }
