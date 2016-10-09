@@ -386,6 +386,12 @@ span.vcenter {
     height: 100%;
 }
 
+.side-by-side {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
 .resources-list {
     list-style: none;
     padding-left: 24px;
