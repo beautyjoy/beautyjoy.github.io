@@ -148,8 +148,6 @@ a {
     }
 
     .navbar-nav {
-        margin-top: 3px;
-
         li a {
             color: $inverted-text-color;
             font-weight: bold;
@@ -158,6 +156,18 @@ a {
             &:hover .hover-accent {
                 padding-bottom: 2px;
                 border-bottom: 3px solid $accent-color;
+            }
+        }
+
+        .dropdown-menu {
+            background-color: $dark-color;
+
+            span {
+                color: $inverted-text-color;
+            }
+
+            a:hover {
+                background-color: inherit;
             }
         }
     }
@@ -390,6 +400,14 @@ span.vcenter {
     display: inline-block;
     vertical-align: top;
     margin-right: 15px;
+}
+
+// Offset anchors to account for height of fixed navbar
+a.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
 }
 
 .resources-list {
