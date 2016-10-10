@@ -492,22 +492,11 @@ footer {
                 margin-right: 10px;
             }
         }
+    }
 
-        .cc-license-container {
-            max-width: 600px;
-            margin: 0 auto;
-
-            .cc-license {
-                float: left;
-                margin-right: 10px;
-                margin-top: 2px;
-            }
-
-            .license-text {
-                font-size: 0.8em;
-                overflow: hidden;
-            }
-        }
+    .footer-links {
+        text-align: center;
+        font-size: 14px;
     }
 }
 
