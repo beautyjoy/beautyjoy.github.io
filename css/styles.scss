@@ -439,6 +439,19 @@ a.anchor {
     }
 }
 
+.articles-list {
+    padding-top: 5px;
+
+    li {
+        margin-top: 20px;
+    }
+
+    h6, .h6 {
+        text-transform: uppercase;
+        margin-bottom: 0;
+    }
+}
+
 #bjc-logo{
     display: block;
     max-width: 80%;
