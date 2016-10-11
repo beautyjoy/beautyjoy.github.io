@@ -305,6 +305,10 @@ a {
                 border-color: $background-dark;
             }
         }
+
+        blockquote {
+            border-left-color: $background-darker;
+        }
     }
 
     .container, .container-fluid {
@@ -443,12 +447,21 @@ a.anchor {
     padding-top: 5px;
 
     li {
-        margin-top: 20px;
+        margin-bottom: 24px;
     }
 
-    h6, .h6 {
+    .article-title {
+        font-weight: bold;
+    }
+
+    .subheading {
         text-transform: uppercase;
-        margin-bottom: 0;
+        margin-bottom: 3px;
+    }
+
+    blockquote {
+        margin-top: 10px;
+        padding: 0 20px;
     }
 }
 

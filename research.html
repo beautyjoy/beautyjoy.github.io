@@ -1,0 +1,44 @@
+---
+layout: page
+title: Research
+---
+{% capture section_content %}
+<div class="col-sm-3 hidden-xs vcenter">
+    <img src="{{ site.baseurl }}/img/jabberwocky.jpg" class="img-responsive">
+</div>
+<div class="col-sm-9 col-xs-12 vcenter">
+    <p>Our "FRABJOUS CS" (Framing a
+        Rigorous Approach to Beauty and Joy for Outreach to Underrepresented Students in Computing at Scale) NSF-funded project:
+        <a href="{{ site.baseurl }}/documents/CE21-BYOBSummary.pdf"><strong>one-page summary</strong></a> and
+        <a href="{{ site.baseurl }}/documents/CE21-BYOBDescription.pdf"><strong>full proposal</strong></a>.
+    </p>
+    <p><small><em>
+        "And, has thou slain the Jabberwock?<br />
+        Come to my arms, my beamish boy!<br />
+        O frabjous day! Callooh! Callay!"<br />
+        He chortled in his joy.
+    </em></small></p>
+</div>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<h3 class="text-center text-uppercase">Publications</h3>
+<ul class="list-unstyled articles-list">
+    {% for article in site.data.publications %}
+    <li>
+        <h6 class="subheading">
+            {{ article.authors }}. ({{ article.year }}).
+            {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
+            {{ article.journal }}.
+            {% if article.external_link %}</a>{% endif %}
+        </h6>
+        <a href="{{ site.baseurl }}/documents/{{ article.filename }}" target="_blank" class="article-title">{{ article.title }}</a>
+        {% if article.abstract %}
+        <blockquote>{{ article.abstract | markdownify }}</blockquote>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endcapture %}
+{% include section.html %}
