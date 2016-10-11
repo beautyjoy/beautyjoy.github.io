@@ -4,6 +4,7 @@ title: News
 ---
 {% for post in site.posts %}
 {% capture section_content %}
+<h6 class="article-subheading">{{ post.date | date_to_string }}</h6>
 <a href="{{ post.url | prepend: site.baseurl }}">
   <h3>{{ post.title | escape }}</h3>
 </a>
@@ -19,7 +20,7 @@ title: News
 <ul class="list-unstyled articles-list">
 {% for article in site.data.press_articles %}
   <li>
-    <h6 class="subheading">{{ article.source }}, {{ article.date | date_to_string }}</h6>
+    <h6 class="article-subheading">{{ article.source }}, {{ article.date | date_to_string }}</h6>
     <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
   </li>
 {% endfor %}

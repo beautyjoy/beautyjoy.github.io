@@ -27,7 +27,7 @@ title: Research
 <ul class="list-unstyled articles-list">
     {% for article in site.data.publications %}
     <li>
-        <h6 class="subheading">
+        <h6 class="article-subheading">
             {{ article.authors }}. ({{ article.year }}).
             {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
             {{ article.journal }}.

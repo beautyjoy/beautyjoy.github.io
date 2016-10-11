@@ -6,6 +6,7 @@ layout: default
 {% if page.subtitle %}
 <h4>{{ page.subtitle }}</h4>
 {% endif %}
+<h6 class="text-uppercase">{{ page.date | date_to_string }}</h6>
 {{ content }}
 {% endcapture %}
 

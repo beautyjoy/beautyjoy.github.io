@@ -62,13 +62,6 @@ ol, ul {
     padding-left: 20px;
 }
 
-/*
-.page-header {
-    // display: inline-block;
-    // border-bottom-width: 5px;
-    // border-bottom-color: $accent-color;
-} */
-
 a {
     &.unstyled-link {
         color: inherit;
@@ -309,6 +302,10 @@ a {
         blockquote {
             border-left-color: $background-darker;
         }
+
+        .page-header {
+            border-bottom-color: $background-darker;
+        }
     }
 
     .container, .container-fluid {
@@ -454,15 +451,15 @@ a.anchor {
         font-weight: bold;
     }
 
-    .subheading {
-        text-transform: uppercase;
-        margin-bottom: 3px;
-    }
-
     blockquote {
         margin-top: 10px;
         padding: 0 20px;
     }
+}
+
+.article-subheading {
+    text-transform: uppercase;
+    margin-bottom: 3px;
 }
 
 #bjc-logo{
