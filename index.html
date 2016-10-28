@@ -7,7 +7,7 @@ layout: default
   <div class="container">
     <h1>The Beauty and Joy of Computing</h1>
     <p>An AP CS Principles Course</p>
-    <a href="/curriculum" class="btn">Try Curriculum</a>
+    <a href="http://bjc.edc.org" class="btn">Try Curriculum</a>
   </div>
 </div>
 
@@ -15,9 +15,9 @@ layout: default
   <div class="container-fluid">
     <div class="row">
       <div class="col-xs-12 col-sm-10 col-sm-offset-1">
-        <p class="text-center">
-          <img src="{{ site.baseurl }}/img/bjc_logo.png" width="100px">
-        </p>
+        <div class="bjc-logo">
+          <img src="{{ site.baseurl }}/img/bjc_logo.png">
+        </div>
         <p class="lead text-center"><strong>The Beauty and Joy of Computing (BJC)</strong> is an introductory computer
           science curriculum developed at the University of California, Berkeley,
           intended for non-CS majors at the high school junior through undergraduate
@@ -32,9 +32,10 @@ layout: default
 </div> <!-- /. section -->
 
 <div class="jumbotron headlines">
+  <div class="background-overlay"></div>
   <div class="container">
-    <h3><a href="{% post_url 2015-01-01-bjc-for-new-york %}">We're bringing BJC to New York City!</a></h3>
-    <a href="{% post_url 2015-01-01-bjc-for-new-york %}" class="btn">Learn More</a>
+    <h3><a href="{{ site.baseurl }}{% post_url 2015-01-01-bjc-for-new-york %}">We're bringing BJC to New York City!</a></h3>
+    <a href="{{ site.baseurl }}{% post_url 2015-01-01-bjc-for-new-york %}" class="btn">Learn More</a>
   </div>
 </div>
 
@@ -45,7 +46,7 @@ layout: default
         <div class="circle-frame">
           <img src="{{ site.baseurl }}/img/suit-and-tie-icon.png">
         </div>
-        <h3>Professional Development</h3>
+        <h3 class="text-center">Professional Development</h3>
         <p>
           <strong>New York City public high school teachers</strong>:
           We offer a six-week spring and summer workshop in cooperation with the NYC DOE.
@@ -61,14 +62,14 @@ layout: default
           <span class="vcenter"></span>
           <img src="{{ site.baseurl }}/img/snap_logo.png" class="vcenter">
         </div>
-        <h3>Snap! Programming Language</h3>
+        <h3 class="text-center">Snap! Programming Language</h3>
         <p><a href="http://snap.berkeley.edu/">Snap<em>!</em></a> (formerly BYOB) is a visual, drag-and-drop programming language.  It is an extended reimplementation of <a href="http://scratch.mit.edu/">Scratch</a> (a project of the Lifelong Kindergarten Group at the MIT Media Lab) that allows you to Build Your Own Blocks. It also features first class lists, first class procedures, and continuations.  These added capabilities make it suitable for a serious introduction to computer science for high school or college students.</p>
       </div>
       <div class="col-sm-4">
         <div class="circle-frame">
           <img src="{{ site.baseurl }}/img/blown-to-bits.png" class="shrink-height">
         </div>
-        <h3>Textbook on Social Implications</h3>
+        <h3 class="text-center">Textbook on Social Implications</h3>
         <p>In the non-programming part of our course we try to balance a fundamental optimism about the future of computer technology with an understanding of its limitations and potential for harm. Student readings are taken mainly from the excellent textbook <a href="http://bitsbook.com/"><i>Blown to Bits,</i></a> which is available for free online download.</p>
       </div>
     </div>

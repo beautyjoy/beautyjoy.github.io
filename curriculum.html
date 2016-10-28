@@ -45,7 +45,7 @@ subtitle: How is BJC special?
     seven "Big Ideas" (things to learn) and six "Computational Thinking Practices"
     (things to do):
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/pies_new.png" class="img-responsive">
 </p>
 
@@ -152,7 +152,7 @@ subtitle: How is BJC special?
     barrier to entry. The blocks' shapes and colors remind users of
     the block categories.</p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/flagsquare.png" class="img-responsive"/>
 </p>
 
@@ -172,7 +172,7 @@ subtitle: How is BJC special?
     blocks, including functions as well as action scripts.
 </p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/makeablock.png" class="side-by-side img-responsive" />
     <img src="{{ site.baseurl }}/img/screenshots/blockeditor.png" class="side-by-side img-responsive" />
     <img src="{{ site.baseurl }}/img/screenshots/scriptwithblock.png" class="side-by-side img-responsive" />
@@ -183,7 +183,7 @@ subtitle: How is BJC special?
     have a very complex result:
 </p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/livetree.png" class="img-responsive side-by-side" />
     <img src="{{ site.baseurl }}/img/screenshots/treepic.png" class="img-responsive side-by-side" />
 </p>
@@ -194,7 +194,7 @@ subtitle: How is BJC special?
     functions:
 </p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/plusfour.png" class="img-responsive" />
 </p>
 
@@ -204,7 +204,7 @@ subtitle: How is BJC special?
     <em>list of procedures:</em>
 </p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/blocks.png" class="img-responsive" />
 </p>
 
@@ -215,7 +215,7 @@ subtitle: How is BJC special?
     this triangle:
 </p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/pointlist.png" class="img-responsive" />
 </p>
 
@@ -226,7 +226,7 @@ subtitle: How is BJC special?
     implemented:
 </p>
 
-<p>
+<p class="centered-strip">
     <img src="{{ site.baseurl }}/img/screenshots/speakblock.png" class="img-responsive" />
 </p>
 
@@ -254,7 +254,7 @@ subtitle: How is BJC special?
 
 {% capture section_content %}
 <a class="anchor" id="social"></a>
-<h3>Social Implications of Computers</h3>
+<h3>Social Implications of Computing</h3>
 
 <div class="side-by-side">
     <p>
@@ -276,9 +276,9 @@ subtitle: How is BJC special?
         <li>Computers and Work</li>
     </ul>
 </div>
-<p class="side-by-side">
+<div class="pull-right">
     <img src="{{ site.baseurl }}/img/blown-to-bits.png" height="250px">
-</p>
+</div>
 
 <p>In all of these topics, our goal is to avoid preaching; we look for
     alternate points of view.  For example, we don't assume that pirating
@@ -314,5 +314,47 @@ subtitle: How is BJC special?
     examples to illustrate the idea, we encourage teachers to assign the selection
     of articles to students in rotation.
 </p>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<h3>About Snap<i>!</i></h3>
+
+<p class="pull-right hidden-xs">
+    <img src="{{ site.baseurl }}/img/snap_logo.png" class="img-responsive" />
+</p>
+
+<p>
+    Snap<em>!</em> is a visual programming language based on
+    <a href="http://scratch.mit.edu">Scratch</a> (MIT Media Lab), but
+    <a href="http://bjc.berkeley.edu/website/compare.html#visual">extended</a>
+    to support more advanced computer science ideas, especially
+    recursion and functional programming.
+</p>
+
+<ul>
+    <li>
+        <a href="http://snap.berkeley.edu">Snap<em>!</em> Home Page</a>
+    </li>
+    <li>
+        <a href="http://byob.berkeley.edu/SnapManual.pdf">Snap<em>!</em> 4.0 Manual</a>
+    </li>
+    <li>
+        <a href="http://snap.berkeley.edu/run">Run Snap<em>!</em> Live</a>
+    </li>
+    <li>
+        Snap<i>!</i> Projects:
+        <ul>
+            <li><a href="http://snap.berkeley.edu/snapsource/snap.html#present:Username=bh&ProjectName=vee">Vee</a></li>
+            <li><a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/treedemo.xml">Tree Demo</a></li>
+            <li><a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/live-tree.xml">Live Tree</a></li>
+            <li><a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/palindrome.xml">Palindrome Exercise</a></li>
+            <li><a href="http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/count-change.xml">Count Change</a></li>
+        </ul>
+    </li>
+    <li>
+        <a href="https://github.com/jmoenig/Snap--Build-Your-Own-Blocks/issues">Report a Snap<em>!</em> bug</a>
+    </li>
+</ul>
 {% endcapture %}
 {% include section.html %}

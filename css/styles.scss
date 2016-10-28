@@ -237,8 +237,9 @@ a {
         padding: 15px 30px;
         margin: 20px;
         font-size: 20px;
+        font-weight: bold;
         border: 2px white solid;
-        background: rgba(255, 255, 255, 0.15);
+        background: rgba(255, 255, 255, 0.4);
 
         &:hover {
             @include transition(border-color 0.2s ease, color 0.2s ease);
@@ -267,7 +268,25 @@ a {
     padding: 0;
     color: $text-color;
 
-    &:nth-of-type(even){
+    .bjc-logo {
+        margin-bottom: 30px;
+        text-align: center;
+
+        img {
+            width: 100px;
+        }
+    }
+
+    .centered-strip {
+        margin: 24px 0;
+        text-align: center;
+
+        .img-responsive {
+            margin: 0 auto;
+        }
+    }
+
+    &:nth-of-type(even) {
         background-color: $background-light;
 
         .trapezoid {
@@ -283,7 +302,7 @@ a {
             }
         }
     }
-    &:nth-of-type(odd){
+    &:nth-of-type(odd) {
         background-color: $background-dark;
 
         .trapezoid {
@@ -444,16 +463,20 @@ a.anchor {
     padding-top: 5px;
 
     li {
-        margin-bottom: 24px;
+        margin-bottom: 40px;
     }
 
     .article-title {
         font-weight: bold;
     }
 
+    .article-subheading {
+        margin: 5px 0 15px;
+    }
+
     blockquote {
-        margin-top: 10px;
         padding: 0 20px;
+        font-size: inherit;
     }
 }
 

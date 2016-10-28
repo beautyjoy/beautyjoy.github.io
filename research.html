@@ -1,7 +1,28 @@
 ---
 layout: page
 title: Research
+subtitle: Papers and Publications
 ---
+{% capture section_content %}
+<ul class="list-unstyled articles-list">
+    {% for article in site.data.publications %}
+    <li>
+        <a href="{{ site.baseurl }}/documents/{{ article.filename }}" target="_blank" class="article-title">{{ article.title }}</a>
+        <h6 class="article-subheading">
+            {{ article.authors }}. ({{ article.year }}).
+            {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
+            {{ article.journal }}.
+            {% if article.external_link %}</a>{% endif %}
+        </h6>
+        {% if article.abstract %}
+        <blockquote>{{ article.abstract | markdownify }}</blockquote>
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>
+{% endcapture %}
+{% include section.html %}
+
 {% capture section_content %}
 <div class="col-sm-3 hidden-xs vcenter">
     <img src="{{ site.baseurl }}/img/jabberwocky.jpg" class="img-responsive">
@@ -19,26 +40,5 @@ title: Research
         He chortled in his joy.
     </em></small></p>
 </div>
-{% endcapture %}
-{% include section.html %}
-
-{% capture section_content %}
-<h3 class="text-center text-uppercase">Publications</h3>
-<ul class="list-unstyled articles-list">
-    {% for article in site.data.publications %}
-    <li>
-        <h6 class="article-subheading">
-            {{ article.authors }}. ({{ article.year }}).
-            {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
-            {{ article.journal }}.
-            {% if article.external_link %}</a>{% endif %}
-        </h6>
-        <a href="{{ site.baseurl }}/documents/{{ article.filename }}" target="_blank" class="article-title">{{ article.title }}</a>
-        {% if article.abstract %}
-        <blockquote>{{ article.abstract | markdownify }}</blockquote>
-        {% endif %}
-    </li>
-    {% endfor %}
-</ul>
 {% endcapture %}
 {% include section.html %}
