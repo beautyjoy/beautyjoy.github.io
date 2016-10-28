@@ -76,6 +76,15 @@ a {
         text-decoration: none;
         color: $accent-dark;
     }
+
+    .hover-accent {
+        padding-bottom: 5px;
+    }
+
+    &:hover .hover-accent {
+        padding-bottom: 2px;
+        border-bottom: 3px solid $accent-color;
+    }
 }
 
 .circle-frame {
@@ -145,11 +154,6 @@ a {
             color: $inverted-text-color;
             font-weight: bold;
             line-height: 1.8;
-
-            &:hover .hover-accent {
-                padding-bottom: 2px;
-                border-bottom: 3px solid $accent-color;
-            }
         }
 
         .dropdown-menu {
@@ -179,6 +183,18 @@ a {
 
     .trapezoid {
         border-top-color: $dark-color;
+    }
+}
+
+.nav-pills.nav-stacked {
+    margin-top: 10px;
+
+    a {
+        font-weight: bold;
+
+        &:hover {
+            background: none;
+        }
     }
 }
 
