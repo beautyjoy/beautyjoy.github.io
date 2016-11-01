@@ -470,12 +470,6 @@ a.anchor {
 
         .resource-name {
             font-weight: bold;
-
-            // Compensate for automatic paragraphing by Markdown
-            p {
-                display: inline;
-                font-weight: inherit;
-            }
         }
 
         .resource-link {

@@ -1,18 +1,18 @@
-subheading: Snap*!* Resources
+subheading: Snap<em>!</em> Resources
 resources:
-  - name: Snap*!*
+  - name: Snap<em>!</em>
     link: http://snap.berkeley.edu/
-    description: Access Snap*!* here.
+    description: Access Snap<em>!</em> here.
 
-  - name: Snap*!* Reference Manual
+  - name: Snap<em>!</em> Reference Manual
     link: http://snap.berkeley.edu/SnapManual.pdf
     description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.
 
-  - name: Snap*!* Tips
+  - name: Snap<em>!</em> Tips
     link: http://bitly.com/snap-advice
     description: BJC's most recent labs can be found here. These labs are AP CS Principles compliant.
 
-  - name: Hardware Compatible with Snap*!*
+  - name: Hardware Compatible with Snap<em>!</em>
     link: http://bjc.edc.org/bjc-r/teacher
     description: |
       Here's a list of hardware you can use with the Snap*!* Interface.
@@ -33,7 +33,7 @@ resources:
       * [Fischertechnik ROBOTICS TXT Controller](https://github.com/rkunze/ft-robo-snap) by Richard Kunze
       * [Snap*!* for Raspberry Pi](http://downloads.rasplay.org/pisnap/) by rasplay.org
 
-  - name: Snap*!* Desktop Application
+  - name: Snap<em>!</em> Desktop Application
     description: |
       Two ways to do this:
 
@@ -42,7 +42,7 @@ resources:
 
       This is good to use when internet connection is intermittent in the short term. However in the long term, this is not a recommended practice because this standalone version will not automatically update whenever our Snap*!* developers push updates.
 
-  - name: Snap*!* Project Executable
+  - name: Snap<em>!</em> Project Executable
     description: |
       Two ways to do this:
 

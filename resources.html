@@ -5,7 +5,7 @@ title: Resources
 {% for group_hash in site.data.resources %}
     {% assign group = group_hash[1] %}
     {% capture section_content %}
-    <h3>{{ group.subheading | markdownify }}</h3>
+    <h3>{{ group.subheading }}</h3>
     <ul class="resources-list">
     {% for resource in group.resources %}
         {% assign resource_id = group_hash[0] | append: "-resource-" | append: forloop.index %}
@@ -17,7 +17,7 @@ title: Resources
                 {% else %}
                 <i class="fa fa-circle"></i>
                 {% endif %}
-                <span class="resource-name">{{ resource.name | markdownify }}</span>
+                <span class="resource-name">{{ resource.name }}</span>
                 {% if resource.description %}
                 </a>
                 {% endif %}
@@ -99,7 +99,7 @@ title: Resources
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h2>Beauty and Joy of Computing course at UC Berkeley</h2>
+                <h3>Beauty and Joy of Computing course at UC Berkeley</h3>
                 <ul>
                     <li>
                         <a href="http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic">Topic 1: Introduction to Snap<i>!</i></a>
@@ -161,7 +161,7 @@ title: Resources
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h2>Lecture slides on Social Implications of Computing</h2>
+                <h3>Lecture slides on Social Implications of Computing</h3>
             </div>
             <div class="col-xs-12">
                 <div class="topic_container">
@@ -210,11 +210,11 @@ title: Resources
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                <h2>Hour of Code</h2>
+                <h3>Hour of Code</h3>
                 <p>
                     BJC's <a href="http://code.org/">Hour of Code</a> tutorial is <a href="http://snap.berkeley.edu/hoc">here</a>.
                 </p>
-                <h2>Snap Manuals</h2>
+                <h3>Snap<em>!</em> Manuals</h3>
                 <p>
                     <a href="http://snap.berkeley.edu/SnapManual.pdf">S<small><small>NAP</small></small><i>!</i> Manual &mdash; part reference, part advanced tutorial (PDF)</a>
                 </p>
@@ -228,7 +228,7 @@ title: Resources
     <div class="container-fluid">
         <div class="row">
             <div class="col-xs-12">
-                <h3 class="text-center text-uppercase">Snap Projects</h3>
+                <h3 class="text-center text-uppercase">Snap<em>!</em> Projects</h3>
             </div>
         </div>
         <div class="row">
