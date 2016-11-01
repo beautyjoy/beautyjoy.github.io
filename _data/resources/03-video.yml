@@ -1,0 +1,14 @@
+subheading: Video Resources
+resources:
+  - name: BJC edX Lecture Videos
+    description: |
+      * Abstraction, Functions, Creativity, Programming Paradigms: http://bjc.link/bjc1xlectures
+      * Algorithms, Global Impact: http://bjc.link/bjc2xlectures
+      * Data, Limits of Computing, Saving the World with Computing: http://bjc.link/bjc3xlectures
+      * Recursion, HOFs, AI, HCI: http://bjc.link/bjc4xlectures
+
+      These videos are topic based (less than 10 mins each) and are used in our edX and SPOC courses.
+
+  - name: BJC Ted Talk
+    link: http://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Outline.pdf
+    description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.

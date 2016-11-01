@@ -453,15 +453,29 @@ a.anchor {
     .resource-title {
         margin-bottom: 10px;
 
-        .fa-caret-down {
+        .fa {
             margin-right: 7px;
             margin-left: -21px;
-            font-size: 18px;
+
+            &.fa-caret-down {
+                font-size: 18px;
+            }
+
+            &.fa-circle {
+                font-size: 8px;
+                margin-right: 10px;
+                vertical-align: middle;
+            }
         }
 
         .resource-name {
             font-weight: bold;
-            margin-bottom: 10px;
+
+            // Compensate for automatic paragraphing by Markdown
+            p {
+                display: inline;
+                font-weight: inherit;
+            }
         }
 
         .resource-link {
@@ -472,6 +486,10 @@ a.anchor {
                 margin-left: 2px;
             }
         }
+    }
+
+    ul, ol {
+        margin-bottom: 10px;
     }
 }
 

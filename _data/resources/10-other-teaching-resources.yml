@@ -1,0 +1,31 @@
+subheading: Other CS Teaching Resources
+resources:
+  - name: AP Computer Science Principles
+    link: http://apcsprinciples.org/
+    description: Learn more about what AP CS Principles is.
+
+  - name: Computer Science Teachers Association (CSTA)
+    link: https://www.csteachers.org/
+    description: The Computer Science Teachers Association (CSTA) is a membership organization that supports and promotes the teaching of computer science. CSTA provides opportunities for K–12 teachers and their students to better understand computer science and to more successfully prepare themselves to teach and learn.
+
+  - name: CS Education Day at UC Berkeley
+    link: http://csedday.berkeley.edu/
+    description: A free one-day event in December every year at UC Berkeley designed to inspire and motivate Bay Area students to learn more about computer science, the opportunities it affords them, and exciting research and educational activities occurring on the UC Berkeley campus. The goals of CSEd Day are (1) describe the myriad of opportunities for which computer science education prepares K-12 students, into higher education and their careers; (2) provide information and activities for students, educators, parents, and IT professionals to advocate for computer science education at all levels, and (3) eliminate misperceptions about computer science and computing careers.
+
+  - name: CS Teaching Tips
+    link: http://csteachingtips.org/
+    description: Offers user-submitted ideas for improving CS classroom teaching.
+
+  - name: CS Unplugged
+    link: http://csunplugged.com/
+    description: Learn computing concepts without a computer.
+
+  - name: Pair Programming
+    link: http://www.realsearchgroup.org/pairlearning/
+    description: Learn the benefits of pair programming and how to incorporate it in your lesson plans.
+
+  - name: Recruiting Students to Take CSP
+    description: |
+      * [Recruiting Students for AP Computer Science Principles](https://secure-media.collegeboard.org/digitalServices/pdf/ap/recruiting-students-ap-computer-science-principles.pdf)
+      * [Creative Thinkers Wanted (English)](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-student-parent-brochure.pdf)
+      * [Creative Thinkers Wanted (Spanish)](https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-parent-brochure-spanish.pdf)

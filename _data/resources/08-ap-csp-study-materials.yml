@@ -1,0 +1,10 @@
+subheading: AP CS Principles Study Materials for Students
+resources:
+  - name: Snap*!* CSP Reference Sheet
+    link: http://tinyurl.com/snapcsp
+    description: |
+      This Snap*!* project has all the reference sheet commands implemented in Snap*!*, with Robot commands, the ability to import/export mazes from/to a text file, and the ability to click directly on the maze to edit it (clicking on any cell will toggle it from blank->goal->wall->blank->etc.). You can move the Robot around with the left/up/right arrow keys and query CAN_MOVE with the down arrow key. We have two "assignment" (i.e., left arrow) blocks, one solid and one hollow: the solid one is for defining and assigning a new variable, and the hollow one is for updating the assignment (you drag the variable you want to assign into the left slot).
+
+      Finally, we've taken the five programming activities from the CED (course and exam description) purple book and shown how those are translated into these blocks (at the bottom).
+
+      Email any problems to Dan (ddgarcia@cs.berkeley.edu).

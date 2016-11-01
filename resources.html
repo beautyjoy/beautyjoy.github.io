@@ -5,7 +5,7 @@ title: Resources
 {% for group_hash in site.data.resources %}
     {% assign group = group_hash[1] %}
     {% capture section_content %}
-    <h3>{{ group.subheading }}</h3>
+    <h3>{{ group.subheading | markdownify }}</h3>
     <ul class="resources-list">
     {% for resource in group.resources %}
         {% assign resource_id = group_hash[0] | append: "-resource-" | append: forloop.index %}
@@ -14,8 +14,10 @@ title: Resources
                 {% if resource.description %}
                 <a class="unstyled-link" href="#{{ resource_id }}" data-toggle="collapse" aria-expanded="false" aria-controls="{{ resource_id }}">
                 <i class="fa fa-caret-down"></i>
+                {% else %}
+                <i class="fa fa-circle"></i>
                 {% endif %}
-                <span class="resource-name">{{ resource.name }}</span>
+                <span class="resource-name">{{ resource.name | markdownify }}</span>
                 {% if resource.description %}
                 </a>
                 {% endif %}
