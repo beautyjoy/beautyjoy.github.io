@@ -79,6 +79,7 @@ a {
 
     .hover-accent {
         padding-bottom: 5px;
+        display: inline-block; // Ensures border is only applied below whole block for multi-line text
     }
 
     &:hover .hover-accent {
@@ -444,6 +445,12 @@ a.anchor {
     position: relative;
     top: -60px;
     visibility: hidden;
+}
+
+.internal-links-nav {
+    li a {
+        padding: 10px 0;
+    }
 }
 
 .resources-list {
