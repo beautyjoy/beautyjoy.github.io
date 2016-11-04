@@ -156,6 +156,10 @@ a {
             color: $inverted-text-color;
             font-weight: bold;
             line-height: 1.8;
+        }
+
+        > li > a {
+            // Reduced from 15px to accommodate hover-accent underline
             padding-bottom: 10px;
         }
 
