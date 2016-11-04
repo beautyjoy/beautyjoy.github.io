@@ -1,0 +1,38 @@
+---
+layout: page
+---
+{% capture section_content %}
+<div class="text-center">
+    <p>
+        <em>This page describes the three-week workshop model. In 2016 this model applies everywhere except New York City.
+            <a href="{{ site.baseurl }}/professional-development-6-weeks">Click here for the six-week model.</a></em>
+    </p>
+</div>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<div class="row">
+    <div class="col-sm-2">
+        <ul class="nav nav-pills nav-stacked internal-links-nav">
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/professional-development-3-weeks"><div class="hover-accent">About</div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/professional-development-3-weeks/eligibility"><div class="hover-accent">Eligibility</div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/professional-development-3-weeks/apply"><div class="hover-accent">Apply to BJC PD</div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/professional-development-3-weeks/resources"><div class="hover-accent">Workshop Resources</div></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-sm-10">
+        {{ content }}
+    </div>
+</div>
+{% endcapture %}
+{% include section.html %}

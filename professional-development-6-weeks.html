@@ -45,7 +45,6 @@ subtitle: Six-week workshop for NYC teachers
 {% include section.html %}
 
 {% capture section_content %}
-<a class="anchor" id="curriculum"></a>
 <h3>The Curriculum</h3>
 
 <p>The most important links you'll need throughout the workshop are to the
@@ -60,8 +59,10 @@ subtitle: Six-week workshop for NYC teachers
     <li>Teacher's guide: <a
             href="http://bjc.edc.org/bjc-r/teacher">http://bjc.edc.org/bjc-r/teacher</a></li>
 </ul>
+{% endcapture %}
+{% include section.html %}
 
-<a class="anchor" id="schedule"></a>
+{% capture section_content %}
 <h3>Workshop Schedule</h3>
 
 <ul>
@@ -154,8 +155,10 @@ subtitle: Six-week workshop for NYC teachers
         </ul>
     </li>
 </ul>
+{% endcapture %}
+{% include section.html %}
 
-<a class="anchor" id="activity-links-1"></a>
+{% capture section_content %}
 <h3>Week 1 activity links</h3>
 
 <h4>Monday</h4>
@@ -227,10 +230,11 @@ subtitle: Six-week workshop for NYC teachers
         and Resource Requirements</a></li>
     <li><a href="https://ncsu.qualtrics.com//SE/?SID=SV_6y70OcHf49xDOa9">Survey</a></li>
 </ul>
+{% endcapture %}
+{% include section.html %}
 
-{% if include.workshop_type == "extended" %}
-<a class="anchor" id="activity-links-2"></a>
-<h3 class="page-header">Week 6 activity links</h3>
+{% capture section_content %}
+<h3>Week 6 activity links</h3>
 
 <ul>
     <li><a href="http://tinyurl.com/BJC-Performance-Tasks">Performance
@@ -256,6 +260,5 @@ subtitle: Six-week workshop for NYC teachers
             <li><a href="https://en.wikipedia.org/wiki/Algorithm">Algorithm definition</a> from Wikipedia
         </ol>
 </ul>
-{% endif %}
 {% endcapture %}
 {% include section.html %}
