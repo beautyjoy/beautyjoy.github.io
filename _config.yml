@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "/bjc_website" # the subpath of your site, e.g. /blog
 url: "https://zhicong.github.io" # the base hostname & protocol for your site
 twitter_username:   cspbjc
-github_username:    cspbjc
+facebook_username:  cspbjc
 instagram_username: cspbjc
 flipboard_link:     bjc.link/computingnews
 email_address:      contact@bjc.berkeley.edu

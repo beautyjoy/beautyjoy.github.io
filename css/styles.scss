@@ -144,6 +144,7 @@ a {
     .navbar-brand {
         color: $inverted-text-color;
         padding: 10px 15px;
+        height: auto; // Making the BJC logo larger than the template default
 
         > img {
             max-height: 36px;
@@ -155,6 +156,7 @@ a {
             color: $inverted-text-color;
             font-weight: bold;
             line-height: 1.8;
+            padding-bottom: 10px;
         }
 
         .dropdown-menu {
@@ -172,6 +174,7 @@ a {
 
     .navbar-toggle {
         border-color: $primary-color;
+        margin-top: 11px;
 
         &:focus, &:hover {
             background-color: $primary-color;
@@ -205,12 +208,12 @@ a {
     padding: 40px 0;
     background: $primary-color;
     box-shadow: none;
-    text-shadow: 0 2px 6px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,.2);
 
     &.homepage {
         padding: 150px 0;
         background: url("{{ site.baseurl }}/img/bjc-team-photo.jpg");
         background-size: cover;
+        text-shadow: 0 2px 6px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,.2);
     }
 
     &.headlines {
@@ -284,6 +287,14 @@ a {
     position: relative;
     padding: 0;
     color: $text-color;
+
+    // Increase margins for subheadings in the middle of a block of text
+    h3:not(:first-child) {
+        margin-top: 40px;
+    }
+    h4:not(:first-child) {
+        margin-top: 30px;
+    }
 
     .bjc-logo {
         margin-bottom: 30px;
@@ -453,6 +464,11 @@ a.anchor {
     }
 }
 
+blockquote {
+    // Negate Bootstrap's increased font size for blockquotes
+    font-size: inherit;
+}
+
 .resources-list {
     list-style: none;
     padding-left: 24px;
@@ -511,7 +527,6 @@ a.anchor {
 
     blockquote {
         padding: 0 20px;
-        font-size: inherit;
     }
 }
 
@@ -558,6 +573,17 @@ footer {
 
             a {
                 margin-right: 10px;
+
+                &:focus {
+                    text-decoration: none;
+                }
+            }
+
+            // Fix vertical alignment of envelope icon
+            .fa-envelope-o {
+                font-size: 33px;
+                line-height: 29px;
+                vertical-align: top;
             }
         }
     }
