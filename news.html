@@ -16,25 +16,25 @@ title: News
 {% endfor %}
 
 {% capture section_content %}
-<a class="twitter-timeline"
-   href="https://twitter.com/CSPBJC"
-   data-height="500"
-   data-chrome="transparent nofooter">
-  Tweets by CSPBJC
-</a>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-{% endcapture %}
-{% include section.html %}
+<div class="col-md-8 col-xs-12">
+    <h3>Press Articles</h3>
+    <ul class="list-unstyled articles-list">
+        {% for article in site.data.press_articles %}
+        <li>
+            <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
+            <h6 class="article-subheading">{{ article.source }}, {{ article.date | date_to_string }}</h6>
+        </li>
+        {% endfor %}
+    </ul>
+</div>
 
-{% capture section_content %}
-<h3 class="text-center text-uppercase">Press Articles</h3>
-<ul class="list-unstyled articles-list">
-{% for article in site.data.press_articles %}
-  <li>
-    <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
-    <h6 class="article-subheading">{{ article.source }}, {{ article.date | date_to_string }}</h6>
-  </li>
-{% endfor %}
-</ul>
+<div class="col-md-4 hidden-sm hidden-xs">
+    <a class="twitter-timeline"
+       href="https://twitter.com/CSPBJC"
+       data-chrome="transparent nofooter">
+        Tweets by CSPBJC
+    </a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
 {% endcapture %}
 {% include section.html %}
