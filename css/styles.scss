@@ -22,7 +22,6 @@ $body-font-stack:   "Open Sans", sans-serif;
 body {
     padding: 0;
     margin-top: 50px;
-    font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -39,6 +38,10 @@ a, p, li, td {
     .homepage & {
         line-height: 1.8;
     }
+}
+
+.page-header {
+    margin-top: 20px;
 }
 
 // th, td{ padding: .25em 1em; }
@@ -233,7 +236,7 @@ a {
         bottom: 0;
         left: 0;
         right: 0;
-        background-color: rgba(0, 0, 0, 0.4);
+        background-color: rgba(0, 0, 0, 0.55);
     }
 
     .container {
@@ -275,7 +278,7 @@ a {
 
 .trapezoid {
     position: absolute;
-    bottom: -12px;
+    bottom: -11px; // extra 1px buffer to compensate for browser rounding error, esp if zoomed
     margin-left: 40px;
     border-top-style: solid;
     border-top-width: 12px;
