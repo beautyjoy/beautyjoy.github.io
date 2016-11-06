@@ -542,6 +542,15 @@ blockquote {
     margin-bottom: 3px;
 }
 
+.sharing-buttons {
+    margin-top: 30px;
+
+    > * {
+        vertical-align: top;
+        margin-right: 5px;
+    }
+}
+
 #bjc-logo{
     display: block;
     max-width: 80%;
