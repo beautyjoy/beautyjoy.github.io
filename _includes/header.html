@@ -8,7 +8,11 @@
     <meta name="author" content="">
 
     <title>
-        BJC - Beauty and Joy of Computing
+        {% if page.url == "/" %}
+        BJC | The Beauty and Joy of Computing
+        {% else %}
+        {{ page.title }} | BJC
+        {% endif %}
     </title>
 
     <!-- Bootstrap core CSS -->
@@ -58,7 +62,7 @@
                     </li>
                     <li class="dropdown">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                            <span class="hover-accent">P<span class="hidden-sm">rofessional </span>D<span class="hidden-sm">evelopment</span></span> <span class="caret"></span>
+                            <span class="hover-accent">Professional Dev<span class="hidden-sm">evelopment</span></span> <span class="caret"></span>
                         </a>
                         <ul class="dropdown-menu">
                             <li>
@@ -72,11 +76,21 @@
                     <li>
                         <a href="{{ site.baseurl }}/resources"><span class="hover-accent">Resources</span></a>
                     </li>
-                    <li>
-                        <a href="{{ site.baseurl }}/research"><span class="hover-accent">Research</span></a>
-                    </li>
-                    <li>
-                        <a href="{{ site.baseurl }}/news"><span class="hover-accent">News</span></a>
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                            <span class="hover-accent">News</span> <span class="caret"></span>
+                        </a>
+                        <ul class="dropdown-menu">
+                            <li>
+                                <a href="{{ site.baseurl }}/announcements"><span class="hover-accent">Announcements</span></a>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/research"><span class="hover-accent">Research</span></a>
+                            </li>
+                            <li>
+                                <a href="{{ site.baseurl }}/press"><span class="hover-accent">In the Press</span></a>
+                            </li>
+                        </ul>
                     </li>
                 </ul>
             </div><!-- /.navbar-collapse -->
