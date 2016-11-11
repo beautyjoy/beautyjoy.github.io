@@ -2,20 +2,6 @@
 layout: page
 title: Announcements
 ---
-{% capture section_content %}
-<div class="text-center">
-    <a class="twitter-timeline"
-       href="https://twitter.com/CSPBJC"
-       data-width="500"
-       data-height="500"
-       data-chrome="transparent nofooter">
-        Tweets by CSPBJC
-    </a>
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-{% endcapture %}
-{% include section.html %}
-
 {% for post in site.posts %}
 
 {% capture section_content %}
@@ -30,3 +16,17 @@ title: Announcements
 {% include section.html %}
 
 {% endfor %}
+
+{% capture section_content %}
+<div>
+    <a class="twitter-timeline"
+       href="https://twitter.com/CSPBJC"
+       data-width="500"
+       data-height="500"
+       data-chrome="transparent nofooter">
+        Tweets by CSPBJC
+    </a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+{% endcapture %}
+{% include section.html %}
