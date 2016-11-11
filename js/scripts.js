@@ -1,9 +1,11 @@
 $(document).ready(function() {
     normalizeGridHeights();
+    fitHeaderText();
 });
 
-$(window).resize(function() {
+$(window).on('resize orientation', function() {
     normalizeGridHeights();
+    fitHeaderText();
 });
 
 function normalizeGridHeights() {
@@ -15,5 +17,14 @@ function normalizeGridHeights() {
         }).each(function() {
             $(this).height(maxHeight);
         });
+    });
+}
+
+function fitHeaderText() {
+    $('.jumbotron h1').each(function() {
+        $(this).css('font-size', '');
+        if ($(this).height() > 60) {
+            $(this).css('font-size', $(this).width() / 10);
+        }
     });
 }

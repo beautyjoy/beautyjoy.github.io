@@ -192,6 +192,10 @@ a {
         }
     }
 
+    .navbar-collapse {
+        max-height: none;
+    }
+
     .trapezoid {
         border-top-color: $dark-color;
     }
@@ -215,18 +219,18 @@ a {
     padding: 40px 0;
     background: $primary-color;
     box-shadow: none;
+    background-position: center;
+    background-size: cover;
 
     &.homepage {
         padding: 150px 0;
-        background: url("{{ site.baseurl }}/img/bjc-team-photo.jpg");
-        background-size: cover;
+        background-image: url("{{ site.baseurl }}/img/bjc-team-photo.jpg");
         text-shadow: 0 2px 6px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,.2);
     }
 
     &.headlines {
         padding: 150px 0;
-        background: url("{{ site.baseurl }}/img/new-york.jpg");
-        background-size: cover;
+        background-image: url("{{ site.baseurl }}/img/new-york.jpg");
     }
 
     .background-overlay {
@@ -249,6 +253,7 @@ a {
     h1 {
         font-size: 48px;
         text-transform: uppercase;
+        word-wrap: break-word; // Will use JS to resize down to one line
     }
 
     h3 {
