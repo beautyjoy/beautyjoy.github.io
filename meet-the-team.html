@@ -1,0 +1,115 @@
+---
+layout: page
+title: Meet the Team
+---
+<div class="section grid-gallery">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-uppercase">Leadership Team</h3>
+            </div>
+            {% for profile in site.data.people.leadership_team %}
+            <div class="col-md-4 col-sm-6 grid-item">
+                <div class="circle-frame">
+                    <img src="{{ site.baseurl }}/img/people/{{ profile.image }}" alt="{{ profile.name }}">
+                </div>
+                <div class="caption">
+                    <h4>{{ profile.name }}</h4>
+                    <p>{{ profile.description | markdownify }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section grid-gallery">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-uppercase">Education Development Center</h3>
+            </div>
+            {% for profile in site.data.people.edc %}
+            <div class="col-md-4 col-sm-6 grid-item">
+                <div class="circle-frame">
+                    <img src="{{ site.baseurl }}/img/people/{{ profile.image }}" alt="{{ profile.name }}">
+                </div>
+                <div class="caption">
+                    <h4>{{ profile.name }}</h4>
+                    <p>{{ profile.description | markdownify }}</p>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section grid-gallery master-teachers">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-uppercase">Master Teachers</h3>
+            </div>
+            {% for profile in site.data.people.master_teachers %}
+            <div class="col-sm-3 col-xs-6 grid-item">
+                <div class="circle-frame">
+                    {% if profile.image contains "://" %}
+                    {% assign image_url = profile.image %}
+                    {% elsif profile.image %}
+                    {% capture image_url %}{{ site.baseurl }}/img/people/{{ profile.image }}{% endcapture %}
+                    {% else %}
+                    {% capture image_url %}{{ site.baseurl }}/img/people/blank-avatar.png{% endcapture %}
+                    {% endif %}
+                    <img src="{{ image_url }}" alt="{{ profile.name }}">
+                </div>
+                <div class="caption">
+                    <h4>{{ profile.name }}</h4>
+                    {% if profile.location %}
+                    <h6>{{ profile.location }}</h6>
+                    {% endif %}
+                    {% if profile.description %}
+                    <p class="small">{{ profile.description }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->
+
+<div class="section grid-gallery">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-uppercase">Professional Development Site Coordinators</h3>
+            </div>
+            {% for profile in site.data.people.site_coordinators %}
+            <div class="col-sm-3 col-xs-6 grid-item">
+                <div class="circle-frame">
+                    {% if profile.image contains "://" %}
+                    {% assign image_url = profile.image %}
+                    {% elsif profile.image %}
+                    {% capture image_url %}{{ site.baseurl }}/img/people/{{ profile.image }}{% endcapture %}
+                    {% else %}
+                    {% capture image_url %}{{ site.baseurl }}/img/people/blank-avatar.png{% endcapture %}
+                    {% endif %}
+                    <img src="{{ image_url }}" alt="{{ profile.name }}">
+                </div>
+                <div class="caption">
+                    <h4>{{ profile.name }}</h4>
+                    {% if profile.location %}
+                    <h6>{{ profile.location }}</h6>
+                    {% endif %}
+                    {% if profile.description %}
+                    <p class="small">{{ profile.description }}</p>
+                    {% endif %}
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->

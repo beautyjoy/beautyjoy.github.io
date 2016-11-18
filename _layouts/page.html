@@ -10,6 +10,9 @@ layout: default
                 {% if page.subtitle %}
                 <p>{{ page.subtitle }}</p>
                 {% endif %}
+                {% if page.call_to_action and page.call_to_action_link %}
+                <a href="{{ page.call_to_action_link }}" class="btn btn-md">{{ page.call_to_action }}</a>
+                {% endif %}
             </div>
         </div>
     </div>

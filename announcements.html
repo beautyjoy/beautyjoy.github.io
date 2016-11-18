@@ -5,7 +5,7 @@ title: Announcements
 {% for post in site.posts %}
 
 {% capture section_content %}
-<h6 class="article-subheading">{{ post.date | date_to_string }}</h6>
+<h6 class="article-subheading">{{ post.date | date: "%Y-%m-%d" }}</h6>
 <a href="{{ post.url | prepend: site.baseurl }}">
   <h3>{{ post.title | escape }}</h3>
 </a>
