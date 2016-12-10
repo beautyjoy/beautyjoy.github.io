@@ -1,0 +1,19 @@
+---
+title: Meet the Team
+layout: team
+---
+<h3 class="text-uppercase text-center">Leadership Team</h3>
+
+<div class="row grid-gallery">
+    {% for profile in site.data.people.leadership_team %}
+    <div class="col-md-4 col-sm-6 grid-item">
+        <div class="circle-frame">
+            {% include profile_photo.html image=profile.image name=profile.name %}
+        </div>
+        <div class="caption">
+            <h4>{{ profile.name }}</h4>
+            <p>{{ profile.description | markdownify }}</p>
+        </div>
+    </div>
+    {% endfor %}
+</div>
