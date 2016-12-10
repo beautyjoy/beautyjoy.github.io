@@ -1,0 +1,56 @@
+---
+layout: page
+title: News
+---
+{% capture section_content %}
+<a href="{{ site.baseurl }}/announcements" class="unstyled-link"><h3>Announcements</h3></a>
+
+<ul class="list-unstyled articles-list">
+    {% for post in site.posts limit: 5 %}
+    <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="article-title">{{ post.title | escape }}</a>
+        <h6 class="article-subheading">{{ post.date | date: "%Y-%m-%d" }}</h6>
+    </li>
+    {% endfor %}
+</ul>
+
+<a href="{{ site.baseurl }}/announcements">More >></a>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<a href="{{ site.baseurl }}/research" class="unstyled-link"><h3>Research</h3></a>
+
+<ul class="list-unstyled articles-list">
+    {% for article in site.data.publications limit:5 %}
+    <li>
+        <a href="{{ site.baseurl }}/documents/{{ article.filename }}" target="_blank" class="article-title">{{ article.title }}</a>
+        <h6 class="article-subheading">
+            {{ article.authors }}. ({{ article.year }}).
+            {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
+            {{ article.journal }}.
+            {% if article.external_link %}</a>{% endif %}
+        </h6>
+    </li>
+    {% endfor %}
+</ul>
+
+<a href="{{ site.baseurl }}/research">More >></a>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<a href="{{ site.baseurl }}/press" class="unstyled-link"><h3>In the Press</h3></a>
+
+<ul class="list-unstyled articles-list">
+    {% for article in site.data.press_articles limit:5 %}
+    <li>
+        <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
+        <h6 class="article-subheading">{{ article.source }}, {{ article.date | date: "%Y-%m-%d" }}</h6>
+    </li>
+    {% endfor %}
+</ul>
+
+<a href="{{ site.baseurl }}/press">More >></a>
+{% endcapture %}
+{% include section.html %}
