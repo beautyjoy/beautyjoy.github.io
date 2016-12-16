@@ -217,7 +217,9 @@ a {
 .jumbotron {
     position: relative;
     margin: 0;
-    padding: 60px 0;
+    min-height: 300px; // Fixed height on all headers
+    display: inline-table; // For vertical alignment
+    width: 100%;
     background: $primary-color;
     box-shadow: none;
     background-position: center;
@@ -248,6 +250,9 @@ a {
         position: relative;
         z-index: 999;
         color: $inverted-text-color;
+        display: table-cell;
+        width: 100%;
+        vertical-align: middle;
         text-align: center;
     }
 
@@ -299,7 +304,7 @@ a {
 .trapezoid {
     position: absolute;
     bottom: -11px; // extra 1px buffer to compensate for browser rounding error, esp if zoomed
-    margin-left: 40px;
+    left: 40px;
     border-top-style: solid;
     border-top-width: 12px;
 	border-top-color: $primary-color;
