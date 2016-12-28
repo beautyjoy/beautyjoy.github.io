@@ -28,6 +28,9 @@ $(window).on('resize orientation', function() {
     fitHeaderText();
 });
 
+/**
+ * Make the captions in our grid galleries to be of the same height.
+ */
 function normalizeGridHeights() {
     $('.grid-gallery').each(function() {
         var maxHeight = 0;
@@ -40,6 +43,9 @@ function normalizeGridHeights() {
     });
 }
 
+/**
+ * Shrink page headers to fit in one line.
+ */
 function fitHeaderText() {
     $('.jumbotron h1').each(function() {
         $(this).css('font-size', '');

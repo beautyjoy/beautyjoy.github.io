@@ -7,8 +7,6 @@ $dark-color: #0C3559;
 $accent-color: #F2E205;
 $accent-dark: #BF7E04;
 $accent-darker: #8C4E03;
-$primary-color-snap: #d6a62c;
-// $breadcrumb-color: #D1DBDE;
 $text-color: #2c3e50;
 $inverted-text-color: #ffffff;
 $background-light: #f5f9fA;
@@ -44,21 +42,6 @@ a, p, li, td {
 .page-header {
     margin-top: 20px;
 }
-
-// th, td{ padding: .25em 1em; }
-// th{ background-color: $secondary-color; }
-
-/*
-li{ list-style: none; }
-li:before {
-    content: "\e080";
-    font-family: 'Glyphicons Halflings';
-    font-size: 9px;
-    float: left;
-    margin-right: 1.5em;
-    color: $secondary-color;
-}
-*/
 
 .list-unstyled li:before{ content: none; }
 
@@ -104,7 +87,7 @@ a {
         height: 200px;
         margin: 0 auto;
 
-        // Temporary hack for the overly tall textbook image
+        // Constrain portait-sized images by their height
         img.shrink-height {
             display: block;
             max-height: 100%;
@@ -125,18 +108,36 @@ a {
     }
 }
 
-/*
-.btn-extra-large{ font-size: 1.2em; }
-.btn.btn-primary{
-    box-shadow: none;
-    border: none;
-    background-color: $secondary-color;
-    &:hover{
-        @include transition(background-color 0.2s ease);
-        background-color: $link-hover-color;
-    }
+.vcenter {
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin-left: -4px;
 }
-*/
+
+// Vertical alignment helper, if the target element is the only one in the containing div
+span.vcenter {
+    height: 100%;
+}
+
+.side-by-side {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+// Offset anchors to account for height of fixed navbar
+a.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
+}
+
+blockquote {
+    // Negate Bootstrap's increased font size for blockquotes
+    font-size: inherit;
+}
 
 .navbar-inverse {
     margin: 0;
@@ -431,57 +432,10 @@ a {
     }
 }
 
-/*
-.section-breadcrumb{ 
-    padding: 0;
-    background-color: $breadcrumb-color;
-    .breadcrumb{
-        margin: 0;
-        margin-top: 1.5em;
-        border-radius: 0;
-        background-color: transparent;
-    }
-    .trapezoid {
-        border-top: 12px solid $breadcrumb-color;
-    }
-}
-*/
-
-.vcenter {
-    display: inline-block;
-    float: none;
-    vertical-align: middle;
-    margin-left: -4px;
-}
-
-// Vertical alignment helper, if the target element is the only one in the containing div
-span.vcenter {
-    height: 100%;
-}
-
-.side-by-side {
-    display: inline-block;
-    vertical-align: top;
-    margin-right: 15px;
-}
-
-// Offset anchors to account for height of fixed navbar
-a.anchor {
-    display: block;
-    position: relative;
-    top: -60px;
-    visibility: hidden;
-}
-
 .internal-links-nav {
     li a {
         padding: 10px 0;
     }
-}
-
-blockquote {
-    // Negate Bootstrap's increased font size for blockquotes
-    font-size: inherit;
 }
 
 .resources-filter {
@@ -564,22 +518,6 @@ blockquote {
     }
 }
 
-#bjc-logo{
-    display: block;
-    max-width: 80%;
-    max-height: auto;
-    margin-bottom: 2em;
-    margin-right: auto;
-    margin-left: auto;
-}
-#using_snap{
-    text-align: center;
-    padding: 0;
-    overflow: hidden;
-    img{ max-width: 100%; }
-}
-
-
 footer {
     margin: 0;
     background-color: $primary-color;
@@ -621,46 +559,4 @@ footer {
         text-align: center;
         font-size: 14px;
     }
-}
-
-@media only screen and (max-width : 800px){
-    #use-devices-with-snap {
-        background-image: url("{{ site.baseurl }}/img/finch-robot-blurred.jpg");
-        @include transition(background-image .4s ease-in-out);
-    }   
-}
-
-@media only screen and (max-width : 500px) {
-    .jumbotron .container h3{ font-size: 1.5em; }
-    #use-devices-with-snap{ background-position: 0% 115%; }
-}
-
-#use-devices-with-snap{
-    background-color: white;
-    background-image: url("{{ site.baseurl }}/img/finch-robot.jpg");
-    background-repeat: no-repeat;
-    background-position: 100% 115%;
-    .trapezoid{ border-top: 12px solid white; }
-
-}
-#snap-intro{
-    color: white;
-    background-image: url("{{ site.baseurl }}/img/snap-screen.jpg");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
-    .trapezoid{ border-top-color: #333; }
-}
-#snap{
-    .jumbotron{
-        background-image: url("{{ site.baseurl }}{{ site.baseurl }}/img/snap_pattern.png");
-        .container{
-            padding-top: 5em;
-            padding-bottom: 5em;
-        }
-        .trapezoid{ border-top-color: $primary-color-snap; }
-        h3, p{ text-align: center; }
-        .btn{ margin-top: 1.5em; }
-    }
-    footer{ background-color: $primary-color-snap; color: white; }
 }
