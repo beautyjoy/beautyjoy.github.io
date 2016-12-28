@@ -4,7 +4,7 @@ title: Press Articles
 ---
 {% capture section_content %}
 <ul class="list-unstyled articles-list">
-    {% for article in site.data.press_articles %}
+    {% for article in site.data.press-articles %}
     <li>
         <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
         <h6 class="article-subheading">{{ article.source }}, {{ article.date | date: "%Y-%m-%d" }}</h6>

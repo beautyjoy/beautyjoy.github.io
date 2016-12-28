@@ -43,7 +43,7 @@ title: News
 <a href="{{ site.baseurl }}/press" class="unstyled-link"><h3>In the Press</h3></a>
 
 <ul class="list-unstyled articles-list">
-    {% for article in site.data.press_articles limit:5 %}
+    {% for article in site.data.press-articles limit:5 %}
     <li>
         <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
         <h6 class="article-subheading">{{ article.source }}, {{ article.date | date: "%Y-%m-%d" }}</h6>

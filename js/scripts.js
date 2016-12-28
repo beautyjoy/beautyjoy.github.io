@@ -2,6 +2,7 @@ $(document).ready(function() {
     normalizeGridHeights();
     fitHeaderText();
 
+    // JS to show/hide resources by tags
     $('.resources-filter').change(function() {
         var selectedTag = $(this).val();
         if (selectedTag == "all") {
@@ -44,7 +45,8 @@ function normalizeGridHeights() {
 }
 
 /**
- * Shrink page headers to fit in one line.
+ * If window width is too small such that the page header is split across multiple lines,
+ * shrink it in proportion to the window width so it fits width-wise.
  */
 function fitHeaderText() {
     $('.jumbotron h1').each(function() {

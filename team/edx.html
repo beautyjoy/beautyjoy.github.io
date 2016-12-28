@@ -9,7 +9,7 @@ header_background: group2
     {% for profile in site.data.people.edx %}
     <div class="col-md-4 col-sm-6 grid-item">
         <div class="circle-frame">
-            {% include profile_photo.html image=profile.image name=profile.name %}
+            {% include profile-photo.html image=profile.image name=profile.name %}
         </div>
         <div class="caption">
             <h4>{{ profile.name }}</h4>
