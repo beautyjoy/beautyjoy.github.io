@@ -1,0 +1,562 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+// Color scheme: https://color.adobe.com/Collioure-late-evening-color-theme-8618292/
+$primary-color: #18568C;
+$dark-color: #0C3559;
+$accent-color: #F2E205;
+$accent-dark: #BF7E04;
+$accent-darker: #8C4E03;
+$text-color: #2c3e50;
+$inverted-text-color: #ffffff;
+$background-light: #f5f9fA;
+$background-dark: #ecf0f1;
+$background-darker: #D7DBDC;
+$header-font-stack: "Montserrat", sans-serif;
+$body-font-stack:   "Open Sans", sans-serif;
+
+@import 'mixins';
+
+body {
+    padding: 0;
+    margin-top: 56px; // Push body below navbar height
+    height: auto; // Suppress default 100% height, otherwise we end up with min page height exceeding screen height, causing scrolling even on short pages
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: $header-font-stack;
+    font-weight: 900;
+    margin-bottom: 20px;
+}
+
+a, p, li, td {
+    font-weight: lighter;
+    font-family: $body-font-stack;
+    line-height: 1.5em;
+
+    .homepage & {
+        line-height: 1.8;
+    }
+}
+
+.page-header {
+    margin-top: 20px;
+}
+
+.list-unstyled li:before{ content: none; }
+
+ol, ul {
+    padding-left: 20px;
+}
+
+a {
+    &.unstyled-link {
+        color: inherit;
+
+        &:hover, &:focus {
+            color: inherit;
+            text-decoration: none;
+        }
+    }
+
+    &:hover {
+        text-decoration: none;
+        color: $accent-dark;
+    }
+
+    .hover-accent {
+        padding-bottom: 5px;
+        display: inline-block; // Ensures border is only applied below whole block for multi-line text
+    }
+
+    &:hover .hover-accent {
+        padding-bottom: 2px;
+        border-bottom: 3px solid $accent-color;
+    }
+}
+
+.circle-frame {
+    @include prefix(border-radius, 50%);
+    overflow: hidden;
+    border-width: 6px;
+    border-style: solid;
+    border-color: $background-dark;
+
+    .homepage & {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+
+        // Constrain portait-sized images by their height
+        img.shrink-height {
+            display: block;
+            max-height: 100%;
+            width: auto;
+            margin: 0 auto;
+        }
+    }
+
+    .grid-item & {
+        width: 150px;
+        height: 150px;
+        margin: 0 auto;
+        border: 5px solid $background-light;
+    }
+
+    img {
+        width: 100%;
+    }
+}
+
+.vcenter {
+    display: inline-block;
+    float: none;
+    vertical-align: middle;
+    margin-left: -4px;
+}
+
+// Vertical alignment helper, if the target element is the only one in the containing div
+span.vcenter {
+    height: 100%;
+}
+
+.side-by-side {
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 15px;
+}
+
+// Offset anchors to account for height of fixed navbar
+a.anchor {
+    display: block;
+    position: relative;
+    top: -60px;
+    visibility: hidden;
+}
+
+blockquote {
+    // Negate Bootstrap's increased font size for blockquotes
+    font-size: inherit;
+}
+
+.navbar-inverse {
+    margin: 0;
+    padding: 0;
+    background-color: $dark-color;
+    font-family: $header-font-stack;
+    border: none;
+
+    .navbar-brand {
+        color: $inverted-text-color;
+        padding: 10px 15px;
+        height: auto; // Making the BJC logo larger than the template default
+
+        > img {
+            max-height: 36px;
+        }
+    }
+
+    .navbar-nav {
+        li a {
+            color: $inverted-text-color;
+            font-weight: bold;
+            line-height: 1.8;
+        }
+
+        > li > a {
+            // Reduced from 15px to accommodate hover-accent underline
+            padding-bottom: 10px;
+        }
+
+        .dropdown-menu {
+            background-color: $dark-color;
+
+            span {
+                color: $inverted-text-color;
+            }
+
+            a:hover {
+                background-color: inherit;
+            }
+        }
+    }
+
+    .navbar-toggle {
+        border-color: $primary-color;
+        margin-top: 11px;
+
+        &:focus, &:hover {
+            background-color: $primary-color;
+        }
+
+        .icon-bar {
+            background-color: $accent-color;
+        }
+    }
+
+    .navbar-collapse {
+        max-height: none;
+    }
+
+    .trapezoid {
+        border-top-color: $dark-color;
+    }
+}
+
+.nav-pills.nav-stacked {
+    margin-top: 10px;
+
+    a {
+        font-weight: bold;
+
+        &:hover {
+            background: none;
+        }
+    }
+}
+
+.jumbotron {
+    position: relative;
+    margin: 0;
+    min-height: 300px; // Fixed height on all headers
+    display: inline-table; // For vertical alignment
+    width: 100%;
+    background: $primary-color;
+    box-shadow: none;
+    background-position: center;
+    background-size: cover;
+
+    &.homepage {
+        padding: 150px 0;
+        background-image: url("{{ site.baseurl }}/img/backgrounds/bjc-team-photo.jpg");
+        text-shadow: 0 2px 6px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,.2);
+    }
+
+    &.headlines {
+        padding: 150px 0;
+        background-image: url("{{ site.baseurl }}/img/backgrounds/new-york.jpg");
+    }
+
+    .background-overlay {
+        position: absolute;
+        z-index: 0;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: rgba(0, 0, 0, 0.55);
+    }
+
+    .container {
+        position: relative;
+        z-index: 999;
+        color: $inverted-text-color;
+        display: table-cell;
+        width: 100%;
+        vertical-align: middle;
+        text-align: center;
+    }
+
+    h1 {
+        font-size: 48px;
+        text-transform: uppercase;
+        word-wrap: break-word; // Will use JS to resize down to one line
+    }
+
+    h3 {
+        font-size: 32px;
+    }
+
+    a {
+        color: inherit;
+    }
+}
+
+.btn {
+    margin: 20px;
+    padding: 15px 30px;
+    font-size: 20px;
+    font-weight: bold;
+    @include transition(border-color 0.2s ease, color 0.2s ease);
+
+    &.btn-md {
+        margin-top: 10px;
+        font-size: 18px;
+        font-weight: normal;
+    }
+
+    .jumbotron & {
+        border: 2px white solid;
+        background: rgba(255, 255, 255, 0.4);
+    }
+
+    .section & {
+        border: 2px $primary-color solid;
+        color: $primary-color;
+    }
+
+    &:hover {
+        @include transition(border-color 0.2s ease, color 0.2s ease);
+        border-color: $accent-color;
+        color: $accent-color;
+    }
+}
+
+.trapezoid {
+    position: absolute;
+    bottom: -11px; // extra 1px buffer to compensate for browser rounding error, esp if zoomed
+    left: 40px;
+    border-top-style: solid;
+    border-top-width: 12px;
+	border-top-color: $primary-color;
+	border-left: 8px solid transparent;
+	border-right: 8px solid transparent;
+	height: 0;
+	width: 64px;
+    z-index: 100;
+}
+
+.section {
+    position: relative;
+    padding: 0;
+    color: $text-color;
+
+    // Increase margins for subheadings in the middle of a block of text
+    h3:not(:first-child) {
+        margin-top: 40px;
+    }
+    h4:not(:first-child) {
+        margin-top: 30px;
+    }
+
+    .bjc-logo {
+        margin-bottom: 30px;
+        width: 100px;
+    }
+
+    .centered-strip {
+        margin: 24px 0;
+        text-align: center;
+
+        .img-responsive {
+            margin: 0 auto;
+        }
+    }
+
+    &:nth-of-type(even) {
+        background-color: $background-light;
+
+        .trapezoid {
+            border-top-color: $background-light;
+        }
+
+        .grid-item {
+            .caption {
+                background-color: $background-dark;
+            }
+            .circle-frame {
+                border-color: $background-light;
+            }
+        }
+    }
+    &:nth-of-type(odd) {
+        background-color: $background-dark;
+
+        .trapezoid {
+            border-top-color: $background-dark;
+        }
+
+        .grid-item {
+            .caption {
+                background-color: $background-darker;
+            }
+            .circle-frame {
+                border-color: $background-dark;
+            }
+        }
+
+        blockquote {
+            border-left-color: $background-darker;
+        }
+
+        .page-header {
+            border-bottom-color: $background-darker;
+        }
+    }
+
+    .container, .container-fluid {
+        padding: 4em 2em;
+    }
+}
+
+.grid-gallery {
+    text-align: center;
+
+    .grid-item {
+        // Change float to inline-block so elements of varying height will line up horizontally
+        float: none;
+        display: inline-block;
+        vertical-align: top;
+        margin: 10px 0 10px -4px; // Negative margin-left to negate the space between inline-block elements
+
+        .circle-frame {
+            position: relative;
+        }
+
+        .caption {
+            margin-top: -75px;
+            padding: 75px 15px 15px;
+            @include prefix(border-radius, 6px);
+
+            h6, .h6 {
+              color: $primary-color;
+              text-transform: uppercase;
+            }
+        }
+    }
+
+    &.snap-projects {
+        .project-tile {
+            border: 1px solid $background-darker;
+            border-radius: 15px;
+            overflow: hidden;
+
+            img {
+                width: 100%;
+            }
+
+            .caption {
+                background-color: $background-light;
+            }
+        }
+    }
+}
+
+.internal-links-nav {
+    li a {
+        padding: 10px 0;
+    }
+}
+
+.resources-filter {
+    margin-left: 5px;
+    min-width: 100px;
+}
+
+.resources-list {
+    list-style: none;
+    padding-left: 24px;
+
+    .resource-title {
+        margin-bottom: 10px;
+
+        .fa {
+            margin-right: 7px;
+            margin-left: -21px;
+
+            &.fa-caret-down {
+                font-size: 18px;
+            }
+
+            &.fa-circle {
+                font-size: 8px;
+                margin-right: 10px;
+                vertical-align: middle;
+            }
+        }
+
+        .resource-name {
+            font-weight: bold;
+        }
+
+        .resource-link {
+            margin-left: 5px;
+
+            .fa-external-link {
+                font-size: 80%;
+                margin-left: 2px;
+            }
+        }
+    }
+
+    ul, ol {
+        margin-bottom: 10px;
+    }
+}
+
+.articles-list {
+    padding-top: 5px;
+
+    li {
+        margin-bottom: 40px;
+    }
+
+    .article-title {
+        font-weight: bold;
+    }
+
+    .article-subheading {
+        margin: 5px 0 15px;
+    }
+
+    blockquote {
+        padding: 0 20px;
+    }
+}
+
+.article-subheading {
+    text-transform: uppercase;
+    margin-bottom: 3px;
+}
+
+.sharing-buttons {
+    margin-top: 30px;
+
+    > * {
+        vertical-align: top;
+        margin-right: 5px;
+    }
+}
+
+footer {
+    margin: 0;
+    background-color: $primary-color;
+    color: $inverted-text-color;
+
+    .container {
+        padding: 1em;
+
+        a {
+            color: inherit;
+
+            &:hover {
+                color: $accent-color;
+            }
+        }
+
+        .social-icons {
+            text-align: center;
+            margin-bottom: 10px;
+
+            a {
+                margin-right: 10px;
+
+                &:focus {
+                    text-decoration: none;
+                }
+            }
+
+            // Fix vertical alignment of envelope icon
+            .fa-envelope-o {
+                font-size: 33px;
+                line-height: 29px;
+                vertical-align: top;
+            }
+        }
+    }
+
+    .footer-links {
+        text-align: center;
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,8 @@
+{% if include.image contains "://" %}
+{% assign image_url = include.image %}
+{% elsif include.image %}
+{% capture image_url %}{{ site.baseurl }}/img/people/{{ include.image }}{% endcapture %}
+{% else %}
+{% capture image_url %}{{ site.baseurl }}/img/people/blank-avatar.png{% endcapture %}
+{% endif %}
+<img src="{{ image_url }}" alt="{{ name }}">

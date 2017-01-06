@@ -1,0 +1,244 @@
+---
+layout: page
+title: Resources
+
+# Space-separated list of tags that user can filter the list of resources by.
+# Tags are assigned to each resource in its containing YAML file.
+# If a new tag is added to a resource, remember to add it to filter_tags below so it shows up in the dropdown!
+filter_tags: snap students
+---
+{% capture section_content %}
+<strong>Filter:</strong>
+<select class="resources-filter">
+    <option value="all">All</option>
+    {% assign filter_tags = page.filter_tags | split: " " %}
+    {% for tag in filter_tags %}
+    <option value="{{ tag }}">{{ tag | capitalize }}</option>
+    {% endfor %}
+</select>
+{% endcapture %}
+{% include section.html %}
+
+{% for group_hash in site.data.resources %}
+    {% assign group = group_hash[1] %}
+    {% capture section_content %}
+    <h3>{{ group.subheading }}</h3>
+    <ul class="resources-list">
+    {% for resource in group.resources %}
+        {% assign resource_id = group_hash[0] | append: "-resource-" | append: forloop.index %}
+        <li class="{{ resource.tags }}">
+            <div class="resource-title">
+                {% if resource.description %}
+                <a class="unstyled-link" href="#{{ resource_id }}" data-toggle="collapse" aria-expanded="false" aria-controls="{{ resource_id }}">
+                <i class="fa fa-caret-down"></i>
+                {% else %}
+                <i class="fa fa-circle"></i>
+                {% endif %}
+                <span class="resource-name">{{ resource.name }}</span>
+                {% if resource.description %}
+                </a>
+                {% endif %}
+
+                {% if resource.link %}
+                <a href="{{ resource.link }}" class="resource-link">
+                    Link <i class="fa fa-external-link" aria-hidden="true"></i>
+                </a>
+                {% endif %}
+            </div>
+
+            {% if resource.description %}
+            <div id="{{ resource_id }}" class="collapse">
+                {{ resource.description | markdownify }}
+            </div>
+            {% endif %}
+        </li>
+    {% endfor %}
+    </ul>
+    {% endcapture %}
+    {% include section.html %}
+{% endfor %}
+
+{% capture section_content %}
+<h3>Course materials for online interaction or download</h3>
+<ul>
+<li>The <a href="../bjc-r/course/berkeley_bjc.html">BJC curriculum</a> as taught
+    at Berkeley as of Fall 2013 (HTML-based).
+<li>The abbreviated summer <a href="../bjc-r/course/pd_bjc.html">teacher
+    workshop curriculum</a> (HTML-based, could be used more slowly as a
+    high school semester course).
+<li> <a href="http://veritas.eecs.berkeley.edu/courses/course/view.php?id=17">
+    The pre-2013 BJC course.</a> This version has been tailored for high schools, with
+    UCB references removed and other additions.  It is hosted in the
+    <a href="http://moodle.org">Moodle</a>
+    learning management system.
+
+<li>
+    <a href="http://veritas.eecs.berkeley.edu/bjc/moodle-backups/latest.php">
+        Backups of the Moodle course</a>
+    (these are big downloads).
+
+<li>The web page for
+    <a href="http://snap.berkeley.edu">S<small><small>NAP</small></small><i>!</i></a>, the
+    visual programming language used in the course.
+    <ul><li>Run the beta test version
+        <a href="http://snap.berkeley.edu/run">in your browser</a>.</ul>
+
+<li>The web page for
+    <a href="http://bitsbook.com"><i>Blown to Bits,</i></a> the course textbook.
+
+<li><a href="http://www.computingportal.org/bjc">
+    Rate and comment on</a> every learning module in the BJC curriculum.
+
+<li>Colleen Lewis's middle school Scratch
+    <a href="http://blogs.hmc.edu/lewis/scratch/">curriculum</A>.
+
+<li><a href="2011-08-04-STARS-BYOB-Workshop.zip">STARS 2011 BYOB Workshop</a>
+    (Zip file download)</li>
+
+<li>Berkeley's version of the course, CS 10:
+    <ul><li><a href="http://inst.eecs.berkeley.edu/~cs10">Course home page</a>
+        <li><a href="http://www.youtube.com/playlist?list=PLECBD29A17AAF6EF9">
+            High-Definition CS 10 lecture
+            videos</a> from fall 2010 (embedded below)
+    </ul>
+</ul>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<h3>Beauty and Joy of Computing course at UC Berkeley</h3>
+<ul>
+    <li>
+        <a href="http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/1-introduction.topic">Topic 1: Introduction to Snap<i>!</i></a>
+    </li>
+    <li>
+        <a href="http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/2-loops-variables.topic">Topic 2: Loops and Building your own Blocks</a>
+    </li>
+    <li>
+        <a href="http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/3-conditionals.topic">Topic 3: Conditionals and Variables</a>
+    </li>
+    <li>
+        <a href="http://bjc.eecs.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/intro_new/4-abstraction-testing.topic">Topic 4: Advanced Building: Abstraction and Testing</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/lists-I.topic">Topic 5: Lists</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/lists/tic-tac-toe.topic">Topic 6: Tic Tac Toe</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithms.topic">Topic 7: Algorithms</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/algorithm-complexity.topic">Topic 8: Algorithm Complexity</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/concurrency.topic">Topic 9: Concurrency</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursion-trees-fractals.topic">Topic 10: Trees and Fractals using Recursion</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/recur/recursive-reporters.topic">Topic 11: Recursive Reporters </a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/apps/simulation-in-science.topic">Topic 12: Simulation in Science</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/apps/simulation-bioinformatics.topic">Topic 13: Simulation: BioInformatics</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/apps/applications-that-changed-the-world.topic">Topic 14: Applications that changed the world</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/areas/distributed-computing.topic">Topic 15: Distributed Computing</a>
+    </li>
+    <li>
+        <a href="http://bjc.berkeley.edu/bjc-r/topic/topic.html?topic=berkeley_bjc/additional-videos-reading.topic">Additional Videos and Readings</a>
+    </li>
+</ul>
+<p>(For our most recent work, go to <a href="http://bjc.berkeley.edu/bjc-r/">http://bjc.berkeley.edu/bjc-r/</a>)</p>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<h3>Lecture slides on Social Implications of Computing</h3>
+
+<div class="topic_container">
+    <ul>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/01privacy.pptx">Privacy</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/02ip.pptx">Owning Ideas</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/03ethics.pptx">Ethics</a>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/04war.pptx">Computers and War</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/05self.pptx">Computers and Self</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/06community.pptx">Computers and Community</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/07education.pptx">Computers and Education</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/08risks.pptx">Risks of Computing</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/09work.pptx">Computers and Work</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/10censorship.pptx">Censorship and Pornography</a>
+        </li>
+        <li>
+            <a href="{{ site.baseurl }}/documents/cs10social/11prof-ethics.pptx">Professional Standards of Ethics</a>
+        </li>
+    </ul>
+</div>
+{% endcapture %}
+{% include section.html %}
+
+{% capture section_content %}
+<h3>Hour of Code</h3>
+<p>
+    BJC's <a href="http://code.org/">Hour of Code</a> tutorial is <a href="http://snap.berkeley.edu/hoc">here</a>.
+</p>
+<h3>Snap<em>!</em> Manuals</h3>
+<p>
+    <a href="http://snap.berkeley.edu/SnapManual.pdf">S<small><small>NAP</small></small><i>!</i> Manual &mdash; part reference, part advanced tutorial (PDF)</a>
+</p>
+{% endcapture %}
+{% include section.html %}
+
+<div class="section grid-gallery snap-projects">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xs-12">
+                <h3 class="text-center text-uppercase">Snap<em>!</em> Projects</h3>
+            </div>
+        </div>
+        <div class="row">
+            {% for project in site.data.snap-projects %}
+            <div class="col-md-3 col-xs-6 grid-item">
+                <div class="project-tile">
+                    <img src="{{ site.baseurl }}/img/project_thumbnails/{{ project.thumbnail }}">
+                    <div class="caption">
+                        <a href="{{ project.link }}" class="unstyled-link" target="_blank">
+                            <h3 class="project-title">{{ project.title }}</h3>
+                        </a>
+                        <p class="project-description">
+                            {{ project.description }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    <div class="trapezoid"></div>
+</div> <!-- /. section -->

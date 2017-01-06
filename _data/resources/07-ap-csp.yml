@@ -1,0 +1,72 @@
+subheading: AP Computer Science Principles Resources
+resources:
+  - name: BJC AP CS Principles Syllabus
+    link: http://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Syllabus.pdf
+    description: |
+      Syllabus ID: 1648113v1
+
+      College Board approved BJC AP CS Principles Syllabus.
+
+  - name: BJC AP CSP Syllabus Submission / Course Audit Instructions
+    link: https://docs.google.com/document/d/1Q9zTwi3EmattugUAvKKXTiu0rHLBggbRfliGOadTjkA/edit?usp=sharing
+    description: Instructions on how to submit your AP CSP syllabus to the College Board after you’ve created your AP College Board account.
+
+  - name: AP CSP Course Home Page
+    link: http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/231724.html
+    description: On AP Central
+
+  - name: AP CSP Teacher Resources
+    link: https://advancesinap.collegeboard.org/stem/computer-science-principles/resources
+
+  - name: AP CSP Course Exam and Description
+    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-and-exam-description.pdf
+    description: Contains curriculum framework and description of the AP CSP course and exam by the College Board.
+
+  - name: AP CSP Course Audit
+    link: http://www.collegeboard.com/html/apcourseaudit/courses/ap_computer_science_principles.html
+
+  - name: AP CSP Overview Modules
+    link: http://apcentral.collegeboard.com/apc/public/courses/231569.html
+    description: Videos and presentations on the AP CSP course.
+
+  - name: AP CSP Course Overview
+    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-overview.pdf
+    description: Succinct description of the course and assessments.
+
+  - name: AP CSP Teacher Community
+    link: https://apcommunity.collegeboard.org/web/apcsp/home
+
+  - name: AP CSP Webinar for Teachers
+    link: https://www.youtube.com/watch?v=IdWLsCRHcV8&feature=youtu.be
+    description: Introducing the AP CSP course to teachers.
+
+  - name: AP CSP Assessment
+    link: http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html
+    description: Exam information and example performance tasks.
+
+  - name: AP CS Principles Create Task
+    link: http://apcsp.org/images/Resources/CreatePT_2016.pdf
+    description: Directions for the Create Task, a required student submission to the College Board for the AP CS Principles exam. See the Grading, Solutions, and Assessments section for the rubric.
+
+  - name: Create Performance Task Rubric
+    link: https://drive.google.com/file/d/0B4EVGAjXEk4sckJCblJSdWdTSVJvMElxenp4Qi1WUEk3UjQ4/view?usp=sharing
+    description: This rubric is for the Create Performance Task, a required project in the AP CS Principles course.
+
+  - name: AP CS Principles Explore Task
+    link: http://apcsp.org/images/Resources/ExplorePT_2016.pdf
+    description: Directions for the Explore Task, a required student submission to the College Board for the AP CS Principles exam. See the Grading, Solutions, and Assessments section for the rubric.
+
+  - name: Explore Performance Task Rubric
+    link: https://drive.google.com/file/d/0B4EVGAjXEk4saEZaWGZ6UEFvbGJ1VUZkVWZnbjJiRk40aFpv/view?usp=sharing
+    description: This rubric is for the Explore Performance Task, a required project in the AP CS Principles course.
+
+  - name: Create Performance Task Examples
+    link: https://drive.google.com/drive/folders/0B2MTeD_OC6kNfk85S1ZtSERXTzJWNk1vUGJrMXlJbXYxb3JyZ3YwVXVTci10Z0ttU0QzV0k?usp=sharing
+    description: Create Performance Task Examples from the Summer 2015 cohort of our BJC PD.
+
+  - name: Brochure for Teachers and Administrators
+    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-brochure_teachers_administrators.pdf
+
+  - name: Bringing AP CSP to Your School
+    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/bringing-computer-science-principles-to-your-school.pdf
+

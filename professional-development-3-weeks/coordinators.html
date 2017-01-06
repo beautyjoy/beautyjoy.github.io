@@ -1,0 +1,25 @@
+---
+title: Professional Development
+subtitle: Three-week Workshop for Teachers
+layout: pd-3-weeks
+---
+<h3>Site Coordinators</h3>
+
+<div class="row grid-gallery">
+    {% for profile in site.data.people.site-coordinators %}
+    <div class="col-sm-4 col-xs-6 grid-item">
+        <div class="circle-frame">
+            {% include profile-photo.html image=profile.image name=profile.name %}
+        </div>
+        <div class="caption">
+            <h4>{{ profile.name }}</h4>
+            {% if profile.location %}
+            <h6>{{ profile.location }}</h6>
+            {% endif %}
+            {% if profile.description %}
+            <p class="small">{{ profile.description }}</p>
+            {% endif %}
+        </div>
+    </div>
+    {% endfor %}
+</div>
