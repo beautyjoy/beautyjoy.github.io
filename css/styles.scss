@@ -1,5 +1,4 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
 ---
 
 // Color scheme: https://color.adobe.com/Collioure-late-evening-color-theme-8618292/
@@ -15,13 +14,50 @@ $background-dark: #ecf0f1;
 $background-darker: #D7DBDC;
 $header-font-stack: "Montserrat", sans-serif;
 $body-font-stack:   "Open Sans", sans-serif;
+$body-margin-top: 56px; // nav bar height
 
 @import 'mixins';
+// Note that this might overwrite $body-margin-top
+// @import './warning_nav';
+// TODO: Move this to a file, if I can figure out how...
+{% if site.url != site.production_url %}
+$body-margin-top: 106px;
+.affix {
+  margin-top: 56px;
+  top: 56px;
+  width: 100%;
+}
+
+.navbar-red {
+    margin: 0 !important;
+    background: #F00;
+    color: #FFF;
+    font-size: 1.2em;
+    position: fixed;
+    padding: .5em;
+    top: 0;
+    text-align: center;
+    vertical-align: middle;
+
+    & a, & a:hover {
+        color: #FFF;
+        text-decoration: underline;
+    }
+}
+
+.navbar-inverse {
+    top: 50px;
+}
+{% endif %}
+
 
 body {
   padding: 0;
-  margin-top: 56px; // Push body below navbar height
-  height: auto; // Suppress default 100% height, otherwise we end up with min page height exceeding screen height, causing scrolling even on short pages
+  margin-top: $body-margin-top; // Push body below navbar height
+  height: auto;
+  // Suppress default 100% height, otherwise we end up
+  // with min page height exceeding screen height,
+  // causing scrolling even on short pages
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -44,7 +80,9 @@ a, p, li, td {
   margin-top: 20px;
 }
 
-.list-unstyled li:before{ content: none; }
+.list-unstyled li:before {
+    content: none;
+}
 
 ol, ul {
   padding-left: 20px;
@@ -67,7 +105,8 @@ a {
 
   .hover-accent {
     padding-bottom: 5px;
-    display: inline-block; // Ensures border is only applied below whole block for multi-line text
+    display: inline-block;
+    // Ensures border is only applied below whole block for multi-line text
   }
 
   &:hover .hover-accent {
@@ -309,11 +348,11 @@ blockquote {
   left: 40px;
   border-top-style: solid;
   border-top-width: 12px;
-	border-top-color: $primary-color;
-	border-left: 8px solid transparent;
-	border-right: 8px solid transparent;
-	height: 0;
-	width: 64px;
+  border-top-color: $primary-color;
+  border-left: 8px solid transparent;
+  border-right: 8px solid transparent;
+  height: 0;
+  width: 64px;
   z-index: 100;
 }
 

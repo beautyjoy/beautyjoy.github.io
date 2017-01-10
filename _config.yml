@@ -21,10 +21,15 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://beautyjoy.github.io" # the base hostname & protocol for your site
+baseurl:
+# NOTE: This URL is needed for Github pages. It will get overriden
+# in the build scripts.
+url: "https://beautyjoy.github.io"
 permalink: pretty # make permalinks not have the ending .html
 
+# This is used for displaying a warning on sites that aren't the
+# production site.
+production_site: https://bjc.berkeley.edu
 twitter_username:   cspbjc
 facebook_username:  cspbjc
 instagram_username: cspbjc

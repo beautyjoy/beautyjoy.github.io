@@ -1,3 +1,6 @@
+---
+---
+
 $(document).ready(function() {
     normalizeGridHeights();
     fitHeaderText();
@@ -19,7 +22,7 @@ $(document).ready(function() {
                 else {
                     $(this).hide();
                 }
-            })
+            });
         }
     });
 });
