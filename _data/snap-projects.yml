@@ -1,0 +1,21 @@
+---
+record_0:
+  title: Fractal Fruit Tree
+  thumbnail: snap_tree.png
+  link: http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/fractal_fruit_tree.xml
+  description: Fractal Fruit Tree by Josh Paley, created using recursion.
+record_1:
+  title: Star Wars Game
+  thumbnail: snap_starwars.png
+  link: http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/star%20wars.xml
+  description: Project converted from Scratch.
+record_2:
+  title: Fractal - Double Jurassic Park
+  thumbnail: snap_fractal.png
+  link: http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/Double%20Jurassic%20Park.xml
+  description: Converted from BYOB.
+record_3:
+  title: Funny Face
+  thumbnail: snap_funnyface.png
+  link: http://snap.berkeley.edu/snapsource/snap.html#open:http://snap.berkeley.edu/snapsource/demo/funny%20face.xml
+  description: Converted from Scratch.
