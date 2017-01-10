@@ -14,8 +14,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BJC
+author: UC Berkeley, Dan Garcia, Brian Harvey, Michael Ball, Lauren Mock
 email: contact@bjc.berkeley.edu
-email_address: contact@bjc.berkeley.edu # TODO: we shouldn't need this.
 description: > # this means to ignore newlines until "baseurl:"
   The Beauty and Joy of Computing is an endorsed AP Computer Science Principles course that is a rigorous introduction to programming and that the ways we interact with and are affected by technology every day.
 keywords: >
