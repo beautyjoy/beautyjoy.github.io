@@ -1,0 +1,57 @@
+---
+- name: Patricia Cardwell
+  image: 
+  location: East Iberville High School, St. Gabriel, LA
+  description: 
+- name: Maureen Doyle
+  image: https://informatics.nku.edu/content/informatics/departments/computer-science/people/doylem3/_jcr_content/par/textimage/image.img.jpg/1441203448742.jpg
+  location: Northern Kentucky University, Highland Heights, KY
+  description: Associate Professor of Computer Science, College of Informatics
+- name: Joanne Lang
+  image: https://pbs.twimg.com/profile_images/599287040396566528/SBaABIZY_400x400.jpg
+  location: Advance Kentucky
+  description: 
+- name: Zach Dodds
+  image: https://www.cs.hmc.edu/people/Dodds.jpg
+  location: Harvey Mudd College, Claremont, CA
+  description: Professor of Computer Science
+- name: Patricia Morreale
+  image: http://www.kean.edu/~compsci/images/faculty/DrMorreale.jpg
+  location: Kean University, Kean, NJ
+  description: Chairperson, Professor of Computer Science
+- name: Juan J Li
+  image: http://www.kean.edu/~compsci/images/faculty/DrJennyLi_IMG_9711_1500x2400_5x8.jpg
+  location: Kean University, Kean, NJ
+  description: Assistant Professor of Computer Science
+- name: Kamaljeet Sanghera
+  image: http://www.washingtonexec.com/wp-content/uploads/2014/10/Sanghera-Kamaljeet1.jpg
+  location: George Mason University, Fairfax, VA
+  description: Associate Professor, Department of Information Sciences and Technology
+- name: Lisa Shaffren
+  image: 
+  location: The Crefeld School, Philadelphia, PA
+  description: Conceptual Physics and Computer Science Teacher
+- name: Jamie Payton
+  image: https://cis.temple.edu/sites/default/files/styles/portrait-large/public/user_pictures/picture-444-1471294001.jpg?itok=QZDA2gU1
+  location: Temple University, Philadelphia, PA
+  description: Associate Professor, Department of Computer and Information Sciences
+- name: Solomon Russell
+  image: http://www.exploringcs.org/wp-content/uploads/2011/11/solomon-russell.jpg
+  location: SMASH LPFI, Los Angeles, CA
+  description: Computer Science Instructor
+- name: Jennifer Albert
+  image: http://www4.ncsu.edu/~tmbarnes/students/jen.jpg
+  location: The Citadel, Charleston, SC
+  description: Director, STEM Center of Excellence, Zucker Family School of Education
+- name: Mary Fries
+  image: http://ltd.edc.org/sites/ltd.edc.org/files/MaryFries.jpg
+  location: EDC, Waltham, MA
+  description: 
+- name: Tiffany Barnes
+  image: tiffany-barnes.png
+  location: NCSU
+  description: Program Manager
+- name: Lauren Mock
+  image: lauren-mock.jpg
+  location: UC Berkeley, CA
+  description: Program Manager

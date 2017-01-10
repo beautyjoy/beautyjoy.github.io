@@ -1,0 +1,11 @@
+---
+- name: Jens Monig
+  image: jens-monig.jpeg
+  description: Snap! Founder and Software Development
+- name: Bernat Romagosa
+  image: 
+  description: Software Development
+- name: Michael Ball
+  image: michael-ball.jpg
+  description: Software Development, BJC Development focusing on Autograding and Snap!,
+    Former CS10 Head TA

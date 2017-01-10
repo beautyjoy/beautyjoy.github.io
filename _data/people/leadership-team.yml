@@ -1,0 +1,31 @@
+---
+- name: Tiffany Barnes
+  image: tiffany-barnes.png
+  description: BJC-STARS Director, Associate Professor of Computer Science at North
+    Carolina State University
+- name: Dan Garcia
+  image: dan-garcia.jpg
+  description: Teaching Professor, UC Berkeley. Co-developer of the Beauty and Joy
+    of Computing curriculum. Member CS Principles Development committee and ACM Education
+    Board. Honored as an ACM Distinguished Educator in 2012.
+- name: Brian Harvey
+  image: brian-harvey.png
+  description: ! 'Teaching Professor Emeritus, UC Berkeley; author of _Computer Science
+    Logo Style_ and (with Matthew Wright) _Simply Scheme: Introducing Computer Science_;
+    developer of Berkeley Logo; co-developer (with Jens Monig) of Snap!; co-developer
+    of the Beauty and Joy of Computing curriculum.'
+- name: Jeff Gray
+  image: jeff-gray.jpg
+  description: Professor, Department of Computer Science, University of Alabama. Member
+    of the UA Software Engineering Group. Distinguished Member of the ACM and Senior
+    Member of the IEEE. Chair of the Alabama IEEE Computer Society. Member of the
+    Education Advisory Council of Code.org.
+- name: Lauren Mock
+  image: lauren-mock.jpg
+  description: Program Manager, UC Berkeley, Managing edX and SPOC for BJC, Technical
+    Development Teams, Professional Development and Teacher Community; Former CS10
+    Head TA
+- name: Michael Ball
+  image: michael-ball.jpg
+  description: Software Development, UC Berkeley, BJC Development focusing on Autograding
+    and Snap!, Former CS10 Head TA
