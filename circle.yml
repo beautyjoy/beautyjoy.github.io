@@ -1,0 +1,8 @@
+test:
+  override:
+      - bundle exec jekyll build --url http://aws.cs10.org
+deployment:
+  prod:
+    branch: production
+    commands:
+      - aws s3 sync _site s3://aws-website-bjc-website-cjgl5 --delete
