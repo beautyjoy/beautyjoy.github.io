@@ -5,10 +5,12 @@ machine:
 general:
   artifacts:
     - "./_site"
+    - "./_preview"
 
 test:
   override:
     - bundle exec jekyll build -V -t --config _config.yml _config_staging.yml
+    - bundle exec jekyll build -V -t --config _config.yml -b 0/home/ubuntu/beautyjoy.github.io/_preview/ -d ./_preview/
     # Use this to detect if coming from a PR
     # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
 
