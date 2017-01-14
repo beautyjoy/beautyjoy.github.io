@@ -1,0 +1,12 @@
+s3_id: <%= ENV['AWS_ACCESS_KEY_ID'] %>
+s3_secret: <%= ENV['AWS_SECRET_ACCESS_KEY'] %>
+s3_bucket: aws-website-bjc-website-cjgl5
+site: _site
+s3_endpoint: us-east-1
+cloudfront_distribution_config:
+  aliases:
+    quantity: 1
+    items:
+      - aws.cs10.org
+cloudfront_wildcard_invalidation: true
+cloudfront_invalidate_root: true

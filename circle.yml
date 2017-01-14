@@ -1,8 +1,19 @@
+machine:
+  ruby:
+    version: 2.4.0
+
+general:
+  artifacts:
+    - "./_site"
+
 test:
   override:
-      - bundle exec jekyll build -V -t --config _config.yml _config_staging.yml
+    - bundle exec jekyll build -V -t --config _config.yml _config_staging.yml
+    # Use this to detect if coming from a PR
+    # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
+
 deployment:
-  prod:
+  production:
     branch: master
     commands:
-      - aws s3 sync _site s3://aws-website-bjc-website-cjgl5 --delete
+      - bundle exec s3_website push
