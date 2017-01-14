@@ -1,0 +1,6 @@
+# CircleCI artifacts format
+baseurl: /0/home/ubuntu/beautyjoy.github.io/_preview
+# force .html on pages to make the links work w/ Circle's artifacts
+permalink: date
+
+destination: ./_preview
