@@ -4,7 +4,8 @@ machine:
 
 general:
   artifacts:
-    - ./_preview
+    - "./_preview"
+    - "./_site"
 
 test:
   override:

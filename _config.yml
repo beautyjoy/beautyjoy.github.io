@@ -44,4 +44,3 @@ exclude:
     - README.md
     - circle.yml
     - vendor # needed to build the site on CircleCI
-    - _site
