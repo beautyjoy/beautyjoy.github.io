@@ -9,8 +9,8 @@ general:
 
 test:
   override:
-    - bundle exec jekyll build -V -t --config _config.yml _config_staging.yml
-    - bundle exec jekyll build -V -t --config _config.yml _config_ci.yml -d ./_preview
+    - bundle exec jekyll build -V -t --config '_config.yml,_config_staging.yml'
+    - bundle exec jekyll build -V -t --config '_config.yml,_config_ci.yml'
     # Use this to detect if coming from a PR
     # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
 
