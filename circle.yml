@@ -1,11 +1,15 @@
 machine:
   ruby:
-    version: 2.4.0
+    version: 2.3.3
 
 general:
   artifacts:
     - "./_preview"
     - "./_site"
+
+dependencies:
+  pre:
+    - gem install s3_website
 
 test:
   override:
