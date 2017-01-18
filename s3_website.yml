@@ -8,6 +8,8 @@ s3_endpoint: us-east-1
 max_age: 3600
 gzip: true
 
+cloudfront_distribution_id: E2HNU40W189IMQ
+
 cloudfront_distribution_config:
   aliases:
     quantity: 1
