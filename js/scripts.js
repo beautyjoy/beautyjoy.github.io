@@ -74,15 +74,10 @@ function toggleResourceCarets(idx, elm) {
     $(elm).on('click', function () {
         var caret = $('[class*=fa-caret]', this);
 
-        if (caret.hasClass('fa-caret-down')) {
-            caret.removeClass('fa-caret-down');
-            caret.addClass('fa-caret-right');
-            return;
-        }
-        if (caret.hasClass('fa-caret-right')) {
-            caret.removeClass('fa-caret-right');
-            caret.addClass('fa-caret-down');
-            return;
+        if (caret.hasClass('fa-rotate-90')) {
+            caret.removeClass('fa-rotate-90');
+        } else {
+            caret.addClass('fa-rotate-90');
         }
     });
 }
