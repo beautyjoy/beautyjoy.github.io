@@ -18,3 +18,5 @@ cloudfront_distribution_config:
 
 cloudfront_wildcard_invalidation: true
 cloudfront_invalidate_root: true
+
+treat_zero_length_objects_as_redirects: true
