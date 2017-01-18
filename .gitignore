@@ -1,4 +1,10 @@
+.DS_Store
+*~
+
+# Build Directories
 _site
+_preview
+_berkeley
+
 .sass-cache
 .jekyll-metadata
-beautyjoy.github.io

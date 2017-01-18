@@ -25,6 +25,8 @@ $(document).ready(function() {
             });
         }
     });
+    
+    $('[data-toggle=collapse]').each(toggleResourceCarets);
 });
 
 $(window).on('resize orientation', function() {
@@ -56,6 +58,31 @@ function fitHeaderText() {
         $(this).css('font-size', '');
         if ($(this).height() > 60) {
             $(this).css('font-size', $(this).width() / 10);
+        }
+    });
+}
+
+/*
+    Install an onclick handler to an item that toggles a caret between open
+    and closed when clicked. (This assumes the state is always 'synced' so that
+    it doesn't really need to know whether something _should_ be open or
+    closed.)
+*/
+function toggleResourceCarets(idx, elm) {
+    var hasCaret = $('.fa-caret-right', $(elm)).length;
+    if (!hasCaret) { return; }
+    $(elm).on('click', function () {
+        var caret = $('[class*=fa-caret]', this);
+
+        if (caret.hasClass('fa-caret-down')) {
+            caret.removeClass('fa-caret-down');
+            caret.addClass('fa-caret-right');
+            return;
+        }
+        if (caret.hasClass('fa-caret-right')) {
+            caret.removeClass('fa-caret-right');
+            caret.addClass('fa-caret-down');
+            return;
         }
     });
 }

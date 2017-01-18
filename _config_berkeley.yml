@@ -1,3 +1,5 @@
 # This file only overwrites the nececessary changes from _config
 # Use when building: --config _config.yml _congfig_2.yml 
 url: http://bjc.berkeley.edu
+
+destination: _berkeley
