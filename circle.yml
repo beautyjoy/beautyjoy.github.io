@@ -22,4 +22,4 @@ deployment:
   production:
     branch: master
     commands:
-      - bundle exec s3_website push
+      - s3_website push
