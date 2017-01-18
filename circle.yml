@@ -22,4 +22,4 @@ deployment:
   production:
     branch: master
     commands:
-      - s3_website push
+      - bin/deploy
