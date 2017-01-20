@@ -9,7 +9,7 @@ general:
 
 dependencies:
   pre:
-    - gem install s3_website
+    - bundle install
 
 test:
   override:
