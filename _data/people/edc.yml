@@ -8,3 +8,9 @@
 - name: Mary Fries
   image: mary-fries.jpg
   description: Web / Content Developer and Researcher, BJC4NYC
+- name: Al Cuoco
+  image: al-cuoco.png
+  description: Distinguished Scholar, EDC
+- name: Jane Kang
+  image: jane-kang.jpg
+  description: Curriculum and Instructional Design Associate , EDC
