@@ -15,7 +15,7 @@ resources:
     tags: snap students
     description: Snap<em>!</em> advice compiled from our BJC TEALS teachers.
 
-  - name: Hardware Compatible with Snap<em>!</em>
+  - name: External Devices Compatible with Snap<em>!</em>
     link: http://bjc.edc.org/bjc-r/teacher
     tags: snap
     description: |
