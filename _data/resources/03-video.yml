@@ -9,6 +9,6 @@ resources:
 
       These videos are topic based (less than 10 mins each) and are used in our edX and SPOC courses.
 
-  - name: BJC Ted Talk
+  - name: BJC Tedx Talk
     link: http://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Outline.pdf
     description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.
