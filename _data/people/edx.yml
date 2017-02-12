@@ -14,11 +14,14 @@
   description: Software Development, UC Berkeley, BJC Development focusing on Autograding
     and Snap!, Former CS10 Head TA
 - name: Sahil Hasan
-  image: 
+  image: sahil-hasan.jpg
   description: Software Development
 - name: Tina Huang
   image: 
   description: Software Development
-- name: Robert Lowe
-  image: 
+- name: Robert Low
+  image: rob-low.jpg
   description: Community Leader
+- name: Lyric Yu
+  image: lyric-yu.jpg
+  description: edX / SPOC Support

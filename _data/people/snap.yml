@@ -3,9 +3,15 @@
   image: jens-monig.jpeg
   description: Snap! Founder and Software Development
 - name: Bernat Romagosa
-  image: 
+  image: bernat-romagosa.jpg
   description: Software Development
 - name: Michael Ball
   image: michael-ball.jpg
   description: Software Development, BJC Development focusing on Autograding and Snap!,
     Former CS10 Head TA
+- name: Brian Harvey
+  image: brian-harvey.png
+  description: ! 'Teaching Professor Emeritus, UC Berkeley; author of _Computer Science
+    Logo Style_ and (with Matthew Wright) _Simply Scheme: Introducing Computer Science_;
+    developer of Berkeley Logo; co-developer (with Jens Monig) of Snap!; co-developer
+    of the Beauty and Joy of Computing curriculum.'

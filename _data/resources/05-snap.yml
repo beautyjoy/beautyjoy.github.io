@@ -14,8 +14,13 @@ resources:
     link: http://bitly.com/snap-advice
     tags: snap students
     description: Snap<em>!</em> advice compiled from our BJC TEALS teachers.
+  
+  - name: Snap<em>!</em> Example Projects
+    link: http://snap.berkeley.edu/#examples
+    tags: snap students project
+    description: Interested example Snap<em>!</em> projects.
 
-  - name: Hardware Compatible with Snap<em>!</em>
+  - name: External Devices Compatible with Snap<em>!</em>
     link: http://bjc.edc.org/bjc-r/teacher
     tags: snap
     description: |
