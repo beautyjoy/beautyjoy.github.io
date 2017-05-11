@@ -35,8 +35,8 @@ $(window).on('resize orientation', function() {
 
 /**
  * Make the captions in our grid galleries to be of the same height.
+ * TODO: Consider moving this to flexbox
  */
-
 function normalizeGridHeights() {
   $('.grid-gallery').each(function() {
     var maxHeight = 0;
@@ -50,15 +50,17 @@ function normalizeGridHeights() {
 }
 
 /**
- * If window width is too small such that the page header is split across multiple lines,
- * shrink it in proportion to the window width so it fits width-wise.
+ * Shrink Large Header text so it should no span more than 1 line.
+ * This might look funky on excessively small screens?
+ * TODO: This confuses me and I think it should be re-written...
+ * but it mostly works.
  */
 
 function fitHeaderText() {
   $('.jumbotron h1').each(function() {
     $(this).css('font-size', '');
     if ($(this).height() > 60) {
-      $(this).css('font-size', $(this).width() / 10);
+      $(this).css('font-size', Math.min($(this).width() / 12, 48));
     }
   });
 }
