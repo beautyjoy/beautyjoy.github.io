@@ -601,18 +601,18 @@ footer {
           text-decoration: none;
         }
       }
-
-      // Fix vertical alignment of envelope icon
-      .fa-envelope-o {
-        font-size: 33px;
-        line-height: 29px;
-        vertical-align: top;
-      }
     }
   }
 
   .footer-links {
+    max-width: 80em;
+    margin: 0.2em auto;
+    padding: 1em;
     text-align: center;
-    font-size: 14px;
+    font-size: 12px;
   }
+}
+
+.footer--requiredNotice {
+  opacity: 0.95;
 }
