@@ -113,6 +113,7 @@ a {
     // Ensures border is only applied below whole block for multi-line text
   }
 
+  &:focus .hover-accent,
   &:hover .hover-accent {
     padding-bottom: 2px;
     border-bottom: 3px solid $accent-color;
@@ -219,7 +220,8 @@ blockquote {
         color: $inverted-text-color;
       }
 
-      a:hover {
+      a:hover,
+      a:focus {
         background-color: inherit;
       }
     }
