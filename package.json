@@ -1,0 +1,21 @@
+{
+  "name": "beautyjoy.github.io",
+  "version": "0.0.0",
+  "description": "The BJC Website",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beautyjoy/beautyjoy.github.io.git"
+  },
+  "author": "Michael Ball",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/beautyjoy/beautyjoy.github.io/issues"
+  },
+  "homepage": "https://github.com/beautyjoy/beautyjoy.github.io#readme"
+}
