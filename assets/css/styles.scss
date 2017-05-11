@@ -8,7 +8,7 @@ $accent-color: #F2E205;
 $accent-dark: #BF7E04;
 $accent-darker: #8C4E03;
 $text-color: #2c3e50;
-$inverted-text-color: #ffffff;
+$inverted-text-color: #FFF;
 $background-light: #f5f9fA;
 $background-dark: #ecf0f1;
 $background-darker: #D7DBDC;
@@ -17,11 +17,14 @@ $body-font-stack:   "Open Sans", sans-serif;
 $body-margin-top: 56px; // nav bar height
 
 @import 'mixins';
+
 // Note that this might overwrite $body-margin-top
 // @import './warning_nav';
 // TODO: Move this to a file, if I can figure out how...
 {% if site.url != site.production_url %}
+
 $body-margin-top: 106px;
+
 .affix {
   margin-top: 56px;
   top: 56px;
@@ -29,32 +32,33 @@ $body-margin-top: 106px;
 }
 
 .navbar-red {
-    margin: 0 !important;
-    background: #F00;
-    color: #FFF;
-    font-size: 1.2em;
-    position: fixed;
-    padding: .5em;
-    top: 0;
-    text-align: center;
-    vertical-align: middle;
+  margin: 0 !important;
+  background: #F00;
+  color: #FFF;
+  font-size: 1.2em;
+  position: fixed;
+  padding: .5em;
+  top: 0;
+  text-align: center;
+  vertical-align: middle;
 
-    & a, & a:hover {
-        color: #FFF;
-        text-decoration: underline;
-    }
+  & a, & a:hover {
+    color: #FFF;
+    text-decoration: underline;
+  }
 }
 
 .navbar-inverse {
-    top: 50px;
+  top: 50px;
 }
 {% endif %}
-
 
 body {
   padding: 0;
   margin-top: $body-margin-top; // Push body below navbar height
   height: auto;
+  min-height: 100%;
+  background-color: $primary-color;
   // Suppress default 100% height, otherwise we end up
   // with min page height exceeding screen height,
   // causing scrolling even on short pages

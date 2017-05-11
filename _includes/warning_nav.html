@@ -1,7 +1,7 @@
 <!--
   This displays a red banner above the navbar on domains that aren't bjc.b.e
 -->
-{% if site.url != site.production_url %}
+{% if site.url != site.production_url & site.url != 'http://127.0.0.1:4000' %}
   <nav class="navbar navbar-fixed-top navbar-red">
     <div class="container">
       <strong>Warning:</strong> This is a test version of the BJC website.
