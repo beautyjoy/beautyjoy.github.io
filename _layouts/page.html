@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<div class="jumbotron"{% if page.header_background %} style="background-image: url('{{ site.baseurl }}/img/backgrounds/{{ page.header_background }}.jpg')"{% endif %}>
+<div 
+  class="jumbotron"
+  {% if page.header_background %}
+  style="background-image: url('{{ site.baseurl }}/img/backgrounds/{{ page.header_background }}.jpg')"
+  {% endif %}
+  >
     {% if page.header_background %}
     <div class="background-overlay"></div>
     {% endif %}
@@ -16,7 +21,9 @@ layout: default
                 {% endif %}
 
                 {% if page.call_to_action and page.call_to_action_link %}
-                <a href="{{ page.call_to_action_link }}" class="btn btn-md">{{ page.call_to_action }}</a>
+                <a href="{{ page.call_to_action_link }}" class="btn btn-md">
+                  {{ page.call_to_action }}
+                </a>
                 {% endif %}
             </div>
         </div>
