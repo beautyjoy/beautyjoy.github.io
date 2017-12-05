@@ -1,5 +1,5 @@
 ---
-title: Professional Development
+title: 2018 Professional Development
 subtitle: Three-Week Workshop for Teachers
 layout: pd-3-weeks
 ---
@@ -43,7 +43,7 @@ We offer a summer professional development workshop for teachers intending to te
 
 ### How much does it cost?
 
-The BJC Summer PD is offered at NO cost for public school teachers. Private school teachers must pay $1,000 for the PD.
+The traditional BJC Summer PD is offered at potentially NO cost for U.S. public school teachers; these teachers use the DonorsChoose model to raise the tuition. Private school teachers must pay $2,000 for the PD.
 
 ### Where is BJC PD being offered?
 
