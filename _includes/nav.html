@@ -1,81 +1,103 @@
 {% include warning_nav.html %}
 
-<nav class="navbar navbar-fixed-top navbar-inverse warning-nav-top" role="navigation">
-    <div class="container">
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-            </button>
-            <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
-            <a class="navbar-brand" href="{{ site.baseurl }}/">
-                <img alt="BJC Logo" src="{{ site.baseurl }}/img/bjc.png">
-            </a>
-        </div>
+<nav
+  class="navbar navbar-fixed-top navbar-inverse warning-nav-top"
+  role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <!-- You'll want to use a responsive image option so this logo looks good on devices - I recommend using something like retina.js (do a quick Google search for it and you'll find it) -->
+      <a class="navbar-brand" href="{{ site.baseurl }}" aria-label="home page">
+        <img alt="" src="{{ site.baseurl }}/img/bjc.png">
+      </a>
+    </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
-        <div class="collapse navbar-collapse navbar-ex1-collapse">
-            <ul class="nav navbar-nav navbar-right list-unstyled">
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span class="hover-accent">About</span> <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="{{ site.baseurl }}/about"><span class="hover-accent">About BJC</span></a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/team/leadership"><span class="hover-accent">Meet the Team</span></a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/partners"><span class="hover-accent">Partners</span></a>
-                        </li>
-                    </ul>
-                </li>
+    <!-- Collect the nav links, forms, and other content for toggling -->
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+      <ul class="nav navbar-nav navbar-right list-unstyled">
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  <span class="hover-accent">About</span>
+                  <span class="caret" aria-hidden="true"></span>
+              </a>
+              <ul class="dropdown-menu">
+                  <li>
+                      <a href="{{ site.baseurl }}/about">
+                        <span class="hover-accent">About BJC</span>
+                      </a>
+                  </li>
+                  <li>
+                      <a href="{{ site.baseurl }}/team/leadership">
+                        <span class="hover-accent">Meet the Team</span>
+                      </a>
+                  </li>
+                  <li>
+                      <a href="{{ site.baseurl }}/partners">
+                        <span class="hover-accent">Partners</span>
+                      </a>
+                  </li>
+              </ul>
+          </li>
 
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span class="hover-accent">Curriculum</span> <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="{{ site.baseurl }}/curriculum"><span class="hover-accent">BJC Curriculum</span></a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/edx"><span class="hover-accent">edX</span></a>
-                        </li>
-                    </ul>
-                </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  <span class="hover-accent">Curriculum</span>
+                  <span class="caret" aria-hidden="true"></span>
+              </a>
+              <ul class="dropdown-menu">
+                  <li>
+                      <a href="{{ site.baseurl }}/curriculum">
+                        <span class="hover-accent">BJC Curriculum</span>
+                      </a>
+                  </li>
+                  <li>
+                      <a href="{{ site.baseurl }}/edx"><span class="hover-accent">edX</span></a>
+                  </li>
+              </ul>
+          </li>
+          <li>
+              <a href="{{ site.baseurl }}/ap-cs-principles">
+                <span class="hover-accent">AP CS Principles</span>
+              </a>
+          </li>
 
-                <li>
-                    <a href="{{ site.baseurl }}/ap-cs-principles"><span class="hover-accent">AP CS Principles</span></a>
-                </li>
+          <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+                  <span class="hover-accent">Professional Dev<span class="hidden-sm">elopment</span></span>
+                  <span class="caret"></span>
+              </a>
+              <ul class="dropdown-menu">
+                  <li>
+                      <a href="{{ site.baseurl }}/professional-development-3-weeks">
+                        <span class="hover-accent">Outside NYC (3 weeks)</span>
+                      </a>
+                  </li>
+                  <li>
+                      <a href="{{ site.nyc_pd_page }}">
+                        <span class="hover-accent">New York City</span>
+                      </a>
+                  </li>
+              </ul>
+          </li>
 
-                <li class="dropdown">
-                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                        <span class="hover-accent">Professional Dev<span class="hidden-sm">elopment</span></span> <span class="caret"></span>
-                    </a>
-                    <ul class="dropdown-menu">
-                        <li>
-                            <a href="{{ site.baseurl }}/professional-development-3-weeks"><span class="hover-accent">Outside NYC (3 weeks)</span></a>
-                        </li>
-                        <li>
-                            <a href="{{ site.baseurl }}/professional-development-6-weeks"><span class="hover-accent">New York City (6 weeks)</span></a>
-                        </li>
-                    </ul>
-                </li>
+          <li>
+              <a href="{{ site.baseurl }}/resources">
+                <span class="hover-accent">Resources</span>
+              </a>
+          </li>
 
-                <li>
-                    <a href="{{ site.baseurl }}/resources"><span class="hover-accent">Resources</span></a>
-                </li>
-
-                <li>
-                    <a href="{{ site.baseurl }}/news"><span class="hover-accent">News</span></a>
-                </li>
-            </ul>
-        </div><!-- /.navbar-collapse -->
-    </div><!-- /.container -->
-    <div class="trapezoid"></div>
+          <li>
+              <a href="{{ site.baseurl }}/news">
+                <span class="hover-accent">News</span>
+              </a>
+          </li>
+      </ul>
+    </div><!-- /.navbar-collapse -->
+  </div><!-- /.container -->
+  <div class="trapezoid"></div>
 </nav>
