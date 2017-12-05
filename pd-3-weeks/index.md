@@ -4,7 +4,13 @@ subtitle: Three-Week Workshop for Teachers
 layout: pd-3-weeks
 ---
 
-### About BJC and this Workshop
+## About BJC and this Workshop
+
+<h3 class="">
+  <a href="{{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf">
+    2018 Informational Flyer
+  </a>
+</h3>
 
 BJC, The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
 
@@ -31,7 +37,7 @@ The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
 *   BJC is well-supported.
     *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, weekly group calls, and personalized support via edX SPOCs (small, personalized online courses that provide a management system for your BJC course).
 
-For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide]({{ site.baseurl/curriculum/ }}).
+For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide]({{ site.baseurl }}/curriculum/).
 
 ### Who is teaching BJC?
 
