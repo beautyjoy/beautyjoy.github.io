@@ -19,27 +19,29 @@ The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
 ### Why choose BJC?
 
 *   BJC teaches strong fundamental concepts of programming.
-    *   In BJC students use Snap!, an accessible but full-featured block-based programming language, to explore concepts ranging from loops and variables up through recursion and higher-order functions.
+    *   In BJC students use Snap<em>!</em>, an accessible but full-featured block-based programming language, to explore concepts ranging from loops and variables up through recursion and higher-order functions.
 *   BJC focuses on collaboration.
     *   In BJC, students are encouraged to work in small groups, using pair programming for projects, and collaborating online to answer each others' questions.
 *   BJC assignments foster creativity and design thinking.
-    *   BJC includes project-centric labs, where groups are encouraged to build and design their own games, applications, and more. See some examples [in our curriculum](http://bjc.edc.org)!
+    *   BJC includes project-centric labs, where groups are encouraged to build and design their own games, applications, and more. See [Snap<em>!</em> examples] (http://snap.berkeley.edu)!
 *   BJC situates computing in the real world.
     *   BJC units explore how computing is used in real-world applications, from Google Search algorithms to Big Data to today's news.
 *   BJC emphasizes that computing is for everyone, and is a matter of equity.
     *   Computing is a vital skill in the 21st century; everyone needs to have input into new computing innovations. BJC emphasizes equity and engages students and teachers in discussing how we can promote it.
 *   BJC is well-supported.
-    *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, weekly group calls, and personalized support via edX SPOCs (small, personalized online courses that provide a management system for your BJC course)
+    *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, weekly group calls, and personalized support via edX SPOCs (small, personalized online courses that provide a management system for your BJC course).
 
 For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide](http://bjc.edc.org/bjc-r/cur/teaching-guide/compare.html).
 
 ### Who is teaching BJC?
 
-The Beauty and Joy of Computing is taught across the country, with over 250 teachers from 41 states applying to attend our teacher preparation workshops. Teachers are also using our curriculum in Hong Kong, Korea, Jakarta, Nepal, Austria, Hong Kong, New Zealand, the Philippines, and Germany.
+The Beauty and Joy of Computing is taught across the country, with over 250 teachers from 41 states applying to attend our teacher preparation workshops. Teachers are also using our curriculum in Canada, Ireland, Guam, Hong Kong, South Korea, Indonesia, Senegal, Cape Verde, Nepal, Austria, Italy, New Zealand, the Philippines, and Germany.
 
 ### How can I be part of BJC PD?
 
-We offer a summer professional development workshop for teachers intending to teach BJC the following year. In this workshop, one week in the middle is held face-to-face; the other weeks consist of online lab materials, computer-mediated discussion sessions, and weekly videos from our project leads. Apply to attend our PD at [here]({{site.baseurl}}/professional-development-3-weeks/apply) or contact [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu) for more information!
+We offer a summer professional development workshop for teachers intending to teach BJC the following year. In this workshop, one week in the middle is held face-to-face; the other weeks consist of online lab materials, computer-mediated discussion sessions, and weekly videos from our project leads. 
+
+Please complete our [PD Interest Form] (http://bit.ly/pdinterest18) to receive updates. We will be confirming dates and locations soon.
 
 ### How much does it cost?
 
