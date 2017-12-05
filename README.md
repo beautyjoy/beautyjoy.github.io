@@ -9,11 +9,8 @@ This is the repo for the BJC homepage.
 
 ## Getting Started
 
--   **Config**: *Remember to update the `baseurl` and `url` in `_config.yml` to wherever the site is hosted!*
-    The config you are seeing now is probably set to work with a version hosted on Github Pages.
-
-    Remember to run Jekyll with the `--baseurl` option:
-    `jekyll s --baseurl <baseurl>`
+This is built using Jekyll, a tool which helps build sites quickly.
+-   **Config**: By default, the `_config` file works for local development and GitHub pages. There are files for each destination the site is hosted on.
 
 -   **Adding a new post**: Simply create a new Markdown file in the `_posts` folder, as per default Jekyll behavior. It will also show up automatically on the News pages.
 
@@ -48,4 +45,14 @@ For pages containing content split into separate subpages, an additional layout 
 
     Params: image (optional), name (optional)
 
+## Deployment
+here.
+We're currently using GitHub pages as a review site. GitHub handles this automagically, and you can view the work on the master branch t
 
+The main site is bjc.berkeley.edu.
+
+Deployment is fairly straightforward, when the `berkeley` branch is updated, a process is kicked off that will build the site using the `_config_berkeley` file and then simply SCP the files to the proper folders.
+
+When new updates are ready, make a pull request from `master` to `berkeley` and everything will get updated in just a couple minutes.
+
+The `bin/` directory and `circle.yml` include all the necessary steps for deployment.
