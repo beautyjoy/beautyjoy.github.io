@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: BJC
-author: UC Berkeley, Dan Garcia, Brian Harvey, Michael Ball, Lauren Mock
+author: UC Berkeley, Dan Garcia, Brian Harvey, Tiffany Barnes, Michael Ball, Lauren Mock
 email: contact@bjc.berkeley.edu
 description: > # this means to ignore newlines until "baseurl:"
   The Beauty and Joy of Computing is an endorsed AP Computer Science Principles course that is a rigorous introduction to programming and that the ways we interact with and are affected by technology every day.
@@ -37,6 +37,8 @@ flipboard_link:     bjc.link/computingnews
 
 # Misc shared data.
 nyc_pd_page: http://cs4all.nyc/academic-programs/ap-cs-principles/
+pd_interest_url: http://bjc.link/pdinterest18
+
 
 # Build settings
 markdown: kramdown
