@@ -2,10 +2,10 @@
 layout: default
 ---
 
-<div 
+<div
   class="jumbotron"
   {% if page.header_background %}
-  style="background-image: url('{{ site.baseurl }}/img/backgrounds/{{ page.header_background }}.jpg')"
+  style="background-image: url('{{ site.baseurl }}/img/backgrounds/{{ page.header_background }}.jpg'); min-height: 320px;"
   {% endif %}
   >
     {% if page.header_background %}
