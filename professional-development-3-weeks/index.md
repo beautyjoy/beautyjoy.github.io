@@ -23,7 +23,7 @@ The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
 *   BJC focuses on collaboration.
     *   In BJC, students are encouraged to work in small groups, using pair programming for projects, and collaborating online to answer each others' questions.
 *   BJC assignments foster creativity and design thinking.
-    *   BJC includes project-centric labs, where groups are encouraged to build and design their own games, applications, and more. See [Snap<em>!</em> examples] (http://snap.berkeley.edu)!
+    *   BJC includes project-centric labs, where groups are encouraged to build and design their own games, applications, and more. See [Snap<em>!</em> examples](http://snap.berkeley.edu)!
 *   BJC situates computing in the real world.
     *   BJC units explore how computing is used in real-world applications, from Google Search algorithms to Big Data to today's news.
 *   BJC emphasizes that computing is for everyone, and is a matter of equity.
@@ -41,7 +41,7 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 We offer a summer professional development workshop for teachers intending to teach BJC the following year. In this workshop, one week in the middle is held face-to-face; the other weeks consist of online lab materials, computer-mediated discussion sessions, and weekly videos from our project leads. 
 
-Please complete our [PD Interest Form] (http://bit.ly/pdinterest18) to receive updates. We will be confirming dates and locations soon.
+Please complete our [PD Interest Form](http://bit.ly/pdinterest18) to receive updates. We will be confirming dates and locations soon.
 
 ### How much does it cost?
 
