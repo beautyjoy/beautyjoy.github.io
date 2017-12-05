@@ -6,7 +6,7 @@ layout: pd-3-weeks
 
 ### About BJC and this Workshop
 
-BJC, or The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
+BJC, The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
 
 BJC has a strong design and programming focus, using the visual programming language Snap<em>!</em> and a collaborative, exploratory approach where students work in teams to bring their own unique creations to life.
 
@@ -49,7 +49,11 @@ The BJC Summer PD is offered at NO cost for public school teachers. Private scho
 
 We will be updating locations for 2018 in the coming months.
 
-<!-- {% include_relative _pd_locations.html %} -->
+<!--
+
+{ % include_relative _pd_locations.html % }
+
+-->
 
 ### Contact
 
