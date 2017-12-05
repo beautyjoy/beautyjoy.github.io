@@ -41,7 +41,7 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 We offer a summer professional development workshop for teachers intending to teach BJC the following year. In this workshop, one week in the middle is held face-to-face; the other weeks consist of online lab materials, computer-mediated discussion sessions, and weekly videos from our project leads. 
 
-Please complete our [PD Interest Form](http://bit.ly/pdinterest18) to receive updates. We will be confirming dates and locations soon.
+Please complete our [2018 PD Interest Form](http://bit.ly/pdinterest18) to receive updates. We will be confirming our 2018 dates and locations soon.
 
 ### How much does it cost?
 
