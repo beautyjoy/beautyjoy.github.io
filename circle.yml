@@ -6,15 +6,18 @@ general:
   artifacts:
     - "./_preview"
     - "./_site"
+    - "./_berkeley"
 
 dependencies:
   pre:
     - bundle install
+    - apt install sshpass
 
 test:
   override:
     - bundle exec jekyll build -V -t --config '_config.yml,_config_staging.yml'
     - bundle exec jekyll build -V -t --config '_config.yml,_config_ci.yml'
+    - bundle exec jekyll build -V -t --config '_config.yml,_config_berkeley.yml'
     # Use this to detect if coming from a PR
     # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
 
@@ -23,3 +26,6 @@ deployment:
     branch: master
     commands:
       - bin/deploy
+    branch: berkeley
+    commands:
+      - bin/copy-to-berkeley

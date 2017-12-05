@@ -29,7 +29,7 @@ permalink: pretty # make permalinks not have the ending .html
 
 # This is used for displaying a warning on sites that aren't the
 # production site.
-production_site: https://bjc.berkeley.edu
+production_url: http://bjc.berkeley.edu
 twitter_username:   cspbjc
 facebook_username:  cspbjc
 instagram_username: cspbjc
@@ -50,3 +50,5 @@ exclude:
     - circle.yml
     - s3_website.yml
     - vendor # needed to build the site on CircleCI
+    - bin
+    - package.json

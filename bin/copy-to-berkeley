@@ -1,0 +1,3 @@
+#! /bin/bash
+
+sshpass -p "${SCP_PASSWORD}" scp -r ./_berkeley/* michael@abbenay.cs.berkeley.edu:../bjc/;
