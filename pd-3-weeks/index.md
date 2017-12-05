@@ -31,7 +31,7 @@ The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
 *   BJC is well-supported.
     *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, weekly group calls, and personalized support via edX SPOCs (small, personalized online courses that provide a management system for your BJC course).
 
-For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide](http://bjc.edc.org/bjc-r/cur/teaching-guide/compare.html).
+For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide]({{ site.baseurl/curriculum/ }}).
 
 ### Who is teaching BJC?
 
@@ -39,7 +39,7 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 ### How can I be part of BJC PD?
 
-We offer a summer professional development workshop for teachers intending to teach BJC the following year. In this workshop, one week in the middle is held face-to-face; the other weeks consist of online lab materials, computer-mediated discussion sessions, and weekly videos from our project leads. 
+We offer a summer professional development workshop for teachers intending to teach BJC the following year. In this workshop, one week in the middle is held face-to-face; the other weeks consist of online lab materials, computer-mediated discussion sessions, and weekly videos from our project leads.
 
 Please complete our [2018 PD Interest Form](http://bit.ly/pdinterest18) to receive updates. We will be confirming our 2018 dates and locations soon.
 
