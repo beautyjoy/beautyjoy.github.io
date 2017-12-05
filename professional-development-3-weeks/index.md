@@ -14,7 +14,7 @@ BJC is culturally situated, presenting programming and computing ideas not in is
 
 BJC is designed to meet the requirements of the [College Board AP Computer Science Principles curriculum framework]({{ site.baseurl }}/ap-cs-principles). It was originally developed as a university breadth course at the University of California, Berkeley, and has been extensively revised for high school use at EDC (Education Development Center).
 
-The BJC project homepage is [bjc.berkeley.edu](https://bjc.berkeley.edu) and the newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
+The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
 
 ### Why choose BJC?
 
