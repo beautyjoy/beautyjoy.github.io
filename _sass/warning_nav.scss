@@ -1,0 +1,28 @@
+$body-margin-top: 106px;
+
+.affix {
+  margin-top: 56px;
+  top: 56px;
+  width: 100%;
+}
+
+.navbar-red {
+  margin: 0 !important;
+  background: #F00;
+  color: #FFF;
+  font-size: 1.2em;
+  position: fixed;
+  padding: .5em;
+  top: 0;
+  text-align: center;
+  vertical-align: middle;
+
+  & a, & a:hover {
+    color: #FFF;
+    text-decoration: underline;
+  }
+}
+
+.navbar-inverse {
+  top: 50px;
+}

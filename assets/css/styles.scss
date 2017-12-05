@@ -13,44 +13,14 @@ $background-light: #f5f9fA;
 $background-dark: #ecf0f1;
 $background-darker: #D7DBDC;
 $header-font-stack: "Montserrat", sans-serif;
-$body-font-stack:   "Open Sans", sans-serif;
+$body-font-stack: "Open Sans", sans-serif;
 $body-margin-top: 56px; // nav bar height
 
 @import 'mixins';
 
+{% if site.url != site.production_url and site.url != 'http://localhost:4000' %}
 // Note that this might overwrite $body-margin-top
-// @import './warning_nav';
-// TODO: Move this to a file, if I can figure out how...
-{% if site.url != site.production_url %}
-
-$body-margin-top: 106px;
-
-.affix {
-  margin-top: 56px;
-  top: 56px;
-  width: 100%;
-}
-
-.navbar-red {
-  margin: 0 !important;
-  background: #F00;
-  color: #FFF;
-  font-size: 1.2em;
-  position: fixed;
-  padding: .5em;
-  top: 0;
-  text-align: center;
-  vertical-align: middle;
-
-  & a, & a:hover {
-    color: #FFF;
-    text-decoration: underline;
-  }
-}
-
-.navbar-inverse {
-  top: 50px;
-}
+@import 'warning_nav';
 {% endif %}
 
 body {
