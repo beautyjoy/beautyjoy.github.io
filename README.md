@@ -1,6 +1,11 @@
-# Official Site for the Beauty and Joy of Computing
+# The Beauty and Joy of Computing
 
-This is a static site written using the Jekyll framework.
+This is the repo for the BJC homepage.
+
+* [View Live Version](http://bjc.berkeley.edu)
+* [View Development Version](http://beautyjoy.github.io)
+
+# Development
 
 ## Getting Started
 
@@ -42,16 +47,5 @@ For pages containing content split into separate subpages, an additional layout 
     Checks the provided image to see if it is a local file (in the `/img/people` directory) or a remote URL, or use a blank avatar if no image is provided.
 
     Params: image (optional), name (optional)
-
-## Data Files
-
--   **People files**: `image` can be the filename (including extension) of a local file in the `/img/people` folder, the URL of a remote image, or blank
-
--   **Why are some data files in CSV format, while others in YAML?**
-
-    YAML allows for more free-form data as opposed to the more structured CSV.
-    Also, the data files in the `people` folder are in CSV because the team data was initially envisioned as only one page,
-    with straightforward data columns for each person. As the team data grew in complexity and volume, the quickest (and laziest)
-    way was simply to have multiple CSV files.
 
 
