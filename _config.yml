@@ -51,3 +51,5 @@ exclude:
     - s3_website.yml
     - vendor # needed to build the site on CircleCI
     - professional-development-3-weeks/apply.html
+    - professional-development-3-weeks/elligibility.html
+    - professional-development-3-weeks/resources.html
