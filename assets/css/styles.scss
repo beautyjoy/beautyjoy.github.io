@@ -264,13 +264,17 @@ blockquote {
 .jumbotron {
   position: relative;
   margin: 0;
-  min-height: 300px; // Fixed height on all headers
+  min-height: 150px; // Fixed height on all headers
   display: inline-table; // For vertical alignment
   width: 100%;
   background: $primary-color;
   box-shadow: none;
   background-position: center;
   background-size: cover;
+
+  img {
+    min-height: 300px;
+  }
 
   &.homepage {
     padding: 150px 0;
