@@ -39,7 +39,6 @@ flipboard_link:     bjc.link/computingnews
 nyc_pd_page: http://cs4all.nyc/academic-programs/ap-cs-principles/
 pd_interest_url: http://bjc.link/pdinterest18
 
-
 # Build settings
 markdown: kramdown
 exclude:
