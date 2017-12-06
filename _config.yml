@@ -47,7 +47,7 @@ exclude:
     - Gemfile.lock
     - README.md
     - circle.yml
-    - s3_website.yml
-    - vendor # needed to build the site on CircleCI
+    - vendor # created when the site is built on CircleCI
     - bin
     - package.json
+    - config
