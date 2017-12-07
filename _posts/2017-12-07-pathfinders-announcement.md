@@ -1,5 +1,10 @@
 ---
+layout: post
 title: BJC Summer PD at InfyPath 2018
+subtitle: Expanding PD to all High School Teachers for Free
+date: 2017-12-06
+category: news
+tags: pd, professional development, infypath, infosys, palooza, csp
 ---
 
 # BJC Summer PD at InfyPath 2018 #
