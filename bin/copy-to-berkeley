@@ -1,6 +1,7 @@
 #! /bin/bash
 ## This file is to be executed from the root of the repo.
 
-bundle exec jekyll build -V -t --config '_config.yml,conflig/_config_berkeley.yml';
+echo $PWD
+bundle exec jekyll build -V -t --config '_config.yml,./conflig/_config_berkeley.yml';
 
 sshpass -p "${SCP_PASSWORD}" scp -r ./_berkeley/* michael@abbenay.cs.berkeley.edu:../bjc/;
