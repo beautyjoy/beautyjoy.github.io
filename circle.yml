@@ -15,9 +15,7 @@ dependencies:
 
 test:
   override:
-    - bundle exec jekyll build -V -t --config '_config.yml,_config_staging.yml'
-    - bundle exec jekyll build -V -t --config '_config.yml,_config_ci.yml'
-    - bundle exec jekyll build -V -t --config '_config.yml,_config_berkeley.yml'
+    - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
     # Use this to detect if coming from a PR
     # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
 
