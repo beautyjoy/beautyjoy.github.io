@@ -4,7 +4,6 @@ machine:
 
 general:
   artifacts:
-    - "./_preview"
     - "./_site"
     - "./_berkeley"
 
@@ -26,4 +25,5 @@ deployment:
       - bin/deploy
     branch: berkeley
     commands:
+      - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
       - bin/copy-to-berkeley
