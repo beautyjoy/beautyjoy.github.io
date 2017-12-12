@@ -73,7 +73,7 @@ BJC will be offered as part of the Pathfinders Institute in Indianapolis, IN fro
 
 We also plan workshops in the following locations:
 
-{ % include_relative _pd_locations.html % }
+{% include_relative _pd_locations.html %}
 
 New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC Jul 30-Aug 3 and one in Charleston, SC Aug 6-10. More info coming soon!
 
