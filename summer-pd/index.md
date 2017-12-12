@@ -2,6 +2,9 @@
 title: 2018 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
+redirect_from:
+  - /pd-3-weeks/
+  - /pd-6-weeks/
 ---
 
 ## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
