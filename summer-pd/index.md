@@ -1,16 +1,25 @@
 ---
 title: 2018 Professional Development
-subtitle: Three-Week Workshop for Teachers
+subtitle: One-Week Workshop for Teachers
 layout: summer-pd
 ---
 
-## About BJC and this Workshop
+## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
 
-<h3 class="">
-  <a href="{{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf">
-    2018 Informational Flyer
-  </a>
-</h3>
+## Regional BJC PD Model
+
+[Professor Tiffany Barnes][tiffany] at NC State University leads our efforts to provide regional BJC professional development workshops at universities around the United States. These workshops have been offered since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), Donors Choose, and the InfoSys Foundation.
+
+BJC PD Workshops are led by BJC Master Teachers who have attended a BJC summer PD workshop, taught the BJC course in high school, and participate in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
+
+In 2018, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2018 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email].
+
+[tiffany]: http://eliza.csc.ncsu.edu/
+[nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
+[nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
+[pd-email]: mailto:pd@bjc.berkeley.edu
+
+## The BJC curriculum, in short
 
 BJC, The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
 
@@ -53,15 +62,20 @@ Please complete our [2018 PD Interest Form](http://bit.ly/pdinterest18) to recei
 
 The traditional BJC Summer PD is offered at potentially NO cost for U.S. public school teachers; these teachers use the DonorsChoose model to raise the tuition. Private school teachers must pay $2,000 for the PD.
 
-### Where is BJC PD being offered?
+## Where is BJC PD being offered?
 
-We will be updating locations for 2018 in the coming months.
+BJC will be offered as part of the Pathfinders Institute in Indianapolis, IN from July 15-21, 2018, with generous support from InfoSys Foundation. See the [Pathfinders Institute announcement][pathfinders] for more info.
 
-<!--
+[pathfinders]: http://www.infosys.org/infosys-foundation-usa/media/press/Pages/free-cs-training-800-teachers-summer2018.aspx
+
+We also plan workshops in the following locations:
 
 { % include_relative _pd_locations.html % }
 
--->
+New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC Jul 30-Aug 3 and one in Charleston, SC Aug 6-10. More info coming soon!
+
+## How do I become a BJC Master Teacher?
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email], and we will send you our Train the Trainer workshop application. Be sure to plan to attend our 2018 BJC "Train the Trainer" Master Teacher workshop July 9-13, and one or more 5-day in-person BJC workshops as a Teaching Assistant (TA) in the remainder of the summer (July 15-August 10).
 
 ### Contact
 
