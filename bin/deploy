@@ -1,9 +1,9 @@
 GIT_COMMIT_DESC=$(git log --format=oneline -n 1 $CIRCLE_SHA1)
 if [[ $GIT_COMMIT_DESC =~ .*--force.* ]]
 then
-    bundle exec s3_website push --directory=../config --force;
+    bundle exec s3_website push --directory=config --force;
 else
-    bundle exec s3_website push --directory=../config;
+    bundle exec s3_website push --directory=config;
 fi
 
 exit $?;
