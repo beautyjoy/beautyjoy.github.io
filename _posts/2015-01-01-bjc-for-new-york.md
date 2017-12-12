@@ -1,17 +1,10 @@
 ---
-title: BJC4NYC
-date: 2015-01-01 00:00:00 Z
-categories:
-- news
-tags:
-- nsf,
-- new
-- york,
-- high
-- school,
-- bjc4nyc
 layout: post
+title: BJC4NYC
 subtitle: Bringing BJC to New York City high schools!
+date: 2015-01-01
+category: news
+tags: nsf, new york, high school, bjc4nyc
 ---
 
 We are pleased to announce that the National Science Foundation has awarded a four-year grant (calendar years 2015-2018) to a partnership of four organizations that will create new BJC curriculum materials and bring them to 100 New York public high school teachers.
