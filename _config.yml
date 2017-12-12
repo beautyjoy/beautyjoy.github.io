@@ -1,43 +1,53 @@
----
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
 title: BJC
-timezone: UTC
-collections:
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
-author: UC Berkeley, Dan Garcia, Brian Harvey, Tiffany Barnes, Michael Ball, Lauren
-  Mock
+author: UC Berkeley, Dan Garcia, Brian Harvey, Tiffany Barnes, Michael Ball, Lauren Mock
 email: contact@bjc.berkeley.edu
-description: 'The Beauty and Joy of Computing is an endorsed AP Computer Science Principles
-  course that is a rigorous introduction to programming and that the ways we interact
-  with and are affected by technology every day.
-
-'
-keywords: 'AP CSP, advanced placement, computer scince principles, comp sci, snap,
+description: > # this means to ignore newlines until "baseurl:"
+  The Beauty and Joy of Computing is an endorsed AP Computer Science Principles course that is a rigorous introduction to programming and that the ways we interact with and are affected by technology every day.
+keywords: >
+  AP CSP, advanced placement, computer scince principles, comp sci, snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
+baseurl:
+# NOTE: This URL is needed for Github pages. It will get overriden
+# in the build scripts.
+url: "https://beautyjoy.github.io"
+permalink: pretty # make permalinks not have the ending .html
 
-'
-baseurl: 
-url: https://beautyjoy.github.io
-permalink: pretty
+# This is used for displaying a warning on sites that aren't the
+# production site.
 production_url: http://bjc.berkeley.edu
-twitter_username: cspbjc
-facebook_username: cspbjc
+twitter_username:   cspbjc
+facebook_username:  cspbjc
 instagram_username: cspbjc
-flipboard_link: https://bjc.link/computingnews
+flipboard_link:     https://bjc.link/computingnews
+
+# Misc shared data.
 nyc_pd_page: http://cs4all.nyc/academic-programs/ap-cs-principles/
 pd_interest_url: http://bjc.link/pdinterest18
+
+# Build settings
 markdown: kramdown
 exclude:
-- ".gitingore"
-- Gemfile
-- Gemfile.lock
-- README.md
-- circle.yml
-- vendor
-- bin
-- package.json
-- config
+    - .gitingore
+    - Gemfile
+    - Gemfile.lock
+    - README.md
+    - circle.yml
+    - vendor # created when the site is built on CircleCI
+    - bin
+    - package.json
+    - config

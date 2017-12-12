@@ -1,18 +1,10 @@
 ---
-title: BJC Summer PD at InfyPath 2018
-date: 2017-12-06 00:00:00 Z
-categories:
-- news
-tags:
-- pd,
-- professional
-- development,
-- infypath,
-- infosys,
-- palooza,
-- csp
 layout: post
+title: BJC Summer PD at InfyPath 2018
 subtitle: Expanding PD to all High School Teachers for Free
+date: 2017-12-06
+category: news
+tags: pd, professional development, infypath, infosys, palooza, csp
 ---
 
 We are excited to announce that BJC will be a featured curriculum provider during the Infosys Foundation's Pathfinders Summer Institute 2018.
