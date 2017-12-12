@@ -6,6 +6,7 @@ general:
   artifacts:
     - "./_site"
     - "./_berkeley"
+    - "./_aws"
 
 dependencies:
   pre:
