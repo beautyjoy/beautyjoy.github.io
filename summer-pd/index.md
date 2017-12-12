@@ -1,7 +1,7 @@
 ---
 title: 2018 Professional Development
 subtitle: Three-Week Workshop for Teachers
-layout: pd-3-weeks
+layout: summer-pd
 ---
 
 ## About BJC and this Workshop
