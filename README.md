@@ -1,58 +1,75 @@
 # The Beauty and Joy of Computing
 
+[![CircleCI](https://circleci.com/gh/beautyjoy/bjc-r.svg?style=svg)](https://circleci.com/gh/beautyjoy/bjc-r)
+
 This is the repo for the BJC homepage.
 
-* [View Live Version](http://bjc.berkeley.edu)
-* [View Development Version](http://beautyjoy.github.io)
+* [bjc.berkeley.edu – production](http://bjc.berkeley.edu)
+* [beautyjoy.github.io – development](http://beautyjoy.github.io)
 
-# Development
+# Getting Started
 
-## Getting Started
+bjc.berkeley.edu built using [Jekyll][], a tool which builds static sities, mostly by compiling Markdown and some special formatting into HTML. Check out Jekyll's site for some good guides.
 
-This is built using Jekyll, a tool which helps build sites quickly.
--   **Config**: By default, the `_config` file works for local development and GitHub pages. There are files for each destination the site is hosted on.
+[Jekyll]: http://jekyllrb.com
 
--   **Adding a new post**: Simply create a new Markdown file in the `_posts` folder, as per default Jekyll behavior. It will also show up automatically on the News pages.
+The site is setup so you can probably get started by searching for page, and clicking the edit button right inside GitHub. (The edit button is located in the upper right controls for each file).
 
--   **Naming conventions**: As per HTML/CSS style guides, all HTML IDs and classes are separated by hyphens.
-    Filenames *should* also be separated by hyphens (especially if they appear in user-facing URLs), but many of the image filenames are a mess.
-    All variables are underscore-separated, as you would expect.
+## Editing Content
+Most pages can be updated simply by finding the file. Some pages are written in Markdown, which has a `.md` extension, but you can use HTML inside a markdown file.
 
-## Pages
+If you're editing a file and see an `{% include ... %}` tag, you'll find that content inside the `_includes/` directory.
 
-Header options:
-- `title`
-- `subtitle`
-- `header_background`: If an image background is desired, choose one of the JPEGs in the `/img/backgrounds` folder, e.g. `class1`, `class2`, `class3` or `class4`
+## Editing Shared Components
 
-## Layouts
+### Includes
 
-You should only ever need to use the `page` layout. It provides the standard page with navbar, title header jumbotron and footer.
-
-For pages containing content split into separate subpages, an additional layout is used to provide the reusable nav menu between subpages. These layouts are:
-- `pd-3-weeks`
-- `pd-6-weeks`
-- `team`
-
-## Includes
-
--   `section`: A horizontal section in a page's content.
+-  `section`: A horizontal section in a page's content.
 
     Usage: Capture the HTML for a section as the `section_content` variable before `include section.html`.
 
--   `profile-photo`: Generates the `img` tag for a person's profile photo, given the image link and name.
-    Checks the provided image to see if it is a local file (in the `/img/people` directory) or a remote URL, or use a blank avatar if no image is provided.
+-  `profile-photo`: Generates the `img` tag for a person's profile photo, given the image link and name.
+    Checks the provided image to see if it is a local file (in the `img/people` directory) or a remote URL, or use a blank avatar if no image is provided.
 
     Params: image (optional), name (optional)
 
+-  `nav` is the main header for every page of the site.
+
+## Configuration
+-   **Config**: By default, the `_config` file works for local development and GitHub pages. There are files for each server in `config/`.
+
+-   **Adding a new post**: Simply create a new Markdown file in the `_posts` folder, as per default Jekyll behavior. It will also show up automatically on the "News" page.
+
+-   **Naming conventions**: As per HTML/CSS style guides, all HTML IDs and classes are separated by hyphens.
+    Filenames *should* also be separated by hyphens (especially if they appear in user-facing URLs), but many of the image filenames are a mess.
+    All Jekyll/template variables are using snake_case.
+
+## Developing Locally (or in Cloud9)
+You'll need Ruby installed on your computer, but that's it.
+
+Assuming that's installed, this will get you fully setup.
+
+```sh
+git clone git@github.com:beautyjoy/beautyjoy.github.io.git
+cd beautyjoy.github.io
+gem install bundler
+bundle install
+bundle exec jekyll serve
+```
+
+After that you'll be able to access the site at [`http://localhost:4000`](http://localhost:4000). The next time you work on the site you'll only need to run `bundle exec jekyll serve`.
+
 ## Deployment
-here.
-We're currently using GitHub pages as a review site. GitHub handles this automagically, and you can view the work on the master branch t
+We're currently using GitHub pages as a review site. GitHub handles this automagically, and you can view the work on the master branch
 
 The main site is bjc.berkeley.edu.
 
-Deployment is fairly straightforward, when the `berkeley` branch is updated, a process is kicked off that will build the site using the `_config_berkeley` file and then simply SCP the files to the proper folders.
-
 When new updates are ready, make a pull request from `master` to `berkeley` and everything will get updated in just a couple minutes.
+
+[Make a pull request using this link.][pr-to-berkeley]
+
+[pr-to-berkeley]: https://github.com/beautyjoy/beautyjoy.github.io/compare/berkeley...master?expand=1
+
+Deployment is fairly straightforward, when the `berkeley` branch is updated, a process is kicked off that will build the site using the `_config_berkeley` file and then simply SCP the files to the proper folders.
 
 The `bin/` directory and `circle.yml` include all the necessary steps for deployment.

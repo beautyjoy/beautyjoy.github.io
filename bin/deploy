@@ -5,3 +5,5 @@ then
 else
     bundle exec s3_website push --directory=../config;
 fi
+
+exit $?;
