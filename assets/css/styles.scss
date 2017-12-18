@@ -72,7 +72,7 @@ a {
     }
   }
 
-  &:hover {
+  &:hover, &:focus {
     text-decoration: none;
     color: $accent-dark;
   }
@@ -313,12 +313,17 @@ blockquote {
   .section & {
     border: 2px $primary-color solid;
     color: $primary-color;
+
+    &.btn-primary {
+      color: white;
+    }
   }
 
-  &:hover {
+  &:hover, &:focus {
     @include transition(border-color 0.2s ease, color 0.2s ease);
     border-color: $accent-color;
     color: $accent-color;
+    outline: 0;
   }
 }
 
