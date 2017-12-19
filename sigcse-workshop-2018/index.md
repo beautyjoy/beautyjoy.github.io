@@ -22,15 +22,15 @@ The Forum is a half-day morning session, on Wednesday, February 21, 2018.
 
 ## Agenda
 
-8:30 AM Introduction and Short Talks I (2 15-minute talks)
-9:00 AM Short Talks I Discussion
-9:15 AM Short Talks II (2 15- minute talks)
-9:45 AM Short Talks II Discussion
-10:00 AM Break
-10:30 AM Short Talks III (2 15-minute talks)
-11:00 AM Short Talks III Discussion
-11:15AM Short Talks IV (2 15-minute talks)
-11:45AM Short Talks IV Discussion
+8:30 AM Introduction and Short Talks I (2 15-minute talks)  
+9:00 AM Short Talks I Discussion  
+9:15 AM Short Talks II (2 15- minute talks)  
+9:45 AM Short Talks II Discussion  
+10:00 AM Break  
+10:30 AM Short Talks III (2 15-minute talks)  
+11:00 AM Short Talks III Discussion  
+11:15AM Short Talks IV (2 15-minute talks)  
+11:45AM Short Talks IV Discussion  
 12:00 PM End
 
 ## Topic Submissions
