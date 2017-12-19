@@ -37,7 +37,7 @@ The Forum is a half-day morning session, on Wednesday, February 21, 2018.
 
 If you are interested in presenting at the Forum, please fill out the following submission form: [http://bjc.link/cspforum18] http://bjc.link/cspforum18
 
-We will try to fit in all topic submissions, as our role is to provide a structure for their presentation.
+We will try to fit in all topic submissions, as our role is to provide a structure for the workshop.
 
 ## Program Committee
 
