@@ -22,6 +22,11 @@ The Forum is a half-day morning session, on **<time>Wednesday, February 21, 2018
 
 We will release the specific location closer to the date of the conference, but it will be somewhere at the Baltimore Convention Center with the rest of SIGCSE.
 
+## TODO:
+* Deadlines
+* Contact Emails
+*
+
 ## Agenda
 ---
 
