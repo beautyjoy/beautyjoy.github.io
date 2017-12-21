@@ -1,9 +1,11 @@
 GIT_COMMIT_DESC=$(git log --format=oneline -n 1 $CIRCLE_SHA1)
+echo 'Running S3_website push';
 if [[ $GIT_COMMIT_DESC =~ .*--force.* ]]
 then
-    bundle exec s3_website push --config-dir=config --force;
+    bundle exec s3_website push --config-dir=../config --site=../_aws --verbose--force;
 else
-    bundle exec s3_website push --config-dir=config;
+    bundle exec s3_website push --config-dir=../config --site=../_aws --verbose;
 fi
 
+echo 'finished...';
 exit $?;
