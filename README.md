@@ -1,6 +1,6 @@
 # The Beauty and Joy of Computing
 
-[![CircleCI](https://circleci.com/gh/beautyjoy/bjc-r.svg?style=svg)](https://circleci.com/gh/beautyjoy/bjc-r)
+[![CircleCI](https://circleci.com/gh/beautyjoy/beautyjoy.github.io.svg?style=svg)](https://circleci.com/gh/beautyjoy/beautyjoy.github.io)
 
 This is the repo for the BJC homepage.
 
