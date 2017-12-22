@@ -173,14 +173,16 @@ blockquote {
 
   .navbar-nav {
     // all links
-    li a {
+    li a,
+    li button {
       color: $inverted-text-color;
       font-weight: bold;
       line-height: 1.8;
     }
 
     // Only the top-level items
-    > li > a {
+    > li > a,
+    > li > button {
       padding-bottom: 10px;
     }
 
@@ -191,8 +193,8 @@ blockquote {
         color: $inverted-text-color;
       }
 
-      a:hover,
-      a:focus {
+      a:hover, a:focus,
+      button:hover, button:focus {
         background-color: inherit;
       }
     }
@@ -226,7 +228,7 @@ blockquote {
   a {
     font-weight: bold;
 
-    &:hover {
+    &:hover, &:focus {
       background: none;
     }
   }
