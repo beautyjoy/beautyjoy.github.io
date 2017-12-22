@@ -28,3 +28,6 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
 end
+
+# Added at 2017-12-21 23:15:23 -0800 by Michael:
+gem "jekyll-admin", "~> 0.7.0"
