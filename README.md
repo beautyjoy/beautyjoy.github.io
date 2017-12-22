@@ -9,7 +9,7 @@ This is the repo for the BJC homepage.
 
 # Getting Started
 
-bjc.berkeley.edu built using [Jekyll][], a tool which builds static sities, mostly by compiling Markdown and some special formatting into HTML. Check out Jekyll's site for some good guides.
+bjc.berkeley.edu is built using [Jekyll][], a tool which builds static sities, mostly by compiling Markdown and some special formatting into HTML. Check out Jekyll's site for some good guides.
 
 [Jekyll]: http://jekyllrb.com
 
@@ -19,6 +19,9 @@ The site is setup so you can probably get started by searching for page, and cli
 Most pages can be updated simply by finding the file. Some pages are written in Markdown, which has a `.md` extension, but you can use HTML inside a markdown file.
 
 If you're editing a file and see an `{% include ... %}` tag, you'll find that content inside the `_includes/` directory.
+
+* All pages need to have "front matter", between the `---` to have them be processed. You can look at existing pages for an example.
+* If you add the item `published: false`, the page will not be displayed. This is useful for when working on draft content.
 
 ## Editing Shared Components
 
@@ -36,10 +39,13 @@ If you're editing a file and see an `{% include ... %}` tag, you'll find that co
 -  `nav` is the main header for every page of the site.
 
 ## Configuration
+- **Navigation**: The main site navigation is easily configurable.
+	Take a look at [`_data/navbar.yml`](_data/navbar.yml), which is a list of links that will be rendered at the top of each page.
 -   **Config**: By default, the `_config` file works for local development and GitHub pages. There are files for each server in `config/`.
 
 -   **Adding a new post**: Simply create a new Markdown file in the `_posts` folder, as per default Jekyll behavior. It will also show up automatically on the "News" page.
-
+	* _Make sure_, that each post contains the correct "front matter", between two `---`, otherwise it will not be rendered.
+	* Posts that have a date in the future, will be displayed only once that date has arrived.
 -   **Naming conventions**: As per HTML/CSS style guides, all HTML IDs and classes are separated by hyphens.
     Filenames *should* also be separated by hyphens (especially if they appear in user-facing URLs), but many of the image filenames are a mess.
     All Jekyll/template variables are using snake_case.
