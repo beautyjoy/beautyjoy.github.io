@@ -172,19 +172,16 @@ blockquote {
   }
 
   .navbar-nav {
+    // all links
     li a {
       color: $inverted-text-color;
       font-weight: bold;
       line-height: 1.8;
     }
 
+    // Only the top-level items
     > li > a {
-      margin: 10px 9px 7px;
-      padding: 3px;
-
-      &:focus, &:hover {
-        border-bottom: 3px solid $accent-color;
-      }
+      padding-bottom: 10px;
     }
 
     .dropdown-menu {

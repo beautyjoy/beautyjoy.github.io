@@ -25,30 +25,27 @@
             {% assign menu = item.menu %}
             <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                {{ menu[0].title }}
+                <span class="hover-accent">{{ menu[0].title }}</span>
                 <span class="caret" aria-hidden="true"></span>
               </a>
               <ul class="dropdown-menu">
                 {% for link in item.menu[1].links %}
                   <li>
-                    <a href="{{ link.href }}">{{ link.name }}</a>
+                    <a href="{{ link.href }}">
+                      <span class="hover-accent">{{ link.name }}</span>
+                    </a>
                   </li>
                 {% endfor %}
               </ul>
             </li>
           {% else %}
             <li>
-              <a href="{{ item.href }}">{{ item.name }}</a>
+              <a href="{{ item.href }}">
+                <span class="hover-accent">{{ item.name }}</span>
+              </a>
             </li>
           {% endif %}
         {% endfor %}
-
-
-
-
-          <li>
-              <a href="{{ site.baseurl }}/news">News</a>
-          </li>
       </ul>
     </div><!-- /.navbar-collapse -->
   </div><!-- /.container -->
