@@ -30,20 +30,12 @@
               </a>
               <ul class="dropdown-menu">
                 {% for link in menu.links %}
-                  <li>
-                    <a href="{{ link.href }}">
-                      <span class="hover-accent">{{ link.name }}</span>
-                    </a>
-                  </li>
+                  {% include nav_link.html link=link %}
                 {% endfor %}
               </ul>
             </li>
           {% else %}
-            <li>
-              <a href="{{ item.href }}">
-                <span class="hover-accent">{{ item.name }}</span>
-              </a>
-            </li>
+            {% include nav_link.html link=item %}
           {% endif %}
         {% endfor %}
       </ul>
