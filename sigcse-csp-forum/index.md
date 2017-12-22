@@ -22,13 +22,25 @@ The Forum is a half-day morning session, on **<time>Wednesday, February 21, 2018
 
 We will release the specific location closer to the date of the conference, but it will be somewhere at the Baltimore Convention Center with the rest of SIGCSE.
 
-## TODO:
-* Deadlines
-* Contact Emails
-*
+### Contact Email
+If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
+
+## Sign Up To Attend
+Please go to [http://bjc.link/csp-forum-signup](http://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
+
+Signups will close at **Friday, February 9, 2018 at 11:59PM**.
+
+## Topic Submissions
+
+We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
+
+If you are interested in presenting at the Forum, please fill out the following submission form: [http://bjc.link/cspforum18](http://bjc.link/cspforum18)
+
+Please submit presentations by **Friday, Jan 26, 2018 at 11:59PM PST**
 
 ## Agenda
----
+
+The day will be organized as a series of short presentations, with ample time for discussion. We will have a more clear picture of the timeline as the event approaches.
 
 | Time | Description |
 | ---- | ----------- |
@@ -42,16 +54,7 @@ We will release the specific location closer to the date of the conference, but 
 | 11:15 AM | Short Talks IV (2 15-minute talks) |
 | 11:45 AM | Short Talks IV Discussion |
 | 12:00 PM | End |
-{: class="table table-striped"}
-
-## Sign Up To Attend
-
-
-## Topic Submissions
-
-If you are interested in presenting at the Forum, please fill out the following submission form: [http://bjc.link/cspforum18](http://bjc.link/cspforum18)
-
-We will try to fit in all topic submissions, as our role is to provide a structure for the workshop.
+{: class="table table-striped table-bordered"}
 
 ## Program Committee
 
