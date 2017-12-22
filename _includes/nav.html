@@ -20,87 +20,34 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-ex1-collapse">
       <ul class="nav navbar-nav navbar-right list-unstyled">
-          <li class="dropdown">
+        {% for item in site.data.navbar %}
+          {% if item.menu %}
+            {% assign menu = item.menu %}
+            <li class="dropdown">
               <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                  <span class="hover-accent">About</span>
-                  <span class="caret" aria-hidden="true"></span>
+                {{ menu[0].title }}
+                <span class="caret" aria-hidden="true"></span>
               </a>
               <ul class="dropdown-menu">
+                {% for link in item.menu[1].links %}
                   <li>
-                      <a href="{{ site.baseurl }}/curriculum">
-                        <span class="hover-accent">About BJC</span>
-                      </a>
+                    <a href="{{ link.href }}">{{ link.name }}</a>
                   </li>
-                  <li>
-                      <a href="{{ site.baseurl }}/team/leadership">
-                        <span class="hover-accent">Meet the Team</span>
-                      </a>
-                  </li>
-                  <li>
-                      <a href="{{ site.baseurl }}/partners">
-                        <span class="hover-accent">Partners</span>
-                      </a>
-                  </li>
+                {% endfor %}
               </ul>
-          </li>
+            </li>
+          {% else %}
+            <li>
+              <a href="{{ item.href }}">{{ item.name }}</a>
+            </li>
+          {% endif %}
+        {% endfor %}
 
-          <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                  <span class="hover-accent">Curriculum</span>
-                  <span class="caret" aria-hidden="true"></span>
-              </a>
-              <ul class="dropdown-menu">
-                  <li>
-                      <a href="{{ site.baseurl }}/curriculum">
-                        <span class="hover-accent">BJC Curriculum</span>
-                      </a>
-                  </li>
-                  <li>
-                      <a href="{{ site.baseurl }}/edx"><span class="hover-accent">edX</span></a>
-                  </li>
-              </ul>
-          </li>
-          <li>
-              <a href="{{ site.baseurl }}/ap-cs-principles">
-                <span class="hover-accent">AP CS Principles</span>
-              </a>
-          </li>
 
-          <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
-                  <span class="hover-accent">Professional Dev<span class="hidden-sm">elopment</span></span>
-                  <span class="caret"></span>
-              </a>
-              <ul class="dropdown-menu">
-                  <li>
-                      <a href="{{ site.baseurl }}/summer-pd">
-                        <span class="hover-accent">Outside NYC</span>
-                      </a>
-                  </li>
-                  <li>
-                      <a href="{{ site.nyc_pd_page }}">
-                        <span class="hover-accent">New York City</span>
-                      </a>
-                  </li>
-              </ul>
-          </li>
+
 
           <li>
-              <a href="{{ site.baseurl }}/sigcse-csp-forum">
-                <span class="hover-accent">CSP Forum</span>
-              </a>
-          </li>
-
-          <li>
-              <a href="{{ site.baseurl }}/resources">
-                <span class="hover-accent">Resources</span>
-              </a>
-          </li>
-
-          <li>
-              <a href="{{ site.baseurl }}/news">
-                <span class="hover-accent">News</span>
-              </a>
+              <a href="{{ site.baseurl }}/news">News</a>
           </li>
       </ul>
     </div><!-- /.navbar-collapse -->
