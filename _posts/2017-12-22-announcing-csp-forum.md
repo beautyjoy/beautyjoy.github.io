@@ -2,7 +2,7 @@
 layout: post
 title: CS Principles Providers and Teachers Forum at SIGCSE 2018
 subtitle: Come meet your CSP peers at SIGCSE in Baltimore.
-date: 2017-12-22
+date: 2017-12-21
 category: news
 tags: csp, sigcse
 ---
