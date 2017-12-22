@@ -1,24 +1,24 @@
-- menu:
-  - title: About
-  - links:
-      - name: About BJC
-        href: /curriculum
-      - name: Meet the Team
-        href: /team/leadership
-      - name: Partners
-        href: /partners
-- menu:
-  - title: Curriculum
-  - links:
-      - name: BJC Curriculum
-        href: /curriculum
-      - name: edX
-        href: /edx
+# - denotes the start of an item in a list.
+# items that have a `title` and `links` become a menu.
+# The rest are individual links.
+- title: About
+  links:
+    - name: About BJC
+      href: /curriculum
+    - name: Meet the Team
+      href: /team/leadership
+    - name: Partners
+      href: /partners
+- title: Curriculum
+  links:
+    - name: BJC Curriculum
+      href: /curriculum
+    - name: edX
+      href: /edx
 - name: AP CS Principles
   href: /ap-cs-principles
-- menu:
-  - title: Professional Development
-  - links:
+- title: Professional Development
+  links:
     - name: Outside NYC
       href: /summer-pd
     - name: New York City
