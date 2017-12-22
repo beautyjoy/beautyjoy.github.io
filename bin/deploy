@@ -8,5 +8,3 @@ else
     bundle exec s3_website push --config-dir=config --verbose;
     exit $?;
 fi
-
-
