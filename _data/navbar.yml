@@ -1,0 +1,31 @@
+# - denotes the start of an item in a list.
+# items that have a `title` and `links` become a menu.
+# The rest are individual links.
+- title: About
+  links:
+    - name: About BJC
+      href: /curriculum
+    - name: Meet the Team
+      href: /team/leadership
+    - name: Partners
+      href: /partners
+- title: Curriculum
+  links:
+    - name: BJC Curriculum
+      href: /curriculum
+    - name: edX
+      href: /edx
+- name: AP CS Principles
+  href: /ap-cs-principles
+- title: Professional Development
+  links:
+    - name: Outside NYC
+      href: /summer-pd
+    - name: New York City
+      href: http://cs4all.nyc/academic-programs/ap-cs-principles/
+- name: CSP Forum
+  href: /sigcse-csp-forum
+- name: Resources
+  href: /resources
+- name: News
+  href: /news

@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div
+  class="jumbotron"
+  {% if page.header_background %}
+  style="background-image: url('{{ site.baseurl }}/img/backgrounds/{{ page.header_background }}.jpg'); min-height: 320px;"
+  {% endif %}
+  >
+    {% if page.header_background %}
+    <div class="background-overlay"></div>
+    {% endif %}
+
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12">
+                <h1>{{ page.title }}</h1>
+                {% if page.subtitle %}
+                <p>{{ page.subtitle }}</p>
+                {% endif %}
+
+                {% if page.call_to_action and page.call_to_action_link %}
+                <a href="{{ page.call_to_action_link }}" class="btn btn-md">
+                  {{ page.call_to_action }}
+                </a>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+
+    {% unless page.header_background %}
+    <div class="trapezoid"></div>
+    {% endunless %}
+</div>
+
+{% capture section_content %}
+  {{ content }}
+{% endcapture %}
+{% include section.html %}

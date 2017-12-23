@@ -3,7 +3,7 @@
 
 # Build Directories
 _site
-_preview
+_aws
 _berkeley
 
 .sass-cache
