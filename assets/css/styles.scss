@@ -72,7 +72,7 @@ a {
     }
   }
 
-  &:hover {
+  &:hover, &:focus {
     text-decoration: none;
     color: $accent-dark;
   }
@@ -172,14 +172,17 @@ blockquote {
   }
 
   .navbar-nav {
-    li a {
+    // all links
+    li a,
+    li button {
       color: $inverted-text-color;
       font-weight: bold;
       line-height: 1.8;
     }
 
-    > li > a {
-      // Reduced from 15px to accommodate hover-accent underline
+    // Only the top-level items
+    > li > a,
+    > li > button {
       padding-bottom: 10px;
     }
 
@@ -190,8 +193,8 @@ blockquote {
         color: $inverted-text-color;
       }
 
-      a:hover,
-      a:focus {
+      a:hover, a:focus,
+      button:hover, button:focus {
         background-color: inherit;
       }
     }
@@ -225,7 +228,7 @@ blockquote {
   a {
     font-weight: bold;
 
-    &:hover {
+    &:hover, &:focus {
       background: none;
     }
   }
@@ -313,12 +316,17 @@ blockquote {
   .section & {
     border: 2px $primary-color solid;
     color: $primary-color;
+
+    &.btn-primary {
+      color: white;
+    }
   }
 
-  &:hover {
+  &:hover, &:focus {
     @include transition(border-color 0.2s ease, color 0.2s ease);
     border-color: $accent-color;
     color: $accent-color;
+    outline: 0;
   }
 }
 

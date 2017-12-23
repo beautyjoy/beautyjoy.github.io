@@ -1,4 +1,10 @@
---- layout: page title: About header_background: group1 --- {% capture section_content %}
+---
+layout: page
+title: About
+header_background: group1
+---
+
+{% capture section_content %}
 
 ## The Beauty and Joy of Computing
 
