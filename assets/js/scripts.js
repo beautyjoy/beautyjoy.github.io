@@ -4,19 +4,7 @@
 $(document).ready(function() {
   normalizeGridHeights();
   fitHeaderText();
-  setupContactForm();
-  setupResourcesContent();
-});
 
-$(window).on('resize orientation', function() {
-  normalizeGridHeights();
-  fitHeaderText();
-});
-
-/*
-  TODO
-*/
-function setupResourcesContent() {
   // JS to show/hide resources by tags
   $('.resources-filter').change(function() {
     var selectedTag = $(this).val();
@@ -38,7 +26,12 @@ function setupResourcesContent() {
   });
 
   $('[data-toggle=collapse]').each(toggleResourceCarets);
-}
+});
+
+$(window).on('resize orientation', function() {
+  normalizeGridHeights();
+  fitHeaderText();
+});
 
 /**
  * Make the captions in our grid galleries to be of the same height.
@@ -62,6 +55,7 @@ function normalizeGridHeights() {
  * TODO: This confuses me and I think it should be re-written...
  * but it mostly works.
  */
+
 function fitHeaderText() {
   $('.jumbotron h1').each(function() {
     $(this).css('font-size', '');
@@ -77,6 +71,7 @@ function fitHeaderText() {
     it doesn't really need to know whether something _should_ be open or
     closed.)
 */
+
 function toggleResourceCarets(idx, elm) {
   var hasCaret = $('.fa-caret-right', $(elm)).length;
   if (!hasCaret) {
@@ -90,36 +85,5 @@ function toggleResourceCarets(idx, elm) {
     } else {
       caret.addClass('fa-rotate-90');
     }
-  });
-}
-
-
-function setupContactForm() {
-  $('.js-contactForm').submit(function (event) {
-    event.preventDefault();
-    var form = $('.js-contactForm');
-    var formId = '1FAIpQLSdPlZ10BBza9_uJPZyM_02oIaB3SZKh9GDkkhQD0-LJAU9hsA';
-    var formURL = 'https://docs.google.com/forms/d/e/' + formId + '/viewform';
-    var formData = form.serializeArray().reduce(function(acc, curr) {
-      acc[curr.name] = curr.value;
-      return acc;
-    }, {});
-
-    $.ajax({
-      type: 'POST',
-      url: formURL,
-      dataType: 'xml',
-      data: {
-        'entry.2005620554': formData.name,
-        'entry.1045781291': formData.email,
-        'entry.1883376079': formData.role,
-        'entry.1166974658': formData.school_name,
-        'entry.968130422': formData.subject,
-        'entry.839337160': formData.message,
-        'entry.1883376079.other_option_response': ''
-      },
-      success: console.log,
-      failure: console.log
-    })
   });
 }
