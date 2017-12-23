@@ -18,9 +18,11 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 
 ## Logistics
 
-The Forum is a half-day morning session, on **<time>Wednesday, February 21, 2018</time>**.
+The Forum is a half-day morning session, on **<time>Wednesday, February 21, 2018 from 8:30 AM to 12:00 PM</time>**.
 
 We will release the specific location closer to the date of the conference, but it will be somewhere at the Baltimore Convention Center with the rest of SIGCSE.
+
+Breakfast and refreshments will be served.
 
 ### Contact Email
 If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
@@ -28,7 +30,7 @@ If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mail
 ## Sign Up To Attend
 Please go to [http://bjc.link/csp-forum-signup](http://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
 
-Signups will close at **Friday, February 9, 2018 at 11:59PM**.
+Signups will close at **Friday, February 9, 2018 at 11:59PM PST**.
 
 ## Topic Submissions
 
@@ -36,7 +38,7 @@ We are looking for topics that would be of broad interest to the CSP Community. 
 
 If you are interested in presenting at the Forum, please fill out the following submission form: [http://bjc.link/cspforum18](http://bjc.link/cspforum18)
 
-Please submit presentations by **Friday, Jan 26, 2018 at 11:59PM PST**
+Please submit presentations by **Friday, Jan 26, 2018 at 11:59PM PST**.
 
 ## Agenda
 
