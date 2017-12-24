@@ -48,7 +48,7 @@ function buildEmail(event) {
 
   body = 'A new message has been sent.';
   body += '<br><br><table><tbody>';
-  for (key in event) {
+  for (var key in event) {
     body += tableRow(key, event[key]);
   }
 
