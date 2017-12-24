@@ -98,8 +98,7 @@ function setupContactForm() {
   $('.js-contactForm').submit(function (event) {
     event.preventDefault();
     var form = $('.js-contactForm');
-    var formId = '1FAIpQLSdPlZ10BBza9_uJPZyM_02oIaB3SZKh9GDkkhQD0-LJAU9hsA';
-    var formURL = 'https://docs.google.com/forms/d/e/' + formId + '/viewform';
+    var formURL = 'https://arp3ezzi5l.execute-api.us-west-2.amazonaws.com/prod/send-email';
     var formData = form.serializeArray().reduce(function(acc, curr) {
       acc[curr.name] = curr.value;
       return acc;
@@ -107,17 +106,10 @@ function setupContactForm() {
 
     $.ajax({
       type: 'POST',
-      url: formURL,
-      dataType: 'xml',
-      data: {
-        'entry.2005620554': formData.name,
-        'entry.1045781291': formData.email,
-        'entry.1883376079': formData.role,
-        'entry.1166974658': formData.school_name,
-        'entry.968130422': formData.subject,
-        'entry.839337160': formData.message,
-        'entry.1883376079.other_option_response': ''
-      },
+      url: formURL + '?' + form.serialize(),
+      dataType: 'json',
+      contentType: 'application/json',
+      data: JSON.stringify(formData),
       success: console.log,
       failure: console.log
     })
