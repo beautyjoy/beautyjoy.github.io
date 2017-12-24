@@ -2,4 +2,4 @@
 ## This file is to be executed from the root of the repo.
 
 BJC_PATH='/home/cs/bh/public_html/bjc/'
-rsync -avhzP ./_berkeley/* michael.ball@login.eecs.berkeley.edu:${BJC_PATH};
+scp -Cprv ./_berkeley/* michael.ball@login.eecs.berkeley.edu:${BJC_PATH};
