@@ -93,25 +93,53 @@ function toggleResourceCarets(idx, elm) {
   });
 }
 
-
 function setupContactForm() {
+  function restoreButtonText() {
+    $('.js-contactForm').find('button').text('Submit').removeAttr('disabled');
+  }
+
+  function buildAlert(type, text) {
+    var alertButton = '<button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>';
+    var $messageContainer = $('.js-submitMessageTarget');
+    var $alert = $('<div>').addClass('alert').addClass('alert-' + type);
+    $alert.append(alertButton).append(text);
+    $alert.alert();
+    $messageContainer.append($alert);
+    $('html, body').animate({
+      scrollTop: $messageContainer.offset().top
+    }, 1000);
+  }
+
+  function handleSuccess() {
+    buildAlert('success', 'Thanks for your message! We\'ll be in touch.');
+    $('.js-contactForm').trigger('reset');
+  }
+
+  function handleFailure() {
+    buildlAret('error', 'Uh-oh! You\'re message couldn\'t be sent. Please try again, or send a message to <a href="mailto:{{site.email}}">{{site.email}}</a>');
+  }
+
   $('.js-contactForm').submit(function (event) {
     event.preventDefault();
-    var form = $('.js-contactForm');
+    var $form = $('.js-contactForm');
     var formURL = 'https://arp3ezzi5l.execute-api.us-west-2.amazonaws.com/prod/send-email';
-    var formData = form.serializeArray().reduce(function(acc, curr) {
+    var formData = $form.serializeArray().reduce(function(acc, curr) {
       acc[curr.name] = curr.value;
       return acc;
     }, {});
 
+    $form.find('button').html(
+      '<i class="fa fa-spin fa-spinner" aria-label="sending..."></i>'
+    ).attr('disabled', true);
     $.ajax({
       type: 'POST',
-      url: formURL + '?' + form.serialize(),
+      url: formURL,
       dataType: 'json',
       contentType: 'application/json',
       data: JSON.stringify(formData),
-      success: console.log,
-      failure: console.log
+      success: handleSuccess,
+      error: handleFailure,
+      complete: restoreButtonText
     })
   });
 }
