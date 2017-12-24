@@ -3,6 +3,7 @@
 
 # BJC_PATH='/home/cs/bh/public_html/bjc/';
 BJC_PATH="../bjc/";
+# ACCOUNT='michael.ball@login.eecs.berkeley.edu';
 ACCOUNT='michael@abbenay.cs.berkeley.edu';
 
-sshpass -p "${SCP_PASSWORD}" scp -prv ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
+sshpass -p "${SCP_PASSWORD}" rsync -avhz ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
