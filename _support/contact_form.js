@@ -2,8 +2,8 @@ var AWS = require('aws-sdk');
 var ses = new AWS.SES();
 
 // This must be verified to work.
-var DESTINATION = 'cycomachead@gmail.com'; // testing...
-// var DESTINATION = 'contact@bjc.berkeley.edu';
+// var DESTINATION = 'cycomachead@gmail.com'; // testing...
+var DESTINATION = 'contact@bjc.berkeley.edu';
 
 exports.handler = function(event, context) {
   console.log('Received event:', event)
