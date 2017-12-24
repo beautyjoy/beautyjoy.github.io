@@ -1,12 +1,43 @@
 ---
 title: Contact
+subtitle: We'd love to hear from you!
 layout: page
-published: false
+redirect_from:
+  - /website/contact.html
 ---
+{% capture right_column %}
+
+## Address
+
+<address>
+ The Beauty and Joy of Computing<br />
+ 777 Soda Hall<br />
+ Berkeley, CA 94720
+</address>
+
+## Email Address
+[{{ site.email }}](mailto:{{ site.email }})
+
+## Social Profiles
+<div class="col-xs-12 social-icons">
+  <a href="http://twitter.com/{{site.twitter_username}}">
+    <i class="fa fa-twitter-square fa-2x" aria-label="BJC Twitter"></i>
+  </a>
+  <a href="http://facebook.com/{{site.facebook_username}}">
+    <i class="fa fa-facebook-square fa-2x" aria-label="BJC Facebook"></i>
+  </a>
+  <a href="http://instagram.com/{{site.instagram_username}}">
+    <i class="fa fa-instagram fa-2x" aria-label="BJC Instagram"></i>
+  </a>
+</div>
+
+{% endcapture %}
+
 
 {% capture section_content %}
 <div class="row">
- <div class="col-md-6 col-sm-6 col-xs-12">
+ <div class="col-md-6 col-sm-6 col-xs-12 hidden">
+  <h2>Send a message</h2>
   <form class="js-contactForm">
    <div class="form-group">
     <label class="control-label requiredField" for="name">
@@ -47,12 +78,16 @@ published: false
     <label class="control-label requiredField" for="message">
       Message <span class="asteriskField">*</span>
     </label>
-    <textarea class="form-control" cols="40" id="message" name="message" rows="10"></textarea>
+    <textarea class="form-control" cols="40" id="message" name="message" rows="6"></textarea>
    </div>
    <button class="btn btn-primary" name="submit" type="submit">
     Submit
    </button>
   </form>
+ </div>
+
+ <div class="col-md-6 col-sm-6 col-xs-12">
+   {{ right_column | markdownify }}
  </div>
 </div>
 
