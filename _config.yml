@@ -21,7 +21,7 @@ description: > # this means to ignore newlines until "baseurl:"
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
-baseurl:
+baseurl: ""
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
 url: "https://beautyjoy.github.io"

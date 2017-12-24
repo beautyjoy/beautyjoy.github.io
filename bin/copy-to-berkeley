@@ -1,5 +1,8 @@
 #! /bin/bash
 ## This file is to be executed from the root of the repo.
 
-BJC_PATH='/home/cs/bh/public_html/bjc/'
-scp -Cprv ./_berkeley/* michael.ball@login.eecs.berkeley.edu:${BJC_PATH};
+# BJC_PATH='/home/cs/bh/public_html/bjc/';
+BJC_PATH="../bjc/";
+ACCOUNT='michael@abbenay.cs.berkeley.edu';
+
+sshpass -p "${SCP_PASSWORD}" scp -prv ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
