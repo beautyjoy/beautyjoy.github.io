@@ -12,14 +12,16 @@ exports.handler = function(event, context) {
   })
 }
 
+function capitalize(string) {
+  return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
 function sendEmail(event, done) {
   var params = {
     Destination: {
       ToAddresses: [ DESTINATION ]
     },
-    ReplyToAddresses: [
-      event.email
-    ],
+    ReplyToAddresses: [ event.email ],
     Message: {
       Body: {
         Html: {
@@ -38,13 +40,13 @@ function sendEmail(event, done) {
 }
 
 function tableRow(keyName, keyValue) {
-  return '<tr><th style="text-align: left">' + keyName + ':</th><td>' + keyValue + '</td></tr>';
+  return '<tr><th style="text-align: left">' + capitalize(keyName) + ':</th><td>' + keyValue + '</td></tr>';
 }
 
 function buildEmail(event) {
   var body;
 
-  body = 'Hello ' + event.name + ',<br>Thank you for your message.';
+  body = 'A new message has been sent.';
   body += '<br><br><table><tbody>';
   for (key in event) {
     body += tableRow(key, event[key]);
