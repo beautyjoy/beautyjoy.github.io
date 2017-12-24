@@ -2,6 +2,7 @@
 title: 2018 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
+published: false
 redirect_from:
   - /pd-3-weeks/
   - /pd-6-weeks/
