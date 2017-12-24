@@ -57,5 +57,4 @@ exclude:
   - bin
   - package.json
   - config
-  - front-page
   - about.md
