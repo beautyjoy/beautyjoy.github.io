@@ -16,7 +16,7 @@
 title: BJC
 author: UC Berkeley, Dan Garcia, Brian Harvey, Tiffany Barnes, Michael Ball, Lauren Mock
 email: contact@bjc.berkeley.edu
-description: > # this means to ignore newlines until "baseurl:"
+description: >
   The Beauty and Joy of Computing is an endorsed AP Computer Science Principles course that is a rigorous introduction to programming and that the ways we interact with and are affected by technology every day.
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
@@ -25,7 +25,7 @@ baseurl: ""
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
 url: "https://beautyjoy.github.io"
-permalink: pretty # make permalinks not have the ending .html
+permalink: pretty
 
 # This is used for displaying a warning on sites that aren't the
 # production site.

@@ -1,2 +1,10 @@
+---
+---
+
 User-agent: *
 Disallow: /website/
+
+{% if site.url != site.production_url %}
+User-agent: *
+Disallow: /
+{% endif %}
