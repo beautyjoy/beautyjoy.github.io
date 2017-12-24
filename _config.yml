@@ -48,12 +48,14 @@ plugins:
 # Build settings
 markdown: kramdown
 exclude:
-    - .gitingore
-    - Gemfile
-    - Gemfile.lock
-    - README.md
-    - circle.yml
-    - vendor # created when the site is built on CircleCI
-    - bin
-    - package.json
-    - config
+  - .gitingore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - circle.yml
+  - vendor # created when the site is built on CircleCI
+  - bin
+  - package.json
+  - config
+  - front-page
+  - about.md
