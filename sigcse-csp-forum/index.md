@@ -36,9 +36,7 @@ Signups will close at **Friday, February 9, 2018 at 11:59PM PST**.
 
 We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
 
-If you are interested in presenting at the Forum, please fill out the following submission form: [http://bjc.link/cspforum18](http://bjc.link/cspforum18)
-
-Please submit presentations by **Friday, Jan 26, 2018 at 11:59PM PST**.
+_Presentation submissions have now closed. Thanks for your interest!_
 
 ## Agenda
 
