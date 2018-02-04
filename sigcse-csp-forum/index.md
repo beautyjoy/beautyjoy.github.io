@@ -44,7 +44,7 @@ The day will be organized as a series of short presentations, with ample time fo
 
 <br>
 
-<table class="table table-striped">
+<table class="table table-striped table-bordered">
   <caption class="sr-only">Session Times and Titles</caption>
   <thead>
     <tr>
