@@ -40,14 +40,16 @@ _Presentation submissions have now closed. Thanks for your interest!_
 
 ## Agenda
 
-The day will be organized as a series of short presentations, with ample time for discussion. We will have a more clear picture of the timeline as the event approaches.
+The day will be organized as a series of short presentations, with ample time for discussion. 
+
+<br>
 
 <table class="table table-striped">
   <caption class="sr-only">Session Times and Titles</caption>
-  <thred>
+  <thead>
     <tr>
-    <td scope="col">Time</td>
-    <td scope="col">Description</td>
+      <th scope="col">Time</th>
+      <th scope="col">Description</th>
     </tr>
   </thead>
   <tbody>
