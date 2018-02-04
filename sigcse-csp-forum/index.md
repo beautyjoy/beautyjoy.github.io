@@ -56,7 +56,7 @@ The day will be organized as a series of short presentations, with ample time fo
     <td>Welcome &amp; Introductions</td>
   </tr>
   <tr>
-    <td colspan="2">CS Principles Program and Progress Overview</td>
+    <td colspan="2"><strong>CS Principles Program and Progress Overview</strong></td>
   </tr>
   <tr>
     <td>8:05 - 8:20 AM</td>
@@ -71,7 +71,7 @@ The day will be organized as a series of short presentations, with ample time fo
     <td>Q &amp; A</td>
   </tr>
   <tr>
-    <td colspan="2">PD Best Practices</td>
+    <td colspan="2"><strong>PD Best Practices</strong></td>
   </tr>
   <tr>
     <td>8:45 - 8:55 AM</td>
@@ -94,7 +94,7 @@ The day will be organized as a series of short presentations, with ample time fo
     <td>Break</td>
   </tr>
   <tr>
-    <td colspan="2">Recruitment</td>
+    <td colspan="2"><strong>Recruitment</strong></td>
   </tr>
   <tr>
     <td>9:40 - 9:45 AM</td>
@@ -129,7 +129,7 @@ The day will be organized as a series of short presentations, with ample time fo
     <td>Break</td>
   </tr>
   <tr>
-    <td colspan="2">Teacher Needs</td>
+    <td colspan="2"><strong>Teacher Needs</strong></td>
   </tr>
   <tr>
     <td>10:35 - 10:45 AM</td>
@@ -152,7 +152,7 @@ The day will be organized as a series of short presentations, with ample time fo
     <td>Q &amp; A</td>
   </tr>
   <tr>
-    <td colspan="2">AP CS Principles Exam</td>
+    <td colspan="2"><strong>AP CS Principles Exam</strong></td>
   </tr>
   <tr>
     <td>11:20 - 12:00 PM</td>
@@ -164,6 +164,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   </tbody>
 </table>  
+
 
 ## Program Committee
 
