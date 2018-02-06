@@ -70,7 +70,7 @@ Regional BJC Summer PD is offered in 2018 for a non-refundable $75 registration 
 
 ## Where is BJC PD being offered?
 
-BJC will be offered as part of the Infosys Foundation's USA Pathfinders Summer Institute at the Indiana University Bloomington campus from July 15-20, 2018. See the [Pathfinders Institute announcement][pathfinders] for more info.
+BJC will be offered as part of the Infosys Foundation's USA Pathfinders Summer Institute at the Indiana University Bloomington campus from July 15-20, 2018. See the [Pathfinders Institute announcement][pathfinders] for more information.
 
 [pathfinders]: http://www.infosys.org/infosys-foundation-usa/media/press/Pages/free-cs-training-800-teachers-summer2018.aspx
 
