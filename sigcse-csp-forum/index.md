@@ -116,7 +116,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:00 - 10:05 AM</td>
-    <td>Start a Computer Science Honor Society Chapter!<br>Buffy Holley, High School Teacher, Mobile CSP</td>
+    <td>Start a Computer Science Honor Society Chapter!<br>Buffie Holley, High School Teacher, Mobile CSP</td>
   </tr>
   <tr>
     <td>10:05 - 10:10 AM</td>
@@ -139,7 +139,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:45 - 10:55 AM</td>
-    <td>What Teachers Need in the Classroom to Teach CSP Effectively and Efficiently<br>Diane O'Grady-Cunniff, High School Teacher, CS Matters Marlyand</td>
+    <td>What Teachers Need in the Classroom to Teach CSP Effectively and Efficiently<br>Dianne O'Grady-Cunniff, High School Teacher, CS Matters Marlyand</td>
   </tr>
   <tr>
     <td>10:55 - 11:05 AM</td>
