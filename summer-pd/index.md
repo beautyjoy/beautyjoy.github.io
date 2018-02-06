@@ -25,7 +25,7 @@ In 2018, we will offer several 5-day in-person regional workshops. To sign up fo
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
 [pd-email]: mailto:pd@bjc.berkeley.edu
 
-## The BJC curriculum, in short
+## The BJC Curriculum, In Short
 
 BJC, The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
 
@@ -70,7 +70,7 @@ Regional BJC Summer PD is offered in 2018 for a non-refundable $75 registration 
 
 ## Where is BJC PD being offered?
 
-BJC will be offered as part of the Pathfinders Institute at Indiana University Bloomington campus from July 15-20, 2018, with generous support from Infosys Foundation USA. See the [Pathfinders Institute announcement][pathfinders] for more info.
+BJC will be offered as part of the Infosys Foundation's USA Pathfinders Summer Institute at the Indiana University Bloomington campus from July 15-20, 2018. See the [Pathfinders Institute announcement][pathfinders] for more info.
 
 [pathfinders]: http://www.infosys.org/infosys-foundation-usa/media/press/Pages/free-cs-training-800-teachers-summer2018.aspx
 
@@ -78,7 +78,7 @@ We also plan workshops in the following locations:
 
 {% include_relative _pd_locations.html %}
 
-New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More info coming soon!
+New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
 
 ## How do I become a BJC Master Teacher?
 If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email], or complete our Train the Trainer workshop application at http://bjc.link/TTTApp2018. Be sure to plan to attend our 2018 BJC "Train the Trainer" Master Teacher workshop June 19-22, and one or more 5-day in-person BJC workshops as a Teaching Assistant (TA).
