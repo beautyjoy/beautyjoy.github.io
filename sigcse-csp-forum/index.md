@@ -116,7 +116,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:00 - 10:05 AM</td>
-    <td>Start a Computer Science Honor Society Chapter!<br>Buffie Holley, High School Teacher, Mobile CSP</td>
+    <td>Start a Computer Science Honor Society Chapter!<br>Buffie Holley, High School Teacher, CodeVA</td>
   </tr>
   <tr>
     <td>10:05 - 10:10 AM</td>
