@@ -135,7 +135,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:35 - 10:45 AM</td>
-    <td>Seen by a Teacher: Obstacles in CSP Education<br>Tsee Lee, High School Teacher, UTeach / BJC</td>
+    <td>Seen by a Teacher: Obstacles in CSP Education<br>Tsee Lee, High School Teacher, UTeach / BJC<br>Jessica Du, High School Teacher, BJC</td>
   </tr>
   <tr>
     <td>10:45 - 10:55 AM</td>
