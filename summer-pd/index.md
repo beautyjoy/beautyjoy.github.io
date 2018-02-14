@@ -8,6 +8,7 @@ redirect_from:
   - /website/pd3.html
   - /website/pd6.html
 ---
+
 <!-- TODO: The last redirect URLs are temporary. -->
 
 ## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
@@ -19,7 +20,49 @@ Thanks to the generosity of Infosys Foundation USA, BJC is offering FREE BJC Com
 We also plan workshops in the following locations:
 
 
-{% include_relative _pd_locations.html %}
+<!-- TODO: Make this be a YAML file. -->
+<table class="table table-striped table-bordered">
+    <tr>
+      <!-- class='info' -->
+      <th scope="col">Dates</th>
+      <th scope="col">Locations</th>
+    </tr>
+      <tr>
+        <td>June 4 - 8</td>
+        <td>Southern Utah (location TBD)</td>
+      </tr>
+      <tr>
+        <td>June 18 - 22</td>
+        <td>Florida A&amp;M University / Tallahassee, FL</td>
+      <tr>
+        <td>June 25 - 29</td>
+        <td>Colorado School of Mines / Denver, CO</td>
+      </tr>
+      <tr>
+        <td>June 25 - 29</td>
+        <td>El Camino College / Torrance, CA</td>
+      </tr>
+      <tr>
+        <td>July 9 - 13</td>
+        <td>Harvey Mudd College / Claremont, CA</td>
+      </tr>
+      <tr>
+        <td>July 23 - 27</td>
+        <td>Northern Kentucky University / Highland Heights, KY</td>
+      </tr>
+      <tr>
+        <td>July 23 - 27</td>
+        <td>Kean University, Union, NJ (NYC area)</td>
+      </tr>
+      <tr>
+        <td>July 30 - Aug 3</td>
+        <td>University of California, Berkeley / Berkeley, CA</td>
+      </tr>
+      <tr>
+        <td>Aug 6 - 10</td>
+        <td>George Mason University / Fairfax, VA (DC area)</td>
+      </tr>
+</table>
 
 
 New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
@@ -80,7 +123,7 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 ### How can I be part of BJC PD?
 
-We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner). 
+We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
 Please complete our [2018 PD Interest Form](http://bit.ly/pdinterest18) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
 
