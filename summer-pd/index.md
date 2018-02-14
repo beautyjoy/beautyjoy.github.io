@@ -12,6 +12,26 @@ redirect_from:
 
 ## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
 
+## Where is BJC PD being offered in Summer 2018?
+
+Thanks to the generosity of Infosys Foundation USA, BJC is offering FREE BJC Computer Science Professional Development for 80 teachers at the Pathfinders Summer Institute on July 15-20, 2018 at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
+
+We also plan workshops in the following locations:
+
+
+{% include_relative _pd_locations.html %}
+
+
+New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
+
+[pathfinders]: https://infy.com/Pathfinders
+
+## PD Application Summer 2018
+
+Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]
+
+[pd-app-link]: http://bjc.link/BJCPDApp2018
+
 ## Regional BJC PD Model
 
 [Professor Tiffany Barnes][tiffany] at NC State University leads our efforts to provide regional BJC professional development workshops at universities around the United States. These workshops have been offered since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), Donors Choose, and Infosys Foundation USA.
@@ -25,7 +45,7 @@ In 2018, we will offer several 5-day in-person regional workshops. To sign up fo
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
 [pd-email]: mailto:pd@bjc.berkeley.edu
 
-## The BJC curriculum, in short
+## The BJC Curriculum, In Short
 
 BJC, The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
 
@@ -67,18 +87,6 @@ Please complete our [2018 PD Interest Form](http://bit.ly/pdinterest18) to recei
 ### How much does it cost?
 
 Regional BJC Summer PD is offered in 2018 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals. Participating teachers who complete all program requirements will also be eligible for a stipend of up to $500.
-
-## Where is BJC PD being offered?
-
-BJC will be offered as part of the Pathfinders Institute at Indiana University Bloomington campus from July 15-20, 2018, with generous support from Infosys Foundation USA. See the [Pathfinders Institute announcement][pathfinders] for more info.
-
-[pathfinders]: http://www.infosys.org/infosys-foundation-usa/media/press/Pages/free-cs-training-800-teachers-summer2018.aspx
-
-We also plan workshops in the following locations:
-
-{% include_relative _pd_locations.html %}
-
-New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More info coming soon!
 
 ## How do I become a BJC Master Teacher?
 If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email], or complete our Train the Trainer workshop application at http://bjc.link/TTTApp2018. Be sure to plan to attend our 2018 BJC "Train the Trainer" Master Teacher workshop June 19-22, and one or more 5-day in-person BJC workshops as a Teaching Assistant (TA).

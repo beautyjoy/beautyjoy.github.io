@@ -18,7 +18,7 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 
 ## Logistics
 
-The Forum is a half-day morning session, on **<time>Wednesday, February 21, 2018 from 8:30 AM to 12:00 PM</time>**.
+The Forum is a half-day morning session, on **<time>Wednesday, February 21, 2018 from 8:00 AM to 12:00 PM</time>**.
 
 We will release the specific location closer to the date of the conference, but it will be somewhere at the Baltimore Convention Center with the rest of SIGCSE.
 
@@ -40,21 +40,133 @@ _Presentation submissions have now closed. Thanks for your interest!_
 
 ## Agenda
 
-The day will be organized as a series of short presentations, with ample time for discussion. We will have a more clear picture of the timeline as the event approaches.
+The day will be organized as a series of short presentations, with ample time for discussion. 
 
-| Time | Description |
-| ---- | ----------- |
-| 8:30 AM  | Introduction and Short Talks I (2 15-minute talks) |
-| 9:00 AM  | Short Talks I Discussion |
-| 9:15 AM  | Short Talks II (2 15-minute talks) |
-| 9:45 AM  | Short Talks II Discussion |
-| 10:00 AM | Break |
-| 10:30 AM | Short Talks III (2 15-minute talks) |
-| 11:00 AM | Short Talks III Discussion |
-| 11:15 AM | Short Talks IV (2 15-minute talks) |
-| 11:45 AM | Short Talks IV Discussion |
-| 12:00 PM | End |
-{: class="table table-striped table-bordered"}
+<br>
+
+<table class="table table-striped table-bordered">
+  <caption class="sr-only">Session Times and Titles</caption>
+  <thead>
+    <tr>
+      <th scope="col">Time</th>
+      <th scope="col">Description</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+    <td>8:00 - 8:05 AM</td>
+    <td>Welcome &amp; Introductions</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>CS Principles Program and Progress Overview</strong></td>
+  </tr>
+  <tr>
+    <td>8:05 - 8:20 AM</td>
+    <td>The Past, Present, and Future of Computer Science Principles<br>Owen Astrachan</td>
+  </tr>
+  <tr>
+    <td>8:20 - 8:35 AM</td>
+    <td>From CS10K to CSforAll: Outcomes and Status of NSF Funding<br>Jan Cuny</td>
+  </tr>
+  <tr>
+    <td>8:35 - 8:45 AM</td>
+    <td>Q &amp; A</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>PD Best Practices</strong></td>
+  </tr>
+  <tr>
+    <td>8:45 - 8:55 AM</td>
+    <td>Creating Community in Online Professional Development<br>Jen Rosato, Mobile CSP</td>
+  </tr>
+  <tr>
+    <td>8:55 - 9:05 AM</td>
+    <td>Lessons Learned Offering CS PD for High School Teachers<br>Leslie Keller, BJC</td>
+  </tr>
+  <tr>
+    <td>9:05 - 9:15 AM</td>
+    <td>Facilitators Need Professional Development Too<br>GT Wrobel, Brook Osborne, Baker Franke, code.org</td>
+  </tr>
+  <tr>
+    <td>9:15 - 9:30 AM</td>
+    <td>Q &amp; A</td>
+  </tr>
+  <tr>
+    <td>9:30 - 9:40 AM</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Recruitment</strong></td>
+  </tr>
+  <tr>
+    <td>9:40 - 9:45 AM</td>
+    <td>Successful Student Recruitment Through Proper Planning<br>Justin Cannady, Curriculum Provider, UTeach</td>
+  </tr>
+  <tr>
+    <td>9:45 - 9:50 AM</td>
+    <td>Recruiting for Diversity<br>Kimberly Hermans, High School Teacher, BJC</td>
+  </tr>
+  <tr>
+    <td>9:50 - 9:55 AM</td>
+    <td>Recruiting AVID Students for AP CSP<br>Amanda Lattimore, Resource Teacher, code.org</td>
+  </tr>
+  <tr>
+    <td>9:55 - 10:00 AM</td>
+    <td>Recruiting Teachers for a New AP CSP PD Program in Hawaii<br>Debasis Bhattacharya, Professor, UTeach CS</td>
+  </tr>
+  <tr>
+    <td>10:00 - 10:05 AM</td>
+    <td>Start a Computer Science Honor Society Chapter!<br>Buffie Holley, High School Teacher, CodeVA</td>
+  </tr>
+  <tr>
+    <td>10:05 - 10:10 AM</td>
+    <td>If You Invited Them, They Will Come! Support Students by Offering a Safe Place Where They Can Meet<br>Deborah Kariuki, High School Teacher, CodeHS / code.org</td>
+  </tr>
+  <tr>
+    <td>10:10 - 10:25 AM</td>
+    <td>Q &amp; A</td>
+  </tr>
+  <tr>
+    <td>10:25 - 10:35 AM</td>
+    <td>Break</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>Teacher Needs</strong></td>
+  </tr>
+  <tr>
+    <td>10:35 - 10:45 AM</td>
+    <td>Seen by a Teacher: Obstacles in CSP Education<br>Tsee Lee, High School Teacher, UTeach / BJC<br>Jessica Du, High School Teacher, BJC</td>
+  </tr>
+  <tr>
+    <td>10:45 - 10:55 AM</td>
+    <td>What Teachers Need in the Classroom to Teach CSP Effectively and Efficiently<br>Dianne O'Grady-Cunniff, High School Teacher, CS Matters Marlyand</td>
+  </tr>
+  <tr>
+    <td>10:55 - 11:05 AM</td>
+    <td>Curriculum Revisions: Empowering Master Teachers<br>Jen Rosato, Curriculum Provider, Mobile CSP</td>
+  </tr>
+  <tr>
+    <td>11:05 - 11:15 AM</td>
+    <td>How Does Equity in Computer Science Education Look Like?<br>Deborah Kariuki, High School Teacher, CodeHS / code.org</td>
+  </tr>
+  <tr>
+    <td>11:15 - 11:20 AM</td>
+    <td>Q &amp; A</td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>AP CS Principles Exam</strong></td>
+  </tr>
+  <tr>
+    <td>11:20 - 12:00 PM</td>
+    <td>Discussion: CSP Year One - What Happened, What Happens Next and Lessons Learned<br>Jeremy Keeshin, CodeHS<br>GT Wrobel, Brook Osborne, Baker Franke, code.org</td>
+  </tr>
+  <tr>
+    <td>12:00 PM</td>
+    <td>Close</td>
+  </tr>
+  </tbody>
+</table>  
+
 
 ## Program Committee
 
