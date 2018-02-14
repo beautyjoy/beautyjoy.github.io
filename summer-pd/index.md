@@ -19,51 +19,19 @@ Thanks to the generosity of Infosys Foundation USA, BJC is offering FREE BJC Com
 
 We also plan workshops in the following locations:
 
-
-<!-- TODO: Make this be a YAML file. -->
-<table class="table table-striped table-bordered">
-    <tr>
-      <!-- class='info' -->
-      <th scope="col">Dates</th>
-      <th scope="col">Locations</th>
-    </tr>
-      <tr>
-        <td>June 4 - 8</td>
-        <td>Southern Utah (location TBD)</td>
-      </tr>
-      <tr>
-        <td>June 18 - 22</td>
-        <td>Florida A&amp;M University / Tallahassee, FL</td>
-      <tr>
-        <td>June 25 - 29</td>
-        <td>Colorado School of Mines / Denver, CO</td>
-      </tr>
-      <tr>
-        <td>June 25 - 29</td>
-        <td>El Camino College / Torrance, CA</td>
-      </tr>
-      <tr>
-        <td>July 9 - 13</td>
-        <td>Harvey Mudd College / Claremont, CA</td>
-      </tr>
-      <tr>
-        <td>July 23 - 27</td>
-        <td>Northern Kentucky University / Highland Heights, KY</td>
-      </tr>
-      <tr>
-        <td>July 23 - 27</td>
-        <td>Kean University, Union, NJ (NYC area)</td>
-      </tr>
-      <tr>
-        <td>July 30 - Aug 3</td>
-        <td>University of California, Berkeley / Berkeley, CA</td>
-      </tr>
-      <tr>
-        <td>Aug 6 - 10</td>
-        <td>George Mason University / Fairfax, VA (DC area)</td>
-      </tr>
-</table>
-
+| Dates            | Locations                                                                          |
+| ---------------- |------------------------------------------------------------------------------------|
+| June 4 - 8       |  Southern Utah / Location TBD                                                      |
+| June 18 - 22     |  Florida A&amp;M University / Tallahasse, FL                                       |
+| June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
+| June 25 - 29     |  El Camino College / Torrance, CA                                                  |
+| July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
+| July 9 - 13      |  University of North Texas / Denton, TX                                            |
+| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
+| July 23 - 27     |  Kean University / Union, NJ (near NYC)                                            |
+| July 23 - 27     |  Northern Kentucky University / Highland Heights, KY                               |
+| July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
+| Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
 
 New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
 
@@ -71,7 +39,7 @@ New in 2018, NC State University and The Citadel are partnering to offer PD on i
 
 ## PD Application Summer 2018
 
-Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]
+**Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]**
 
 [pd-app-link]: http://bjc.link/BJCPDApp2018
 
