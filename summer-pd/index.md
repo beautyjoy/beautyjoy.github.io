@@ -24,7 +24,9 @@ New in 2018, NC State University and The Citadel are partnering to offer PD on i
 
 ## PD Application Summer 2018
 
-Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][PD Application Link]
+Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]
+
+[pd-app-link]: http://bjc.link/BJCPDApp2018
 
 ## Regional BJC PD Model
 
