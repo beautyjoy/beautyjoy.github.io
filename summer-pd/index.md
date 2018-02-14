@@ -18,11 +18,13 @@ Thanks to the generosity of Infosys Foundation USA, BJC is offering FREE BJC Com
 
 We also plan workshops in the following locations:
 
+
 {% include_relative _pd_locations.html %}
+
 
 New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
 
-[pathfinders]: infy.com/Pathfinders
+[pathfinders]: https://infy.com/Pathfinders
 
 ## PD Application Summer 2018
 
