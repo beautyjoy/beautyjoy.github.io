@@ -15,7 +15,7 @@ redirect_from:
 
 ## Where is BJC PD being offered in Summer 2018?
 
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 15-20**, 2018 at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 15-20, 2018** at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
 
 We also plan workshops in the following locations:
 
