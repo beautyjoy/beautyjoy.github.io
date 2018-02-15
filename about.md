@@ -2,6 +2,7 @@
 layout: page
 title: About
 header_background: group1
+published: false
 ---
 
 {% capture section_content %}

@@ -253,13 +253,13 @@ blockquote {
 
   &.homepage {
     padding: 150px 0;
-    background-image: url("{{ site.baseurl }}/img/backgrounds/bjc-team-photo.jpg");
+    background-image: url("{{ site.baseurl }}/assets/img/backgrounds/bjc-team-photo.jpg");
     text-shadow: 0 2px 6px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,.2);
   }
 
   &.headlines {
     padding: 150px 0;
-    background-image: url("{{ site.baseurl }}/img/backgrounds/new-york.jpg");
+    background-image: url("{{ site.baseurl }}/assets/img/backgrounds/new-york.jpg");
   }
 
   .background-overlay {

@@ -54,7 +54,4 @@ exclude:
   - README.md
   - circle.yml
   - vendor # created when the site is built on CircleCI
-  - bin
   - package.json
-  - config
-  - about.md
