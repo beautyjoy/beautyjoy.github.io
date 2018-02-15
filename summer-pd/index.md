@@ -20,8 +20,8 @@ Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering *
 We also plan workshops in the following locations:
 
 | Dates            | Locations                                                                          |
-| ---------------- |------------------------------------------------------------------------------------|
-| June 4 - 8       |  Southern Utah / Location TBD                                                      |
+| :--------------: |------------------------------------------------------------------------------------|
+| June 4 - 8       |  Southern Utah <br/> Location TBD                                                      |
 | June 18 - 22     |  Florida A&amp;M University / Tallahasse, FL                                       |
 | June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
 | June 25 - 29     |  El Camino College / Torrance, CA                                                  |
