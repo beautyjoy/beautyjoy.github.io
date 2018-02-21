@@ -116,7 +116,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:25 - 10:30 AM</td>
-    <td>Recruiting Teachers for a New AP CSP PD Program in Hawaii<br>Debasis Bhattacharya, Professor, UTeach CS</td>
+    <td>Recruiting Teachers for a New AP CSP PD Program in Hawaii<br>Debasis Bhattacharya, Faculty, University of Hawaii</td>
   </tr>
   <tr>
     <td>10:30 - 10:35 AM</td>
