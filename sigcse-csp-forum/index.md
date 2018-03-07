@@ -66,11 +66,11 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>8:35 - 8:50 AM</td>
-    <td>The Past, Present, and Future of Computer Science Principles<br>Owen Astrachan</td>
+    <td>The Past, Present, and Future of Computer Science Principles <a href="https://docs.google.com/presentation/d/1Z1ZK4XGpF-f5m4gQKevoUHMkHBIrVMmnoNxSv366VPU/edit?usp=sharing" alt="Slides from Owen Astrachan">(slides)</a><br>Owen Astrachan</td>
   </tr>
   <tr>
     <td>8:50 - 9:05 AM</td>
-    <td>From CS10K to CSforAll: Outcomes and Status of NSF Funding<br>Jan Cuny</td>
+    <td>From CS10K to CSforAll: Outcomes and Status of NSF Funding <a href="https://docs.google.com/presentation/d/1jst0sCVP92iv_4DXRV-w11Oj6lI4nSiKG83IhBL1Y78/edit?usp=sharing" alt="Slides from Jan Cuny"></a><br>Jan Cuny</td>
   </tr>
   <tr>
     <td>9:05 - 9:15 AM</td>
@@ -81,15 +81,15 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>9:15 - 9:25 AM</td>
-    <td>Creating Community in Online Professional Development<br>Jen Rosato, Mobile CSP</td>
+    <td>Creating Community in Online Professional Development <a href="https://docs.google.com/presentation/d/1m3QmJxca66_jLJZCe81ijN7sPIeLUuZOPjEnfOJtrD4/edit?usp=sharing" alt="Slides from Jen Rosato on PD Best Practices">(slides)</a><br>Jen Rosato, Mobile CSP</td>
   </tr>
   <tr>
     <td>9:25 - 9:35 AM</td>
-    <td>Lessons Learned Offering CS PD for High School Teachers<br>Leslie Keller, BJC</td>
+    <td>Lessons Learned Offering CS PD for High School Teachers <a href="https://docs.google.com/presentation/d/17utmd69nReitUtrL44yPHm4Qto9-6ZVdn56z-FBILZA/edit?usp=sharing" alt="Slides from Leslie Keller">(slides)</a><br>Leslie Keller, BJC</td>
   </tr>
   <tr>
     <td>9:35 - 9:45 AM</td>
-    <td>Facilitators Need Professional Development Too<br>GT Wrobel, Brook Osborne, Baker Franke, code.org</td>
+    <td>Facilitators Need Professional Development Too <a href="https://docs.google.com/presentation/d/1i9YSSQJKiAy-aPtN-j_wqbNXv4ISew6ycH4rhb-tLJU/edit?usp=sharing" alt="Slides from code.org">(slides)</a><br>GT Wrobel, Brook Osborne, Baker Franke, code.org</td>
   </tr>
   <tr>
     <td>9:45 - 10:00 AM</td>
@@ -104,15 +104,15 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:10 - 10:15 AM</td>
-    <td>Successful Student Recruitment Through Proper Planning<br>Justin Cannady, Curriculum Provider, UTeach</td>
+    <td>Successful Student Recruitment Through Proper Planning <a href="https://docs.google.com/presentation/d/1GqS0wBs30iX8EI4RfD9Y8w1lCPITX_mYVaRFdhGsOhE/edit?usp=sharing" alt="Slides by Justin Cannady">(slides)</a><br>Justin Cannady, Curriculum Provider, UTeach</td>
   </tr>
   <tr>
     <td>10:15 - 10:20 AM</td>
-    <td>Recruiting for Diversity<br>Kimberly Hermans, High School Teacher, BJC</td>
+    <td>Recruiting for Diversity <a href="https://docs.google.com/presentation/d/1JyGmxb43rG05CWF-qGY8SZjjmyxlfwopWpZCWtbOiPI/edit?usp=sharing" alt="Slides by Kimberly Hermans">(slides)</a><br>Kimberly Hermans, High School Teacher, BJC</td>
   </tr>
   <tr>
     <td>10:20 - 10:25 AM</td>
-    <td>Recruiting AVID Students for AP CSP<br>Amanda Lattimore, Resource Teacher, code.org</td>
+    <td>Recruiting AVID Students for AP CSP <a href="https://docs.google.com/presentation/d/1Cq-la4ln6_QwNQVytU7DQs541zDaffKQPe7-cAz_Fcc/edit?usp=sharing" alt="Slides by Amanda Lattimore">(slides)</a><br>Amanda Lattimore, Resource Teacher, code.org</td>
   </tr>
   <tr>
     <td>10:25 - 10:30 AM</td>
