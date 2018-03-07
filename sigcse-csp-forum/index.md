@@ -70,7 +70,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>8:50 - 9:05 AM</td>
-    <td>From CS10K to CSforAll: Outcomes and Status of NSF Funding <a href="https://docs.google.com/presentation/d/1jst0sCVP92iv_4DXRV-w11Oj6lI4nSiKG83IhBL1Y78/edit?usp=sharing" alt="Slides from Jan Cuny"></a><br>Jan Cuny</td>
+    <td>From CS10K to CSforAll: Outcomes and Status of NSF Funding <a href="https://docs.google.com/presentation/d/1jst0sCVP92iv_4DXRV-w11Oj6lI4nSiKG83IhBL1Y78/edit?usp=sharing" alt="Slides from Jan Cuny">(slides)</a><br>Jan Cuny</td>
   </tr>
   <tr>
     <td>9:05 - 9:15 AM</td>
