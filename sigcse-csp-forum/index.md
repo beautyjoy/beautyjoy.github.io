@@ -162,7 +162,7 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>11:50 - 12:05 PM</td>
-    <td>Lessons Learned: AP CS Principles at CodeHS<br>Jeremy Keeshin, CodeHS</td>
+    <td>Lessons Learned: AP CS Principles at CodeHS <a href="https://docs.google.com/presentation/d/1QcSFZ5_8yM66j9L2e2xjHrQAMCP7LZVpHbLX75R2ptM/edit?usp=sharing" alt="Slides from Jeremy Keeshin">(slides)</a><br>Jeremy Keeshin, CodeHS</td>
   </tr>
   <tr>
     <td>12:05 - 12:30 PM</td>
