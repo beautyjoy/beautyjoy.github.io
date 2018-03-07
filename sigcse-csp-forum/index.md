@@ -116,15 +116,15 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>10:25 - 10:30 AM</td>
-    <td>Recruiting Teachers for a New AP CSP PD Program in Hawaii<br>Debasis Bhattacharya, Faculty, University of Hawaii</td>
+    <td>Recruiting Teachers for a New AP CSP PD Program in Hawaii <a href="https://drive.google.com/file/d/0B4EVGAjXEk4sUUUwMGwxTWVDNE1ZeGhWajNVTkpxNTZ4QnBn/view?usp=sharing" alt="Slides from Debasis Bhattacharya">(slides)</a><br>Debasis Bhattacharya, Faculty, University of Hawaii</td>
   </tr>
   <tr>
     <td>10:30 - 10:35 AM</td>
-    <td>Start a Computer Science Honor Society Chapter!<br>Buffie Holley, High School Teacher, CodeVA</td>
+    <td>Start a Computer Science Honor Society Chapter! <a href="https://drive.google.com/file/d/0B4EVGAjXEk4sSGtOd0s2RkRHXzlfWXNvSXktN0Y5RFlpYUhV/view?usp=sharing" alt="Slides from Buffie Holley">(slides)</a><br>Buffie Holley, High School Teacher, CodeVA</td>
   </tr>
   <tr>
     <td>10:35 - 10:40 AM</td>
-    <td>If You Invited Them, They Will Come! Support Students by Offering a Safe Place Where They Can Meet<br>Deborah Kariuki, High School Teacher, CodeHS / code.org</td>
+    <td>If You Invited Them, They Will Come! Support Students by Offering a Safe Place Where They Can Meet <a href="https://docs.google.com/presentation/d/1bxlTz1isiXPREdHg5XhhqjdCLpYfMx4KnDBKUiCygBM/edit?usp=sharing" alt="Slides from Deborah Kariuki on Recruitment">(slides)</a><br>Deborah Kariuki, High School Teacher, CodeHS / code.org</td>
   </tr>
   <tr>
     <td>10:40 - 10:55 AM</td>
