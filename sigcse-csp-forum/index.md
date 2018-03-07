@@ -139,19 +139,19 @@ The day will be organized as a series of short presentations, with ample time fo
   </tr>
   <tr>
     <td>11:05 - 11:15 AM</td>
-    <td>Seen by a Teacher: Obstacles in CSP Education<br>Tsee Lee, High School Teacher, UTeach / BJC<br>Jessica Du, High School Teacher, BJC</td>
+    <td>Seen by a Teacher: Obstacles in CSP Education <a href="https://docs.google.com/presentation/d/1vZ5ikRiZ4TaX-fkr__58NMIbRUOQv4odVF1RRWah_rc/edit?usp=sharing" alt="Slides from Tsee Lee and Jessica Du">(slides)</a><br>Tsee Lee, High School Teacher, UTeach / BJC<br>Jessica Du, High School Teacher, BJC</td>
   </tr>
   <tr>
     <td>11:15 - 11:25 AM</td>
-    <td>What Teachers Need in the Classroom to Teach CSP Effectively and Efficiently<br>Dianne O'Grady-Cunniff, High School Teacher, CS Matters Marlyand</td>
+    <td>What Teachers Need in the Classroom to Teach CSP Effectively and Efficiently <a href="https://docs.google.com/presentation/d/1VA_i-F3b5x9GjHYBGsPtbt_l9rd_Ob0WCzpOr2Q8RUA/edit?usp=sharing" alt="Sildes from Dianne O-Grady-Cunniff">(slides)</a><br>Dianne O'Grady-Cunniff, High School Teacher, CS Matters Marlyand</td>
   </tr>
   <tr>
     <td>11:25 - 11:35 AM</td>
-    <td>Curriculum Revisions: Empowering Master Teachers<br>Jen Rosato, Curriculum Provider, Mobile CSP</td>
+    <td>Curriculum Revisions: Empowering Master Teachers <a href="https://docs.google.com/presentation/d/1MqhGjjWsX7TBy3FhceSuPHcD1fUD8yb-47w88vLjye8/edit?usp=sharing" alt="Slides by Jen Rosato on Teacher Needs">(slides)</a><br>Jen Rosato, Curriculum Provider, Mobile CSP</td>
   </tr>
   <tr>
     <td>11:35 - 11:45 AM</td>
-    <td>How Does Equity in Computer Science Education Look Like?<br>Deborah Kariuki, High School Teacher, CodeHS / code.org</td>
+    <td>How Does Equity in Computer Science Education Look Like? <a href="https://docs.google.com/presentation/d/1R3_NUdjNzfZbGc6Asyuz2ygRwGx4T3Y0HZu1dvTKsQY/edit?usp=sharing" alt="Slides by Deborah Kariuki on Teacher Needs">(slides)</a><br>Deborah Kariuki, High School Teacher, CodeHS / code.org</td>
   </tr>
   <tr>
     <td>11:45 - 11:50 AM</td>
