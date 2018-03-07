@@ -11,6 +11,12 @@ redirect_from:
 
 <!-- TODO: The last redirect URLs are temporary. -->
 
+## PD Application Summer 2018
+
+**Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]**
+
+[pd-app-link]: http://bjc.link/BJCPDApp2018
+
 ## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
 
 ## Where is BJC PD being offered in Summer 2018?
@@ -38,12 +44,6 @@ New in 2018, NC State University and The Citadel are partnering to offer PD on i
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
-
-## PD Application Summer 2018
-
-**Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]**
-
-[pd-app-link]: http://bjc.link/BJCPDApp2018
 
 ## Regional BJC PD Model
 
