@@ -31,6 +31,7 @@ We also plan workshops in the following locations:
 | June 18 - 22     |  Florida A&amp;M University / Tallahasse, FL                                       |
 | June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
 | June 25 - 29     |  El Camino College / Torrance, CA                                                  |
+| June 25 - 29     |  Charlotte, NC / Location TBD
 | July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
 | July 9 - 13      |  University of North Texas / Denton, TX                                            |
 | July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
