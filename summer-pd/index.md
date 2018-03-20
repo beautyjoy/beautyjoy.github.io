@@ -38,6 +38,7 @@ We also plan workshops in the following locations:
 | July 23 - 27     |  Kean University / Union, NJ (near NYC)                                            |
 | July 23 - 27     |  Northern Kentucky University / Highland Heights, KY                               |
 | July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
+| July 30 - Aug 3  |  DePaul University / Chicago, IL
 | Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
 {: .table.table-striped.table-bordered }
 
