@@ -28,13 +28,14 @@ We also plan workshops in the following locations:
 | Dates            | Locations                                                                          |
 | :--------------: |------------------------------------------------------------------------------------|
 | June 4 - 8       |  Southern Utah / Location TBD                                                      |
-| June 18 - 22     |  Florida A&amp;M University / Tallahassee, FL                                       |
+| June 18 - 22     |  Florida A&amp;M University / Tallahassee, FL                                      |
 | June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
 | June 25 - 29     |  El Camino College / Torrance, CA                                                  |
 | June 25 - 29     |  West Charlotte High School / Charlotte, NC
 | July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
 | July 9 - 13      |  University of North Texas / Denton, TX                                            |
-| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
+| July 9 - 13      |  Northern Arizona University / Flagstaff, AZ
+| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
 | July 23 - 27     |  Kean University / Union, NJ (near NYC)                                            |
 | July 23 - 27     |  Northern Kentucky University / Highland Heights, KY                               |
 | July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
