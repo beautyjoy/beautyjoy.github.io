@@ -27,7 +27,7 @@ We also plan workshops in the following locations:
 
 | Dates            | Locations                                                                          |
 | :--------------: |------------------------------------------------------------------------------------|
-| June 4 - 8       |  Westminster College / Salt Lake City, UT                                          |
+| June 4 - 8       |  Pleasant Grove Junior High School / Pleasant Grove, UT (near Salt Lake City)      |
 | June 18 - 22     |  Florida A&amp;M University / Tallahassee, FL                                      |
 | June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
 | June 25 - 29     |  El Camino College / Torrance, CA                                                  |
