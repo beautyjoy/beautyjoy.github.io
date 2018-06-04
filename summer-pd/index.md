@@ -29,10 +29,10 @@ We also plan workshops in the following locations:
 | :--------------: |------------------------------------------------------------------------------------|
 | June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
 | June 25 - 29     |  El Camino College / Torrance, CA                                                  |
-| June 25 - 29     |  West Charlotte High School / Charlotte, NC                                        |
+| June 25 - 29     |  West Charlotte High School / Charlotte, NC (FULL)                                 |
 | July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
 | July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
-| July 23 - 27     |  Kean University / Union, NJ (near NYC)                                            |
+| July 23 - 27     |  Kean University / Union, NJ (FULL)                                                |
 | July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
 | Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
 {: .table.table-striped.table-bordered }
