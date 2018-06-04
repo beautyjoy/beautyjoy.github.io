@@ -37,7 +37,7 @@ We also plan workshops in the following locations:
 | Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
 {: .table.table-striped.table-bordered }
 
-New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
+New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. For more information, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu).
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
