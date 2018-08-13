@@ -11,69 +11,36 @@ redirect_from:
 
 <!-- TODO: The last redirect URLs are temporary. -->
 
+## PD Application Summer 2018
+
+**Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]**
+
+[pd-app-link]: http://bjc.link/BJCPDApp2018
+
 ## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
 
 ## Where is BJC PD being offered in Summer 2018?
 
-Thanks to the generosity of Infosys Foundation USA, BJC is offering FREE BJC Computer Science Professional Development for 80 teachers at the Pathfinders Summer Institute on July 15-20, 2018 at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 15-20, 2018** at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
 
 We also plan workshops in the following locations:
 
+| Dates            | Locations                                                                          |
+| :--------------: |------------------------------------------------------------------------------------|
+| June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
+| June 25 - 29     |  El Camino College / Torrance, CA                                                  |
+| June 25 - 29     |  West Charlotte High School / Charlotte, NC (FULL)                                 |
+| July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
+| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
+| July 23 - 27     |  Kean University / Union, NJ (FULL)                                                |
+| July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
+| Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
+{: .table.table-striped.table-bordered }
 
-<!-- TODO: Make this be a YAML file. -->
-<table class="table table-striped table-bordered">
-    <tr>
-      <!-- class='info' -->
-      <th scope="col">Dates</th>
-      <th scope="col">Locations</th>
-    </tr>
-      <tr>
-        <td>June 4 - 8</td>
-        <td>Southern Utah (location TBD)</td>
-      </tr>
-      <tr>
-        <td>June 18 - 22</td>
-        <td>Florida A&amp;M University / Tallahassee, FL</td>
-      <tr>
-        <td>June 25 - 29</td>
-        <td>Colorado School of Mines / Denver, CO</td>
-      </tr>
-      <tr>
-        <td>June 25 - 29</td>
-        <td>El Camino College / Torrance, CA</td>
-      </tr>
-      <tr>
-        <td>July 9 - 13</td>
-        <td>Harvey Mudd College / Claremont, CA</td>
-      </tr>
-      <tr>
-        <td>July 23 - 27</td>
-        <td>Northern Kentucky University / Highland Heights, KY</td>
-      </tr>
-      <tr>
-        <td>July 23 - 27</td>
-        <td>Kean University, Union, NJ (NYC area)</td>
-      </tr>
-      <tr>
-        <td>July 30 - Aug 3</td>
-        <td>University of California, Berkeley / Berkeley, CA</td>
-      </tr>
-      <tr>
-        <td>Aug 6 - 10</td>
-        <td>George Mason University / Fairfax, VA (DC area)</td>
-      </tr>
-</table>
+New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. For more information, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu).
 
-
-New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. More information coming soon!
-
+[infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
-
-## PD Application Summer 2018
-
-Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]
-
-[pd-app-link]: http://bjc.link/BJCPDApp2018
 
 ## Regional BJC PD Model
 
