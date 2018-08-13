@@ -1,0 +1,32 @@
+language: ruby
+sudo: false
+rvm:
+ - 2.3.3
+
+before_install:
+    - apt-get update
+    - apt-get install sshpass
+
+script:
+    - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
+    # - .bin/deploy
+    # Use this to detect if coming from a PR
+    # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
+
+deploy:
+  - provider: s3
+    access_key_id: "YOUR AWS ACCESS KEY"
+    secret_access_key: "YOUR AWS SECRET KEY"
+    bucket: "S3 Bucket"
+    skip_cleanup: true
+    loacl_dir: _aws/
+    region: "Bucket region"
+    detect_encoding: true
+    on:
+      branch: master
+  - provider: script
+    on:
+      branch: berkeley
+    script:
+      - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
+      - .bin/copy-to-berkeley
