@@ -1,12 +1,12 @@
 language: ruby
-sudo: false
+sudo: true
 rvm:
-- 2.3.3
+  - 2.3.3
 before_install:
-- apt-get update
-- apt-get install sshpass
+  - apt-get update
+  - apt-get install sshpass
 script:
-- bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
+  - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
 deploy:
   - provider: s3
     access_key_id: AKIAIWKCIXYIBSD7KF7Q
