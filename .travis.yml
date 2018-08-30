@@ -14,14 +14,14 @@ script:
 
 deploy:
   - provider: s3
+    skip_cleanup: true
     access_key_id: AKIAIWKCIXYIBSD7KF7Q
     secret_access_key:
       secure: 3TqFxiYVQHo/BcM0jYQrlDGOI/P8vdP5Ycr/P1/q5tzqzUQJLf/fTQjWITRZTVi4R3GtSMYfb14nd8GkZ6MbCyV9C+drtJ12f+tg78E89pBmWjrBI8Qj8ZQqBGyru17KCGkxkRN9zcEevw87qSKTiUFWq8A9MkxaQ8AFuh8yl+4=
     bucket: aws-website-bjc-website-cjgl5
-    local-dir: _aws
+    local-dir: _aws/
     acl: public_read
     on:
-      branch: master
       repo: beautyjoy/beautyjoy.github.io
   - provider: script
     on:
