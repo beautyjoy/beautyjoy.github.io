@@ -1,32 +1,19 @@
 language: ruby
 sudo: false
 rvm:
- - 2.3.3
-
+- 2.3.3
 before_install:
-    - apt-get update
-    - apt-get install sshpass
-
+- apt-get update
+- apt-get install sshpass
 script:
-    - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
-    # - .bin/deploy
-    # Use this to detect if coming from a PR
-    # - if [[ ! -z $CI_PULL_REQUEST ]] ; then <long-running-command> ; fi
-
+- bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
 deploy:
-  - provider: s3
-    access_key_id: "YOUR AWS ACCESS KEY"
-    secret_access_key: "YOUR AWS SECRET KEY"
-    bucket: "S3 Bucket"
-    skip_cleanup: true
-    loacl_dir: _aws/
-    region: "Bucket region"
-    detect_encoding: true
-    on:
-      branch: master
-  - provider: script
-    on:
-      branch: berkeley
-    script:
-      - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
-      - .bin/copy-to-berkeley
+  provider: s3
+  access_key_id: AKIAIWKCIXYIBSD7KF7Q
+  secret_access_key:
+    secure: 3TqFxiYVQHo/BcM0jYQrlDGOI/P8vdP5Ycr/P1/q5tzqzUQJLf/fTQjWITRZTVi4R3GtSMYfb14nd8GkZ6MbCyV9C+drtJ12f+tg78E89pBmWjrBI8Qj8ZQqBGyru17KCGkxkRN9zcEevw87qSKTiUFWq8A9MkxaQ8AFuh8yl+4=
+  bucket: aws-website-bjc-website-cjgl5
+  local-dir: _aws
+  acl: public_read
+  on:
+    repo: beautyjoy/beautyjoy.github.io
