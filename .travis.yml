@@ -11,6 +11,8 @@ addons:
 
 script:
   - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
+  - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
+
 
 deploy:
   - provider: s3
@@ -20,13 +22,11 @@ deploy:
       secure: 3TqFxiYVQHo/BcM0jYQrlDGOI/P8vdP5Ycr/P1/q5tzqzUQJLf/fTQjWITRZTVi4R3GtSMYfb14nd8GkZ6MbCyV9C+drtJ12f+tg78E89pBmWjrBI8Qj8ZQqBGyru17KCGkxkRN9zcEevw87qSKTiUFWq8A9MkxaQ8AFuh8yl+4=
     bucket: aws-website-bjc-website-cjgl5
     local-dir: _aws/
-    acl: public_read
+    # acl: public_read
     on:
       repo: beautyjoy/beautyjoy.github.io
   - provider: script
     on:
       branch: berkeley
     skip_cleanup: true
-    script:
-      - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
-      - .bin/copy-to-berkeley
+    script: bash ./.bin/copy-to-berkeley
