@@ -9,7 +9,9 @@ ACCOUNT='michael@abbenay.cs.berkeley.edu';
 
 echo 'Starting to copy files to Berkeley...';
 # Use $1, but .travis.yml (and others) must call this script with the password as an argument!
-sshpass -p "$1" rsync -avhz ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
+# TODO try to use SSHPASS env variable.
+echo "SSHPASSTEST: ${SSHPASSTEST}";
+rsync -avhz --rsh="sshpass -p $1 ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
 result=$?;
 echo 'Syncing complete!';
 exit $result;
