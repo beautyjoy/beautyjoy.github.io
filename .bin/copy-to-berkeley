@@ -1,9 +1,13 @@
 #! /bin/bash
 ## This file is to be executed from the root of the repo.
 
+# Path on the destination server.
 # BJC_PATH='/home/cs/bh/public_html/bjc/';
 BJC_PATH="../bjc/";
 # ACCOUNT='michael.ball@login.eecs.berkeley.edu';
 ACCOUNT='michael@abbenay.cs.berkeley.edu';
 
+echo 'Starting to copy files to Berkeley...';
 sshpass -p "${SCP_PASSWORD}" rsync -avhz ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
+echo 'Syncing complete!';
+exit 0;
