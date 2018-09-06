@@ -8,6 +8,8 @@ BJC_PATH="../bjc/";
 ACCOUNT='michael@abbenay.cs.berkeley.edu';
 
 echo 'Starting to copy files to Berkeley...';
-sshpass -p "${SCP_PASSWORD}" rsync -avhz ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
+# Use $1, but .travis.yml (and others) must call this script with the password as an argument!
+sshpass -p "$1" rsync -avhz ./_berkeley/* ${ACCOUNT}:${BJC_PATH};
+result=$?;
 echo 'Syncing complete!';
-exit 0;
+exit $result;
