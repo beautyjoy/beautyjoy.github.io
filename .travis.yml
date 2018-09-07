@@ -1,21 +1,24 @@
 language: ruby
 sudo: false
 rvm:
-- 2.3.3
+  - 2.3.3
+
 addons:
   apt:
     update: true
     packages:
-    - sshpass
+      - sshpass
+
 script:
-- bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
+  - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
+
 deploy:
   - provider: script
     on:
       repo: beautyjoy/beautyjoy.github.io
     skip_cleanup: true
     script:
-    - ".bin/deploy"
+      - "bash .bin/deploy"
   - provider: script
     on:
       branch: berkeley
