@@ -18,7 +18,7 @@ deploy:
       repo: beautyjoy/beautyjoy.github.io
     skip_cleanup: true
     script:
-      - "bash .bin/deploy"
+      - "rvm use 2.3.3 do bash .bin/deploy"
   - provider: script
     on:
       branch: berkeley
