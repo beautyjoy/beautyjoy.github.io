@@ -29,15 +29,15 @@ permalink: pretty
 
 # This is used for displaying a warning on sites that aren't the
 # production site.
-production_url: http://bjc.berkeley.edu
+production_url: https://bjc.berkeley.edu
 twitter_username:   cspbjc
 facebook_username:  cspbjc
 instagram_username: cspbjc
 flipboard_link:     https://bjc.link/computingnews
 
 # Misc shared data.
-nyc_pd_page: http://cs4all.nyc/programs/
-pd_interest_url: http://bjc.link/pdinterest18
+nyc_pd_page: https://cs4all.nyc/programs/
+pd_interest_url: https://bjc.link/pdinterest18
 
 # These are specifically whitelisted by Github
 plugins:
