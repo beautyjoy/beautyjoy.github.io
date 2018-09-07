@@ -246,15 +246,9 @@
 - name: Sean Morris
   teams:
     - master-teachers
-  image: https://www.path.berkeley.edu/sites/default/files/styles/path_310x210/public/bio_photos/Sean%20Morris.jpg?itok=QaMw6azA
+  image:
   location: Albany High School, Albany, CA
   description: Computer Science and Math Teacher
-- name: Mark Ruckstuhl
-  teams:
-    - master-teachers
-  image:
-  location: Clear Falls High School, League City, TX
-  description:
 - name: Parisa Safa
   teams:
     - master-teachers
@@ -282,7 +276,7 @@
 - name: Josh Paley
   teams:
     - master-teachers
-  image: https://gunn.pausd.org/sites/default/files/styles/oa_person/public/oa_person/photo/StaffPaley.jpg?itok=ECNjqQJF
+  image:
   location: Gunn High School, Palo Alto, CA
   description: Computer Science and Math Teacher, Member of CSTA Leadership Council
 - name: Nathan Mattix
