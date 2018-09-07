@@ -47,11 +47,12 @@ plugins:
 
 # Build settings
 markdown: kramdown
+include:
+  - .htaccess
 exclude:
-  - .gitingore
+  - redirects.json
   - Gemfile
   - Gemfile.lock
   - README.md
-  - circle.yml
   - vendor # created when the site is built on CircleCI
   - package.json
