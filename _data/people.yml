@@ -1,0 +1,294 @@
+---
+- name: Dan Garcia
+  teams:
+    - leadership
+    - edx
+  image: dan-garcia.jpg
+  description: >
+    Teaching Professor, UC Berkeley. Co-developer of the Beauty and Joy
+    of Computing curriculum. Member CS Principles Development committee and
+    ACM Education Board. Honored as an ACM Distinguished Educator in 2012.
+- name: Brian Harvey
+  teams:
+    - leadership
+    - snap
+  image: brian-harvey.png
+  description: >
+   'Teaching Professor Emeritus, UC Berkeley; author of _Computer Science
+    Logo Style_ and (with Matthew Wright) _Simply Scheme: Introducing Computer Science_;
+    developer of Berkeley Logo; co-developer (with Jens Monig) of Snap!; co-developer
+    of the Beauty and Joy of Computing curriculum.'
+- name: Tiffany Barnes
+  teams:
+    - leadership
+    - site-coordinators
+  image: tiffany-barnes.png
+  location: NCSU
+  description: BJC-STARS Director, Associate Professor of Computer Science at
+   North Carolina State University
+- name: Michael Ball
+  teams:
+    - leadership
+    - edx
+    - snap
+  image: michael-ball.jpg
+  description: Software Development, UC Berkeley, BJC Development focusing on Autograding
+    and Snap!, Former CS10 Head TA
+- name: Lauren Mock
+  teams:
+    - leadership
+    - edx
+    - site-coordinators
+  image: lauren-mock.jpg
+  location: UC Berkeley
+  description: Program Manager, UC Berkeley, Managing edX and SPOC for BJC, Technical
+    Development Teams, Professional Development and Teacher Community; Former CS10
+    Head TA
+- name: Paul Goldenberg
+  teams:
+    - leadership
+    - edc
+  image: paul-goldenberg.jpg
+  description: Principal Investigator BJC4NYC, Education Development Center
+- name: June Mark
+  teams:
+    - leadership
+    - edc
+  image: june-mark.jpg
+  description: Principal Investigator BJC4NYC, Education Development Center
+- name: Jeff Gray
+  teams:
+    - leadership
+  image: jeff-gray.jpg
+  description: Professor, Department of Computer Science, University of Alabama. Member
+    of the UA Software Engineering Group. Distinguished Member of the ACM and Senior
+    Member of the IEEE. Chair of the Alabama IEEE Computer Society. Member of the
+    Education Advisory Council of Code.org.
+- name: Alex Milliken
+  teams:
+    - leadership
+  image: alex-milliken.png
+  description: BJC Staff
+- name: Jens Monig
+  teams:
+    - snap
+  image: jens-monig.jpeg
+  description: Snap<em>!</em> Creator and Software Development
+- name: Bernat Romagosa
+  teams:
+    - snap
+  image: bernat-romagosa.jpg
+  description: Snap<em>!</em> contributor and creator of the Snap<em>!</em>Cloud.
+- name: Mary Fries
+  teams:
+    - edc
+    - site-coordinators
+  location: EDC, Waltham, MA
+  image: mary-fries.jpg
+  description: Web / Content Developer and Researcher, Education Development Center
+- name: Selim Tezel
+  teams:
+    - edc
+  image: selim-tezel.jpeg
+  description: Curriculum and Instructional Design Associate, Education Development Center
+- name: Al Cuoco
+  teams:
+    - edc
+  image: al-cuoco.png
+  description: Distinguished Scholar, Education Development Center
+- name: Jane Kang
+  teams:
+    - edc
+  image: jane-kang.jpg
+  description: Curriculum and Instructional Design Associate, Educational Development Center
+- name: Sahil Hasan
+  teams:
+    - edx
+  image: sahil-hasan.jpg
+  description: Software Development
+- name: Tina Huang
+  teams:
+    - edx
+  image:
+  description: Software Development
+- name: Robert Low
+  teams:
+    - edx
+  image: rob-low.jpg
+  description: Community Leader
+- name: Lyric Yu
+  teams:
+    - edx
+  image: lyric-yu.jpg
+  description: edX / SPOC Support
+
+################################################
+# SITE COORDINATORS
+################################################
+- name: Patricia Cardwell
+  teams:
+    - site-coordinators
+  image:
+  location: East Iberville High School, St. Gabriel, LA
+  description:
+- name: Maureen Doyle
+  teams:
+    - site-coordinators
+  image: https://informatics.nku.edu/content/informatics/departments/computer-science/people/doylem3/_jcr_content/par/textimage/image.img.jpg/1441203448742.jpg
+  location: Northern Kentucky University, Highland Heights, KY
+  description: Associate Professor of Computer Science, College of Informatics
+- name: Joanne Lang
+  teams:
+    - site-coordinators
+  image: https://pbs.twimg.com/profile_images/599287040396566528/SBaABIZY_400x400.jpg
+  location: Advance Kentucky
+  description:
+- name: Zach Dodds
+  teams:
+    - site-coordinators
+  image: https://www.cs.hmc.edu/people/Dodds.jpg
+  location: Harvey Mudd College, Claremont, CA
+  description: Professor of Computer Science
+- name: Patricia Morreale
+  teams:
+    - site-coordinators
+  image: https://www.kean.edu/~compsci/images/faculty/DrMorreale.jpg
+  location: Kean University, Kean, NJ
+  description: Chairperson, Professor of Computer Science
+- name: Juan J Li
+  teams:
+    - site-coordinators
+  image: https://www.kean.edu/~compsci/images/faculty/DrJennyLi_IMG_9711_1500x2400_5x8.jpg
+  location: Kean University, Kean, NJ
+  description: Assistant Professor of Computer Science
+- name: Kamaljeet Sanghera
+  teams:
+    - site-coordinators
+  image: https://www.washingtonexec.com/wp-content/uploads/2014/10/Sanghera-Kamaljeet1.jpg
+  location: George Mason University, Fairfax, VA
+  description: Associate Professor, Department of Information Sciences and Technology
+- name: Lisa Shaffren
+  teams:
+    - site-coordinators
+  image:
+  location: The Crefeld School, Philadelphia, PA
+  description: Conceptual Physics and Computer Science Teacher
+- name: Jamie Payton
+  teams:
+    - site-coordinators
+  image: https://cis.temple.edu/sites/default/files/styles/portrait-large/public/user_pictures/picture-444-1471294001.jpg?itok=QZDA2gU1
+  location: Temple University, Philadelphia, PA
+  description: Associate Professor, Department of Computer and Information Sciences
+- name: Solomon Russell
+  teams:
+    - site-coordinators
+  image: https://www.exploringcs.org/wp-content/uploads/2011/11/solomon-russell.jpg
+  location: SMASH LPFI, Los Angeles, CA
+  description: Computer Science Instructor
+- name: Jennifer Albert
+  teams:
+    - site-coordinators
+  image: https://www4.ncsu.edu/~tmbarnes/students/jen.jpg
+  location: The Citadel, Charleston, SC
+  description: Director, STEM Center of Excellence, Zucker Family School of Education
+
+################################################
+# MASTER TEACHERS
+################################################
+- name: Madeline Drayton
+  teams:
+    - master-teachers
+  image: madeline-drayton.jpg
+  location: Providence High School, Charlotte, North Carolina
+  description: Computer Science Teacher
+- name: Lynda Roszko
+  teams:
+    - master-teachers
+  image: lynda-roszko.jpg
+  location: Leesville Road High School, Raleigh, North Carolina
+  description: Computer Science Teacher (23 years)
+- name: Pauline White
+  teams:
+    - master-teachers
+  image: pauline-white.png
+  location: Burnt Hills-Ballston Lake High School, Burnt Hills, NY
+  description: Computer Science Teacher
+- name: Marnie Hill
+  teams:
+    - master-teachers
+  image: marnie-hill.jpg
+  location: J.H. Rose High School, Greenville, NC
+  description: Business/Computer Science Teacher
+- name: Claribel Perez
+  teams:
+    - master-teachers
+  image: claribel-perez.jpg
+  location: North Shore MS, Houston, TX
+  description: HS Science Teacher & BJC Teacher since 2012, Puerto Rico
+- name: Barbara Froehlich
+  teams:
+    - master-teachers
+  image: barbara-froehlich.png
+  location: East Orange STEM Academy, East Orange, NJ
+  description: Computer Science and Engineering Teacher
+- name: Jerry Kearns
+  teams:
+    - master-teachers
+  image: https://www.centralcatholichigh.org/assets/images/coaches/Coach%20Jerry%20Kearns.jpg
+  location: Central Catholic High School, Portland, OR
+  description: IT Director
+- name: Shawn Kenner
+  teams:
+    - master-teachers
+  image:
+  location: Sharon High School, Sharon, MA
+  description: Chemistry and Computer Science Teacher
+- name: Sean Morris
+  teams:
+    - master-teachers
+  image: https://www.path.berkeley.edu/sites/default/files/styles/path_310x210/public/bio_photos/Sean%20Morris.jpg?itok=QaMw6azA
+  location: Albany High School, Albany, CA
+  description: Computer Science and Math Teacher
+- name: Mark Ruckstuhl
+  teams:
+    - master-teachers
+  image:
+  location: Clear Falls High School, League City, TX
+  description:
+- name: Parisa Safa
+  teams:
+    - master-teachers
+  image:
+  location: Urban School of San Francisco, San Francisco, CA
+  description: Computer Science and Math Teacher
+- name: Liz Smith
+  teams:
+    - master-teachers
+  image:
+  location: Oaktown High School, Oaktown, VA
+  description:
+- name: Emil Biga
+  teams:
+    - master-teachers
+  image:
+  location: Millard North High School, Omaha, NE
+  description:
+- name: Efrain Lopez III
+  teams:
+    - master-teachers
+  image:
+  location: Laredo, TX
+  description:
+- name: Josh Paley
+  teams:
+    - master-teachers
+  image: https://gunn.pausd.org/sites/default/files/styles/oa_person/public/oa_person/photo/StaffPaley.jpg?itok=ECNjqQJF
+  location: Gunn High School, Palo Alto, CA
+  description: Computer Science and Math Teacher, Member of CSTA Leadership Council
+- name: Nathan Mattix
+  teams:
+    - master-teachers
+  image:
+  location: Piedmont High School, Piedmont, CA
+  description:
+

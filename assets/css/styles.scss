@@ -443,6 +443,13 @@ blockquote {
         text-transform: uppercase;
       }
     }
+
+    .profile-location {
+        color: $primary-color;
+        font-weight: 600;
+        font-size: 12px;
+        text-transform: uppercase;
+    }
   }
 
   &.snap-projects {

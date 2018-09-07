@@ -6,7 +6,7 @@ header_background: group2
 <h3 class="text-uppercase text-center">Master Teachers</h3>
 
 <div class="row grid-gallery master-teachers">
-    {% assign master_teachers = site.data.people.master-teachers | sort: 'name' %}
+    {% assign master_teachers = site.data.people | where_exp: "item", "item.teams contains 'master-teachers'" | sort: 'name' %}
     {% for profile in master_teachers %}
     <div class="col-sm-3 col-xs-6 grid-item">
         <div class="circle-frame">
@@ -16,7 +16,7 @@ header_background: group2
         <div class="caption">
             <h4>{{ profile.name }}</h4>
             {% if profile.location %}
-            <h6>{{ profile.location }}</h6>
+            <p class="profile-location">{{ profile.location }}</p>
             {% endif %}
             {% if profile.description %}
             <p class="small">{{ profile.description }}</p>
