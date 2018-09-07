@@ -22,6 +22,10 @@ deploy:
     on:
       repo: beautyjoy/beautyjoy.github.io
   - provider: script
+    skip_cleanup: true
+    script:
+    - ".bin/deploy"
+  - provider: script
     on:
       branch: berkeley
     skip_cleanup: true
