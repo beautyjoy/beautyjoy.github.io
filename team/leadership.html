@@ -9,13 +9,7 @@ header_background: group2
     {% assign people = site.data.people | where_exp: "item", "item.teams contains 'leadership'" %}
     {% for profile in people %}
     <div class="col-md-4 col-sm-6 grid-item">
-        <div class="circle-frame">
-            {% include profile-photo.html image=profile.image name=profile.name %}
-        </div>
-        <div class="caption">
-            <h4>{{ profile.name }}</h4>
-            <p>{{ profile.description | markdownify }}</p>
-        </div>
+        {% include staff-card.html profile=profile %}
     </div>
     {% endfor %}
 </div>

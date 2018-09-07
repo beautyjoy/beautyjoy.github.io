@@ -1,0 +1,7 @@
+<div class="circle-frame">
+    {% include profile-photo.html image=profile.image name=profile.name %}
+</div>
+<div class="caption">
+  <h4>{{ profile.name }}</h4>
+  {{ profile.description | markdownify }}
+</div>
