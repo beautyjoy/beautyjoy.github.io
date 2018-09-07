@@ -21,6 +21,7 @@ deploy:
     region: us-east-1
     bucket: aws-website-bjc-website-cjgl5
     local-dir: _aws/
+    detect_encoding: true
     on:
       repo: beautyjoy/beautyjoy.github.io
   - provider: script
