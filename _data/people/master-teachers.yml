@@ -24,7 +24,7 @@
   location: East Orange STEM Academy, East Orange, NJ
   description: Computer Science and Engineering Teacher
 - name: Jerry Kearns
-  image: http://www.centralcatholichigh.org/assets/images/coaches/Coach%20Jerry%20Kearns.jpg
+  image: https://www.centralcatholichigh.org/assets/images/coaches/Coach%20Jerry%20Kearns.jpg
   location: Central Catholic High School, Portland, OR
   description: IT Director
 - name: Shawn Kenner
@@ -32,7 +32,7 @@
   location: Sharon High School, Sharon, MA
   description: Chemistry and Computer Science Teacher
 - name: Sean Morris
-  image: http://www.path.berkeley.edu/sites/default/files/styles/path_310x210/public/bio_photos/Sean%20Morris.jpg?itok=QaMw6azA
+  image: https://www.path.berkeley.edu/sites/default/files/styles/path_310x210/public/bio_photos/Sean%20Morris.jpg?itok=QaMw6azA
   location: Albany High School, Albany, CA
   description: Computer Science and Math Teacher
 - name: Mark Ruckstuhl
@@ -56,7 +56,7 @@
   location: Laredo, TX
   description:
 - name: Josh Paley
-  image: http://gunn.pausd.org/sites/default/files/styles/oa_person/public/oa_person/photo/StaffPaley.jpg?itok=ECNjqQJF
+  image: https://gunn.pausd.org/sites/default/files/styles/oa_person/public/oa_person/photo/StaffPaley.jpg?itok=ECNjqQJF
   location: Gunn High School, Palo Alto, CA
   description: Computer Science and Math Teacher, Member of CSTA Leadership Council
 - name: Nathan Mattix

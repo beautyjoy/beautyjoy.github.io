@@ -14,10 +14,10 @@ We are pleased to announce that the National Science Foundation has awarded a fo
 
 The partners are:
 
-* University of California, Berkeley ([UCB](http://berkeley.edu/))
-* Education Development Center ([EDC](http://edc.org/))
-* New York City Department of Education ([NYCDOE](http://schools.nyc.gov/))
-* New York City Foundation for Computer Science Education ([CSNYC](http://csnyc.org/))
+* University of California, Berkeley ([UCB](https://berkeley.edu/))
+* Education Development Center ([EDC](https://edc.org/))
+* New York City Department of Education ([NYCDOE](https://schools.nyc.gov/))
+* New York City Foundation for Computer Science Education ([CSNYC](https://csnyc.org/))
 
 High school teachers we've worked with so far have asked us for more K-12-friendly curriculum materials, including a teacher's manual, scope and sequence, and lesson plans. EDC, a very experienced nonprofit developer of K-12 curricula, will work with UCB to create a complete new curriculum package while maintaining the BJC spirit of technical rigor, connection with real applications, and student-initiated projects.
 
@@ -25,4 +25,4 @@ UCB will lead three summer workshops in New York; NYCDOE will recruit and select
 
 CSNYC is a nonprofit foundation that has played a leading role in getting computer science education into New York at all levels. Their role in this project will be to organize support and community-building for the BJC teachers during the school year. (UCB and EDC will also participate in school-year activities, including observation of BJC classes to inform a second round of curriculum development.)
 
-We're very excited about this new opportunity to have a major BJC impact on an entire city! New York teachers and principals, go to the [NYCDOE BJC page](http://sepnyc.org/apcs) for information about how to participate.
+We're very excited about this new opportunity to have a major BJC impact on an entire city! New York teachers and principals, go to the [NYCDOE BJC page](https://sepnyc.org/apcs) for information about how to participate.

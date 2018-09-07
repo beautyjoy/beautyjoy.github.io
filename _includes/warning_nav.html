@@ -1,11 +1,11 @@
 <!--
   This displays a red banner above the navbar on domains that aren't bjc.b.e
 -->
-{% if site.url != site.production_url and site.url != 'http://localhost:4000' %}
+{% if site.url != site.production_url and site.url != 'https://localhost:4000' %}
   <nav class="navbar navbar-fixed-top navbar-red">
     <div class="container">
       <strong>Warning:</strong> This is a test version of the BJC website.
-      Please visit <a href="http://bjc.berkeley.edu">bjc.berkeley.edu</a>
+      Please visit <a href="https://bjc.berkeley.edu">bjc.berkeley.edu</a>
     </div>
   </nav>
 {% endif %}

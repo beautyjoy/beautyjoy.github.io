@@ -5,7 +5,7 @@ resources:
     description:
 
   - name: CS4HS @ Cal
-    link: http://cs4hs.berkeley.edu/
+    link: https://cs4hs.berkeley.edu/
     description:
 
   - name: Learning @ Scale
@@ -13,7 +13,7 @@ resources:
     description:
 
   - name: Richard Tapia Celebration of Diversity in Computing
-    link: http://tapiaconference.org/
+    link: https://tapiaconference.org/
     description:
 
   - name: Scratch at MIT
@@ -21,5 +21,5 @@ resources:
     description:
 
   - name: Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium
-    link: http://sigcse.org/sigcse/
+    link: https://sigcse.org/sigcse/
     description:

@@ -2,22 +2,22 @@ subheading: Content Resources
 resources:
   - name: Blown to Bits
     description: |
-      [Chapter by Chapter](http://www.bitsbook.com/excerpts/)
+      [Chapter by Chapter](https://www.bitsbook.com/excerpts/)
 
-      [Entire Book](http://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf)
+      [Entire Book](https://www.bitsbook.com/wp-content/uploads/2008/12/B2B_3.pdf)
 
       BJC uses Blown to Bits to teach the social implications of computing. This is a free book (downloadable PDF files) under the Creative Commons license.
 
   - name: BJC Curriculum Outline
-    link: http://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Outline.pdf
+    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Outline.pdf
     description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.
 
   - name: BJC Labs
-    link: http://bjc.edc.org/bjc-r/course/bjc4nyc.html
+    link: https://bjc.edc.org/bjc-r/course/bjc4nyc.html
     description: BJC's most recent labs can be found here. These labs are AP CS Principles compliant.
 
   - name: BJC Labs - Teacher Guide
-    link: http://bjc.edc.org/bjc-r/teacher
+    link: https://bjc.edc.org/bjc-r/teacher
     description: This guide is designed to support high school CSP teachers with timing and activities for the BJC student materials to teach important ideas of programming and the social implications of computing and to prepare students for the AP CSP Exam that launches Spring 2017.
 
   - name: BJC Edge edX SPOC
@@ -38,14 +38,14 @@ resources:
     description: This is a repository of previous versions of BJC labs.
 
   - name: Teaching Global Impact
-    link: http://teachglobalimpact.org/
+    link: https://teachglobalimpact.org/
     description: Creative teaching resources, lesson plans, and practical strategies. Helping CSP teachers plan lessons on the global impact of computing.
 
   - name: BJC Concept Posters
-    link: http://csillustrated.berkeley.edu/posters.php
+    link: https://csillustrated.berkeley.edu/posters.php
     description: Classroom BJC posters that highlight Call By Value, Functions as Data and Lists.
 
   - name: Comparing BJC with CSP Framework
-    link: http://bjc.edc.org/bjc-r/cur/teaching-guide/compare.html
+    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/compare.html
     description: This can be a useful piece of propaganda for principals, school boards, maybe even parents.
 

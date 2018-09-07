@@ -18,7 +18,7 @@ $body-margin-top: 56px; // nav bar height
 
 @import 'mixins';
 
-{% if site.url != site.production_url and site.url != 'http://localhost:4000' %}
+{% if site.url != site.production_url and site.url != 'https://localhost:4000' %}
 // Note that this might overwrite $body-margin-top
 @import 'warning_nav';
 {% endif %}

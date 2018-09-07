@@ -5,7 +5,7 @@
   year: 2015
   journal: ACM Inroads
   abstract: In this article, we share our philosophy, an update on our course design principles, a general flow through our curriculum, the impact BJC has had, and conclude with lessons learned.
-  external_link: http://inroads.acm.org/article.cfm?aid=2835184
+  external_link: https://inroads.acm.org/article.cfm?aid=2835184
 - title: Lessons Learned from "BJC" CS Principles Professional Development
   filename: 2014 SIGCSE - Lessons Learned from BJC CS Principles Professional Development.pdf
   authors: Thomas Prince, Veronica Cateté, Jennifer Albert, Tiffany Barnes, Dan Garcia
@@ -19,7 +19,7 @@
   year: 2014
   journal: SIGCSE
   abstract: Our grand challenge is to scale high-quality computer science curriculum and instruction to reach all high school students. CS10K -- an NSF and ACM-sponsored project -- is working to do just that by supporting curriculum development, computer education research and professional development through the Computing Education for the 21st Century (CE21) program at NSF. Professional Development (PD) is a key piece of the project, as we need to train 10,000 teachers to teach rigorous computing courses in 10,000 high schools by 2016 -- the school year that a new Advanced Placement Course will be rolled out. This panel will provide an overview of the PD landscape and then each panelist will discuss the unique aspects of their PD project for high school teachers.
-  external_link: http://dl.acm.org/citation.cfm?id=2538876&CFID=594678540&CFTOKEN=45784601
+  external_link: https://dl.acm.org/citation.cfm?id=2538876&CFID=594678540&CFTOKEN=45784601
 - title: ! 'The Beauty and Joy of Computing: Computer Science for Everyone'
   filename: 2012 Constructionism - The Beauty and Joy of Computing - Computer Science for Everyone.pdf
   authors: Brian Harvey
@@ -33,13 +33,13 @@
   year: 2012
   journal: ACM Inroads
   abstract: The course is intended for non-CS majors. For students in the College of Letters and Sciences, it fulfills the "Quantitative Reasoning" breadth requirement. It is not required for CS majors, but some intended CS majors with no prior programming experience decide to take it as preparation for our first course for CS majors. In addition, many non-CS majors enjoy CS10 enough to continue with the sequence for majors.
-  external_link: http://dl.acm.org/citation.cfm?doid=2189835.2189853
+  external_link: https://dl.acm.org/citation.cfm?doid=2189835.2189853
 - title: 'Bringing "No Ceiling" to Scratch: Can One Language Serve Kids and Computer Scientists?'
   filename: 2010 Constructionism - Bringing No Ceiling to Scratch - Can One Language Serve Kids and Computer Scientists.pdf
   authors: Brian Harvey, Jens Monig
   year: 2010
   journal: Constructionism
   abstract: >
-    '[Scratch](http://scratch.mit.edu) is a computer programming language
+    '[Scratch](https://scratch.mit.edu) is a computer programming language
     for children, with a graphical drag-and-drop user interface. It is a descendent of Logo, developed at the MIT Media Lab. A small but growing trend among universities is to develop computer science courses for non-majors using Scratch as the programming environment, because it isn''t threatening - the same reason it works for kids. Also, the visible use of multiple threads in Scratch provide a simple introduction to parallelism. One such course was piloted this year at the University of California, Berkeley: "The Beauty and Joy of Computing." But Scratch has weaknesses as a programming language. Most notably, it lacks procedures, so it can't convey the impressive phenomenon of recursion, one of the central ideas of computer science (and also one of the central ideas of early Logo pedagogy). Its support for data structures is also weak. These weaknesses aren't oversights; the designers of Scratch deliberately avoided cluttering the language with anything a child might find threatening. To serve these two audiences, it has been proposed to split the Scratch community with two versions of the language, one for kids and one for advanced users. We believe that this is not necessary. By taking key ideas, such as procedures as first class data, from the Scheme language, we can add only a few features to Scratch and still make it powerful enough to support a serious introductory computer science curriculum. Furthermore, the graphical interface of Scratch makes the reification of procedures as data seem much less abstract and intimidating to novices.
   external_link: ''

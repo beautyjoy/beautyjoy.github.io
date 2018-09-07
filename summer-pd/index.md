@@ -13,9 +13,9 @@ redirect_from:
 
 ## PD Application Summer 2018
 
-**Apply to our Summer 2018 PD workshops at: [http://bjc.link/BJCPDApp2018][pd-app-link]**
+**Apply to our Summer 2018 PD workshops at: [https://bjc.link/BJCPDApp2018][pd-app-link]**
 
-[pd-app-link]: http://bjc.link/BJCPDApp2018
+[pd-app-link]: https://bjc.link/BJCPDApp2018
 
 ## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
 
@@ -31,7 +31,7 @@ We also plan workshops in the following locations:
 | June 25 - 29     |  El Camino College / Torrance, CA                                                  |
 | June 25 - 29     |  West Charlotte High School / Charlotte, NC (FULL)                                 |
 | July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
-| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  | 
+| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  |
 | July 23 - 27     |  Kean University / Union, NJ (FULL)                                                |
 | July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
 | Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
@@ -50,7 +50,7 @@ BJC PD Workshops are led by BJC Master Teachers who have attended a BJC summer P
 
 In 2018, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2018 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email].
 
-[tiffany]: http://eliza.csc.ncsu.edu/
+[tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
 [pd-email]: mailto:pd@bjc.berkeley.edu
@@ -65,7 +65,7 @@ BJC is culturally situated, presenting programming and computing ideas not in is
 
 BJC is designed to meet the requirements of the [College Board AP Computer Science Principles curriculum framework]({{ site.baseurl }}/ap-cs-principles). It was originally developed as a university breadth course at the University of California, Berkeley, and has been extensively revised for high school use at EDC (Education Development Center).
 
-The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
+The newest curriculum is at [bjc.edc.org](https://bjc.edc.org).
 
 ### Why choose BJC?
 
@@ -74,7 +74,7 @@ The newest curriculum is at [bjc.edc.org](http://bjc.edc.org).
 *   BJC focuses on collaboration.
     *   In BJC, students are encouraged to work in small groups, using pair programming for projects, and collaborating online to answer each others' questions.
 *   BJC assignments foster creativity and design thinking.
-    *   BJC includes project-centric labs, where groups are encouraged to build and design their own games, applications, and more. See [Snap<em>!</em> examples](http://snap.berkeley.edu)!
+    *   BJC includes project-centric labs, where groups are encouraged to build and design their own games, applications, and more. See [Snap<em>!</em> examples](https://snap.berkeley.edu)!
 *   BJC situates computing in the real world.
     *   BJC units explore how computing is used in real-world applications, from Google Search algorithms to Big Data to today's news.
 *   BJC emphasizes that computing is for everyone, and is a matter of equity.
@@ -92,14 +92,14 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
-Please complete our [2018 PD Interest Form](http://bit.ly/pdinterest18) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
+Please complete our [2018 PD Interest Form](https://bit.ly/pdinterest18) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
 
 ### How much does it cost?
 
 Regional BJC Summer PD is offered in 2018 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals. Participating teachers who complete all program requirements will also be eligible for a stipend of up to $500.
 
 ## How do I become a BJC Master Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email], or complete our Train the Trainer workshop application at http://bjc.link/TTTApp2018. Be sure to plan to attend our 2018 BJC "Train the Trainer" Master Teacher workshop June 19-22, and one or more 5-day in-person BJC workshops as a Teaching Assistant (TA).
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email], or complete our Train the Trainer workshop application at https://bjc.link/TTTApp2018. Be sure to plan to attend our 2018 BJC "Train the Trainer" Master Teacher workshop June 19-22, and one or more 5-day in-person BJC workshops as a Teaching Assistant (TA).
 
 ### Contact
 

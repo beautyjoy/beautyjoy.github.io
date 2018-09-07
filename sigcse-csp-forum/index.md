@@ -28,7 +28,7 @@ Breakfast and refreshments will be served.
 If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
 
 ## Sign Up To Attend
-Please go to [http://bjc.link/csp-forum-signup](http://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
+Please go to [https://bjc.link/csp-forum-signup](https://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
 
 Signups will close at **Friday, February 9, 2018 at 11:59PM PST**.
 
@@ -40,7 +40,7 @@ _Presentation submissions have now closed. Thanks for your interest!_
 
 ## Agenda
 
-The day will be organized as a series of short presentations, with ample time for discussion. 
+The day will be organized as a series of short presentations, with ample time for discussion.
 
 <br>
 
@@ -173,7 +173,7 @@ The day will be organized as a series of short presentations, with ample time fo
     <td>Close</td>
   </tr>
   </tbody>
-</table>  
+</table>
 
 
 ## Program Committee

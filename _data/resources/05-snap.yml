@@ -1,46 +1,46 @@
 subheading: Snap<em>!</em> Resources
 resources:
   - name: Snap<em>!</em>
-    link: http://snap.berkeley.edu/
+    link: https://snap.berkeley.edu/
     tags: snap
     description: Access Snap<em>!</em> here.
 
   - name: Snap<em>!</em> Reference Manual
-    link: http://snap.berkeley.edu/SnapManual.pdf
+    link: https://snap.berkeley.edu/SnapManual.pdf
     tags: snap
     description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.
 
   - name: Snap<em>!</em> Tips
-    link: http://bitly.com/snap-advice
+    link: https://bitly.com/snap-advice
     tags: snap students
     description: Snap<em>!</em> advice compiled from our BJC TEALS teachers.
-  
+
   - name: Snap<em>!</em> Example Projects
-    link: http://snap.berkeley.edu/#examples
+    link: https://snap.berkeley.edu/#examples
     tags: snap students project
     description: Interested example Snap<em>!</em> projects.
 
   - name: External Devices Compatible with Snap<em>!</em>
-    link: http://bjc.edc.org/bjc-r/teacher
+    link: https://bjc.edc.org/bjc-r/teacher
     tags: snap
     description: |
       Here's a list of hardware you can use with the Snap*!* Interface.
 
-      * [Water Color Bot](http://watercolorbot.com/) ($295 watercolor printer)
-      * [Beetleblocks](http://beetleblocks.com/) (FREE software for creating and printing 3D shapes)
-      * [Finch robot](http://finchrobot.com) ($99 USB-connected robot)
-      * [Hummingbird robot kit](http://www.hummingbirdkit.com/) ($199 USB-connected robot kit)
+      * [Water Color Bot](https://watercolorbot.com/) ($295 watercolor printer)
+      * [Beetleblocks](https://beetleblocks.com/) (FREE software for creating and printing 3D shapes)
+      * [Finch robot](https://finchrobot.com) ($99 USB-connected robot)
+      * [Hummingbird robot kit](https://www.hummingbirdkit.com/) ($199 USB-connected robot kit)
       * Orbotix [Sphero](https://docs.google.com/document/d/11wR53OTnofRtTtxZCmxnCUjIlFQjnGewM21A0vmjtFw/edit?usp=sharing) guide by Connor Hudson and Dan Garcia
-      * Lego [NXT](http://github.com/technoboy10/snap-nxt) package by Connor Hudson
-      * Nintendo [Wiimote](http://github.com/technoboy10/wiisnap) package by Connor Hudson
-      * [Finch and Hummingbird](http://www.hummingbirdkit.com/learning/software/snap) robots package by Tom Lauwers
-      * Parallax [S2](http://github.com/blockext/s2) robot package by Connor Hudson
-      * [LEAP Motion](http://github.com/technoboy10/snapmotion) by Connor Hudson
-      * [Speech synthesis](http://github.com/technoboy10/snap2speech) by Connor Hudson
+      * Lego [NXT](https://github.com/technoboy10/snap-nxt) package by Connor Hudson
+      * Nintendo [Wiimote](https://github.com/technoboy10/wiisnap) package by Connor Hudson
+      * [Finch and Hummingbird](https://www.hummingbirdkit.com/learning/software/snap) robots package by Tom Lauwers
+      * Parallax [S2](https://github.com/blockext/s2) robot package by Connor Hudson
+      * [LEAP Motion](https://github.com/technoboy10/snapmotion) by Connor Hudson
+      * [Speech synthesis](https://github.com/technoboy10/snap2speech) by Connor Hudson
       * [Arduino](https://github.com/MrYsLab/s2a_fm) package by Alan Yorinks
-      * [Arduino](http://s4a.cat/snap/) package by Bernat Romagosa/Citilab
+      * [Arduino](https://s4a.cat/snap/) package by Bernat Romagosa/Citilab
       * [Fischertechnik ROBOTICS TXT Controller](https://github.com/rkunze/ft-robo-snap) by Richard Kunze
-      * [Snap*!* for Raspberry Pi](http://downloads.rasplay.org/pisnap/) by rasplay.org
+      * [Snap*!* for Raspberry Pi](https://downloads.rasplay.org/pisnap/) by rasplay.org
 
   - name: Snap<em>!</em> Desktop Application
     tags: snap
@@ -57,5 +57,5 @@ resources:
     description: |
       Two ways to do this:
 
-      1. Turn your project into a desktop app by making an XML file (using the "export project" menu option) and then loading it into: <http://snapp.citilab.eu/>
-      2. A simple tool to embed a Snap*!* XML project into a stand-alone HTML page. Export the project from Snap*!* and the upload it here: <http://arena.csc.ncsu.edu/snap/converter/>. The file it creates is HTML, and it requires an internet connection, but it is self-executing. Created by Thomas Price, NCSU PhD student.
+      1. Turn your project into a desktop app by making an XML file (using the "export project" menu option) and then loading it into: <https://snapp.citilab.eu/>
+      2. A simple tool to embed a Snap*!* XML project into a stand-alone HTML page. Export the project from Snap*!* and the upload it here: <https://arena.csc.ncsu.edu/snap/converter/>. The file it creates is HTML, and it requires an internet connection, but it is self-executing. Created by Thomas Price, NCSU PhD student.

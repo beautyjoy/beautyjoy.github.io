@@ -1,7 +1,7 @@
 subheading: AP Computer Science Principles Resources
 resources:
   - name: BJC AP CS Principles Syllabus
-    link: http://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Syllabus.pdf
+    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Syllabus.pdf
     description: |
       Syllabus ID: 1648113v1
 
@@ -12,7 +12,7 @@ resources:
     description: Instructions on how to submit your AP CSP syllabus to the College Board after you’ve created your AP College Board account.
 
   - name: AP CSP Course Home Page
-    link: http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/231724.html
+    link: https://apcentral.collegeboard.com/apc/public/courses/teachers_corner/231724.html
     description: On AP Central
 
   - name: AP CSP Teacher Resources
@@ -23,10 +23,10 @@ resources:
     description: Contains curriculum framework and description of the AP CSP course and exam by the College Board.
 
   - name: AP CSP Course Audit
-    link: http://www.collegeboard.com/html/apcourseaudit/courses/ap_computer_science_principles.html
+    link: https://www.collegeboard.com/html/apcourseaudit/courses/ap_computer_science_principles.html
 
   - name: AP CSP Overview Modules
-    link: http://apcentral.collegeboard.com/apc/public/courses/231569.html
+    link: https://apcentral.collegeboard.com/apc/public/courses/231569.html
     description: Videos and presentations on the AP CSP course.
 
   - name: AP CSP Course Overview
@@ -41,11 +41,11 @@ resources:
     description: Introducing the AP CSP course to teachers.
 
   - name: AP CSP Assessment
-    link: http://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html
+    link: https://apcentral.collegeboard.com/apc/public/exam/exam_information/231726.html
     description: Exam information and example performance tasks.
 
   - name: AP CS Principles Create Task
-    link: http://apcsp.org/images/Resources/CreatePT_2016.pdf
+    link: https://apcsp.org/images/Resources/CreatePT_2016.pdf
     description: Directions for the Create Task, a required student submission to the College Board for the AP CS Principles exam. See the Grading, Solutions, and Assessments section for the rubric.
 
   - name: Create Performance Task Rubric
@@ -53,7 +53,7 @@ resources:
     description: This rubric is for the Create Performance Task, a required project in the AP CS Principles course.
 
   - name: AP CS Principles Explore Task
-    link: http://apcsp.org/images/Resources/ExplorePT_2016.pdf
+    link: https://apcsp.org/images/Resources/ExplorePT_2016.pdf
     description: Directions for the Explore Task, a required student submission to the College Board for the AP CS Principles exam. See the Grading, Solutions, and Assessments section for the rubric.
 
   - name: Explore Performance Task Rubric

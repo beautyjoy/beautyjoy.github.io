@@ -11,4 +11,4 @@ We are excited to announce that BJC will be a featured curriculum provider durin
 
 This is a free professional development event for high school teachers from all backgrounds. As always, teachers with no experience in computing are more than welcome to attend our PD workshop. The event will take place July 15-20, 2018 at Indiana University Bloomington (IUB).
 
-Applications will open in January 2018. For more information, please visit: [bjc.link/InfyPathfinders2018](http://bjc.link/InfyPathfinders2018)
+Applications will open in January 2018. For more information, please visit: [bjc.link/InfyPathfinders2018](https://bjc.link/InfyPathfinders2018)

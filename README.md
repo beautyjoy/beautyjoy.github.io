@@ -4,14 +4,14 @@
 
 This is the repo for the BJC homepage.
 
-* [bjc.berkeley.edu – production](http://bjc.berkeley.edu)
-* [beautyjoy.github.io – development](http://beautyjoy.github.io)
+* [bjc.berkeley.edu – production](https://bjc.berkeley.edu)
+* [beautyjoy.github.io – development](https://beautyjoy.github.io)
 
 # Getting Started
 
 bjc.berkeley.edu is built using [Jekyll][], a tool which builds static sities, mostly by compiling Markdown and some special formatting into HTML. Check out Jekyll's site for some good guides.
 
-[Jekyll]: http://jekyllrb.com
+[Jekyll]: https://jekyllrb.com
 
 The site is setup so you can probably get started by searching for page, and clicking the edit button right inside GitHub. (The edit button is located in the upper right controls for each file).
 
