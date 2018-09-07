@@ -15,9 +15,9 @@ script:
 deploy:
   - provider: s3
     skip_cleanup: true
-    access_key_id: AKIAIWKCIXYIBSD7KF7Q
+    access_key_id: AKIAJ2MJD7IR432ZIUSA
     secret_access_key:
-      secure: "L/9+qlvIM+k+/AMV1WyJ5VdN3XkQreenseAdcH5MmnTmArLIdiP3pwy344+3lXAdX8cKSs30/k3KjXQbcWi+fC2j3nOVTIESKma9myp9RgetSqqzEBS/W3TNrmEhjXgFm/UxQiDaN7C3OHvnhWQT4ksvXVEUJ9ph5I1ACNuP65E="
+      secure: "ibLfiKvEjRpS8aULaOu+4+7QiUInMmDuSlQXaEQeu7nNwyLkxfLXw+ccPrVpUMERxRUR3m/ZmYfgSaQZXeEXSnwVvvIbEgLCHGTkeR2XsMl7eWlMHt8WPHltXB/q1xFy6awmg89CZDYPBWHNxoljYB5zcxaGOY5vwEq+XKp+vRo="
     region: us-east-1
     bucket: aws-website-bjc-website-cjgl5
     local-dir: _aws/
