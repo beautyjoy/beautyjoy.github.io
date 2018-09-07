@@ -19,7 +19,8 @@ call_to_action_link: 'mailto:contact@bjc.berkeley.edu'
       location.origin + '/archive' + location.pathname
     )
 
-    $.get({
+    $.ajax({
+      method: 'GET',
       url: '/archive' + location.pathname,
       success: function () {
         location.href = '/archive' + location.pathname
