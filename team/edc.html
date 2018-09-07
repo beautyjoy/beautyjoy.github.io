@@ -6,7 +6,8 @@ header_background: group2
 <h3 class="text-uppercase text-center">Education Development Center</h3>
 
 <div class="row grid-gallery">
-    {% for profile in site.data.people.edc %}
+    {% assign people = site.data.people | where_exp: "item", "item.teams contains 'edc'" %}
+    {% for profile in people %}
     <div class="col-md-4 col-sm-6 grid-item">
         <div class="circle-frame">
             {% include profile-photo.html image=profile.image name=profile.name %}
