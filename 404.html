@@ -8,13 +8,14 @@ call_to_action_link: 'mailto:contact@bjc.berkeley.edu'
 ---
 <script>
   function checkArchive() {
+    if (!$) {return; }
     if (location.pathname.indexOf('/archive') == 0) {
       // Just so things don't look ugly.
       $('.js-archivePath').attr('href', location.href).text(location.href)
       return;
     }
 
-    $('.js-archivePath').attr('href', '/archive' + location.pathname).text(
+    $('.js-archivePath').attr('href', '/archive' + location.pathname).html(
       location.origin + '/archive' + location.pathname
     )
 
@@ -25,6 +26,8 @@ call_to_action_link: 'mailto:contact@bjc.berkeley.edu'
       }
     })
   }
+
+  document.addEventListener("DOMContentLoaded", checkArchive);
 </script>
 <!--
   TODO:
@@ -32,7 +35,9 @@ call_to_action_link: 'mailto:contact@bjc.berkeley.edu'
   * try to redirect to a different URL
   * Show the URL they tried to access
 -->
-<div class="js-redirectNotice">
+{% capture section_content %}
+<div class="js-redirectNotice"></div>
+<h4>We've recently moved some files around. Try checking: <a class="js-archivePath"></a>.</h4>
+{% endcapture %}
+{% include section.html %}
 
-</div>
-<p>We've recently moved some files around. Try checking: <a class="js-archivePath"></a>.</p>
