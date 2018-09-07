@@ -1,23 +1,20 @@
 language: ruby
 sudo: false
 rvm:
-  - 2.3.3
-
+- 2.3.3
 addons:
   apt:
     update: true
     packages:
-      - sshpass
-
+    - sshpass
 script:
-  - bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
-
+- bundle exec jekyll build -V -t --config '_config.yml,config/_config_staging.yml'
 deploy:
   - provider: s3
     skip_cleanup: true
     access_key_id: AKIAJ2MJD7IR432ZIUSA
     secret_access_key:
-      secure: "ibLfiKvEjRpS8aULaOu+4+7QiUInMmDuSlQXaEQeu7nNwyLkxfLXw+ccPrVpUMERxRUR3m/ZmYfgSaQZXeEXSnwVvvIbEgLCHGTkeR2XsMl7eWlMHt8WPHltXB/q1xFy6awmg89CZDYPBWHNxoljYB5zcxaGOY5vwEq+XKp+vRo="
+      secure: WtPsWMejLj1yZKLRtjVTGMHbg/MyPXMh5gokhmomNbMStMwy4dD5aiGMWHU+Qrh/KLgNpjGfBURfYXaO5556DCZgGvv1HE+ZErBXwiyJ/R6stGrkhgLN7gxgqP5lxVVGdF9IxlZrLbqwRXzlxr+pJUPqOkhVJZWxETBe8rc8mCs=
     region: us-east-1
     bucket: aws-website-bjc-website-cjgl5
     local-dir: _aws/
@@ -29,5 +26,6 @@ deploy:
       branch: berkeley
     skip_cleanup: true
     script:
-      - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
-      - .bin/copy-to-berkeley
+    - bundle exec jekyll build -V -t --config '_config.yml,config/_config_berkeley.yml'
+    - ".bin/copy-to-berkeley"
+
