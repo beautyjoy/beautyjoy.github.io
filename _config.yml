@@ -39,6 +39,21 @@ flipboard_link:     https://bjc.link/computingnews
 nyc_pd_page: https://cs4all.nyc/programs/
 pd_interest_url: https://bjc.link/pdinterest18
 
+# jekyll SEO tag attributes:
+twitter:
+    card: base
+    username: cspbjc
+logo: /assets/img/bjc.png
+lang: en_US
+social:
+    name: The Beauty and Joy of Computing
+    links:
+        - https://twitter.com/cspbjc
+        - https://www.facebook.com/cspbjc
+        - https://github.com/beautyjoy
+        - https://instagram.com/cspbjc
+google_site_verification: KuWL2ZXn4a2LNuAH4B-ghSObfCQ3tI6yXiSIRo6f05k"
+
 # These are specifically whitelisted by Github
 plugins:
   - jekyll-redirect-from
@@ -47,11 +62,12 @@ plugins:
 
 # Build settings
 markdown: kramdown
+include:
+  - .htaccess
 exclude:
-  - .gitingore
+  - redirects.json
   - Gemfile
   - Gemfile.lock
   - README.md
-  - circle.yml
   - vendor # created when the site is built on CircleCI
   - package.json
