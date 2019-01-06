@@ -18,7 +18,6 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 
 ## Logistics
 
-**TODO** 
 The Forum is a half-day morning session, on **<time>Wednesday, February 27, 2019 from 8:00 AM to 12:00 PM</time>**.
 
 We will release the specific location closer to the date of the conference, but it will be at the Minneappolis Convention Center with the rest of SIGCSE.
