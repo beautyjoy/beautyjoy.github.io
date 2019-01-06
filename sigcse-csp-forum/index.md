@@ -42,7 +42,9 @@ Topic submissions will close on **Friday, February 1, 2019 at 11:59PM PST**.
 
 The day will be organized as a series of short presentations, with ample time for discussion.
 
-Below is last year's schedule, but we will update this after topic submissions close.
+We will update this section after topic submissions close.
+
+<!--
 
 <br>
 
@@ -177,12 +179,13 @@ Below is last year's schedule, but we will update this after topic submissions c
   </tbody>
 </table>
 
+-->
 
 ## Program Committee
 
-* Lauren Mock, The Beauty and Joy of Computing, UC, Berkeley
-* Michael Ball, The Beauty and Joy of Computing, UC, Berkeley
-* TODO Tiffany
-* TODO Dan
+* Lauren Mock, The Beauty and Joy of Computing, UC Berkeley
+* Michael Ball, The Beauty and Joy of Computing, UC Berkeley
+* Dan Garcia, The Beauty and Joy of Computing, UC Berkeley
+* Tiffany Barnes, The Beauty and Joy of Computing, North Carolina State University
 
 We look forward to seeing you at the CS Principles Providers and Teachers Forum!
