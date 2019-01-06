@@ -67,7 +67,7 @@ We will update this section after topic submissions close.
   </tr>
   <!-- <tr>
     <td colspan="2"><strong>CS Principles Program and Progress Overview</strong></td>
-  </tr> -->
+  </tr>
   <tr>
     <td>8:35 - 8:50 AM</td>
     <td></td>
@@ -82,7 +82,7 @@ We will update this section after topic submissions close.
   </tr>
   <!-- <tr>
     <td colspan="2"><strong>PD Best Practices</strong></td>
-  </tr> -->
+  </tr>
   <tr>
     <td>9:15 - 9:25 AM</td>
     <td></td>
@@ -105,7 +105,7 @@ We will update this section after topic submissions close.
   </tr>
   <!-- <tr>
     <td colspan="2"><strong>Recruitment Lightning Talks</strong></td>
-  </tr> -->
+  </tr>
   <tr>
     <td>10:10 - 10:15 AM</td>
     <td></td>
@@ -140,7 +140,7 @@ We will update this section after topic submissions close.
   </tr>
   <!-- <tr>
     <td colspan="2"><strong>Teacher Needs</strong></td>
-  </tr> -->
+  </tr>
   <tr>
     <td>11:05 - 11:15 AM</td>
     <td></td>
@@ -163,7 +163,7 @@ We will update this section after topic submissions close.
   </tr>
   <!-- <tr>
     <td colspan="2"><strong>AP CS Principles Exam</strong></td>
-  </tr> -->
+  </tr>
   <tr>
     <td>11:50 - 12:05 PM</td>
     <td></td>
@@ -178,7 +178,6 @@ We will update this section after topic submissions close.
   </tr>
   </tbody>
 </table>
-
 -->
 
 ## Program Committee
