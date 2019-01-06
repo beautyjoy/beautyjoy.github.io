@@ -5,7 +5,7 @@ layout: single-section-page
 ---
 
 ## Overview
-The 2019 CS Principles Providers and Teachers Forum is the 2nd gathering of CS Principles educators, providers and teachers in a structured session at SIGCSE. This forum was created to fill the need for a community for CS Principles providers and teachers to discuss best practices, feedback, or share teaching experiences.
+The 2019 CS Principles Providers and Teachers Forum is the second gathering of CS Principles educators, providers and teachers in a structured session at SIGCSE. This forum was created to fill the need for a community for CS Principles providers and teachers to discuss best practices, feedback, or share teaching experiences.
 
 The CS Principles Providers and Teachers Forum aims to increase collaboration and discussion among College Board endorsed providers and teachers by offering a diverse agenda. Topics that may be discussed this year include but are not limited to:
 
@@ -21,9 +21,7 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 **TODO** 
 The Forum is a half-day morning session, on **<time>Wednesday, February 27, 2019 from 8:00 AM to 12:00 PM</time>**.
 
-We will release the specific location closer to the date of the conference, but it will be somewhere at the Minneappolis Convention Center with the rest of SIGCSE.
-
-TBD: Breakfast and refreshments will be served.
+We will release the specific location closer to the date of the conference, but it will be at the Minneappolis Convention Center with the rest of SIGCSE.
 
 ### Contact Email
 If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
@@ -31,18 +29,21 @@ If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mail
 ## Sign Up To Attend
 Please go to [https://bjc.link/csp-forum-signup](https://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
 
-Signups will close at **Friday, February 9, 2018 at 11:59PM PST**.
+Signups will close on **Friday, February 1, 2019 at 11:59PM PST**.
 
 ## Topic Submissions
 
-We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
+We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 10-15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
 
-** TODO ** 
-_Presentation submissions have now closed. Thanks for your interest!_
+Please submit your topics here: [https://bjc.berkeley.edu/sigcse-csp-forum/submit] (https://bjc.berkeley.edu/sigcse-csp-forum/submit)
+
+Topic submissions will close on **Friday, February 1, 2019 at 11:59PM PST**.
 
 ## Agenda
 
 The day will be organized as a series of short presentations, with ample time for discussion.
+
+Below is last year's schedule, but we will update this after topic submissions close.
 
 <br>
 
@@ -57,7 +58,7 @@ The day will be organized as a series of short presentations, with ample time fo
   <tbody>
   <tr>
     <td>8:00 - 8:30 AM</td>
-    <td>Breakfast Buffet<br>Provided by the generous support of <a href="https://edu.google.com/computer-science/">Google for Education</a>.</td>
+    <td>Breakfast</td>
   </tr>
   <tr>
     <td>8:30 - 8:35 AM</td>
