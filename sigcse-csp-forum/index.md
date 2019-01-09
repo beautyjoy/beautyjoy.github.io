@@ -18,9 +18,11 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 
 ## Logistics
 
-The Forum is a half-day morning session, on **<time>Wednesday, February 27, 2019 from 8:00 AM to 12:00 PM</time>**.
+The Forum is a half-day afternoon session, on **<time>Wednesday, February 27, 2019 from 1:30 PM to 5:00 PM</time>**.
 
-We will release the specific location closer to the date of the conference, but it will be at the Minneappolis Convention Center with the rest of SIGCSE.
+Location: Hyatt: Greenway G (2nd floor)
+
+Link in Whova: [ https://whova.com/embedded/session/sigcs_201902/497248/](https://whova.com/embedded/session/sigcs_201902/497248/)
 
 ### Contact Email
 If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
@@ -28,13 +30,13 @@ If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mail
 ## Sign Up To Attend
 Please go to [https://bjc.link/csp-forum-signup](https://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
 
-Signups will close on **Friday, February 1, 2019 at 11:59PM PST**.
+Signups will close on **Friday, February 8, 2019 at 11:59PM PST**.
 
 ## Topic Submissions
 
 We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 10-15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
 
-Please submit your topics here: [https://bjc.berkeley.edu/sigcse-csp-forum/submit] (https://bjc.berkeley.edu/sigcse-csp-forum/submit)
+Please submit your topics here: [https://bjc.berkeley.edu/sigcse-csp-forum/submit](https://bjc.berkeley.edu/sigcse-csp-forum/submit)
 
 Topic submissions will close on **Friday, February 1, 2019 at 11:59PM PST**.
 
