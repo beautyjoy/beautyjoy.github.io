@@ -28,7 +28,7 @@ Link in Whova: [ https://whova.com/embedded/session/sigcs_201902/497248/](https:
 If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
 
 ## Sign Up To Attend
-Please go to [https://bjc.link/csp-forum-signup](https://bjc.link/csp-forum-signup) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
+Please go to [https://bjc.berkeley.edu/sigcse-csp-forum/register](https://bjc.berkeley.edu/sigcse-csp-forum/register) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
 
 Signups will close on **Friday, February 8, 2019 at 11:59PM PST**.
 
