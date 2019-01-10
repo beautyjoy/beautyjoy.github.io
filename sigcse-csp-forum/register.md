@@ -8,7 +8,7 @@ redirect_to:
  
 ### Register to Attend
 
-Please register to attend below or here: [https://www.getfeedback.com/r/Zx9MNdLe](https://www.getfeedback.com/r/Zx9MNdLe)
+Please register to attend below or here: [https://bjc.link/cspforum19signup](https://bjc.link/cspforum19signup)
 
 Please note that you also need to select this pre-symposium event in the SIGCSE conference registration process.
 
