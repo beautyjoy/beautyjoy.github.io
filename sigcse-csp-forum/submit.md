@@ -13,5 +13,5 @@ layout: single-section-page
 Thank you for your interest in presenting at the CS Principles Forum! Please complete the following form below to submit your presentation proposal. Or, you can access it here: [https://bjc.link/cspforum19submit](https://bjc.link/cspforum19submit)
 
 <figure class="video_container">
-<iframe src="https://bjc.link/cspforum19submit" frameborder="0"></iframe>
+<iframe src="https://bjc.link/cspforum19submit"></iframe>
 </figure>
