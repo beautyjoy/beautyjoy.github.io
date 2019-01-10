@@ -10,6 +10,6 @@ redirect_to:
 
 Please register to attend below or here: [https://www.getfeedback.com/r/Zx9MNdLe](https://www.getfeedback.com/r/Zx9MNdLe)
 
-Please note that you also need to select this pre-symposium event in the SIGCSE registration process.
+Please note that you also need to select this pre-symposium event in the SIGCSE conference registration process.
 
 There is no cost to attend this event.
