@@ -23,6 +23,7 @@ deploy:
       - "rvm use 2.3.3 do bash .bin/deploy"
   - provider: script
     on:
+      repo: beautyjoy/beautyjoy.github.io
       branch: berkeley
     skip_cleanup: true
     script:
