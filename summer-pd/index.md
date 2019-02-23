@@ -11,13 +11,13 @@ redirect_from:
 
 <!-- TODO: The last redirect URLs are temporary. -->
 
-## PD Application Summer 2018
+## PD Application Summer 2019
 
-**Apply to our Summer 2018 PD workshops at: [https://bjc.link/BJCPDApp2018][pd-app-link]**
+**Apply to our Summer 2019 PD workshops at: [https://bjc.link/PD2019Application][pd-app-link]**
 
 [pd-app-link]: https://bjc.link/PD2019Application
 
-## [2018 Informational Flyer]({{ site.baseurl }}/documents/2019/bjc-pd-2019-flyer.pdf)
+## [2019 Informational Flyer]({{ site.baseurl }}/documents/2019/bjc-pd-2019-flyer.pdf)
 
 ## Where is BJC PD being offered in Summer 2019?
 
@@ -38,6 +38,7 @@ We also plan workshops in the following locations:
 | Aug 5 - 9        |  University of California, Berkeley / Berkeley, CA (near San Francisco)            |
 | Aug 5 - 9        |  George Mason University / Fairfax, VA (DATE STILL TO BE CONFIRMED)                |
 | TBD              |  Alabama (DATE AND LOCATION STILL TO BE CONFIRMED)                                 |
+
 {: .table.table-striped.table-bordered }
 
 Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu].(mailto:pd@bjc.berkeley.edu).
