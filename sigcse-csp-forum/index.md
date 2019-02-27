@@ -46,8 +46,6 @@ The day will be organized as a series of short presentations, with ample time fo
 
 We will update this section after topic submissions close.
 
-<!--
-
 <br>
 
 <table class="table table-striped table-bordered">
@@ -60,123 +58,66 @@ We will update this section after topic submissions close.
   </thead>
   <tbody>
   <tr>
-    <td>8:00 - 8:30 AM</td>
-    <td>Breakfast</td>
+    <td>1:30 - 1:35 PM</td>
+    <td>Quick Intro and Overview of Format</td>
   </tr>
   <tr>
-    <td>8:30 - 8:35 AM</td>
-    <td>Welcome &amp; Introductions</td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2"><strong>CS Principles Program and Progress Overview</strong></td>
+    <td colspan="2"><strong>CSP Professional Development</strong></td>
   </tr>
   <tr>
-    <td>8:35 - 8:50 AM</td>
-    <td></td>
+    <td>1:35 - 1:55 PM</td>
+    <td>Designing CS PD for In-Service Teachers: Developing Teachers as Leaders and Learners <br> Tiffany Barnes, Professor, NC State, Beauty and Joy of Computing</td>
   </tr>
   <tr>
-    <td>8:50 - 9:05 AM</td>
-    <td></td>
+    <td>1:55 - 2:15 PM</td>
+    <td>Online vs. In-Person PD: Benefits and Tradeoffs <br< Evelyn Hunter, Curriculum Provider, CodeHS</td>
   </tr>
   <tr>
-    <td>9:05 - 9:15 AM</td>
-    <td></td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2"><strong>PD Best Practices</strong></td>
+    <td>2:15 - 2:25 PM</td>
+    <td>A Connector Course for Pre-Service CS Teacher Development <br> Kevin Lin, MS Candidate, UC Berkeley</td>
   </tr>
   <tr>
-    <td>9:15 - 9:25 AM</td>
-    <td></td>
+    <td>2:25 - 2:35 PM</td>
+    <td>Discussion / Questions</td>
   </tr>
   <tr>
-    <td>9:25 - 9:35 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9:35 - 9:45 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>9:45 - 10:00 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10:00 - 10:10 AM</td>
+    <td>2:35 - 2:45 PM</td>
     <td>Break</td>
   </tr>
-  <!-- <tr>
-    <td colspan="2"><strong>Recruitment Lightning Talks</strong></td>
+  <tr>
+    <td colspan="2"><strong>CSP Special Topics</strong></td>
   </tr>
   <tr>
-    <td>10:10 - 10:15 AM</td>
-    <td></td>
+    <td>2:45 - 3:00 PM</td>
+    <td>Growing Your CS Program <br> Buffie Holley, Teacher, Code Virginia</td>
   </tr>
   <tr>
-    <td>10:15 - 10:20 AM</td>
-    <td></td>
+    <td>3:00 - 3:20 PM</td>
+    <td>Creative Ideas for Assessment for both Programming and Non-Programming Units <br> Philip Wang, Teacher, The King's Academy</td>
   </tr>
   <tr>
-    <td>10:20 - 10:25 AM</td>
-    <td></td>
+    <td>3:20 - 3:35 PM</td>
+    <td>Accessibility and Differentiation of CSP Curriculum Materials <br> Beryl Hoffman, Professor, Elms College</td>
   </tr>
   <tr>
-    <td>10:25 - 10:30 AM</td>
-    <td></td>
+    <td>3:35 - 3:50 PM</td>
+    <td>The Pendulum Project – Student Projects after the AP CSP Exam <br> Jessica Du, Teacher, Fiorello H. LaGuardia High School</td>
   </tr>
   <tr>
-    <td>10:30 - 10:35 AM</td>
-    <td></td>
+    <td>3:50 - 4:00 PM</td>
+    <td>Discussion / Questions</td>
+  </tr>
+ <tr>
+    <td colspan="2"><strong>CSP Exam</strong></td>
   </tr>
   <tr>
-    <td>10:35 - 10:40 AM</td>
-    <td></td>
+    <td>4:00 - 4:30 PM</td>
+    <td>AP CSP Review & Exam Prep <br> Pamela Fox, Review Content Creator, Khan Academy</td>
   </tr>
+  <td colspan="2"><strong>CS Principles</strong></td>
   <tr>
-    <td>10:40 - 10:55 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>10:55 - 11:05 AM</td>
-    <td>Break</td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2"><strong>Teacher Needs</strong></td>
-  </tr>
-  <tr>
-    <td>11:05 - 11:15 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11:15 - 11:25 AM</td>
-    <td>/td>
-  </tr>
-  <tr>
-    <td>11:25 - 11:35 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11:35 - 11:45 AM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>11:45 - 11:50 AM</td>
-    <td></td>
-  </tr>
-  <!-- <tr>
-    <td colspan="2"><strong>AP CS Principles Exam</strong></td>
-  </tr>
-  <tr>
-    <td>11:50 - 12:05 PM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>12:05 - 12:30 PM</td>
-    <td></td>
-  </tr>
-  <tr>
-    <td>12:30 PM</td>
-    <td>Close</td>
+    <td>4:30 - 5:00 PM</td>
+    <td>CS Principles <br> Crystal Furman, The College Board</td>
   </tr>
   </tbody>
 </table>
