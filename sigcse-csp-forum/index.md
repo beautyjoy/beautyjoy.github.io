@@ -2,6 +2,8 @@
 title: CSP Providers & Teachers Forum
 subtitle: SIGCSE 2019 — Minneappolis, Minnesota
 layout: single-section-page
+redirect_from:
+  - /csp-forum/
 ---
 
 ## Overview
