@@ -66,7 +66,7 @@ We will update this section after topic submissions close.
   </tr>
   <tr>
     <td>1:35 - 1:55 PM</td>
-    <td>Designing CS PD for In-Service Teachers: Developing Teachers as Leaders and Learners <br> Tiffany Barnes, Professor, NC State, Beauty and Joy of Computing</td>
+    <td>Designing CS PD for In-Service Teachers: Developing Teachers as Leaders and Learners <br> Alex Milliken, Marnie Hill, Tiffany Barnes, NC State, Beauty and Joy of Computing</td>
   </tr>
   <tr>
     <td>1:55 - 2:15 PM</td>
