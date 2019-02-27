@@ -44,7 +44,9 @@ Topic submissions will close on **Friday, February 1, 2019 at 11:59PM PST**.
 
 The day will be organized as a series of short presentations, with ample time for discussion.
 
-We will update this section after topic submissions close.
+<br>
+
+### [View Slides at https://bjc.link/csp-forum-2019](https://bjc.link/csp-forum-2019)
 
 <br>
 
