@@ -11,33 +11,37 @@ redirect_from:
 
 <!-- TODO: The last redirect URLs are temporary. -->
 
-## PD Application Summer 2018
+## PD Application Summer 2019
 
-**Apply to our Summer 2018 PD workshops at: [https://bjc.link/BJCPDApp2018][pd-app-link]**
+**Apply to our Summer 2019 PD workshops at: [https://bjc.link/PD2019Application][pd-app-link]**
 
-[pd-app-link]: https://bjc.link/BJCPDApp2018
+[pd-app-link]: https://bjc.link/PD2019Application
 
-## [2018 Informational Flyer]({{ site.baseurl }}/documents/2018/bjc-pd-2018-flyer.pdf)
+## [2019 Informational Flyer]({{ site.baseurl }}/documents/2019/bjc-pd-2019-flyer.pdf)
 
-## Where is BJC PD being offered in Summer 2018?
+## Where is BJC PD being offered in Summer 2019?
 
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 15-20, 2018** at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 14-19, 2019** at Indiana University Bloomington. Funds from Infosys will match funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging will be provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
 
 We also plan workshops in the following locations:
 
 | Dates            | Locations                                                                          |
 | :--------------: |------------------------------------------------------------------------------------|
-| June 25 - 29     |  Colorado School of Mines / Golden, CO                                             |
-| June 25 - 29     |  El Camino College / Torrance, CA                                                  |
-| June 25 - 29     |  West Charlotte High School / Charlotte, NC (FULL)                                 |
-| July 9 - 13      |  Harvey Mudd College / Claremont, CA                                               |
-| July 15 - 20     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  |
-| July 23 - 27     |  Kean University / Union, NJ (FULL)                                                |
-| July 30 - Aug 3  |  University of California, Berkeley / Berkeley, CA                                 |
-| Aug 6 - 10       |  George Mason University / Fairfax, VA                                             |
+| June 24 - 28     |  University of North Carolina, Charlotte / Charlotte, NC                           |
+| July 8 - 12      |  University of North Texas / Denton, TX (near Dallas)                              |
+| June 8 - 12      |  El Camino College / Torrance, CA (DATE STILL TO BE CONFIRMED)                     |
+| July 14 - 19     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  |
+| July 15 - 19     |  Kean University / Union, NJ (near NYC)                                            |
+| July 22 - 26     |  Harvey Mudd College / Claremont, CA                                               |
+| July 29 - Aug 2  |  Northern Kentucky University / Highland Heights, KY                               |
+| July 29 - Aug 2  |  TBD / Chicago, IL (DATE STILL TO BE CONFIRMED)                                    |
+| Aug 5 - 9        |  University of California, Berkeley / Berkeley, CA (near San Francisco)            |
+| Aug 5 - 9        |  George Mason University / Fairfax, VA (DATE STILL TO BE CONFIRMED)                |
+| TBD              |  Alabama (DATE AND LOCATION STILL TO BE CONFIRMED)                                 |
+
 {: .table.table-striped.table-bordered }
 
-New in 2018, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. Two 5-day workshops will be offered, one in Raleigh, NC  Jul 22-27 and one in Charleston, SC Jul 29-Aug 3. For more information, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu).
+Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu].(mailto:pd@bjc.berkeley.edu).
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
@@ -48,7 +52,7 @@ New in 2018, NC State University and The Citadel are partnering to offer PD on i
 
 BJC PD Workshops are led by BJC Master Teachers who have attended a BJC summer PD workshop, taught the BJC course in high school, and participate in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
-In 2018, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2018 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email].
+In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email].
 
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
@@ -92,14 +96,14 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
-Please complete our [2018 PD Interest Form](https://bit.ly/pdinterest18) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
+Please complete our [2019 PD Interest Form](https://bit.ly/pdinterest19) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
 
 ### How much does it cost?
 
 Regional BJC Summer PD is offered in 2018 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals. Participating teachers who complete all program requirements will also be eligible for a stipend of up to $500.
 
 ## How do I become a BJC Master Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email], or complete our Train the Trainer workshop application at https://bjc.link/TTTApp2018. Be sure to plan to attend our 2018 BJC "Train the Trainer" Master Teacher workshop June 19-22, and one or more 5-day in-person BJC workshops as a Teaching Assistant (TA).
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2019 BJC "Train the Trainer" Master Teacher workshop June 22-23, and one of our 5-day in-person BJC workshops as a Teaching Assistant (TA).
 
 ### Contact
 
