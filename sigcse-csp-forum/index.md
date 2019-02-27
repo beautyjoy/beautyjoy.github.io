@@ -70,7 +70,7 @@ We will update this section after topic submissions close.
   </tr>
   <tr>
     <td>1:55 - 2:15 PM</td>
-    <td>Online vs. In-Person PD: Benefits and Tradeoffs <br< Evelyn Hunter, Curriculum Provider, CodeHS</td>
+    <td>Online vs. In-Person PD: Benefits and Tradeoffs <br> Evelyn Hunter, Curriculum Provider, CodeHS</td>
   </tr>
   <tr>
     <td>2:15 - 2:25 PM</td>
