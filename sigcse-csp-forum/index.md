@@ -27,26 +27,25 @@ Link in Whova: [ https://whova.com/embedded/session/sigcs_201902/497248/](https:
 ### Contact Email
 If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
 
+<!--
 ## Sign Up To Attend
 Please go to [https://bjc.berkeley.edu/sigcse-csp-forum/register](https://bjc.berkeley.edu/sigcse-csp-forum/register) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP.
-
+-->
+<!--
 Signups will close on **Friday, February 8, 2019 at 11:59PM PST**.
-
+-->
+<!--
 ## Topic Submissions
-
 We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 10-15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
-
 Please submit your topics here: [https://bjc.berkeley.edu/sigcse-csp-forum/submit](https://bjc.berkeley.edu/sigcse-csp-forum/submit)
-
 Topic submissions will close on **Friday, February 1, 2019 at 11:59PM PST**.
+-->
 
 ## Agenda
 
 The day will be organized as a series of short presentations, with ample time for discussion.
-
-We will update this section after topic submissions close.
-
-<br>
+	
+### View Slides at [https://bjc.link/csp-forum-2019](https://bjc.link/csp-forum-2019)
 
 <table class="table table-striped table-bordered">
   <caption class="sr-only">Session Times and Titles</caption>
