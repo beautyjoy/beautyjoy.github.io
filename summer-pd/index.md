@@ -47,7 +47,7 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>July 9 - 12</td>
-    <td>Decatur High School, Decatur, AL</td>
+    <td>Decatur High School / Decatur, AL</td>
   </tr>
   <tr>
     <td>July 14 - 19</td>
