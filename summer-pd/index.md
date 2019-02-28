@@ -17,7 +17,7 @@ redirect_from:
 
 [pd-app-link]: https://bjc.link/PD2019Application
 
-## [2019 Informational Flyer]({{ site.baseurl }}/documents/2019/bjc-pd-2019-flyer.pdf)
+## [2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf)
 
 ## Where is BJC PD being offered in Summer 2019?
 
