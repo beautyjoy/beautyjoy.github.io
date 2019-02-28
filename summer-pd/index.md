@@ -80,7 +80,7 @@ We also plan workshops in the following locations:
  </tbody>
 </table>
 
-Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu].(mailto:pd@bjc.berkeley.edu).
+Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
@@ -91,7 +91,7 @@ Continuing in 2019, NC State University and The Citadel are partnering to offer 
 
 BJC PD Workshops are led by BJC Master Teachers who have attended a BJC summer PD workshop, taught the BJC course in high school, and participate in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
-In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email].
+<!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
@@ -135,11 +135,13 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
-Please complete our [2019 PD Interest Form](https://bit.ly/pdinterest19) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
+Apply here: [pd-app-link]: https://bjc.link/PD2019Application
+
+<!--Please complete our [2019 PD Interest Form](https://bit.ly/pdinterest19) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
 
 ### How much does it cost?
 
-Regional BJC Summer PD is offered in 2018 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals. Participating teachers who complete all program requirements will also be eligible for a stipend of up to $500.
+Regional BJC Summer PD is offered in 2019 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals. Participating teachers who complete all program requirements will also be eligible for a stipend of up to $500.
 
 ## How do I become a BJC Master Teacher?
 If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2019 BJC "Train the Trainer" Master Teacher workshop June 22-23, and one of our 5-day in-person BJC workshops as a Teaching Assistant (TA).
