@@ -25,19 +25,60 @@ Thanks to the generosity of [Infosys Foundation USA][infosys], BJC is offering *
 
 We also plan workshops in the following locations:
 
-| Dates            | Locations                                                                          |
-| :--------------: |------------------------------------------------------------------------------------|
-| June 24 - 28     |  University of North Carolina, Charlotte / Charlotte, NC                           |
-| July 8 - 12      |  University of North Texas / Denton, TX (near Dallas)                              |
-| July 8 - 12      |  El Camino College / Torrance, CA (DATE STILL TO BE CONFIRMED)                     |
-| July 9 - 12      |  Decatur High School, Decatur, AL                                                  |
-| July 14 - 19     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  |
-| July 15 - 19     |  Kean University / Union, NJ (near NYC)                                            |
-| July 22 - 26     |  Harvey Mudd College / Claremont, CA                                               |
-| July 29 - Aug 2  |  Northern Kentucky University / Highland Heights, KY                               |
-| July 29 - Aug 2  |  TBD / Chicago, IL (DATE STILL TO BE CONFIRMED)                                    |
-| Aug 5 - 9        |  University of California, Berkeley / Berkeley, CA (near San Francisco)            |
-| Aug 5 - 9        |  George Mason University / Fairfax, VA (DATE STILL TO BE CONFIRMED)                |
+<table class="table table-striped table-bordered">
+<thead>
+  <tr>
+    <th scope ="col">Dates</th>
+    <th scope ="col">Locations</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>June 24 - 28</td>
+    <td>University of North Carolina, Charlotte / Charlotte, NC</td>
+  </tr>
+  <tr>
+    <td>July 8 - 12</td>
+    <td>University of North Texas / Denton, TX (near Dallas)</td>
+  </tr>
+  <tr>
+    <td>July 8 - 12</td>
+    <td>El Camino College / Torrance, CA (DATE STILL TO BE CONFIRMED)</td>
+  </tr>
+  <tr>
+    <td>July 9 - 12</td>
+    <td>Decatur High School, Decatur, AL</td>
+  </tr>
+  <tr>
+    <td>July 14 - 19</td>
+    <td>Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN</td>
+  </tr>
+  <tr>
+    <td>July 15 - 19</td>
+    <td>Kean University / Union, NJ (near NYC)</td>
+  </tr>
+  <tr>
+    <td>July 22 - 26</td>
+    <td>Harvey Mudd College / Claremont, CA</td>
+  </tr>
+  <tr>
+    <td>July 29 - Aug 2</td>
+    <td>Northern Kentucky University / Highland Heights, KY</td>
+  </tr>
+  <tr>
+    <td>July 29 - Aug 2</td>
+    <td>TBD / Chicago, IL (DATE STILL TO BE CONFIRMED)</td>
+  </tr>
+  <tr>
+    <td>Aug 5 - 9</td>
+    <td>University of California, Berkeley / Berkeley, CA (near San Francisco)</td>
+  </tr>
+  <tr>
+    <td>Aug 5 - 9</td>
+    <td>George Mason University / Fairfax, VA (DATE STILL TO BE CONFIRMED)</td>
+  </tr>
+ </tbody>
+</table>
 
 Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu].(mailto:pd@bjc.berkeley.edu).
 
