@@ -29,7 +29,8 @@ We also plan workshops in the following locations:
 | :--------------: |------------------------------------------------------------------------------------|
 | June 24 - 28     |  University of North Carolina, Charlotte / Charlotte, NC                           |
 | July 8 - 12      |  University of North Texas / Denton, TX (near Dallas)                              |
-| June 8 - 12      |  El Camino College / Torrance, CA (DATE STILL TO BE CONFIRMED)                     |
+| July 8 - 12      |  El Camino College / Torrance, CA (DATE STILL TO BE CONFIRMED)                     |
+| July 9 - 12      |  Decatur High School, Decatur, AL                                                  |
 | July 14 - 19     |  Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN  |
 | July 15 - 19     |  Kean University / Union, NJ (near NYC)                                            |
 | July 22 - 26     |  Harvey Mudd College / Claremont, CA                                               |
@@ -37,9 +38,6 @@ We also plan workshops in the following locations:
 | July 29 - Aug 2  |  TBD / Chicago, IL (DATE STILL TO BE CONFIRMED)                                    |
 | Aug 5 - 9        |  University of California, Berkeley / Berkeley, CA (near San Francisco)            |
 | Aug 5 - 9        |  George Mason University / Fairfax, VA (DATE STILL TO BE CONFIRMED)                |
-| TBD              |  Alabama (DATE AND LOCATION STILL TO BE CONFIRMED)                                 |
-
-{: .table.table-striped.table-bordered }
 
 Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu].(mailto:pd@bjc.berkeley.edu).
 
