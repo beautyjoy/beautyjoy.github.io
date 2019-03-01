@@ -1,5 +1,5 @@
 ---
-title: 2018 Professional Development
+title: 2019 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
 redirect_from:
