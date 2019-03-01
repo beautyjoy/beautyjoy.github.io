@@ -21,10 +21,10 @@
   href: /ap-cs-principles
 - title: Professional Development
   links:
-    - name: Outside NYC
+    - name: National PD
       href: /summer-pd
-    - name: New York City
-      href: https://cs4all.nyc/programs/
+    #- name: New York City
+    #  href: https://cs4all.nyc/programs/
 - name: CSP Forum
   href: /sigcse-csp-forum
 - name: Resources
