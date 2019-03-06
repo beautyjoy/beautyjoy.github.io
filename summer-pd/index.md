@@ -63,11 +63,11 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>July 29 - Aug 2</td>
-    <td>Northern Kentucky University / Highland Heights, KY</td>
+    <td>Chicago, IL</td>
   </tr>
   <tr>
     <td>July 29 - Aug 2</td>
-    <td>TBD / Chicago, IL (DATE STILL TO BE CONFIRMED)</td>
+    <td>Northern Kentucky University / Highland Heights, KY</td>
   </tr>
   <tr>
     <td>Aug 5 - 9</td>
