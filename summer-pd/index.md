@@ -43,7 +43,7 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>July 8 - 12</td>
-    <td>El Camino College / Torrance, CA (DATE STILL TO BE CONFIRMED)</td>
+    <td>El Camino College / Torrance, CA</td>
   </tr>
   <tr>
     <td>July 9 - 12</td>
@@ -135,9 +135,9 @@ The Beauty and Joy of Computing is taught across the country, with over 250 teac
 
 We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
-Apply here: [pd-app-link]: https://bjc.link/PD2019Application
+Apply here: [BJC PD Summer 2019 Application](https://bjc.link/PD2019Application)
 
-<!--Please complete our [2019 PD Interest Form](https://bit.ly/pdinterest19) to receive updates. Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
+To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
 
 ### How much does it cost?
 
