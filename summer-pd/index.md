@@ -68,6 +68,7 @@ We also plan workshops in the following locations:
   <tr>
     <td>July 22 - 26</td>
     <td>Marquette University / Milwaukee, WI</td>
+  </tr>
   <tr>
     <td>July 29 - Aug 2</td>
     <td>Chicago, IL</td>
