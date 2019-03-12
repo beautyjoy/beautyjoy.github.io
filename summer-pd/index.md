@@ -15,7 +15,7 @@ redirect_from:
 
 **Apply to our Summer 2019 PD workshops at: [https://bjc.link/PD2019App][pd-app-link]**
 
-[pd-app-link]: https://bjc.link/PD2019Application
+[pd-app-link]: https://bjc.link/PD2019App
 
 ## [2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf)
 
