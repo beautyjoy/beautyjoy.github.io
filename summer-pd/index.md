@@ -62,6 +62,13 @@ We also plan workshops in the following locations:
     <td>Harvey Mudd College / Claremont, CA</td>
   </tr>
   <tr>
+    <td>July 22 - 26</td>
+    <td>NMSI Event</td>
+  </tr>
+  <tr>
+    <td>July 22 - 26</td>
+    <td>Marquette University / Milwaukee, WI</td>
+  <tr>
     <td>July 29 - Aug 2</td>
     <td>Chicago, IL</td>
   </tr>
