@@ -13,7 +13,7 @@ redirect_from:
 
 ## PD Application Summer 2019
 
-**Apply to our Summer 2019 PD workshops at: [https://bjc.link/PD2019Application][pd-app-link]**
+**Apply to our Summer 2019 PD workshops at: [https://bjc.link/PD2019App][pd-app-link]**
 
 [pd-app-link]: https://bjc.link/PD2019Application
 
