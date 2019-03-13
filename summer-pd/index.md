@@ -63,10 +63,6 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>July 22 - 26</td>
-    <td>NMSI Event</td>
-  </tr>
-  <tr>
-    <td>July 22 - 26</td>
     <td>Marquette University / Milwaukee, WI</td>
   </tr>
   <tr>
