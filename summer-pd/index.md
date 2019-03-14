@@ -145,7 +145,7 @@ To receive updates (but not apply), leave your name with us on our [2019 PD Inte
 
 ### How much does it cost?
 
-Regional BJC Summer PD is offered in 2019 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals. Participating teachers who complete all program requirements will also be eligible for a stipend of up to $500.
+Regional BJC Summer PD is offered in 2019 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.
 
 ## How do I become a BJC Master Teacher?
 If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2019 BJC "Train the Trainer" Master Teacher workshop June 22-23, and one of our 5-day in-person BJC workshops as a Teaching Assistant (TA).
