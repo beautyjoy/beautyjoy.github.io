@@ -13,9 +13,12 @@ redirect_from:
 
 ## PD Application Summer 2019
 
-**Apply to our Summer 2019 PD workshops at: [https://bjc.link/PD2019App][pd-app-link]**
-
 [pd-app-link]: https://bjc.link/PD2019App
+
+BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 500 teachers throughout the U.S., reaching more than 5,000 students.  **See below for BJC PD locations in 2019, and to apply.** If you are interested, but not ready to apply, please complete our [BJC PD interest form][pd-interest-form-link].
+
+[pd-interest-form-link]: https://bjc.link/pdinterest19
+
 
 ## [2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf)
 
@@ -84,14 +87,14 @@ We also plan workshops in the following locations:
  </tbody>
 </table>
 
-Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].
+**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel are partnering to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop will be offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
 
 ## Regional BJC PD Model
 
-[Professor Tiffany Barnes][tiffany] at NC State University leads our efforts to provide regional BJC professional development workshops at universities around the United States. These workshops have been offered since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), Donors Choose, and Infosys Foundation USA.
+[Professor Tiffany Barnes][tiffany] at NC State University leads our efforts to provide regional BJC professional development workshops at universities around the United States. These workshops have been offered since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), DonorsChoose, and Infosys Foundation USA.
 
 BJC PD Workshops are led by BJC Master Teachers who have attended a BJC summer PD workshop, taught the BJC course in high school, and participate in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
@@ -135,13 +138,25 @@ For more information on how BJC compares to the general CS Principles framework,
 
 The Beauty and Joy of Computing is taught across the country, with over 250 teachers from 41 states applying to attend our teacher preparation workshops. Teachers are also using our curriculum in Canada, Ireland, Guam, Hong Kong, South Korea, Indonesia, Senegal, Cape Verde, Nepal, Austria, Italy, New Zealand, the Philippines, and Germany.
 
-### How can I be part of BJC PD?
+### How can I be part of BJC PD? - BJC PD 2019 Application
 
 We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
-Apply here: [BJC PD Summer 2019 Application](https://bjc.link/PD2019Application)
+There are three steps to apply:
+
+1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send.
+
+2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu.
+
+3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee].
+
+If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu.
 
 To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
+
+[admin-letter]: https://bjc.link/Admin19
+[BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
+[reg-fee]: https://bjc.link/reg19
 
 ### How much does it cost?
 
