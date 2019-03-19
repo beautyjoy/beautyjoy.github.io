@@ -82,7 +82,7 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>Aug 5 - 9</td>
-    <td>George Mason University / Fairfax, VA (DATE STILL TO BE CONFIRMED)</td>
+    <td>George Mason University / Fairfax, VA</td>
   </tr>
  </tbody>
 </table>
