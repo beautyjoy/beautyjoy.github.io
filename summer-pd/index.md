@@ -86,7 +86,7 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>Aug 5 - 9</td>
-    <td>TBD / Olympia, WA</td>
+    <td>TBD / Olympia, WA (near Seattle)</td>
   </tr>
  </tbody>
 </table>
