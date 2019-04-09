@@ -84,6 +84,10 @@ We also plan workshops in the following locations:
     <td>Aug 5 - 9</td>
     <td>George Mason University / Fairfax, VA</td>
   </tr>
+  <tr>
+    <td>Aug 5 - 9</td>
+    <td>TBD / Olympia, WA</td>
+  </tr>
  </tbody>
 </table>
 
