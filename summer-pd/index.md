@@ -50,7 +50,7 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>July 9 - 12</td>
-    <td>Decatur High School / Decatur, AL -- for Alabama teachers only! Please apply at [https://aplusala.org/college-ready/event/beauty-and-joy-of-computing/][alabama_app].</td>
+    <td>Decatur High School / Decatur, AL -- for Alabama teachers only! Please apply at https://aplusala.org/college-ready/event/beauty-and-joy-of-computing.</td>
   </tr>
   <tr>
     <td>July 14 - 19</td>
