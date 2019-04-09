@@ -50,7 +50,7 @@ We also plan workshops in the following locations:
   </tr>
   <tr>
     <td>July 9 - 12</td>
-    <td>Decatur High School / Decatur, AL -- for Alabama teachers only! Please email pd@bjc.berkeley.edu if you are interested.</td>
+    <td>Decatur High School / Decatur, AL -- for Alabama teachers only! Please apply at https://aplusala.org/college-ready/event/beauty-and-joy-of-computing.</td>
   </tr>
   <tr>
     <td>July 14 - 19</td>
@@ -83,6 +83,10 @@ We also plan workshops in the following locations:
   <tr>
     <td>Aug 5 - 9</td>
     <td>George Mason University / Fairfax, VA</td>
+  </tr>
+  <tr>
+    <td>Aug 5 - 9</td>
+    <td>TBD / Olympia, WA (near Seattle)</td>
   </tr>
  </tbody>
 </table>
