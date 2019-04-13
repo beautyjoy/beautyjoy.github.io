@@ -31,62 +31,112 @@ We also plan workshops in the following locations:
 <table class="table table-striped table-bordered">
 <thead>
   <tr>
-    <th scope ="col">Dates</th>
-    <th scope ="col">Locations</th>
+    <th scope ="col">Date</th>
+	<th scope ="col">Partner</th>
+    <th scope ="col">Location</th>
+	<th scope ="col">Registration</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>June 24 - 28</td>
+	  <td>June 2 - 5</td>
+	  <td>CS Alliance</td>
+	  <td>University of New Mexico / Albuquerque, New Mexico</td>
+	  <td>TBA</td>
+  </tr>
+  <tr>
+	<td>June 24 - 28</td>
+    <td></td>
     <td>University of North Carolina, Charlotte / Charlotte, NC</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>July 8 - 12</td>
+	<td></td>
     <td>University of North Texas / Denton, TX (near Dallas)</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>July 8 - 12</td>
+	<td></td>
     <td>El Camino College / Torrance, CA</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
-    <td>July 9 - 12</td>
-    <td>Decatur High School / Decatur, AL -- for Alabama teachers only! Please apply at https://aplusala.org/college-ready/event/beauty-and-joy-of-computing.</td>
+    <td>July 8 - 12</td>
+	<td>A+ College Ready</td>
+    <td>Decatur High School / Decatur, AL</td>
+	<td><a href="https://aplusala.org/college-ready/event/beauty-and-joy-of-computing">Alabama Registration</a></td>
   </tr>
   <tr>
     <td>July 14 - 19</td>
-    <td>Pathfinders Summer Institute at Indiana University Bloomington / Bloomington, IN</td>
+	<td>Pathfinders Infosys</td>
+    <td>Indiana University Bloomington / Bloomington, IN</td>
+	<td>
+		<ol>
+			<li><a href="https://bjc.link/PD2019App">BJC App</a></li>
+			<li><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/Pages/index.aspx">Pathfinders Registration</a></li>
+		</ol>
+	</td>
   </tr>
   <tr>
     <td>July 15 - 19</td>
+	<td></td>
     <td>Kean University / Union, NJ (near NYC)</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>July 22 - 26</td>
+	<td></td>
     <td>Harvey Mudd College / Claremont, CA</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>July 22 - 26</td>
+	<td>Pump-CS</td>
     <td>Marquette University / Milwaukee, WI</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+  </tr>
+  <tr>
+	  <td>July 22 - 26</td>
+	  <td>NMSI</td>
+	  <td>NMSI Building / Dallas, TX</td>
+	  <td>Closed - NMSI Registration<br>Email pd@bjc.berkeley.edu for more info.</td>
   </tr>
   <tr>
     <td>July 29 - Aug 2</td>
-    <td>Chicago, IL</td>
+	<td>
+    <td>DePaul University / Chicago, IL</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>July 29 - Aug 2</td>
+	<td></td>
     <td>Northern Kentucky University / Highland Heights, KY</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
+	  <td>July 29 - Aug 2</td>
+	  <td></td>
+	  <td>DCIU Building / Morton, PA</td>
+	  <td>Closed - PA Registration<br>Email pd@bjc.berkeley.edu for more info.</td>
+  <tr>
     <td>Aug 5 - 9</td>
+	<td></td>
     <td>University of California, Berkeley / Berkeley, CA (near San Francisco)</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>Aug 5 - 9</td>
+	<td></td>
     <td>George Mason University / Fairfax, VA</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
     <td>Aug 5 - 9</td>
+	<td></td>
     <td>TBD / Olympia, WA (near Seattle)</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
  </tbody>
 </table>
