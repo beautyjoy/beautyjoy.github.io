@@ -121,6 +121,7 @@ We also plan workshops in the following locations:
 	  <td>DCIU Building / Morton, PA</td>
 	  <td>Closed - PA Registration<br>Email pd@bjc.berkeley.edu for more info.</td>
   </tr>
+  <tr>
     <td>Aug 5 - 9</td>
 	<td></td>
     <td>University of California, Berkeley / Berkeley, CA (near San Francisco)</td>
