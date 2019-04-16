@@ -119,7 +119,7 @@ We also plan workshops in the following locations:
 	  <td>July 29 - Aug 2</td>
 	  <td></td>
 	  <td>DCIU Building / Morton, PA</td>
-	  <td>>PA teachers only<br><a href="https://www.mylearningplan.com/WebReg/ActivityProfile.asp?I=3110694&D=16864">PA Registration</a></td>
+	  <td>PA teachers only<br><a href="https://www.mylearningplan.com/WebReg/ActivityProfile.asp?I=3110694&D=16864">PA Registration</a></td>
   </tr>
   <tr>
     <td>Aug 5 - 9</td>
