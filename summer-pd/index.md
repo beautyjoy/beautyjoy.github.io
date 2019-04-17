@@ -39,12 +39,6 @@ We also plan workshops in the following locations:
 </thead>
 <tbody>
   <tr>
-	  <td>June 2 - 5</td>
-	  <td>CS Alliance</td>
-	  <td>University of New Mexico / Albuquerque, New Mexico</td>
-	  <td>TBA</td>
-  </tr>
-  <tr>
 	<td>June 24 - 28</td>
     <td></td>
     <td>University of North Carolina, Charlotte / Charlotte, NC</td>
