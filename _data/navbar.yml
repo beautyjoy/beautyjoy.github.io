@@ -22,11 +22,11 @@
 - title: Professional Development
   links:
     - name: National PD
-      href: /summer-pd
-    #- name: New York City
-    #  href: https://cs4all.nyc/programs/
-- name: CSP Forum
-  href: /sigcse-csp-forum
+      href: /summer-pd/
+    - name: India 2019
+     href: /india-2019/
+# - name: CSP Forum
+#   href: /sigcse-csp-forum
 - name: Resources
   href: /resources
 - name: News
