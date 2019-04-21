@@ -2,7 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                {{ section_content }}
+                {% if page.path contains '.md' %}
+                  {{ section_content | markdownify}}
+                {% else %}
+                  {{ section_content }}
+                {% endif %}
             </div>
         </div>
     </div>
