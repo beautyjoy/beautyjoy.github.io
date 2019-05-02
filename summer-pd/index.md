@@ -100,7 +100,7 @@ We also plan workshops in the following locations:
   <tr>
     <td>July 29 - Aug 2</td>
 	  <td></td>
-    <td>DePaul University / Chicago, IL</td>
+    <td>National Louis University / Chicago, IL</td>
 	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
   <tr>
