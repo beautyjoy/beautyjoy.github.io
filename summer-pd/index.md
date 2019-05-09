@@ -130,7 +130,13 @@ We also plan workshops in the following locations:
   <tr>
     <td>Aug 5 - 9</td>
 	<td></td>
-    <td>TBD / Olympia, WA (near Seattle)</td>
+    <td>Olympia Education Building / Olympia, WA (near Seattle)</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+  </tr>
+  <tr>
+    <td>Aug 5 - 9</td>
+	<td></td>
+    <td>Seminole High School / Seminole, FL (near Tampa)</td>
 	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
  </tbody>
