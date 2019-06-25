@@ -130,7 +130,13 @@ We also plan workshops in the following locations:
   <tr>
     <td>Aug 5 - 9</td>
 	<td></td>
-    <td>TBD / Olympia, WA (near Seattle)</td>
+    <td>Olympia Education Building / Olympia, WA (near Seattle)</td>
+	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+  </tr>
+  <tr>
+    <td>Aug 5 - 9</td>
+	<td></td>
+    <td>Seminole High School / Seminole, FL (near Tampa)</td>
 	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
   </tr>
  </tbody>
@@ -179,7 +185,7 @@ The newest curriculum is at [bjc.edc.org](https://bjc.edc.org).
 *   BJC emphasizes that computing is for everyone, and is a matter of equity.
     *   Computing is a vital skill in the 21st century; everyone needs to have input into new computing innovations. BJC emphasizes equity and engages students and teachers in discussing how we can promote it.
 *   BJC is well-supported.
-    *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, weekly group calls, and personalized support via edX SPOCs (small, personalized online courses that provide a management system for your BJC course).
+    *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, and weekly group calls.
 
 For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide]({{ site.baseurl }}/curriculum/).
 
