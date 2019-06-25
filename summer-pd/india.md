@@ -1,9 +1,8 @@
 ---
 title: India PD 2019
 layout: page
-permalink: /india/
 redirect_form:
-  - /summer-pd/india/
+  - /india/
 ---
 
 {% capture section_content %}
