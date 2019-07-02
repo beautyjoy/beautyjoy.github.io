@@ -1,0 +1,31 @@
+---
+layout: page
+---
+{% capture section_content %}
+<div class="row">
+    <div class="col-sm-2">
+        <ul class="nav nav-pills nav-stacked internal-links-nav">
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/india"><div class="hover-accent">About BJC India</div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/summer-pd/india/bjc-2019"><div class="hover-accent"> BJC India PD 2019</div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/summer-pd/india/persistent-systems"><div class="hover-accent">Persistent Systems</div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/summer-pd/india/schools"><div class="hover-accent">Particapting Schools </div></a>
+            </li>
+            <li role="presentation">
+                <a href="{{ site.baseurl }}/summer-pd/india/team-india"><div class="hover-accent">India Team</div></a>
+            </li>
+        </ul>
+    </div>
+
+    <div class="col-sm-10">
+        {{ content }}
+    </div>
+</div>
+{% endcapture %}
+{% include section.html %}

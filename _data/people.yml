@@ -285,4 +285,35 @@
   image:
   location: Piedmont High School, Piedmont, CA
   description:
-
+################################################
+# INDIA TEAM
+################################################
+- name: Dan Garcia
+  teams:
+    - india
+  image: dan-garcia.jpg
+  description: >
+    Teaching Professor, UC Berkeley. Co-developer of the Beauty and Joy
+    of Computing curriculum. Member CS Principles Development committee and
+    ACM Education Board. Honored as an ACM Distinguished Educator in 2012.
+- name: Aayush Shah
+  teams:
+    - india
+  image: aayush.jpg
+  description: >
+    He is a rising Mechanical Engineering sophomore at UC Berkeley. 
+    He possesses a strong will and determination to bring a change around him and most importantly wants to bring a change in India. 
+    He handles the overall development of BJC India. 
+- name: Devyanshi Agarwal
+  teams:
+    - india
+  image: devyanshi.jpg
+  description: >
+    She is a sophomore at UC Berkeley, intending to major in Economics and minor in Computer Science. She is also interested in learning about human behavior and is involved in a number of behavioral economics and cognitive science research projects at UC Berkeley. She handles logistics and communications for BJC India.
+- name: Priyans Nishithkumar Desai
+  teams:
+    - india
+  image: priyans.jpg
+  description: >
+   He is a rising Computer Science sophomore at UC Berkeley. He is passionate about the intersection of CS and Education. He is also a research assistant under Professor Garcia, working on the Auto Quiz project.
+   He is responsible for web development and communications for BJC India. 
