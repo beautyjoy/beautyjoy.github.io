@@ -1,6 +1,10 @@
 source "https://rubygems.org"
 
+<<<<<<< HEAD
 #ruby '2.3.3'
+=======
+ruby '2.6.0'
+>>>>>>> master
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
