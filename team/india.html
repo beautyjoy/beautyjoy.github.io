@@ -1,0 +1,15 @@
+---
+title: Meet the Team
+layout: team
+header_background: group2
+---
+<h3 class="text-uppercase text-center"> India Team </h3>
+
+<div class="row grid-gallery">
+    {% assign india = site.data.people | where_exp: "item", "item.teams contains 'india'" %}
+    {% for profile in india %}
+    <div class="col-md-4 col-sm-6 grid-item">
+        {% include staff-card.html profile=profile %}
+    </div>
+    {% endfor %}
+</div>
