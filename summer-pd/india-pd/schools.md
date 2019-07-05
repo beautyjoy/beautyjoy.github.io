@@ -1,6 +1,7 @@
 ---
 title: Schools
-layout: india_1
+layout: india
+permalink: /india-pd/schools
 call_to_action: Register Now!
 call_to_action_link: https://bit.ly/bjcindia2019
 header_background: india
