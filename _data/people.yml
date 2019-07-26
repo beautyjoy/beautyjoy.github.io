@@ -291,6 +291,7 @@
 - name: Dan Garcia
   teams:
     - india
+    - india-plez
   image: dan-garcia.jpg
   description: >
     Teaching Professor, UC Berkeley. Co-developer of the Beauty and Joy
@@ -299,21 +300,38 @@
 - name: Aayush Shah
   teams:
     - india
-  image: aayush.jpg
+    - india-plez
+  image: aayush.png
   description: >
-    He is a rising Mechanical Engineering sophomore at UC Berkeley. 
-    He possesses a strong will and determination to bring a change around him and most importantly wants to bring a change in India. 
-    He handles the overall development of BJC India. 
+     He is a rising Mechanical Engineering sophomore at UC Berkeley. He possesses a strong will to bring a change around him and works towards a paradigm shift in the Indian education system. With the help of this initiative, he aims to convey the sheer joy of learning and the thrill of understanding things around the world. He handles the overall development of BJC India.
+
 - name: Devyanshi Agarwal
   teams:
     - india
+    - india-plez
   image: devyanshi.jpg
   description: >
     She is a sophomore at UC Berkeley, intending to major in Economics and minor in Computer Science. She is also interested in learning about human behavior and is involved in a number of behavioral economics and cognitive science research projects at UC Berkeley. She handles logistics and communications for BJC India.
 - name: Priyans Nishithkumar Desai
   teams:
     - india
+    - india-plez
   image: priyans.jpg
   description: >
    He is a rising Computer Science sophomore at UC Berkeley. He is passionate about the intersection of CS and Education. He is also a research assistant under Professor Garcia, working on the Auto Quiz project.
    He is responsible for web development and communications for BJC India. 
+################################################
+# PLEZMO TEAM
+################################################
+- name: Amol Palshikar
+  teams:
+    - india-plez
+  image: amol.jpg
+  description: >
+    Amol Palshikar is the co-founder and CEO of Plezmo. He is leading the effort to integrate Plezmo's hardware with Snap! to provide students a better learning experience. 
+- name: Girish Mujumdar
+  teams:
+    - india-plez
+  image: girish.jpg
+  description: >
+    Girish Mujumdar is the co-founder of Plezmo and serves as the COO. He is working to integrate Plezmo's hardware with Snap!. 
