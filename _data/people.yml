@@ -335,3 +335,20 @@
   image: girish.jpg
   description: >
     Girish Mujumdar is the co-founder of Plezmo and serves as the COO. He is working to integrate Plezmo's hardware with Snap!. 
+- name: Vipul Shah
+  teams:
+    - india-plez
+  image: vipul.jpg
+  description: He is the Head of ACM India's CSPathshala initiative. He has worked with CSPathshala to help us organize the event.
+
+- name: Shekhar Shasrabudhe
+  teams:
+    - india-plez 
+  image: shekhar.jpg
+  description: He is the COO of ACM India. He has worked with CSPathshala to help us organize the event. 
+
+- name: Arun Kadekodi
+  teams: 
+    - india-plez
+  image: arun.jpg
+  description: He is the Founder & CEO of Soft Corner. He has worked with CSPathshala to help us organize the event.
