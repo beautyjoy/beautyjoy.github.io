@@ -1,42 +1,97 @@
 ---
-layout: page
+layout: default
 ---
+<style>
+.jumbotron1 {
+  position: relative;
+  margin: 0;
+  display: inline-table; 
+  background: $primary-color;
+  box-shadow: none;
+  background-position: center;
+  color: #fff;
+  text-align: center;
+}
+.homepage1 {
+    padding: 260px 0;
+    background-image: url("{{ site.baseurl }}/assets/img/backgrounds/india.png");
+    text-shadow: 0 2px 6px rgba(0,0,0,1), 0 0 20px rgba(0,0,0,.2);
+    width: 1350px;
+    height: 500px;
 
-{% capture section_content %}
-<div class="row">
-    <div class="col-sm-2">
-        <ul class="nav nav-pills nav-stacked internal-links-nav">
-            <li role="presentation">
-                <a href="{{ site.baseurl }}/india-pd/">
-                    <div class="hover-accent">About BJC India</div>
-                </a>
-            </li>
-            <li role="presentation">
-                <a href="{{ site.baseurl }}/india-pd/bjc-2019">
-                    <div class="hover-accent"> PD 2019</div>
-                </a>
-            </li>
-            <li role="presentation">
-                <a href="{{ site.baseurl }}/india-pd/persistent-systems">
-                    <div class="hover-accent">Persistent Systems</div>
-                </a>
-            </li>
-            <li role="presentation">
-                <a href="{{ site.baseurl }}/india-pd/team">
-                    <div class="hover-accent">The Team</div>
-                </a>
-            </li>
-            <li role="presentation">
-                <a href="{{ site.baseurl }}/india-pd/schedule">
-                    <div class="hover-accent">PD 2019 Schedule</div>
-                </a>
-            </li>
-        </ul>
-    </div>
+}
 
-    <div class="col-sm-10">
-        {{ content }}
-    </div>
+.background-overlay1 {
+    position: absolute;
+    z-index: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+  }
+
+.container1 {
+    position: absolute;
+    z-index: 999;
+    color: $inverted-text-color;
+    display: table-cell;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+}
+.container-fluid1 {
+    padding: 3em 5em;
+}
+
+h1 {
+  font-size: 48px;
+  text-transform: uppercase;
+  word-wrap: break-word; 
+}
+</style>
+<div class="jumbotron1 homepage1">
+  <div class="background-overlay1"></div>
+  <div class="container1">
+    <h1>BJC India Chapter</h1>
+  </div>
 </div>
-{% endcapture %}
-{% include section.html %}
+<section class="section">
+  <div class="container-fluid1">
+    <div class="row">
+      <div class="col-sm-2">
+          <ul class="nav nav-pills nav-stacked internal-links-nav">
+            <li role="presentation">
+              <a href="{{ site.baseurl }}/india-pd/">
+                 <div class="hover-accent">About BJC India</div>
+              </a>
+            </li>
+            <li role="presentation">
+              <a href="{{ site.baseurl }}/india-pd/bjc-2019">
+                <div class="hover-accent"> PD 2019</div>
+              </a>
+            </li>
+            <li role="presentation">
+              <a href="{{ site.baseurl }}/india-pd/schedule">
+                <div class="hover-accent">PD 2019 Schedule</div>
+              </a>
+            </li>
+            <li role="presentation">
+              <a href="{{ site.baseurl }}/india-pd/team">
+                <div class="hover-accent">The Team</div>
+              </a>
+            </li>
+            <li role="presentation">
+              <a href="{{ site.baseurl }}/india-pd/persistent-systems">
+                <div class="hover-accent">Persistent Systems</div>
+              </a>
+            </li>
+          </ul>
+        </div>
+      <div class="col-sm-10" >
+        {{content}}
+      </div>
+    </div>
+  </div>
+  <div class="trapezoid"></div>
+</section> <!-- /. section -->

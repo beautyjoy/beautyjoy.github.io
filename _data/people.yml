@@ -291,7 +291,7 @@
 - name: Dan Garcia
   teams:
     - india
-    - india-plez
+    - india-plez-pathshala
   image: dan-garcia.jpg
   description: >
     Teaching Professor, UC Berkeley. Co-developer of the Beauty and Joy
@@ -300,7 +300,7 @@
 - name: Aayush Shah
   teams:
     - india
-    - india-plez
+    - india-plez-pathshala
   image: aayush.png
   description: >
      He is a rising Mechanical Engineering sophomore at UC Berkeley. He possesses a strong will to bring a change around him and works towards a paradigm shift in the Indian education system. With the help of this initiative, he aims to convey the sheer joy of learning and the thrill of understanding things around the world. He handles the overall development of BJC India.
@@ -308,14 +308,14 @@
 - name: Devyanshi Agarwal
   teams:
     - india
-    - india-plez
+    - india-plez-pathshala
   image: devyanshi.jpg
   description: >
     She is a sophomore at UC Berkeley, intending to major in Economics and minor in Computer Science. She is also interested in learning about human behavior and is involved in a number of behavioral economics and cognitive science research projects at UC Berkeley. She handles logistics and communications for BJC India.
 - name: Priyans Nishithkumar Desai
   teams:
     - india
-    - india-plez
+    - india-plez-pathshala
   image: priyans.jpg
   description: >
    He is a rising Computer Science sophomore at UC Berkeley. He is passionate about the intersection of CS and Education. He is also a research assistant under Professor Garcia, working on the Auto Quiz project.
@@ -325,30 +325,39 @@
 ################################################
 - name: Amol Palshikar
   teams:
-    - india-plez
+    - india-plez-pathshala
   image: amol.jpg
   description: >
     Amol Palshikar is the co-founder and CEO of Plezmo. He is leading the effort to integrate Plezmo's hardware with Snap! to provide students a better learning experience. 
 - name: Girish Mujumdar
   teams:
-    - india-plez
+    - india-plez-pathshala
   image: girish.jpg
   description: >
     Girish Mujumdar is the co-founder of Plezmo and serves as the COO. He is working to integrate Plezmo's hardware with Snap!. 
+- name: Amruta Zende
+  teams:
+      - india-plez-pathshala
+  image: amruta.jpg
+  description: Amruta Zende is the co-founder and the head of Engineering of Plezmo. She was directly involved with integrating Plezmo's hardware with Snap!. 
 - name: Vipul Shah
   teams:
-    - india-plez
+    - india-plez-pathshala
   image: vipul.jpg
-  description: He is the Head of ACM India's CSPathshala initiative. He has worked with CSPathshala to help us organize the event.
-
+  description: Vipul Shah is the Head of ACM India's CSPathshala initiative. He has worked with CSPathshala to help us organize the event.
+- name: Arun Kadekodi
+  teams:
+    - india-plez-pathshala
+  image: arun.jpg
+  description: >
+    Arun Kadekodi is the Founder & CEO of Soft Corner. He has worked with CSPathshala to help us organize the event.
 - name: Shekhar Shasrabudhe
   teams:
-    - india-plez 
+    - india-plez-pathshala
   image: shekhar.jpg
-  description: He is the COO of ACM India. He has worked with CSPathshala to help us organize the event. 
-
-- name: Arun Kadekodi
+  description: Shekhar Shasrabudhe is the COO of ACM India. He has worked with CSPathshala to help us organize the event. 
+- name: Sonia Garcha
   teams: 
-    - india-plez
-  image: arun.jpg
-  description: He is the Founder & CEO of Soft Corner. He has worked with CSPathshala to help us organize the event.
+    - india-plez-pathshala
+  image: sonia.jpg
+  description: Sonia Garcha is the program associate - CSR at CSPathshala's Development Support Team. She will be conducting computational thinking activities in PD 2019. 
