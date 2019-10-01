@@ -11,16 +11,32 @@ redirect_from:
 
 <!-- TODO: The last redirect URLs are temporary. -->
 
-## PD Application Summer 2020
+## BJC Professional Development Workshops
 
 <!--[pd-app-link]: https://bjc.link/PD2019App. -->
 
-BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students. If you are interested, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].
+BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students. <b>If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].</b>
 
 [pd-interest-form-link]: https://bjc.link/BJCinterest2020
 
+## PD in Winter 2020
 
-## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf)
+BJC will offer a 5 day computer science PD workshop February 16-20 at the University of Rhode Island in Providence with generous support from the Infosys Foundation at the Pathfinders Winter Institute 2020. This opportunity is for public high school teachers only. If you are a not a public high school teacher, we encourage you to leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link], so we can notify you when more details about our Summer 2020 workshops are available.
+
+Important Dates
+
+<ul>
+	<li>October 7, 2019: Applications are open! Please apply on the <a href="www.infypathfinders.org">Pathfinders Winter Institute 2020 Website</a>.</li>
+	<li>December 16, 2019: Application deadline and for teachers to create a project with DonorsChoose.</li>
+	<li>January 16, 2020: Teachers must be 100% funded in order to meet the time frame to attend.</li>
+	<li>February 16, 2020: PD Workshop Begins!</li>
+</ul>
+
+The total program cost per teacher is $2,341. The Foundation will be covering 70% ($1,638.70) for US public school teachers raising funds through school or districts. For teachers raising funds through Donorschoose.org, the Foundation is making a 3X match (previous years Pathfinders provided a 2X match), tripling each donation a teacher receives. Pathfinders will be making relevant accommodations with hotels this year, and teachers will receive fixed visa cards for meals.
+
+If you have any questions about the PD workshop logistics and funding, please contact the [Pathfinders Team][pathfinders-email]. If you have any content related questions about the BJC PD workshop, please reach out to the [BJC PD Team][pd-email].
+
+<!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
 
 ## Where was BJC PD being offered in Summer 2019?
 
