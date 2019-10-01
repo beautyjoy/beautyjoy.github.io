@@ -189,15 +189,15 @@ We will release more application details in Winter 2020, but if you are interest
 
 <!--There are three steps to apply: -->
 
-<!--1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send.
+<!--1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send. -->
 
-<!--2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu.
+<!--2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu. -->
 
-<!--3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee].
+<!--3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee]. -->
 
-<!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu.
+<!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu. -->
 
-<!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email].
+<!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
