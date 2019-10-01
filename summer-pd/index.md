@@ -40,7 +40,11 @@ If you have any questions about the PD workshop logistics and funding, please co
 
 <!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
 
-## Where was BJC PD being offered in Summer 2019?
+## PD in Summer 2020
+
+More information about Summer 2020 PD will be released in Winter 2020, but the below sections provide an idea of what our Summer 2019 workshops looked like. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].
+
+So where was BJC PD being offered in Summer 2019?
 
 Thanks to the generosity of [Infosys Foundation USA][infosys], BJC offered **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 14-19, 2019** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
 
@@ -223,7 +227,7 @@ We will release more application details in Winter 2020, but if you are interest
 
 ### How much does it cost?
 
-Regional BJC Summer PD is offered in 20202 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.
+Regional BJC Summer PD is offered in 2020 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.
 
 ## How do I become a BJC Master Teacher?
 If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2020 BJC "Train the Trainer" Master Teacher workshop in June 2020, and one of our 5-day in-person BJC workshops as a Teaching Assistant (TA).
