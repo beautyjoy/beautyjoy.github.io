@@ -36,6 +36,8 @@ The total program cost per teacher is $2,341. The Foundation will be covering 70
 
 If you have any questions about the PD workshop logistics and funding, please contact the [Pathfinders Team][pathfinders-email]. If you have any content related questions about the BJC PD workshop, please reach out to the [BJC PD Team][pd-email].
 
+[pathfinders-email]: mailto:Pathfinders@infosysfoundationusaevents.org
+
 <!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
 
 ## Where was BJC PD being offered in Summer 2019?
