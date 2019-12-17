@@ -7,7 +7,7 @@ category: news
 tags: csp, sigcse
 ---
 
-We're hosting a half-day CS Principles providers and teachers forum as a pre-symposium event at SIGCSE in Portland. We're hoping to help grow the CSP community and learn from each other.
+We're hosting a half-day CS Principles Providers and Teachers forum as a pre-symposium event at SIGCSE in Portland. We're hoping to help grow the CSP community and learn from each other.
 
 Head over to the [CSP Forum][forum] page to learn more!
 
