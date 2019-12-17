@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## Overview
-The 20202 CS Principles Providers and Teachers Forum is the second gathering of CS Principles educators, providers and teachers in a structured session at SIGCSE. This forum was created to fill the need for a community for CS Principles providers and teachers to discuss best practices, feedback, or share teaching experiences.
+The 2020 CS Principles Providers and Teachers Forum is the third gathering of CS Principles educators, providers and teachers in a structured session at SIGCSE. This forum was created to fill the need for a community for CS Principles providers and teachers to discuss best practices, feedback, or share teaching experiences.
 
 The CS Principles Providers and Teachers Forum aims to increase collaboration and discussion among College Board endorsed providers and teachers by offering a diverse agenda. Topics that may be discussed this year include but are not limited to:
 
@@ -21,7 +21,7 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 
 ## Logistics
 
-The Forum is a half-day afternoon session, on **<time>Wednesday, March 11, 2020 from 8:30 AM to 12:00 PM</time>**.
+The Forum is a half-day morning session, on **<time>Wednesday, March 11, 2020 from 8:30 AM to 12:00 PM</time>**.
 
 Location: B118
 
