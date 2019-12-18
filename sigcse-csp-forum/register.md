@@ -1,7 +1,7 @@
 ---
-title: Register for 2019 SIGCSE CSP Forum
+title: Register for 2029 SIGCSE CSP Forum
 redirect_from:
   - /sigcse-csp-forum/register
 redirect_to:
-  - https://www.getfeedback.com/r/Zx9MNdLe
+  - https://bjc.link/cspforum20reg
 ---
