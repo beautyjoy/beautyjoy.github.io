@@ -34,6 +34,7 @@ Link in Whova: [https://whova.com/embedded/session/sigcs_202003/834760/](https:/
 Registration and topic submissions can be done at this link: [https://bjc.berkeley.edu/sigcse-csp-forum/submit](https://bjc.berkeley.edu/sigcse-csp-forum/submit)
 
 Topic submissions will close on **Friday, February 7, 2020 at 11:59PM PST**.
+
 Registration will close on **Friday, February 28, 2020 at 11:59PM PST**.
 
 We are looking for topics that would be of broad interest to the CSP Community.
@@ -44,14 +45,23 @@ We are looking for topics that would be of broad interest to the CSP Community.
 We are looking to do something different this year -- focusing more so on engaging community discussion over standalone presentations. A sample schedule could look like this:
 
 8:00 AM Introduction
+
 8:05 AM Welcome Keynote & Questions
+
 8:30 AM Panel 1 / Discussion
+
 9:15 AM Break & Networking
+
 9:30 AM Panel 2 / Discussion
+
 10:15 AM Break & Networking
+
 10:30 AM Panel 3 / Discussion
+
 11:15 AM Break & Networking
+
 11:30 AM Closing Thoughts
+
 12:00 PM End
 
 
