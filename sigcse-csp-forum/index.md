@@ -19,7 +19,8 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 * Preparing for the AP CSP exam
 * How to read the results of the AP CSP exam
 
-## Logistics
+
+## Time & Location
 
 The Forum is a half-day morning session, on **<time>Wednesday, March 11, 2020 from 8:30 AM to 12:00 PM</time>**.
 
@@ -27,105 +28,32 @@ Location: B118
 
 Link in Whova: [https://whova.com/embedded/session/sigcs_202003/834760/](https://whova.com/embedded/session/sigcs_202003/834760/)
 
-### Contact Email
-If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
+
+## Registration & Topic Submission
+
+Registration and topic submissions can be done at this link: [https://bjc.berkeley.edu/sigcse-csp-forum/submit](https://bjc.berkeley.edu/sigcse-csp-forum/submit)
+
+Topic submissions will close on **Friday, February 7, 2020 at 11:59PM PST**.
+Registration will close on **Friday, February 28, 2020 at 11:59PM PST**.
+
+We are looking for topics that would be of broad interest to the CSP Community.
 
 
-## Sign Up To Attend
+## Sample Agenda
 
-**Coming Soon!**
-<!-- Please go to [https://bjc.berkeley.edu/sigcse-csp-forum/register](https://bjc.berkeley.edu/sigcse-csp-forum/register) to sign up to attend the CSP Forum. The CSP forum is primarily intended for CSP curriculum providers, teachers, and others who are working on various parts of CSP. -->
+We are looking to do something different this year -- focusing more so on engaging community discussion over standalone presentations. A sample schedule could look like this:
 
+8:00 AM Introduction
+8:05 AM Welcome Keynote & Questions
+8:30 AM Panel 1 / Discussion
+9:15 AM Break & Networking
+9:30 AM Panel 2 / Discussion
+10:15 AM Break & Networking
+10:30 AM Panel 3 / Discussion
+11:15 AM Break & Networking
+11:30 AM Closing Thoughts
+12:00 PM End
 
-Signups will close on **Friday, February 28, 2020 at 11:59PM PST**.
-
-
-## Topic Submissions
-We are looking for topics that would be of broad interest to the CSP Community. We're hoping to keep presentations to a 10-15 minute limit to ensure there is time for discussion and questions. However, _please_ do not feel limited by the presentation format! We're open to ideas and suggestions.
-Please submit your topics here: [https://bjc.berkeley.edu/sigcse-csp-forum/submit](https://bjc.berkeley.edu/sigcse-csp-forum/submit)
-
-Topic submissions will close on **Friday, February 20, 2020 at 11:59PM PST**.
-
-
-## Sample Agenda -- 2019
-
-The day will be organized as a series of short presentations, with ample time for discussion.
-
-<!-- ### View Slides at [https://bjc.link/csp-forum-2019](https://bjc.link/csp-forum-2019) -->
-
-<table class="table table-striped table-bordered">
-  <caption class="sr-only">Session Times and Titles</caption>
-  <thead>
-    <tr>
-      <th scope="col">Time</th>
-      <th scope="col">Description</th>
-    </tr>
-  </thead>
-  <tbody>
-  <tr>
-    <td>1:30 - 1:35 PM</td>
-    <td>Quick Intro and Overview of Format</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>CSP Professional Development</strong></td>
-  </tr>
-  <tr>
-    <td>1:35 - 1:55 PM</td>
-    <td>Designing CS PD for In-Service Teachers: Developing Teachers as Leaders and Learners <br> Alex Milliken, Marnie Hill, Tiffany Barnes, NC State, Beauty and Joy of Computing</td>
-  </tr>
-  <tr>
-    <td>1:55 - 2:15 PM</td>
-    <td>Online vs. In-Person PD: Benefits and Tradeoffs <br> Evelyn Hunter, Curriculum Provider, CodeHS</td>
-  </tr>
-  <tr>
-    <td>2:15 - 2:25 PM</td>
-    <td>A Connector Course for Pre-Service CS Teacher Development <br> Kevin Lin, MS Candidate, UC Berkeley</td>
-  </tr>
-  <tr>
-    <td>2:25 - 2:35 PM</td>
-    <td>Discussion / Questions</td>
-  </tr>
-  <tr>
-    <td>2:35 - 2:45 PM</td>
-    <td>Break</td>
-  </tr>
-  <tr>
-    <td colspan="2"><strong>CSP Special Topics</strong></td>
-  </tr>
-  <tr>
-    <td>2:45 - 3:00 PM</td>
-    <td>Growing Your CS Program <br> Buffie Holley, Teacher, Code Virginia</td>
-  </tr>
-  <tr>
-    <td>3:00 - 3:20 PM</td>
-    <td>Creative Ideas for Assessment for both Programming and Non-Programming Units <br> Philip Wang, Teacher, The King's Academy</td>
-  </tr>
-  <tr>
-    <td>3:20 - 3:35 PM</td>
-    <td>Accessibility and Differentiation of CSP Curriculum Materials <br> Beryl Hoffman, Professor, Elms College</td>
-  </tr>
-  <tr>
-    <td>3:35 - 3:50 PM</td>
-    <td>The Pendulum Project – Student Projects after the AP CSP Exam <br> Jessica Du, Teacher, Fiorello H. LaGuardia High School</td>
-  </tr>
-  <tr>
-    <td>3:50 - 4:00 PM</td>
-    <td>Discussion / Questions</td>
-  </tr>
- <tr>
-    <td colspan="2"><strong>CSP Exam</strong></td>
-  </tr>
-  <tr>
-    <td>4:00 - 4:30 PM</td>
-    <td>AP CSP Review & Exam Prep <br> Pamela Fox, Review Content Creator, Khan Academy</td>
-  </tr>
-  <td colspan="2"><strong>CS Principles</strong></td>
-  <tr>
-    <td>4:30 - 5:00 PM</td>
-    <td>CS Principles <br> Crystal Furman, The College Board</td>
-  </tr>
-  </tbody>
-</table>
 
 ## Program Committee
 
@@ -133,5 +61,10 @@ The day will be organized as a series of short presentations, with ample time fo
 * Michael Ball, The Beauty and Joy of Computing, UC Berkeley
 * Dan Garcia, The Beauty and Joy of Computing, UC Berkeley
 * Tiffany Barnes, The Beauty and Joy of Computing, North Carolina State University
+
+
+## Contact Email
+If you have any questions, please email [sigcse-csp-forum@bjc.berkeley.edu](mailto:sigcse-csp-forum@bjc.berkeley.edu)
+
 
 We look forward to seeing you at the CS Principles Providers and Teachers Forum!
