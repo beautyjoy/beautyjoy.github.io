@@ -31,7 +31,7 @@ Link in Whova: [https://whova.com/embedded/session/sigcs_202003/834760/](https:/
 
 ## Registration & Topic Submission
 
-Registration and topic submissions can be done at this link: [https://bjc.berkeley.edu/sigcse-csp-forum/submit](https://bjc.berkeley.edu/sigcse-csp-forum/submit)
+Registration and topic submissions can be done at this link: [https://bjc.berkeley.edu/sigcse-csp-forum/register](https://bjc.berkeley.edu/sigcse-csp-forum/register)
 
 Topic submissions will close on **Friday, February 7, 2020 at 11:59PM PST**.
 
