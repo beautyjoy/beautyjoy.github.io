@@ -103,7 +103,7 @@ We also will be holding regional workshops in the following locations:
   <tr>
     <td>July 20 - 24</td>
 	<td></td>
-    <td>School of Mines / Golden, CO</td>
+    <td>Colorado School of Mines / Golden, CO</td>
 	<td>2020 App Link Coming Soon</td>
 	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
