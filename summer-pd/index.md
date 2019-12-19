@@ -111,7 +111,7 @@ We also will be holding regional workshops in the following locations:
   <tr>
     <td>July 27 - 30</td>
 	<td></td>
-    <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (in conjunction with Snap!Con20)</td>
+    <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (co-located with Snap!Con20)</td>
 	<td>2020 App Link Coming Soon</td>
 	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
