@@ -42,11 +42,10 @@ If you have any questions about the PD workshop logistics and funding, please co
 
 ## PD in Summer 2020
 
-More information about Summer 2020 PD will be released in Winter 2020, but the below sections provide an idea of what our Summer 2019 workshops looked like. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].
+More information about Summer 2020 PD will be released in Winter 2020. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].
 
-So where was BJC PD being offered in Summer 2019?
 
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC offered **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 14-19, 2019** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
 
 We also planned workshops in the following locations:
 
@@ -61,98 +60,87 @@ We also planned workshops in the following locations:
 </thead>
 <tbody>
   <tr>
-	<td>June 24 - 28</td>
+    <td>July 6 - 10</td>
     <td></td>
-    <td>University of North Carolina, Charlotte / Charlotte, NC</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
-  </tr>
-  <tr>
-    <td>July 8 - 12</td>
-	<td></td>
     <td>University of North Texas / Denton, TX (near Dallas)</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
   <tr>
-    <td>July 8 - 12</td>
+    <td>July 6 - 10</td>
+	<td></td>
+    <td>Hawaii Public Schools / TBD, HI</td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+  </tr>
+  <tr>
+    <td>July 13 - 17</td>
 	<td></td>
     <td>El Camino College / Torrance, CA</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
   <tr>
-    <td>July 8 - 12</td>
-	<td>A+ College Ready</td>
-    <td>Decatur High School / Decatur, AL</td>
-	<td><a href="https://aplusala.org/college-ready/event/beauty-and-joy-of-computing">Alabama Registration</a></td>
-  </tr>
-  <tr>
-    <td>July 14 - 19</td>
+    <td>July 19 - 24</td>
 	<td>Pathfinders Infosys</td>
     <td>Indiana University Bloomington / Bloomington, IN</td>
-	<td>
+	<td>2020 App Link Coming Soon</td>
+		<!--<td>
 		<ol>
 			<li><a href="https://bjc.link/PD2019App">BJC App</a></li>
 			<li><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/Pages/index.aspx">Pathfinders Registration</a></li>
 		</ol>
-	</td>
+	</td>-->
   </tr>
   <tr>
-    <td>July 15 - 19</td>
+    <td>July 20 - 24</td>
 	<td></td>
-    <td>Kean University / Union, NJ (near NYC)</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+    <td>Chicago Public Schools / Chicago, IL</td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+
   </tr>
   <tr>
-    <td>July 22 - 26</td>
-	<td>Pump-CS</td>
-    <td>Marquette University / Milwaukee, WI</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
-  </tr>
-  <tr>
-	  <td>July 22 - 26</td>
-	  <td>NMSI</td>
-	  <td>NMSI Building / Dallas, TX</td>
-	  <td>Closed - NMSI Registration<br>Email pd@bjc.berkeley.edu for more info.</td>
-  </tr>
-  <tr>
-    <td>July 29 - Aug 2</td>
-	  <td></td>
-    <td>National Louis University / Chicago, IL</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
-  </tr>
-  <tr>
-    <td>July 29 - Aug 2</td>
+    <td>July 20 - 24</td>
 	<td></td>
-    <td>Northern Kentucky University / Highland Heights, KY</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+    <td>School of Mines / Golden, CO</td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
+ 
   <tr>
-    <td>Aug 5 - 9</td>
+    <td>July 27 - 30</td>
 	<td></td>
     <td>University of California, Berkeley / Berkeley, CA (near San Francisco)</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+  </tr>
+  
+  <tr>
+    <td>July 27 - 31</td>
+	<td>Pump-CS</td>
+    <td>Marquette University / Milwaukee, WI</td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
   <tr>
-    <td>Aug 5 - 9</td>
-	<td></td>
-    <td>George Mason University / Fairfax, VA</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+    <td>July 27 - Aug 31</td>
+	  <td></td>
+    <td>Kean University / Union, NJ (near NYC)L</td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
   <tr>
-    <td>Aug 5 - 9</td>
+    <td>TBD</td>
 	<td></td>
-    <td>Olympia Education Building / Olympia, WA (near Seattle)</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
-  </tr>
-  <tr>
-    <td>Aug 5 - 9</td>
-	<td></td>
-    <td>Seminole High School / Seminole, FL (near Tampa)</td>
-	<td><a href="https://bjc.link/PD2019App">BJC App</a></td>
+    <td>Olympia Public Schools / Olympia, WA (near Seattle)</td>
+	<td>2020 App Link Coming Soon</td>
+	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
  </tbody>
 </table>
 
-**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].
+<!--**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].-->
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
