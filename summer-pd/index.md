@@ -47,7 +47,7 @@ More information about Summer 2020 PD will be released in Winter 2020. If you ar
 
 Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
 
-We also planned workshops in the following locations:
+We also will be holding workshops in the following locations:
 
 <table class="table table-striped table-bordered">
 <thead>
