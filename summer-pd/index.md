@@ -111,7 +111,7 @@ We also planned workshops in the following locations:
   <tr>
     <td>July 27 - 30</td>
 	<td></td>
-    <td>University of California, Berkeley / Berkeley, CA (near San Francisco)</td>
+    <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (in conjunction with Snap!Con20)</td>
 	<td>2020 App Link Coming Soon</td>
 	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
@@ -126,7 +126,7 @@ We also planned workshops in the following locations:
   <tr>
     <td>July 27 - Aug 31</td>
 	  <td></td>
-    <td>Kean University / Union, NJ (near NYC)L</td>
+    <td>Kean University / Union, NJ (near NYC)</td>
 	<td>2020 App Link Coming Soon</td>
 	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
   </tr>
