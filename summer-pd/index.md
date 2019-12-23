@@ -60,25 +60,28 @@ We also will be holding regional workshops in the following locations:
 </thead>
 <tbody>
   <tr>
+    <td>June 22 - 26</td>
+    <td></td>
+    <td>North Carolina State University / Raleigh, NC</td>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
+  </tr>
+  <tr>
     <td>July 6 - 10</td>
     <td></td>
     <td>University of North Texas / Denton, TX (near Dallas)</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
     <td>July 6 - 10</td>
 	<td></td>
     <td>Hawaii Public Schools / TBD, HI</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
     <td>July 13 - 17</td>
 	<td></td>
     <td>El Camino College / Torrance, CA</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
     <td>July 19 - 24</td>
@@ -87,7 +90,7 @@ We also will be holding regional workshops in the following locations:
 	<td>2020 App Link Coming Soon</td>
 		<!--<td>
 		<ol>
-			<li><a href="https://bjc.link/PD2019App">BJC App</a></li>
+			<li><a href="https://bjc.link/pdapp20">BJC App 2020</a></li>
 			<li><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/Pages/index.aspx">Pathfinders Registration</a></li>
 		</ol>
 	</td>-->
@@ -96,46 +99,39 @@ We also will be holding regional workshops in the following locations:
     <td>July 20 - 24</td>
 	<td></td>
     <td>Chicago Public Schools / Chicago, IL</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
-
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
     <td>July 20 - 24</td>
 	<td></td>
     <td>Colorado School of Mines / Golden, CO</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
  
   <tr>
     <td>July 27 - 30</td>
 	<td></td>
     <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (co-located with Snap!Con20)</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   
   <tr>
     <td>July 27 - 31</td>
 	<td>Pump-CS</td>
     <td>Marquette University / Milwaukee, WI</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
     <td>July 27 - Aug 31</td>
 	  <td></td>
     <td>Kean University / Union, NJ (near NYC)</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
     <td>TBD</td>
 	<td></td>
     <td>Olympia Public Schools / Olympia, WA (near Seattle)</td>
-	<td>2020 App Link Coming Soon</td>
-	<!--<td><a href="https://bjc.link/PD2019App">BJC App</a></td>-->
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
  </tbody>
 </table>
