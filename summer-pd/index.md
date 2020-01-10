@@ -122,7 +122,7 @@ We also will be holding regional workshops in the following locations:
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
-    <td>July 27 - Aug 31</td>
+    <td>July 27 - July 31</td>
 	  <td></td>
     <td>Kean University / Union, NJ (near NYC)</td>
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
