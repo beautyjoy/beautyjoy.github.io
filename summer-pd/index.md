@@ -84,6 +84,12 @@ We also will be holding regional workshops in the following locations:
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
+    <td>July 13 - 17</td>
+	<td></td>
+    <td>Central Washington University / Wenatchee, WA</td>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
+  </tr>
+  <tr>
     <td>July 19 - 24</td>
 	<td>Pathfinders Infosys</td>
     <td>Indiana University Bloomington / Bloomington, IN</td>
@@ -111,7 +117,7 @@ We also will be holding regional workshops in the following locations:
   <tr>
     <td>July 27 - 30</td>
 	<td></td>
-    <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (co-located with Snap!Con20)</td>
+    <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (co-located with <a href='https://snapcon.org'>Snap!Con20</a>)</td>
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   
@@ -128,9 +134,15 @@ We also will be holding regional workshops in the following locations:
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
   <tr>
-    <td>TBD</td>
+    <td>August 3 - August 7</td>
 	<td></td>
-    <td>Olympia Public Schools / Olympia, WA (near Seattle)</td>
+    <td>Western Washington University / Bellingham, WA</td>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
+  </tr>
+  <tr>
+    <td>August 3 - August 7</td>
+	<td></td>
+    <td>Whitworth University / Spokane, WA</td>
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
  </tbody>
