@@ -3,6 +3,7 @@ title: 2020 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
 redirect_from:
+  - /pd/
   - /pd-3-weeks/
   - /pd-6-weeks/
   - /website/pd3.html
