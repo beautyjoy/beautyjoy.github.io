@@ -105,6 +105,12 @@ We also will be holding regional workshops in the following locations:
   <tr>
     <td>July 20 - 24</td>
 	<td></td>
+    <td>The Citadel / Charleston, SC</td>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
+  </tr>
+  <tr>
+    <td>July 20 - 24</td>
+	<td></td>
     <td>Chicago Public Schools / Chicago, IL</td>
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a></td>
   </tr>
