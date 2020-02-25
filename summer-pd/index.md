@@ -45,7 +45,10 @@ BJC is a College Board-endorsed AP Computer Science Principles curriculum and pr
 
 <!-- More information about Summer 2020 PD will be released in Winter 2020. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link]. -->
 
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx][pathfinders]. Pathfinders application is due May 15, 2020.
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at the [Pathfinders website][pathfinders-app-link]. The Pathfinders application is due May 15, 2020.
+
+[pathfinders-app-link]: http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx
+
 
 We also will be holding **regional workshops** in the following locations:
 
