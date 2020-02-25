@@ -20,22 +20,22 @@ BJC is a College Board-endorsed AP Computer Science Principles curriculum and pr
 
 [pd-interest-form-link]: https://bjc.link/BJCinterest2020
 
-## PD in Winter 2020
+<!-- ## PD in Winter 2020 -->
 
-BJC will offer a 5 day computer science PD workshop February 16-20 at the University of Rhode Island in Providence with generous support from the Infosys Foundation at the Pathfinders Winter Institute 2020. This opportunity is for public high school teachers only. If you are a not a public high school teacher, we encourage you to leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link], so we can notify you when more details about our Summer 2020 workshops are available.
+<!-- BJC will offer a 5 day computer science PD workshop February 16-20 at the University of Rhode Island in Providence with generous support from the Infosys Foundation at the Pathfinders Winter Institute 2020. This opportunity is for public high school teachers only. If you are a not a public high school teacher, we encourage you to leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link], so we can notify you when more details about our Summer 2020 workshops are available. -->
 
-Important Dates
+<!-- Important Dates -->
 
-<ul>
+<!-- <ul>
 	<li>October 7, 2019: Applications are open! Please apply on the <a href="www.infypathfinders.org">Pathfinders Winter Institute 2020 Website</a>.</li>
 	<li>December 16, 2019: Application deadline and for teachers to create a project with DonorsChoose.</li>
 	<li>January 16, 2020: Teachers must be 100% funded in order to meet the time frame to attend.</li>
 	<li>February 16, 2020: PD Workshop Begins!</li>
-</ul>
+</ul> -->
 
-The total program cost per teacher is $2,341. The Foundation will be covering 70% ($1,638.70) for US public school teachers raising funds through school or districts. For teachers raising funds through Donorschoose.org, the Foundation is making a 3X match (previous years Pathfinders provided a 2X match), tripling each donation a teacher receives. Pathfinders will be making relevant accommodations with hotels this year, and teachers will receive fixed visa cards for meals.
+<!-- The total program cost per teacher is $2,341. The Foundation will be covering 70% ($1,638.70) for US public school teachers raising funds through school or districts. For teachers raising funds through Donorschoose.org, the Foundation is making a 3X match (previous years Pathfinders provided a 2X match), tripling each donation a teacher receives. Pathfinders will be making relevant accommodations with hotels this year, and teachers will receive fixed visa cards for meals. -->
 
-If you have any questions about the PD workshop logistics and funding, please contact the [Pathfinders Team][pathfinders-email]. If you have any content related questions about the BJC PD workshop, please reach out to the [BJC PD Team][pd-email].
+<!-- If you have any questions about the PD workshop logistics and funding, please contact the [Pathfinders Team][pathfinders-email]. If you have any content related questions about the BJC PD workshop, please reach out to the [BJC PD Team][pd-email]. -->
 
 [pathfinders-email]: mailto:Pathfinders@infosysfoundationusaevents.org
 
@@ -43,10 +43,9 @@ If you have any questions about the PD workshop logistics and funding, please co
 
 ## PD in Summer 2020
 
-More information about Summer 2020 PD will be released in Winter 2020. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].
+<!-- More information about Summer 2020 PD will be released in Winter 2020. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link]. -->
 
-
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [infy.com/Pathfinders][pathfinders].
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at [http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx][pathfinders].
 
 We also will be holding regional workshops in the following locations:
 
@@ -94,7 +93,7 @@ We also will be holding regional workshops in the following locations:
     <td>July 19 - 24</td>
 	<td>Pathfinders Infosys</td>
     <td>Indiana University Bloomington / Bloomington, IN</td>
-	<td>2020 App Link Coming Soon</td>
+	<td><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx">2020 Pathfinders Registration</a></td>
 		<!--<td>
 		<ol>
 			<li><a href="https://bjc.link/pdapp20">BJC App 2020</a></li>
