@@ -15,7 +15,7 @@ The CS Principles Providers and Teachers Forum aims to increase collaboration an
 
 ## Time & Location
 
-The Forum is a half-day morning session, on **<time>Wednesday, March 11, 2020 from 8:30 AM to 12:00 PM</time>**.
+The Forum is a half-day morning session, on **<time>Wednesday, March 11, 2020 from 9:00 AM to 12:00 PM PST</time>**.
 
 Location: B118
 
@@ -35,18 +35,18 @@ We are looking for topics that would be of broad interest to the CSP Community.
 
 ## Agenda
 
-**Hour 1: College Board Open Forum Style Session, presented by Crystal Furman.**
-_Description: College Board Open Forum Style Session Description: If you have ever attended an AP Reading, you may have attended the College Board open forum. During the Open Forum, the leads for AP Courses provide readers information about the state of the course and any changes or updates they can expect in the next few years. After this brief presentation, the session continues with readers asking questions about the course. In this session, the Director of AP Computer Science Principles will present data about course performance in 2019 and the status of updates and resources teachers and providers can expect for 2020. After this short presentation, ample time will be allowed for teachers and providers to ask their questions._
+* 9:00AM PST - Workshop Begins
+* 9:00AM - 9:30AM - College Board Update
+* 9:30AM - 10:00AM - Provider Updates & Questions
+* 10:00AM - 10:15AM - Topic Breakout Brainstorming
+* 10:15AM - 12:00PM - Participant Raised Topics Discussions
 
-**Hour 2: CSP Provider Updates**
-CSP Providers giving updates on new curriculum, how they might be addressing College Board changes, and anything workshops that are happening over the summer. Featured CSP Providers will be: BJC, code.org, CodeHS, CS50, etc.
+Participant Raised Topics include:
+* Teacher Roundtable
+* Making Computing Accessible to Diverse Learners
+* Imposter Syndrome for Students & Teachers
+* and more TBD during Topic Breakout Brainstorming
 
-**Hours 3 and 4: Broadening Participation in Computing**
-Topics that will be discussed:
-* Teacher Roundtable: sharing experiences as a CSP teacher (i.e., what's working, what's not working, the changes they would like to see across the curriculum offerings, the supports they would value, etc.)
-* Diversity in computing (i.e., making CSP accessible to Diverse Learners)
-* Outreach to teachers and schools
-* Participant raised topics
 
 [//]: # (Topics that may be discussed this year include but are not limited to:)
 [//]: # (* Successes and failures of CSP professional development)
