@@ -16,7 +16,7 @@ redirect_from:
 
 <!--[pd-app-link]: https://bjc.link/PD2019App. -->
 
-BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students. <b>If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link].</b>
+BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students. <b>If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link]. Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b>
 
 [pd-interest-form-link]: https://bjc.link/BJCinterest2020
 
@@ -45,7 +45,7 @@ BJC is a College Board-endorsed AP Computer Science Principles curriculum and pr
 
 <!-- More information about Summer 2020 PD will be released in Winter 2020. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link]. -->
 
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** at Indiana University Bloomington. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at the [Pathfinders website][pathfinders-app-link]. The Pathfinders application is due May 15, 2020.
+Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** all online. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Tuition, travel, boarding and lodging was provided. Find more information and access the application at the [Pathfinders website][pathfinders-app-link]. The Pathfinders application is due May 15, 2020.
 
 [pathfinders-app-link]: http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx
 
@@ -66,7 +66,7 @@ We also will be holding **regional workshops** in the following locations:
     <td>June 22 - 26</td>
     <td></td>
     <td>North Carolina State University / Raleigh, NC</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	  <br>(due May 31, 2020)</td>
 	 
   </tr>
@@ -74,35 +74,35 @@ We also will be holding **regional workshops** in the following locations:
     <td>July 6 - 10</td>
     <td></td>
     <td>University of North Texas / Denton, TX (near Dallas)</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>July 6 - 10</td>
 	<td></td>
     <td>Hawaii Public Schools / TBD, HI</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>July 13 - 17</td>
 	<td></td>
     <td>El Camino College / Torrance, CA</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>July 13 - 17</td>
 	<td></td>
     <td>Central Washington University / Wenatchee, WA</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>July 19 - 24</td>
 	<td>Pathfinders Infosys</td>
     <td>Indiana University Bloomington / Bloomington, IN</td>
-	<td><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx">2020 Pathfinders Registration</a>
+	<td><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx">2020 Pathfinders Registration</a> - Virtual
 	<br>(due May 15, 2020)</td>
 		<!--<td>
 		<ol>
@@ -122,14 +122,14 @@ We also will be holding **regional workshops** in the following locations:
     <td>July 20 - 24</td>
 	<td></td>
     <td>Chicago Public Schools / Chicago, IL</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>July 20 - 24</td>
 	<td></td>
     <td>Colorado School of Mines / Golden, CO</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
  
@@ -137,7 +137,7 @@ We also will be holding **regional workshops** in the following locations:
     <td>July 27 - 30</td>
 	<td></td>
     <td>University of California, Berkeley / Berkeley, CA (near San Francisco) (co-located with <a href='https://snapcon.org'>Snap!Con20</a>)</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   
@@ -145,35 +145,35 @@ We also will be holding **regional workshops** in the following locations:
     <td>July 27 - 31</td>
 	<td>Pump-CS</td>
     <td>Marquette University / Milwaukee, WI</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>July 27 - July 31</td>
 	  <td></td>
     <td>Kean University / Union, NJ (near NYC)</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
 	<td></td>
     <td>Western Washington University / Bellingham, WA</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
 	<td></td>
     <td>George Mason University / Fairfax, VA</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
 	<td></td>
     <td>Whitworth University / Spokane, WA</td>
-	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a>
+	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
 	<br>(due May 31, 2020)</td>
   </tr>
  </tbody>
@@ -234,7 +234,9 @@ The Beauty and Joy of Computing is taught across the country, with over 600 teac
 
 We offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner).
 
-We will release more application details in Winter 2020, but if you are interested, please leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link] so we can inform you when we have more details available.
+Scroll up to our schedule of PDs this Summer 2020 to apply!
+
+<!--We will release more application details in Winter 2020, but if you are interested, please leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link] so we can inform you when we have more details available. --<
 
 <!--There are three steps to apply: -->
 
@@ -254,10 +256,12 @@ We will release more application details in Winter 2020, but if you are interest
 
 ### How much does it cost?
 
-Regional BJC Summer PD is offered in 2020 for a non-refundable $75 registration fee. Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.
+Regional BJC Summer PD is offered in 2020 for a non-refundable $75 registration fee.
+
+<!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
 ## How do I become a BJC Master Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2020 BJC "Train the Trainer" Master Teacher workshop in June 2020, and one of our 5-day in-person BJC workshops as a Teaching Assistant (TA).
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2020 BJC "Train the Trainer" Master Teacher workshop in June 2020, and one of our 5-day BJC workshops as a Teaching Assistant (TA).
 
 ### Contact
 
