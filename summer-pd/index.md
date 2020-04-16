@@ -129,8 +129,8 @@ We also will be holding **regional workshops** in the following locations:
     <td>July 20 - 24</td>
 	<td></td>
     <td>Colorado School of Mines / Golden, CO</td>
-	<td>Canceled</td>
-	<!-- <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual>
+	<td>Canceled
+	<!-- <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual> -->
 	<br>(due May 31, 2020)</td>
   </tr>
  
