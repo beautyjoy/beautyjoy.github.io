@@ -116,6 +116,7 @@ We also will be holding **regional workshops** in the following locations:
 	<td></td>
     <td>The Citadel / Charleston, SC</td>
 	<td><a href="http://bit.ly/CSPDweek2020">Citadel BJC App 2020</a>
+	<br>SC Teachers Only
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
