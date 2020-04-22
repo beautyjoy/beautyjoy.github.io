@@ -123,6 +123,7 @@ We also will be holding **regional workshops** in the following locations:
 	<td></td>
     <td>Chicago Public Schools / Chicago, IL</td>
 	<td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
+	<br>SC Teachers Only
 	<br>(due May 31, 2020)</td>
   </tr>
   <tr>
