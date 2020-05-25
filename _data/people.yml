@@ -125,72 +125,78 @@
 ################################################
 # SITE COORDINATORS
 ################################################
-- name: Patricia Cardwell
+- name: Amy Colburn
   teams:
     - site-coordinators
-  image:
-  location: East Iberville High School, St. Gabriel, LA
-  description:
-- name: Maureen Doyle
+  image: https://media-exp1.licdn.com/dms/image/C5603AQFQVxz4CoD0yw/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=tTu0QYg1ePN0q-tu6SU4lqFp-xC9IDUT676Wgtyzh-U
+  location: Burlington, WA
+  description: Technology and Science Coordinator, NW ESD 189
+- name: David Keathly
   teams:
     - site-coordinators
-  image: https://informatics.nku.edu/content/informatics/departments/computer-science/people/doylem3/_jcr_content/par/textimage/image.img.jpg/1441203448742.jpg
-  location: Northern Kentucky University, Highland Heights, KY
-  description: Associate Professor of Computer Science, College of Informatics
-- name: Joanne Lang
+  image: https://computerscience.engineering.unt.edu/sites/default/files/styles/portrait/public/images/David_Keathly.jpg?itok=g2azG6f3
+  location: University of North Texas, Denton, TX
+  description: Principal Lecturer, Computer Science and Engineering
+- name: Dennis Brylow
   teams:
     - site-coordinators
-  image: https://pbs.twimg.com/profile_images/599287040396566528/SBaABIZY_400x400.jpg
-  location: Advance Kentucky
-  description:
-- name: Zach Dodds
+  image: https://www.marquette.edu/computer-science/directory/images/dennis-brylow.png
+  location: Marquette University, Milwaukee, WI
+  description: Professor and Vice Chair, Department of Computer Science
+- name: Dodi Pritchett
   teams:
     - site-coordinators
-  image: https://www.cs.hmc.edu/people/Dodds.jpg
-  location: Harvey Mudd College, Claremont, CA
-  description: Professor of Computer Science
-- name: Patricia Morreale
+  image: https://media-exp1.licdn.com/dms/image/C4D03AQEFEvCSOnsY5Q/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=UtCFmlPLsQEJJuPrIREOjHjnKzH6Zbc-gziNx15sbAY
+  location: King Kekaulike High School, Makawao, HI
+  description: Science Teacher
+- name: Jen Albert
   teams:
     - site-coordinators
-  image: https://www.kean.edu/~compsci/images/faculty/DrMorreale.jpg
-  location: Kean University, Kean, NJ
-  description: Chairperson, Professor of Computer Science
-- name: Juan J Li
+  image: https://www.lowcountrystem.org/uploads/1/8/8/7/18873120/published/012-0719-stem-headshots-1.jpg?1535504734
+  location: The Citadel, Charleston, SC
+  description: Director, The STEM Center of Excellence at the Citadel
+- name: Jenny Li
   teams:
     - site-coordinators
   image: https://www.kean.edu/~compsci/images/faculty/DrJennyLi_IMG_9711_1500x2400_5x8.jpg
   location: Kean University, Kean, NJ
   description: Assistant Professor of Computer Science
+- name: Jeremy Gubman
+  teams:
+    - site-coordinators
+  image: https://lh3.googleusercontent.com/ZN6QZTMip43QDbL4QAqzHb0lgy2MUoNhI3CuVA2ZPqmpQncQ5ba19jZtgLDoxIoguJ85dhA2SWwdaPRVmnKWKCXJ7htJlpPWWrvD5fNxKFapH4ismg=w1280
+  location: Chicago Public Schools, Chicago, IL
+  description: Grants Project Coordinator, Chicago Public Schools
 - name: Kamaljeet Sanghera
   teams:
     - site-coordinators
   image: https://www.washingtonexec.com/wp-content/uploads/2014/10/Sanghera-Kamaljeet1.jpg
   location: George Mason University, Fairfax, VA
   description: Associate Professor, Department of Information Sciences and Technology
-- name: Lisa Shaffren
+- name: Marnie Hill
   teams:
     - site-coordinators
-  image:
-  location: The Crefeld School, Philadelphia, PA
-  description: Conceptual Physics and Computer Science Teacher
-- name: Jamie Payton
-  teams:
-    - site-coordinators
-  image: https://cis.temple.edu/sites/default/files/styles/portrait-large/public/user_pictures/picture-444-1471294001.jpg?itok=QZDA2gU1
-  location: Temple University, Philadelphia, PA
-  description: Associate Professor, Department of Computer and Information Sciences
+  image: https://www.cei.ncsu.edu/wp-content/plugins/user-avatar/user-avatar-pic.php?src=https://www.cei.ncsu.edu/wp-content/uploads/avatars/45/1560964621-bpprofile.jpg&w=150&id=45&random=1560964621
+  location: NCSU, Raleigh, NC
+  description: Program Manager, BJC
 - name: Solomon Russell
   teams:
     - site-coordinators
   image: https://www.exploringcs.org/wp-content/uploads/2011/11/solomon-russell.jpg
   location: SMASH LPFI, Los Angeles, CA
   description: Computer Science Instructor
-- name: Jennifer Albert
+- name: Sue Kane
   teams:
     - site-coordinators
-  image: https://www4.ncsu.edu/~tmbarnes/students/jen.jpg
-  location: The Citadel, Charleston, SC
-  description: Director, STEM Center of Excellence, Zucker Family School of Education
+  image: http://www.ncesd.org/wp-content/uploads/2018/09/IMG_6351-160x160.jpg
+  location: North Central Educational Service Department, Wenatchee, WA
+  description: Director Apple STEM Network, STEM Coordinator
+- name: Tammie Shrader
+  teams:
+    - site-coordinators
+  image: https://media-exp1.licdn.com/dms/image/C5603AQGiVvwpVNyd1g/profile-displayphoto-shrink_200_200/0?e=1596067200&v=beta&t=shIHoV95l2FsBKYeGgy82Evps5lN-iRCqRoHScp9JEw
+  location: Northeast Washington ESD 101, Spokane, WA
+  description: Regional Science Coordinator
 
 ################################################
 # MASTER TEACHERS
