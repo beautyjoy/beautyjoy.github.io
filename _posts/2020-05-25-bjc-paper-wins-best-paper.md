@@ -1,12 +1,14 @@
 ---
 layout: post
-title: BJC paper wins Best Paper, Curriculum Initiatives at SIGCSE 2020
+title: BJC Paper Wins Best Paper, Curriculum Initiatives at SIGCSE 2020
 subtitle: 
 date: 2020-05-25
 category: news
 tags: csp, sigcse
 ---
 
-Our paper "Design Principles behind Beauty and Joy of Computing" by Paul Goldenberg, June Mark, Brian Harvey, Al Cuoco, and Mary Fries was selected as Best Paper, Curriculum Initiatives at SIGCSE 2020 which has moved online this year. The paper describes the pedagogical theory behind the development of BJC. The abstract is included below, and you can read the whole paper for free at https://doi.org/10.1145/3328778.3366794.
+Our paper "Design Principles behind Beauty and Joy of Computing" by Paul Goldenberg, June Mark, Brian Harvey, Al Cuoco, and Mary Fries was selected as Best Paper, Curriculum Initiatives at SIGCSE 2020 which has moved online this year. The paper describes the pedagogical theory behind the development of BJC. The abstract is included below, and you can [read the whole paper for free][bjc-paper].
+
+[bjc-paper]: https://doi.org/10.1145/3328778.3366794.
  
 This paper shares the design principles of one Advanced Placement Computer Science Principles (AP CSP) course, Beauty and Joy of Computing (BJC), both for schools considering curriculum, and for developers in this still-new field. BJC students not only learn about CS, but do some and analyze its social implications; we feel that the job of enticing students into the field isn't complete until students find programming, itself, something they enjoy and know they can do, and its key ideas accessible. Students must feel invited to use their own creativity and logic, and enjoy the power of their logic and the beauty and elegance of the code by which they express it. All kids need genuine challenge and sensible support so all can have the joy of making-seeing themselves as creators, not just consumers, and seeing that it is their own intellect, not just our instructions, that is the source of that making. Framework standards are woven into a consistent social and intellectual storyline to give the curriculum integrity. Principles guide even our choice of programming language. Learners should focus on the logic and structure of their thinking, not on misplaced semicolons; attention to such syntactic detail is antithetical to broadening participation. We feature recursion and higher-order functions because they beautifully exemplify abstraction, a key idea in CS and the CSP framework. BJC also places significant emphasis on the social implications of computing, balancing fundamental optimism about computing technology with a critical view of specific uses of technology.
