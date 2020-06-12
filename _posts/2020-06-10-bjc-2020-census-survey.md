@@ -7,7 +7,7 @@ category: news
 tags: csp, survey
 ---
 
-Hello Teachers!
+Hello BJC Teachers!
 
 Thank you for your use and support of the Beauty and Joy of Computing (BJC) curriculum. We hope the online format of BJC has allowed you to continue teaching, and we welcome any ideas that would help you during this unusual time.
 
@@ -20,8 +20,6 @@ We are asking all current and former teachers of BJC, or anyone that has attende
 3. Take no more than 5-10 minutes to complete.
 
 Please contact us at [contact@bjc.berkeley.edu](mailto:contact@bjc.berkeley.edu) with any questions.
-
-If you are NOT a current or former BJC teacher, please reply with your position/role and your affiliation to BJC to help clean up the BJC database.
 
 [TAKE THE SURVEY][survey-link]
 
