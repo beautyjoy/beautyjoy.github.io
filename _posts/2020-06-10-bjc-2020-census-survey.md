@@ -19,7 +19,7 @@ We are asking all current and former teachers of BJC, or anyone that has attende
 
 3. Take no more than 5-10 minutes to complete.
 
-Please contact us at [mailto][mailto:contact@bjc.berkeley.edu] with any questions.
+Please contact us at [contact@bjc.berkeley.edu](mailto:contact@bjc.berkeley.edu) with any questions.
 
 If you are NOT a current or former BJC teacher, please reply with your position/role and your affiliation to BJC to help clean up the BJC database.
 
