@@ -11,7 +11,7 @@ Hello Teachers!
 
 Thank you for your use and support of the Beauty and Joy of Computing (BJC) curriculum. We hope the online format of BJC has allowed you to continue teaching, and we welcome any ideas that would help you during this unusual time.
 
-We are asking all current and former teachers of BJC, or anyone that has attended a BJC PD, to complete this short survey which will:
+We are asking all current and former teachers of BJC, or anyone that has attended a BJC PD, to complete this [short survey][survey-link] which will:
 
 1. Get you first access to our forthcoming Snap! Teacher Accounts which will offer the ability to create student accounts in bulk and will be the new way to access BJC solutions.
 
