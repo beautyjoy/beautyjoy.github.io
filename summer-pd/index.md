@@ -76,28 +76,28 @@ We also will be holding **regional workshops** in the following locations:
     <td>8:30 AM - 5:00 PM CST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 6 - 10</td>
     <td>8:30 AM - 5:00 PM HST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 13 - 17</td>
     <td>8:30 AM - 5:00 PM PST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 19 - 24</td>
     <td>8:30 AM - 5:00 PM EST</td>
     <td>Pathfinders Infosys</td>
     <td><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx">2020 Pathfinders Registration</a> - Virtual
-	<br>(due June 5, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 20 - 24</td>
@@ -105,42 +105,42 @@ We also will be holding **regional workshops** in the following locations:
     <td></td>
     <td><a href="http://bit.ly/CSPDweek2020">Citadel BJC App 2020</a> - Virtual
 	<br>SC Teachers Only
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 20 - 24</td>
     <td>8:30 AM - 5:00 PM CST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 27 - 31</td>
     <td>8:30 AM - 5:00 PM CST</td>
     <td>Pump-CS</td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>July 27 - July 31</td>
     <td>8:30 AM - 5:00 PM EST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
     <td>8:30 AM - 5:00 PM PST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
     <td>8:30 AM - 5:00 PM EST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 19, 2020)</td>
+	<br>(due June 26, 2020)</td>
   </tr>
  </tbody>
 </table>
