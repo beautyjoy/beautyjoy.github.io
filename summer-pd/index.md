@@ -79,13 +79,6 @@ We also will be holding **regional workshops** in the following locations:
 	<br>(due June 26, 2020)</td>
   </tr>
   <tr>
-    <td>July 6 - 10</td>
-    <td>8:30 AM - 5:00 PM HST</td>
-    <td></td>
-    <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due June 26, 2020)</td>
-  </tr>
-  <tr>
     <td>July 13 - 17</td>
     <td>8:30 AM - 5:00 PM PST</td>
     <td></td>
@@ -97,7 +90,7 @@ We also will be holding **regional workshops** in the following locations:
     <td>8:30 AM - 5:00 PM EST</td>
     <td>Pathfinders Infosys</td>
     <td><a href="http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx">2020 Pathfinders Registration</a> - Virtual
-	<br>(due June 26, 2020)</td>
+	<br>App is now closed.</td>
   </tr>
   <tr>
     <td>July 20 - 24</td>
