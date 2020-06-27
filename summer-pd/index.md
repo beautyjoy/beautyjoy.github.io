@@ -75,8 +75,7 @@ We also will be holding **regional workshops** in the following locations:
     <td>July 6 - 10</td>
     <td>8:30 AM - 5:00 PM CST</td>
     <td></td>
-    <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>App is now closed.</td>
+    <td>App is now closed.</td>
   </tr>
   <tr>
     <td>July 13 - 17</td>
