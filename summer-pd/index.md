@@ -111,28 +111,28 @@ We also will be holding **regional workshops** in the following locations:
     <td>8:30 AM - 5:00 PM EST</td>
     <td>Kean University</td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due July 17, 2020)</td>
+	<br>App is now closed.</td>
   </tr>
   <tr>
     <td>July 27 - 31</td>
     <td>8:30 AM - 5:00 PM CST</td>
     <td>Pump-CS</td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due July 17, 2020)</td>
+	<br>App is now closed.</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
     <td>8:30 AM - 5:00 PM PST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due July 24, 2020)</td>
+	<br>App is now closed.</td>
   </tr>
   <tr>
     <td>August 3 - August 7</td>
     <td>8:30 AM - 5:00 PM EST</td>
     <td></td>
     <td><a href="https://bjc.link/pdapp20">BJC App 2020</a> - Virtual
-	<br>(due July 24, 2020)</td>
+	<br>App is now closed.</td>
   </tr>
  </tbody>
 </table>
