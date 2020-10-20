@@ -23,8 +23,10 @@
   links:
     - name: National PD
       href: /summer-pd/
-    - name: India 2019
-      href: /india-pd/
+    - name: Middle School PD
+      href: /summer-pd/middle-school/
+#     - name: India 2019
+#       href: /india-pd/
 - name: CSP Forum
   href: /sigcse-csp-forum
 - name: Resources
