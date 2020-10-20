@@ -21,12 +21,14 @@
   href: /ap-cs-principles
 - title: Professional Development
   links:
-    - name: National PD
+    - name: National PD (2020)
       href: /summer-pd/
-    - name: India 2019
-      href: /india-pd/
-- name: CSP Forum
-  href: /sigcse-csp-forum
+    - name: Middle School PD (2021)
+      href: /summer-pd/middle-school/
+#     - name: India 2019
+#       href: /india-pd/
+# - name: CSP Forum
+#   href: /sigcse-csp-forum
 - name: Resources
   href: /resources
 - name: News
