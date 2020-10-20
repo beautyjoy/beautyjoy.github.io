@@ -1,7 +1,7 @@
 ---
 title: 2021 Professional Development
 subtitle: One-Week Workshop for Middle School Teachers
-layout: summer-pd
+layout: ms-pd
 permalink: /summer-pd/middle-school/
 redirect_from:
   - /ms-pd/
