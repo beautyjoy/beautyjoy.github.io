@@ -27,7 +27,7 @@ There will be 4 hours of synchronous activities per day, with the remainder of t
 
 This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans -- Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Master Teachers.
 
-## How to Apply
+### How to Apply
 
 We will be releasing a link to the PD application shortly! We will be accepting applications on a rolling basis up to summer.
 
