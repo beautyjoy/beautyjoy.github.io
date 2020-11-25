@@ -26,6 +26,7 @@ We are excited to announce that this summer, we will be offering 2 different wor
 <b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready.
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
 
+
 ### Middle School PD
 
 BJC has hosted summer PD workshops for almost a decade, traditionally geared toward our high school and undergraduate level curriculum. But this year, we are excited to announce our inaugural BJC PD workshop specifically for our newly developed middle school curriculum. It has been a long time goal to expand our reach beyond the high school setting, to bring exciting and engaging CS curriculum further into the K-12 ecosystem. We are super excited that we are finally in a place to do just that, and we hope you are able to join us this summer!
@@ -37,6 +38,7 @@ BJC will offer a one week (5 days) virtual computer science middle school PD wor
 There will be 4 hours of synchronous activities per day, with the remainder of the time daily for asynchronous work, to offer schedule flexibility to participants. The BJC middle school curriculum consists of 3 units, with the first two units designed to last for one full academic year. This workshop will focus on the first 2 units, and will provide a preview of the third unit. All course materials will be available online at no cost (link to the curriculum coming soon!).
 
 This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans -- Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Master Teachers.
+
 
 ### High School PD
 
@@ -168,6 +170,7 @@ Our Summer 2021 PD Application will be released this Winter 2021, but in the mea
 <!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu. -->
 
 <!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
+
 
 ### How much does it cost?
 
