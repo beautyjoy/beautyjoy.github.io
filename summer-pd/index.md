@@ -26,7 +26,7 @@ We are excited to announce that this summer, we will be offering 2 different wor
 <b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready.
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
 
-## Middle School PD
+### Middle School PD
 
 BJC has hosted summer PD workshops for almost a decade, traditionally geared toward our high school and undergraduate level curriculum. But this year, we are excited to announce our inaugural BJC PD workshop specifically for our newly developed middle school curriculum. It has been a long time goal to expand our reach beyond the high school setting, to bring exciting and engaging CS curriculum further into the K-12 ecosystem. We are super excited that we are finally in a place to do just that, and we hope you are able to join us this summer!
 
@@ -38,7 +38,7 @@ There will be 4 hours of synchronous activities per day, with the remainder of t
 
 This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans -- Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Master Teachers.
 
-## High School PD
+### High School PD
 
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
@@ -147,7 +147,7 @@ We typically offer regional 5-day face to face summer professional development w
 [pathfinders]: https://infy.com/Pathfinders
 
 
-## BJC PD Summer 2021 Schedule and Application
+### BJC PD Summer 2021 Schedule and Application
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
@@ -169,14 +169,14 @@ Our Summer 2021 PD Application will be released this Winter 2021, but in the mea
 
 <!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
 
-## How much does it cost?
+### How much does it cost?
 
 BJC Summer High School PD is offered in 2021 for a non-refundable $75 registration fee.
 
 <!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
 
-## How do I become a BJC Master Teacher?
+### How do I become a BJC Master Teacher?
 If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Master Teacher workshop in June 2021 online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
 
 
