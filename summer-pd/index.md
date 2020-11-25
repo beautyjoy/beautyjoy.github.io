@@ -23,7 +23,7 @@ BJC is a College Board-endorsed AP Computer Science Principles curriculum and pr
 
 We are excited to announce that this summer, we will be offering 2 different workshops - one for our middle school curriculum, and the other for our high school curriculum.
 
-<b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b>
+<b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready.
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
 
 ## Middle School PD
