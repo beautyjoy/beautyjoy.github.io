@@ -1,5 +1,5 @@
 ---
-title: 2020 Professional Development
+title: 2021 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
 redirect_from:
@@ -14,47 +14,60 @@ redirect_from:
 
 ## BJC Professional Development Workshops
 
-<!--[pd-app-link]: https://bjc.link/PD2019App. -->
-
-BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students. <b>If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link]. Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b>
-
-[pd-interest-form-link]: https://bjc.link/BJCinterest2020
-
-<!-- ## PD in Winter 2020 -->
-
-<!-- BJC will offer a 5 day computer science PD workshop February 16-20 at the University of Rhode Island in Providence with generous support from the Infosys Foundation at the Pathfinders Winter Institute 2020. This opportunity is for public high school teachers only. If you are a not a public high school teacher, we encourage you to leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link], so we can notify you when more details about our Summer 2020 workshops are available. -->
-
-<!-- Important Dates -->
-
-<!-- <ul>
-	<li>October 7, 2019: Applications are open! Please apply on the <a href="www.infypathfinders.org">Pathfinders Winter Institute 2020 Website</a>.</li>
-	<li>December 16, 2019: Application deadline and for teachers to create a project with DonorsChoose.</li>
-	<li>January 16, 2020: Teachers must be 100% funded in order to meet the time frame to attend.</li>
-	<li>February 16, 2020: PD Workshop Begins!</li>
-</ul> -->
-
-<!-- The total program cost per teacher is $2,341. The Foundation will be covering 70% ($1,638.70) for US public school teachers raising funds through school or districts. For teachers raising funds through Donorschoose.org, the Foundation is making a 3X match (previous years Pathfinders provided a 2X match), tripling each donation a teacher receives. Pathfinders will be making relevant accommodations with hotels this year, and teachers will receive fixed visa cards for meals. -->
-
-<!-- If you have any questions about the PD workshop logistics and funding, please contact the [Pathfinders Team][pathfinders-email]. If you have any content related questions about the BJC PD workshop, please reach out to the [BJC PD Team][pd-email]. -->
-
+[pd-interest-form-link]: https://bjc.link/BJCinterest2021
 [pathfinders-email]: mailto:Pathfinders@infosysfoundationusaevents.org
-
+<!--[pd-app-link]: https://bjc.link/PD2019App. -->
 <!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
 
-## PD in Summer 2020
+BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students.
 
-<!-- More information about Summer 2020 PD will be released in Winter 2020. If you are interested in attending PD in Summer 2020, please complete our [BJC Summer 2020 PD interest form][pd-interest-form-link]. -->
+We are excited to announce that this summer, we will be offering 2 different workshops - one for our middle school curriculum, and the other for our high school curriculum.
 
-Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** all online. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Find more information and access the application at the [Pathfinders website][pathfinders-app-link]. The Pathfinders application is due June 5, 2020.
+<b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready.
+<!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
+
+
+### Middle School PD
+
+BJC has hosted summer PD workshops for almost a decade, traditionally geared toward our high school and undergraduate level curriculum. But this year, we are excited to announce our inaugural BJC PD workshop specifically for our newly developed middle school curriculum. It has been a long time goal to expand our reach beyond the high school setting, to bring exciting and engaging CS curriculum further into the K-12 ecosystem. We are super excited that we are finally in a place to do just that, and we hope you are able to join us this summer!
+
+<em>If you are interested in high school PD, skip to the High School PD section below.</em>
+
+BJC will offer a one week (5 days) virtual computer science middle school PD workshop this summer 2021 with generous support from the Hopper Dean Foundation. This opportunity is primarily for middle school teachers and administrators, but we also welcome participation from parents or community members running extra curricular activities for their middle school students. No prior experience with computer science is necessary. We are looking to have a cohort of at least 20 teachers.
+
+There will be 4 hours of synchronous activities per day, with the remainder of the time daily for asynchronous work, to offer schedule flexibility to participants. The BJC middle school curriculum consists of 3 units, with the first two units designed to last for one full academic year. This workshop will focus on the first 2 units, and will provide a preview of the third unit. All course materials will be available online at no cost (link to the curriculum coming soon!).
+
+This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans -- Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Master Teachers.
+
+
+### High School PD
+
+[tiffany]: https://eliza.csc.ncsu.edu/
+[nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
+[nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
+[pd-email]: mailto:pd@bjc.berkeley.edu
+
+BJC has offered High School PD workshops since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), DonorsChoose, and Infosys Foundation USA. They have been organized by [Professor Tiffany Barnes][tiffany] at NC State University, who leads our efforts to provide regional BJC PD workshops at universities around the United States.
+
+BJC PD workshops are led by BJC Master Teachers who have attended a BJC Summer PD workshop, taught the BJC course in high school, and participated in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
+
+We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2021 PD workshops will be held online.
+
+<!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
+
+<!-- ## Summer PD Schedule -->
+
+<!-- More information about Summer 2021 PD will be released in Winter 2021. If you are interested in attending PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. -->
+
+<!-- Thanks to the generosity of [Infosys Foundation USA][infosys], BJC will offer **FREE BJC Computer Science Professional Development** for **80 teachers** at the [Pathfinders Summer Institute][pathfinders] on **July 19-24, 2020** all online. Funds from Infosys matched funds from schools, districts, and individual donations to make it possible for teachers to attend at no cost. Find more information and access the application at the [Pathfinders website][pathfinders-app-link]. The Pathfinders application is due June 5, 2020. -->
 
 <!-- Tuition, travel, boarding and lodging was provided. -->
 
 [pathfinders-app-link]: http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx
 
+<!-- We also will be holding **regional workshops** in the following locations: -->
 
-We also will be holding **regional workshops** in the following locations:
-
-<table class="table table-striped table-bordered">
+<!-- <table class="table table-striped table-bordered">
 <thead>
   <tr>
     <th scope ="col">Date</th>
@@ -70,7 +83,7 @@ We also will be holding **regional workshops** in the following locations:
     <td></td>
     <td>App is now closed.</td>
 	 
-  </tr>
+ <!-- </tr>
   <tr>
     <td>July 6 - 10</td>
     <td>8:30 AM - 5:00 PM CST</td>
@@ -135,18 +148,40 @@ We also will be holding **regional workshops** in the following locations:
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
 
-## Regional BJC PD Model
 
-[Professor Tiffany Barnes][tiffany] at NC State University leads our efforts to provide regional BJC professional development workshops at universities around the United States. These workshops have been offered since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), DonorsChoose, and Infosys Foundation USA.
+### BJC PD Summer 2021 Schedule and Application
 
-BJC PD Workshops are led by BJC Master Teachers who have attended a BJC summer PD workshop, taught the BJC course in high school, and participate in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
+[admin-letter]: https://bjc.link/Admin19
+[BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
+[reg-fee]: https://bjc.link/reg19
 
-<!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Master Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
+Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link]  so we can let you know when details are released.
 
-[tiffany]: https://eliza.csc.ncsu.edu/
-[nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
-[nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
-[pd-email]: mailto:pd@bjc.berkeley.edu
+<!--Scroll up to our schedule of PDs this Summer 2020 to apply!-->
+
+<!--There are three steps to apply: -->
+
+<!--1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send. -->
+
+<!--2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu. -->
+
+<!--3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee]. -->
+
+<!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu. -->
+
+<!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
+
+
+### How much does it cost?
+
+BJC Summer High School PD is offered in 2021 for a non-refundable $75 registration fee.
+
+<!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
+
+
+### How do I become a BJC Master Teacher?
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Master Teacher workshop in June 2021 online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
+
 
 ## The BJC Curriculum, In Short
 
@@ -181,39 +216,6 @@ For more information on how BJC compares to the general CS Principles framework,
 
 The Beauty and Joy of Computing is taught across the country, with over 600 teachers from 41 states applying to attend our teacher preparation workshops. Teachers are also using our curriculum in Canada, Ireland, Guam, Hong Kong, South Korea, Indonesia, Senegal, Cape Verde, Nepal, Austria, Italy, New Zealand, the Philippines, and Germany.
 
-### How can I be part of BJC PD? - BJC PD Summer 2020 Application
-
-We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2020 PD workshops will be held online.
-
-Scroll up to our schedule of PDs this Summer 2020 to apply!
-
-<!--We will release more application details in Winter 2020, but if you are interested, please leave us your contact information on our [BJC Summer 2020 PD Interest Form][pd-interest-form-link] so we can inform you when we have more details available. --<
-
-<!--There are three steps to apply: -->
-
-<!--1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send. -->
-
-<!--2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu. -->
-
-<!--3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee]. -->
-
-<!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu. -->
-
-<!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
-
-[admin-letter]: https://bjc.link/Admin19
-[BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
-[reg-fee]: https://bjc.link/reg19
-
-### How much does it cost?
-
-Regional BJC Summer PD is offered in 2020 for a non-refundable $75 registration fee.
-
-<!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
-
-## How do I become a BJC Master Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our 2020 BJC "Train the Trainer" Master Teacher workshop in June 2020, and one of our 5-day BJC workshops as a Teaching Assistant (TA).
-
-### Contact
+## Contact
 
 If you have questions about BJC, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu) and include your name, school name, and location.
