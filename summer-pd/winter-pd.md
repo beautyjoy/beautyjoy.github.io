@@ -18,6 +18,7 @@ redirect_from:
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
+[pd-email]: mailto:pd@bjc.berkeley.edu
 <!--[pd-app-link]: https://bjc.link/PD2019App. -->
 <!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
 
