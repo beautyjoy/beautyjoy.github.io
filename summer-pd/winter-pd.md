@@ -2,7 +2,7 @@
 title: 2021 Winter Professional Development
 subtitle: Winter Workshop for High School Teachers
 layout: winter-pd
-permalink: /summer-pd/middle-school/
+permalink: /summer-pd/winter-pd/
 redirect_from:
   - /winter-pd/
   - /winter-pd
