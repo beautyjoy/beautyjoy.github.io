@@ -85,13 +85,6 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
 </thead>
 <tbody>
   <tr>
-    <td>TBD, July</td>
-    <td>11:00 AM - 4:00 PM EST</td>
-    <td>Middle School</td>
-    <td>Online</td>
-    <td>App coming soon.</td>	 
-  </tr>
-  <tr>
     <td>June 28 - July 2</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
@@ -102,6 +95,13 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
     <td>July 12 - 16</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
+    <td>Online</td>
+    <td>App coming soon.</td>
+  </tr>
+  <tr>
+    <td>July 19 - 23</td>
+    <td>12:00 PM - 4:00 PM EST</td>
+    <td>Middle School</td>
     <td>Online</td>
     <td>App coming soon.</td>
   </tr>
