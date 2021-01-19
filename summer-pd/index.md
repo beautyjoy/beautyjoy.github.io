@@ -153,7 +153,7 @@ BJC Summer High School PD is offered in 2021 for a non-refundable $75 registrati
 
 
 ### How do I become a BJC Lead Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop in June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop on June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
 
 
 ## The BJC Curriculum, In Short
