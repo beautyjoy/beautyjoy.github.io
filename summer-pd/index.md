@@ -147,7 +147,7 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
 
 ### How much does it cost?
 
-BJC Summer High School PD is offered in 2021 for a non-refundable $75 registration fee.
+BJC Summer PD is offered in 2021 for a non-refundable $75 registration fee.
 
 <!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
