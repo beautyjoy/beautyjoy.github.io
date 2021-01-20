@@ -85,13 +85,6 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
 </thead>
 <tbody>
   <tr>
-    <td>TBD, July</td>
-    <td>11:00 AM - 4:00 PM EST</td>
-    <td>Middle School</td>
-    <td>Online</td>
-    <td>App coming soon.</td>	 
-  </tr>
-  <tr>
     <td>June 28 - July 2</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
@@ -102,6 +95,13 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
     <td>July 12 - 16</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
+    <td>Online</td>
+    <td>App coming soon.</td>
+  </tr>
+  <tr>
+    <td>July 19 - 23</td>
+    <td>12:00 PM - 4:00 PM EST</td>
+    <td>Middle School</td>
     <td>Online</td>
     <td>App coming soon.</td>
   </tr>
@@ -153,7 +153,7 @@ BJC Summer High School PD is offered in 2021 for a non-refundable $75 registrati
 
 
 ### How do I become a BJC Lead Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop in June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop on June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
 
 
 ## The BJC Curriculum, In Short

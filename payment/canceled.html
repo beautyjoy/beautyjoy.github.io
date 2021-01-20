@@ -1,0 +1,43 @@
+---
+title: Payment Canceled
+layout: page
+header_background: group1
+---
+
+<!-- <link rel="stylesheet" href="css/global.css" /> -->
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3/"></script>
+
+{% capture section_content %}
+
+<div class="sr-root">
+  <div class="sr-main">
+    <header class="sr-header">
+      <a href="./" class="sr-header__logo"></a>
+    </header>
+    <div class="sr-payment-summary completed-view">
+      <h1>Your payment was canceled.</h1>
+      <h4>Checkout Session ID: <span id="session"></span></h4>
+    </div>
+  <div class="sr-content">
+    <div class="pasha-image-stack">
+      <img
+        src="/assets/img/alonzo-canceled.png"
+        width="400"
+        height="300"
+      />
+    </div>
+  </div>
+</div>
+
+{% endcapture %} {% include section.html %}
+
+<script>
+  var urlParams = new URLSearchParams(window.location.search);
+
+  if (urlParams.has("session_id")) {
+    document.getElementById("session").textContent = urlParams.get(
+      "session_id"
+    );
+  }
+</script>
