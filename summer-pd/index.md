@@ -21,7 +21,7 @@ redirect_from:
 
 BJC is a College Board-endorsed AP Computer Science Principles curriculum and professional development based on the themes of creativity and social impacts. Since 2012, we have provided professional development to more than 600 teachers throughout the U.S., reaching more than 5,000 students.
 
-We are excited to announce that this summer, we will be offering 2 different workshops - one for our middle / early high school school curriculum, and the other for our high school curriculum.
+We are excited to announce that this summer, we will be offering 2 different workshops - one for our middle / early high school curriculum, and the other for our high school curriculum.
 
 <!-- <b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready. -->
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
