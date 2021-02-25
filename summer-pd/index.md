@@ -23,21 +23,17 @@ BJC is a College Board-endorsed AP Computer Science Principles curriculum and pr
 
 We are excited to announce that this summer, we will be offering 2 different workshops - one for our middle / early high school school curriculum, and the other for our high school curriculum.
 
-<b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready.
+<!-- <b>If you are interested in attending our PD in Summer 2021, please complete our [BJC Summer 2021 PD interest form][pd-interest-form-link]. </b> The application will be released Winter 2021, and if you leave us your contact information, we will be able to notify you when it is ready. -->
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
 
 
-### Middle / Early High School PD
+### Middle School / Early High School PD
 
-BJC has hosted summer PD workshops for almost a decade, traditionally geared toward our high school and undergraduate level curriculum. But this year, we are excited to announce our inaugural BJC PD workshop specifically for our newly developed middle / early high school curriculum. It has been a long time goal to expand our reach beyond the high school setting, to bring exciting and engaging CS curriculum further into the K-12 ecosystem. We are super excited that we are finally in a place to do just that, and we hope you are able to join us this summer!
+The creators of BJC are developing a new course for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop in summer 2021 for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
 
-<em>If you are interested in high school PD, skip to the High School PD section below.</em>
+We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students.
 
-BJC will offer a one week (5 days) virtual computer science middle / early high school PD workshop this summer 2021 with generous support from the Hopper Dean Foundation. This opportunity is primarily for middle / early high school teachers and administrators, but we also welcome participation from parents or community members running extra curricular activities for their middle school students. No prior experience with computer science is necessary. We are looking to have a cohort of at least 20 teachers.
-
-There will be 4 hours of synchronous activities per day, with the remainder of the time daily for asynchronous work, to offer schedule flexibility to participants. The BJC middle school curriculum consists of 3 units, with the first two units designed to last for one full academic year. This workshop will focus on the first 2 units, and will provide a preview of the third unit. All course materials will be available online at no cost (link to the curriculum coming soon!).
-
-This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans -- Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Lead Teachers.
+This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans — Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
 
 
 ### High School PD
@@ -61,7 +57,9 @@ We typically offer regional 5-day face to face summer professional development w
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link] so we can let you know when details are released.
+Below is our 2021 PD schedule for our PD workshops and links to the PD Application.
+
+<!-- Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link] so we can let you know when details are released. -->
 
 <!-- ## Summer PD Schedule -->
 
@@ -89,35 +87,35 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>App coming soon.</td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
   </tr>
   <tr>
     <td>July 12 - 16</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>App coming soon.</td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>12:00 PM - 4:00 PM EST</td>
     <td>Middle School</td>
     <td>Online</td>
-    <td>App coming soon.</td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>App coming soon.</td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
   </tr>
   <tr>
     <td>July 26 - 30</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>App coming soon.</td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
   </tr>
  </tbody>
 </table>
@@ -126,8 +124,6 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
-
-
 
 
 <!--Scroll up to our schedule of PDs this Summer 2020 to apply!-->
@@ -147,14 +143,15 @@ Below is our 2021 PD schedule. Our Summer 2021 PD Application will be released t
 
 ### How much does it cost?
 
-BJC Summer PD is offered in 2021 for a non-refundable $75 registration fee.
+We are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
+
+For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year.
 
 <!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
-
 ### How do I become a BJC Lead Teacher?
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop on June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
 
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop on June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
 
 ## The BJC Curriculum, In Short
 
