@@ -1,12 +1,19 @@
 ---
-- title: The Beauty and Joy of Computing
+- title: ! 'Fostering Engagement and Creativity through Programming: The Beauty and Joy of Computing in a First-year Engineering Class'
+  filename: 2020 IEEE Xplore - Fostering Engagement and Creativity through Programming.pdf
+  authors: Federico Meza, Nicolás Torres, Andrea Vásquez
+  year: 2020
+  journal: 2020 39th International Conference of the Chilean Computer Science Society (SCCC)
+  abstract: There is a growing interest in learning computer programming even among students from majors other than computer science (CS). Many universities offer a common Introduction to Programming (CS1) course, but this approach is usually detrimental to those who are not pursuing a CS major. This article is an experience report that summarizes the results of adapting and implementing the course "The Beauty and Joy of Computing" (BJC) in an Engineering in Product Design first-year class, a group that showed below-average performance in the past. BJC is a course for undergraduate non-CS majors at UC Berkeley, designed to broaden student participation in Computer Science. After a fully online semester of BJC at UTFSM, students showed greater responsibility and commitment when compared to previous cohorts. They also reported greater satisfaction with programming while having a lower attrition rate and comparable final grades to students in the regular CS1 class.
+  external_link: https://doi.org/10.1109/SCCC51225.2020.9281159
+- title: ! 'The Beauty and Joy of Computing'
   filename: 2015 ACM Inroads - The Beauty and Joy of Computing.pdf
   authors: Dan Garcia, Brian Harvey, Tiffany Barnes
   year: 2015
   journal: ACM Inroads
   abstract: In this article, we share our philosophy, an update on our course design principles, a general flow through our curriculum, the impact BJC has had, and conclude with lessons learned.
   external_link: https://inroads.acm.org/article.cfm?aid=2835184
-- title: Lessons Learned from "BJC" CS Principles Professional Development
+- title: ! 'Lessons Learned from "BJC" CS Principles Professional Development'
   filename: 2014 SIGCSE - Lessons Learned from BJC CS Principles Professional Development.pdf
   authors: Thomas Prince, Veronica Cateté, Jennifer Albert, Tiffany Barnes, Dan Garcia
   year: 2014
