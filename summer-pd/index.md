@@ -119,7 +119,7 @@ Below is our 2021 PD schedule for our PD workshops and links to the PD Applicati
   </tr>
   <tr>
     <td>July 26 - 30</td>
-    <td>11:00 AM - 4:00 PM EST</td>
+    <td>9:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
     <td>Note: South Carolina Teachers Only <br> <a href ='https://web.cvent.com/event/fe738b8e-9bc3-4048-92f8-64280220d7d1/summary'>Apply Here</a></td>
