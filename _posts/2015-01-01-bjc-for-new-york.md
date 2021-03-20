@@ -26,3 +26,10 @@ UCB will lead three summer workshops in New York; NYCDOE will recruit and select
 CSNYC is a nonprofit foundation that has played a leading role in getting computer science education into New York at all levels. Their role in this project will be to organize support and community-building for the BJC teachers during the school year. (UCB and EDC will also participate in school-year activities, including observation of BJC classes to inform a second round of curriculum development.)
 
 We're very excited about this new opportunity to have a major BJC impact on an entire city! New York teachers and principals, go to the [NYCDOE BJC page](https://sepnyc.org/apcs) for information about how to participate.
+
+View a couple videos highighting this initaitive and experiences from students and teachers:
+
+[Beauty and Joy of Computing in NYC] (https://vimeo.com/164491027)
+
+[Finding Beauty and Joy in Computing] (https://youtu.be/aKNEnkQ8nN4)
+When they were in high school, Mikael Moise took a course on computer science—and decided that they wanted to pursue the subject as a career. In this video, Mikael shares their story, and discusses how EDC’s Beauty and Joy of Computing course was the spark that lit the fire. Learn more: [https://bjc.edc.org/] (https://bjc.edc.org/)
