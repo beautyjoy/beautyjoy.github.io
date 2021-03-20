@@ -4,10 +4,6 @@ resources:
     link: https://www.csteachers.org/page/2017Conference
     description:
 
-  - name: CS4HS @ Cal
-    link: https://cs4hs.berkeley.edu/
-    description:
-
   - name: Learning @ Scale
     link: https://learningatscale.acm.org/
     description:
@@ -18,6 +14,10 @@ resources:
 
   - name: Scratch at MIT
     link: https://scratch.mit.edu/conference/
+    description:
+    
+  - name: Snap!Con
+    link: https://snapcon.org
     description:
 
   - name: Special Interest Group on Computer Science Education (SIGCSE) Technical Symposium

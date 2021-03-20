@@ -1,18 +1,8 @@
 subheading: Community Resources
 resources:
-  - name: "Piazza: BJC TEACHERS"
-    link:
-    description: Forum for all BJC teachers to ask each other for help, share best practices and knowledge, and to lean on each other. For access, please [email us](mailto:contact@bjc.berkeley.edu).
+  - name: "BJC Teachers Piazza Group"
+    link: https://teachers.bjc.berkeley.edu
+    description: Forum for all BJC teachers to ask each other for help, share best practices and knowledge, and to lean on each other. For access, fill out the linked form.
 
-  - name: "Piazza: BJC4NYC 2015-17"
-    link:
-    description: Forum for all BJC NYC teachers as part of the BJC4NYC initiative. For access, please [email us](mailto:contact@bjc.berkeley.edu).
-
-  - name: BJC Monthly Seminars
-    description: |
-      [Meeting Notes](https://bit.ly/BJC-Monthly-Meeting-Notes-2014)
-
-      A monthly hour-long seminar to discuss BJC teaching tips and to collaborate and share knowledge with other BJC teachers about best practices. Links to join in the meeting minutes above. Monthly reminders are given in the BJC Teachers Piazza group.
-
-  - name: BJC on CSforAll (CS10K)
+  - name: "BJC on CSforAll (CS10K)"
     link: https://piazza.com/cs10k/other/bjcteachers/home

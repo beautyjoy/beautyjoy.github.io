@@ -1,6 +1,6 @@
 subheading: AP CS Principles Study Materials for Students
 resources:
-  - name: Snap<em>!</em> CSP Reference Sheet
+  - name: "Snap<em>!</em> CSP Reference Sheet"
     link: https://tinyurl.com/snapcsp
     tags: snap students
     description: |
@@ -9,3 +9,9 @@ resources:
       Finally, we've taken the five programming activities from the CED (course and exam description) purple book and shown how those are translated into these blocks (at the bottom).
 
       Email any problems to Dan (ddgarcia@cs.berkeley.edu).
+      
+  - name: "Snap<em>!</em> Cheat Sheet"
+    link: https://bjc.edc.org/bjc-r/cur/snap-cheat-sheet.html
+    tags: snap students
+    description: This guide will show you how to match up the procedures in the AP exam language with the blocks in Snap<em>!</em>.
+
