@@ -8,44 +8,21 @@ resources:
 
       BJC uses Blown to Bits to teach the social implications of computing. This is a free book (downloadable PDF files) under the Creative Commons license.
 
-  - name: BJC Curriculum Outline
-    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Outline.pdf
-    description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.
-
   - name: BJC Labs
-    link: https://bjc.edc.org/bjc-r/course/bjc4nyc.html
+    link: https://bjc.edc.org
     description: BJC's most recent labs can be found here. These labs are AP CS Principles compliant.
 
   - name: BJC Labs - Teacher Guide
     link: https://bjc.edc.org/bjc-r/teacher
-    description: This guide is designed to support high school CSP teachers with timing and activities for the BJC student materials to teach important ideas of programming and the social implications of computing and to prepare students for the AP CSP Exam that launches Spring 2017.
-
-  - name: BJC Edge edX SPOC
-    description: |
-      SPOC stands for small private online course. We currently offer BJC to the world on edX (edx.org), and this SPOC allows for customization of that version of BJC to fit specific classroom needs, primarily branding and content scheduling.
-
-      The SPOC has BJC's most recent lab content, readings, quizzes, discussions, lecture videos, autograded lab exercises, projects, AP Performance Tasks (Create and Explore), and capstone exams.
-
-      BJC.12x is ready August 2016 -- this contains content from Units 1, 2, 3 and 4. BJC.34x will be ready November 2016 and will contain content form Units 5, 6, and 7.
-
-      If you'd like access, please:
-
-      1. Create an account on edge.edx.org. Please note this is different from regular edx.org!
-      2. Email 3 pieces of info -- your username, email address associated with your account, and what school you're with -- to Lauren (lauren@bjc.berkeley.edu).
-
-  - name: BJC Curriculum Repository
-    link:
-    description: This is a repository of previous versions of BJC labs.
+    description: This guide is designed to support high school CSP teachers with timing and activities for the BJC student materials to teach important ideas of programming and the social implications of computing and to prepare students for the AP CSP Exam.
+  
+  - name: BJC Curriculum Resources
+    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/tg-resources.html?course=bjc4nyc_teacher.html&novideo&noassignment
+    description: Compiled list of BJC resources to accompany lab material.
 
   - name: Teaching Global Impact
     link: https://teachglobalimpact.org/
     description: Creative teaching resources, lesson plans, and practical strategies. Helping CSP teachers plan lessons on the global impact of computing.
 
-  - name: BJC Concept Posters
-    link: https://csillustrated.berkeley.edu/posters.php
-    description: Classroom BJC posters that highlight Call By Value, Functions as Data and Lists.
 
-  - name: Comparing BJC with CSP Framework
-    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/compare.html
-    description: This can be a useful piece of propaganda for principals, school boards, maybe even parents.
 
