@@ -31,5 +31,4 @@ View a couple videos highighting this initaitive and experiences from students a
 
 [Beauty and Joy of Computing in NYC](https://vimeo.com/164491027)
 
-[Finding Beauty and Joy in Computing](https://youtu.be/aKNEnkQ8nN4)
-When they were in high school, Mikael Moise took a course on computer science—and decided that they wanted to pursue the subject as a career. In this video, Mikael shares their story, and discusses how EDC’s Beauty and Joy of Computing course was the spark that lit the fire. Learn more: [https://bjc.edc.org/] (https://bjc.edc.org/)
+[Finding Beauty and Joy in Computing](https://youtu.be/aKNEnkQ8nN4) - When they were in high school, Mikael Moise took a course on computer science—and decided that they wanted to pursue the subject as a career. In this video, Mikael shares their story, and discusses how EDC’s Beauty and Joy of Computing course was the spark that lit the fire. Learn more: [https://bjc.edc.org/] (https://bjc.edc.org/)
