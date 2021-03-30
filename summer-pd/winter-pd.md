@@ -19,6 +19,7 @@ redirect_from:
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
 [pd-email]: mailto:pd@bjc.berkeley.edu
+[summer-pd]: https://bjc.berkeley.edu/summer-pd
 <!--[pd-app-link]: https://bjc.link/PD2019App. -->
 <!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
 
@@ -28,7 +29,7 @@ BJC PD workshops are led by BJC Master Teachers who have attended a BJC Summer P
 
 ### Winter 2021 PD Details
 
-BJC will offer a 3 day virtual computer science PD workshop February 12-15, 2021 with generous support from the Infosys Foundation at the second annual Pathfinders Winter Institute 2021. This opportunity is for public high school teachers only. If you are a not a public high school teacher, we encourage you to leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link], so we can notify you when more details about our Summer 2021 workshops are available.
+BJC offered a 3 day virtual computer science PD workshop February 12-15, 2021 with generous support from the Infosys Foundation at the second annual Pathfinders Winter Institute 2021. This opportunity was for public high school teachers only. If you are a not a public high school teacher, we encourage you to check out our Summer PD workshops on our [BJC Summer 2021 PD Information Page][summer-pd].
 
 <!-- The total program cost per teacher is $2,341. The Foundation will be covering 70% ($1,638.70) for US public school teachers raising funds through school or districts. For teachers raising funds through Donorschoose.org, the Foundation is making a 3X match (previous years Pathfinders provided a 2X match), tripling each donation a teacher receives. Pathfinders will be making relevant accommodations with hotels this year, and teachers will receive fixed visa cards for meals. -->
 
@@ -36,7 +37,9 @@ BJC will offer a 3 day virtual computer science PD workshop February 12-15, 2021
 
 ### How to Apply
 
-Please apply on the [Pathfinders Winter Institute Website][pathfinders-app-winter].
+Applications are closed. Please check back later in 2021 for information on the Winter 2022 workshop.
+
+<!-- Please apply on the [Pathfinders Winter Institute Website][pathfinders-app-winter].
 
 ### Contact
 
