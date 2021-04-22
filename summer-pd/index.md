@@ -57,7 +57,7 @@ We typically offer regional 5-day face to face summer professional development w
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2021 PD schedule for our PD workshops and links to the PD Application.
+Below is our 2021 PD schedule for our PD workshops and links to the PD Application. <b>Apps are due by May 31, 2021.</b>
 
 <!-- Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link] so we can let you know when details are released. -->
 
@@ -87,42 +87,42 @@ Below is our 2021 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 12 - 16</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>12:00 PM - 4:00 PM EST</td>
     <td>Middle School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply via Pathfinders</a></td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply via Pathfinders</a><br>Open through 5/15</td>
   </tr>
   <tr>
     <td>July 26 - 30</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a></td>
+    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 26 - 30</td>
     <td>9:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Note: South Carolina Teachers Only <br> <a href ='https://web.cvent.com/event/fe738b8e-9bc3-4048-92f8-64280220d7d1/summary'>Apply Here</a></td>
+    <td>Note: South Carolina Teachers Only <br> <a href ='https://web.cvent.com/event/fe738b8e-9bc3-4048-92f8-64280220d7d1/summary'>Apply Here</a><br>Open through 5/31</td>
   </tr>  
  </tbody>
 </table>
