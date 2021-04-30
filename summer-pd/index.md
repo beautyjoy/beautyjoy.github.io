@@ -87,35 +87,35 @@ Below is our 2021 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
+    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 12 - 16</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
+    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>12:00 PM - 4:00 PM EST</td>
     <td>Middle School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
+    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply via Pathfinders</a><br>Open through 5/15</td>
+    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply via Pathfinders</a><br>Open through 5/15</td>
   </tr>
   <tr>
     <td>July 26 - 30</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='http://bjc.link/pdapp21'>Apply Here</a><br>Open through 5/31</td>
+    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 5/31</td>
   </tr>
   <tr>
     <td>July 26 - 30</td>
