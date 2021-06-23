@@ -14,12 +14,7 @@ permalink: /payment/
 
       <h1>Summer 2021 - PD Registration Fee</h1>
       <p>We're excited you're applying for our summer PD workshop! Please proceed at the button below to submit your registration fee payment.</p>
-      <div class="form-group">
-        <label for="registration_count" class="">Registration Count</label>
-        <input class="form-input js-registration-qty" type="number" min="1" step="1" default="1" name="registration_count" max="10" value="1"/>
-      </div>
       <button
-        type="button"
         class="btn"
         data-checkout-mode="payment"
         data-price-id="price_1IBbYWLn2wZ1DCXhHDXLUjJ0"
@@ -50,7 +45,7 @@ permalink: /payment/
     button.addEventListener('click', function (e) {
       var mode = e.target.dataset.checkoutMode;
       var priceId = e.target.dataset.priceId;
-      var items = [{ price: priceId, quantity: +$('.js-registration-qty').val() }];
+      var items = [{ price: priceId, quantity: 1 }];
 
       // Make the call to Stripe.js to redirect to the checkout page
       // with the sku or plan ID.
