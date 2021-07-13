@@ -1,4 +1,15 @@
 ---
+- title: ! 'Design Principles behind Beauty and Joy of Computing'
+  filename: 2020 SIGCSE - Design Principles behind Beauty and Joy of Computing.pdf
+  authors: Paul Goldenberg, June Mark, Brian Harvey, Al Cuoco, Mary Fries
+  year: 2020
+  journal: SIGCSE
+  abstract: This paper shares the design principles of one Advanced Placement Computer Science Principles (AP CSP) course, Beauty and Joy of Computing (BJC), both for schools considering curriculum, and for developers in this still-new field. BJC students not only learn about CS, but do some and analyze its social implications; we feel that the job of enticing students into the field isn’t complete until students find programming, itself, something they enjoy and know they can do, and its key ideas accessible. Students must feel invited to use their own creativity and logic, and enjoy the power of their logic and the beauty and elegance of the code by which they express it. All kids need genuine challenge and sensible support so all can have the joy of making—seeing themselves as creators, not just consumers, and seeing that it is their own intellect, not just our instructions, that is the source of that making. Framework standards are woven into a consistent social and intellectual storyline to give the curriculum integrity.
+  
+Principles guide even our choice of programming language. Learners should focus on the logic and structure of their thinking, not on misplaced semicolons; attention to such syntactic detail is antithetical to broadening participation. We feature recursion and higher-order functions because they beautifully exemplify abstraction, a key idea in CS and the CSP framework.
+
+BJC also places significant emphasis on the social implications of computing, balancing fundamental optimism about computing technology with a critical view of specific uses of technology.
+  external_link: https://dl.acm.org/doi/10.1145/3328778.3366794
 - title: ! 'Fostering Engagement and Creativity through Programming: The Beauty and Joy of Computing in a First-year Engineering Class'
   filename: 2020 IEEE Xplore - Fostering Engagement and Creativity through Programming.pdf
   authors: Federico Meza, Nicolás Torres, Andrea Vásquez
