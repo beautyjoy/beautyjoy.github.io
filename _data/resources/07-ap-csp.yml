@@ -1,51 +1,33 @@
 subheading: AP Computer Science Principles Resources
 resources:
   - name: BJC AP CS Principles Syllabus
-    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Syllabus.pdf
-    description: |
-      Syllabus ID: 1648113v1
-
-      College Board approved BJC AP CS Principles Syllabus.
-
-  - name: BJC AP CSP Syllabus Submission / Course Audit Instructions
-    link: https://docs.google.com/document/d/1Q9zTwi3EmattugUAvKKXTiu0rHLBggbRfliGOadTjkA/edit?usp=sharing
-    description: Instructions on how to submit your AP CSP syllabus to the College Board after you’ve created your AP College Board account.
+    link: https://bjc.edc.org/bjc-r/docs/BJC-Syllabus-2020.pdf
+    description: College Board approved BJC AP CS Principles Syllabus.
 
   - name: AP CSP Course Home Page
     link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course
     description: On AP Central
 
   - name: AP CSP Teacher Resources
-    link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles?course=ap-computer-science-principles
+    link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/classroom-resources
 
   - name: AP CSP Course Exam and Description
-    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-and-exam-description.pdf
+    link: https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf
     description: Contains curriculum framework and description of the AP CSP course and exam by the College Board.
 
   - name: AP CSP Course Audit
     link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course-audit
 
-  - name: AP CSP Overview Modules
-    link: https://apcentral.collegeboard.com/apc/public/courses/231569.html
-    description: Videos and presentations on the AP CSP course.
-
   - name: AP CSP Course Overview
-    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-course-overview.pdf
+    link: https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-overview.pdf
     description: Succinct description of the course and assessments.
 
   - name: AP CSP Teacher Community
     link: https://apcommunity.collegeboard.org/web/apcsp/home
 
-  - name: AP CSP Webinar for Teachers
-    link: https://www.youtube.com/watch?v=IdWLsCRHcV8&feature=youtu.be
-    description: Introducing the AP CSP course to teachers.
-
   - name: AP CSP Assessment
     link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/exam
     description: Exam information and example tasks.
-
-  - name: Brochure for Teachers and Administrators
-    link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/ap-computer-science-principles-brochure_teachers_administrators.pdf
 
   - name: Bringing AP CSP to Your School
     link: https://secure-media.collegeboard.org/digitalServices/pdf/ap/bringing-computer-science-principles-to-your-school.pdf

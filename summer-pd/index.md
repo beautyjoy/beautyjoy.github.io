@@ -94,21 +94,21 @@ Below is our 2021 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 7/2</td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>12:00 PM - 4:00 PM EST</td>
     <td>Middle School</td>
     <td>Online</td>
-    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 7/9</td>
+    <td><a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 7/16</td>
   </tr>
   <tr>
     <td>July 19 - 23</td>
     <td>11:00 AM - 4:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Note: Texas IDEA Public Schools Teachers Only <br> <a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 7/9</td>
+    <td>Note: Texas IDEA Public Schools Teachers Only <br> <a href ='https://docs.google.com/forms/d/e/1FAIpQLSfMXCF-rMfLLD0IFyLkUJldlyHs-6ICUT6X_LZPTlqQhK8tag/viewform'>Apply Here</a><br>Open through 7/16</td>
   </tr>
   <tr>
     <td>July 26 - 30</td>
