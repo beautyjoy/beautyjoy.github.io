@@ -1,11 +1,8 @@
 subheading: AP Computer Science Principles Resources
 resources:
   - name: BJC AP CS Principles Syllabus
-    link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Syllabus.pdf
-    description: |
-      Syllabus ID: 1648113v1
-
-      College Board approved BJC AP CS Principles Syllabus.
+    link: https://bjc.edc.org/bjc-r/docs/BJC-Syllabus-2020.pdf
+    description: College Board approved BJC AP CS Principles Syllabus.
 
   - name: BJC AP CSP Syllabus Submission / Course Audit Instructions
     link: https://docs.google.com/document/d/1Q9zTwi3EmattugUAvKKXTiu0rHLBggbRfliGOadTjkA/edit?usp=sharing
