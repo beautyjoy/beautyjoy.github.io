@@ -4,10 +4,6 @@ resources:
     link: https://bjc.edc.org/bjc-r/docs/BJC-Syllabus-2020.pdf
     description: College Board approved BJC AP CS Principles Syllabus.
 
-  - name: BJC AP CSP Syllabus Submission / Course Audit Instructions
-    link: https://docs.google.com/document/d/1Q9zTwi3EmattugUAvKKXTiu0rHLBggbRfliGOadTjkA/edit?usp=sharing
-    description: Instructions on how to submit your AP CSP syllabus to the College Board after you’ve created your AP College Board account.
-
   - name: AP CSP Course Home Page
     link: https://apcentral.collegeboard.org/courses/ap-computer-science-principles/course
     description: On AP Central
