@@ -44,6 +44,12 @@
   description: Program Manager, UC Berkeley, Managing edX and SPOC for BJC, Technical
     Development Teams, Professional Development and Teacher Community; Former CS10
     Head TA
+- name: Pamela Fox
+  teams:
+    - leadership
+  image: pamela-fox.jpg
+  location: UC Berkeley
+  description: BJC Middle School Curriculum Development, UC Berkeley CS Lecturer
 - name: Paul Goldenberg
   teams:
     - leadership
