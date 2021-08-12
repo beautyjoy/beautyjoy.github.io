@@ -14,10 +14,10 @@
     - snap
   image: brian-harvey.png
   description: >
-   'Teaching Professor Emeritus, UC Berkeley; author of _Computer Science
+   Teaching Professor Emeritus, UC Berkeley; author of _Computer Science
     Logo Style_ and (with Matthew Wright) _Simply Scheme: Introducing Computer Science_;
     developer of Berkeley Logo; co-developer (with Jens Monig) of Snap!; co-developer
-    of the Beauty and Joy of Computing curriculum.'
+    of the Beauty and Joy of Computing curriculum.
 - name: Tiffany Barnes
   teams:
     - leadership
@@ -41,9 +41,20 @@
     - site-coordinators
   image: lauren-mock.jpg
   location: UC Berkeley
-  description: Program Manager, UC Berkeley, Managing edX and SPOC for BJC, Technical
-    Development Teams, Professional Development and Teacher Community; Former CS10
-    Head TA
+  description: Program Manager, UC Berkeley. Managing Professional Development and Teacher Community. Former CS10
+    Head TA.
+- name: Pamela Fox
+  teams:
+    - leadership
+  image: pamela-fox.jpg
+  location: UC Berkeley
+  description: BJC Middle School Curriculum Development, UC Berkeley CS Lecturer
+- name: Marnie Hill
+  teams:
+    - leadership
+  image: marnie-hill.jpeg
+  location: NCSU
+  description: BJC Project Manager, PD Workshops  
 - name: Paul Goldenberg
   teams:
     - leadership
