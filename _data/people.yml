@@ -50,6 +50,12 @@
   image: pamela-fox.jpg
   location: UC Berkeley
   description: BJC Middle School Curriculum Development, UC Berkeley CS Lecturer
+- name: Marnie Hill
+  teams:
+    - leadership
+  image: marnie-hill.jpg
+  location: NCSU
+  description: BJC Project Manager, PD Workshops  
 - name: Paul Goldenberg
   teams:
     - leadership
