@@ -32,4 +32,12 @@
 - name: Resources
   href: /resources
 - name: News
-  href: /news
+  links:
+    - name: All News
+      href: /news
+    - name: Announcements
+      href: /announcements
+    - name: Publications & Talks
+      href: /research
+    - name: Press Articles
+      href: /press
