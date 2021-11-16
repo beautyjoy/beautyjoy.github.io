@@ -15,6 +15,8 @@
   links:
     - name: BJC Curriculum
       href: /curriculum
+    - name: Middle School Curriculum
+      href: /ms
     - name: edX
       href: /edx
 - name: AP CS Principles
