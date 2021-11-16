@@ -16,7 +16,7 @@
     - name: BJC Curriculum
       href: /curriculum
     - name: Middle School Curriculum
-      href: /ms
+      href: /ms/
     - name: edX
       href: /edx
 - name: AP CS Principles
@@ -33,7 +33,7 @@
 #   href: /sigcse-csp-forum
 - name: Resources
   href: /resources
-- name: News
+- title: News
   links:
     - name: All News
       href: /news
