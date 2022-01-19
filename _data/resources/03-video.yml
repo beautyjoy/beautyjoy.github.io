@@ -2,12 +2,12 @@ subheading: Video Resources
 resources:
   - name: BJC edX Lecture Videos
     description: |
-      * Abstraction, Functions, Creativity, Programming Paradigms: https://bjc.link/bjc1xlectures
-      * Algorithms, Global Impact: https://bjc.link/bjc2xlectures
-      * Data, Limits of Computing, Saving the World with Computing: https://bjc.link/bjc3xlectures
-      * Recursion, HOFs, AI, HCI: https://bjc.link/bjc4xlectures
+      * Abstraction, Functions, Creativity, Programming Paradigms: [https://bjc.link/vid-1x](https://bjc.link/vid-1x)
+      * Algorithms, Global Impact: [https://bjc.link/vid-2x](https://bjc.link/vid-2x)
+      * Data, Limits of Computing, Saving the World with Computing: [https://bjc.link/vid-3x](https://bjc.link/vid-3x)
+      * Recursion, HOFs, AI, HCI: [https://bjc.link/vid-4x](https://bjc.link/vid-4x)
 
-      These videos are topic based (less than 10 mins each) and are used in our edX and SPOC courses.
+      These videos are topic based (less than 10 mins each) were used in our edX and SPOC courses.
 
   - name: BJC TEDx Talk
     link: https://bjc.edc.org/bjc-r/cur/teaching-guide/resources/BJC-Curriculum-Outline.pdf
