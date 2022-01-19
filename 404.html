@@ -8,7 +8,7 @@ call_to_action_link: 'mailto:contact@bjc.berkeley.edu'
 early_javascript: |
   // Redirect bjc-r/ to cs10.org/
   if (location.pathname.indexOf('/bjc-r') == 0) {
-    window.location = 'https://cs10.org' + location.pathname;
+    window.location = 'https://cs10.org' + location.pathname + location.search;
   }
 ---
 

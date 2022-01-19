@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '~> 2.5.x'
+ruby '> 2.5.x'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -33,6 +33,3 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
 end
-
-# Added at 2017-12-21 23:15:23 -0800 by Michael:
-gem "jekyll-admin", "~> 0.7.0"
