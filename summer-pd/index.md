@@ -27,16 +27,16 @@ We are excited to announce that this summer, we will be offering 2 different wor
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
 
 
-### Middle School / Early High School PD
+### BJC Sparks - Middle School / Early High School PD
 
-The creators of BJC are developing a new course for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop in summer 2022 for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
+The creators of BJC are developing a new course called BJC Sparks for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop in summer 2022 for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
 
 <!-- We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials in exchange for a stipend described below. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students. -->
 
 This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans — Mary Fries, Pamela Fox, Michael Ball, Lauren Mock, Brian Harvey, Talia Ye, and BJC TAs and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
 
 
-### High School PD
+### BJC - High School PD
 
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
@@ -57,7 +57,9 @@ We typically offer regional 5-day face to face summer professional development w
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2022 PD schedule for our PD workshops and links to the PD Application. <b>Apps are due by May 31, 2022.</b>
+Below is our 2022 PD schedule for our PD workshops and links to the PD Application.
+
+<!-- <b>Apps are due by May 31, 2022.</b> -->
 
 <!-- Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link] so we can let you know when details are released. -->
 
