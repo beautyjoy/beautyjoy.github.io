@@ -13,16 +13,16 @@ This workshop is intended for all middle school and high school computer science
 
 Meet Your Workshop Organizers:
 
-*Michael Ball, University of California, Berkeley, USA
-*Lauren Mock, University of California, Berkeley, USA
-*Dan Garcia, University of California, Berkeley, USA
-*Tiffany Barnes, North Carolina State University, USA
-*Marnie Hill, North Carolina State University, USA
-*Mary Fries, Education Development Center, USA
-*Pamela Fox, University of California, Berkeley, USA
-*Audrey Coats, Lynnfield High School, Lynnfield, MA, USA
-*Della Dastur, The Stratford School, San Jose, CA, USA
-*Yuan Garcia, Millbrae High School, Millbrae, CA, USA
+* Michael Ball, University of California, Berkeley, USA
+* Lauren Mock, University of California, Berkeley, USA
+* Dan Garcia, University of California, Berkeley, USA
+* Tiffany Barnes, North Carolina State University, USA
+* Marnie Hill, North Carolina State University, USA
+* Mary Fries, Education Development Center, USA
+* Pamela Fox, University of California, Berkeley, USA
+* Della Dastur, The Stratford School, San Jose, CA, USA
+* Audrey Coats, Lynnfield High School, Lynnfield, MA, USA
+* Yuan Garcia, Millbrae High School, Millbrae, CA, USA
 
 Please contact us at [contact@bjc.berkeley.edu](mailto:contact@bjc.berkeley.edu) with any questions.
 
