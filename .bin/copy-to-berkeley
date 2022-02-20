@@ -10,8 +10,14 @@ ACCOUNT='michael@abbenay.cs.berkeley.edu';
 echo 'Starting to copy files to Berkeley...';
 # Use $1, but .travis.yml (and others) must call this script with the password as an argument!
 # TODO try to use SSHPASS env variable.
-rsync -avhz --progress ./_berkeley/* ${ACCOUNT}:${BJC_PATH} 2>sync.err;
-result=$?;
+if [[ $CI = 'true ']]
+then
+  rsync -avhz --progress ./_berkeley/* ${ACCOUNT}:${BJC_PATH} 2>sync.err;
+  result=$?;
+else
+  rsync -avhz --progress ./_berkeley/* ${ACCOUNT}:${BJC_PATH} 2>sync.err;
+  result=$?;
+fi
 echo 'Syncing complete!';
 echo 'ERROR LOG';
 cat sync.err;
