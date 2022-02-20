@@ -14,7 +14,7 @@ jobs:
       run: |
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_berkeley \
-        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --config=_config.yml,config/_berkeley.yml"
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --config=_config.yml,config/berkeley.yml"
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.3.1
       with:
