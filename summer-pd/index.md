@@ -100,8 +100,8 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
   </tr>
   <tr>
     <td>July 18 - 25</td>
-    <td>12:00 PM - 6:00 PM EST</td>
-    <td>Middle School</td>
+    <td>11:00 PM - 5:00 PM EST</td>
+    <td>BJC Sparks - Middle School</td>
     <td>Online</td>
     <td>Registration Opening Soon</td>
   </tr>
