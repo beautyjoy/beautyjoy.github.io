@@ -131,24 +131,16 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
 
 We do offer private PD workshops for school districts or organizations for a fee. If you are interested, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu).
 
-<!--**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].-->
-
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
 
-
+<!--**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].-->
 <!--Scroll up to our schedule of PDs this Summer 2020 to apply!-->
-
 <!--There are three steps to apply: -->
-
 <!--1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send. -->
-
 <!--2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu. -->
-
 <!--3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee]. -->
-
 <!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu. -->
-
 <!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
 
 
