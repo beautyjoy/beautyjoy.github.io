@@ -32,18 +32,22 @@ Lastly, we believe in a functional-programming-first approach to teaching comput
 
 ## Curriculum Overview
 
-### Unit 1
-This unit starts with the basics of functional programming – creating abstractions in the form of reporters (i.e., functions) and predicates (i.e, functions that return booleans) through control structures, to using the higher-order functions map, keep and combine. Students learn about and build a Caesar cipher and then design a solution to crack it. We then introduce binary and hexadecimal numbers, and end with data collection and analysis activities.
+### Unit 1 - Functions and Data
+This unit starts with the basics of functional programming—creating abstractions in the form of reporters (i.e., functions) and predicates (i.e., functions that return Booleans) through control structures, to using the higher-order functions map, keep, and combine. Students explore the Snap! programing environment using functions to process inputs, which may themselves be the outputs of other functions. After learning the basics of working in Snap!, students create projects with using lists, sounds, and other common data types (numbers, text, emojis, etc.) as they learn the basics of bits, characters, and how functions behave.
 
-### Unit 2
-Sequencing and Iteration
+### Unit 2 - Sequencing and Iteration
+This unit moves beyond the functional programming paradigm to introduce commands, sequencing, and iteration. Students continue to develop their skills with selection, lists, and higher order functions as they learn when and how to use variables, control structures, logical operators, and nested lists through projects such as a movie recommender, a song player, and a first exploration of machine learning.
 
-### Unit 3
-Hardware
+### Unit 3 - Hardware
+This unit extends student work with sequencing and iteration into the realm of physical computing using the micro:bit controller. Students use craft materials to build a toy and game; use e-textile materials (e.g., conductive thread, LEDs, and sensors) to create circuits; use neopixels to program creations to change colors, twinkle, and pulse; and program micro:bits to send and receive messages. The unit culminates with building collaborative chain reaction (Rube Goldberg) machines.
 
 ## Who is behind BJC Sparks?
 
 Dan Garcia, Teaching Professor at the University of California, Berkeley, and a small team of BJC veterans — Mary Fries, Pamela Fox, Michael Ball, Lauren Mock, Brian Harvey, Talia Ye, and BJC TAs and Lead Teachers. This work is funded with generous support by the Hopper Dean Foundation.
+
+## PD Workshops
+
+We offer PD workshops for BJC Sparks during the summer. Please view our [PD Page]({{ site.baseurl }}/summer-pd) for more information.
 
 ## Contact
 
