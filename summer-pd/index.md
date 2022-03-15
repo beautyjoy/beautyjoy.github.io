@@ -1,5 +1,5 @@
 ---
-title: 2021 Professional Development
+title: 2022 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
 redirect_from:
@@ -89,45 +89,47 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Registration Opening Soon</td>
+    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 19 - 23</td>
+    <td>July 18 - 22</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Registration Opening Soon</td>
+    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 18 - 25</td>
+    <td>July 25 - 29</td>
     <td>11:00 PM - 5:00 PM EST</td>
     <td>BJC Sparks - Middle School</td>
     <td>Online</td>
-    <td>Registration Opening Soon</td>
+    <td><a href="https://bjc.link/pdapp22">Register Here</a></td>
   </tr>
   <tr>
     <td>July 25 - 29</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Registration Opening Soon</td>
+    <td><a href="https://bjc.link/pdapp22">Register Here</a></td>
   </tr>
   <tr>
     <td>August 1 - 5</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Regristation Opening Soon</td>
+    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
     <td>August 8 - 16</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Registration Opening Soon</td>
+    <td><a href="https://bjc.link/bjcpd22">Register Here</a>n</td>
   </tr>  
  </tbody>
 </table>
+
+We do offer private PD workshops for school districts or organizations for a fee. If you are interested, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu).
 
 <!--**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].-->
 
@@ -152,11 +154,11 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
 
 ### How much does it cost?
 
-We are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend our PD if you are a public high school teacher.
+For our July 25-29, 2022 BJC and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend our PD if you are a public high school teacher. Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the BJC workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance to all 5 days of the workshop.
 
-<!--We are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
+For our other BJC PD workshops, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
 
-For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year. -->
+<!-- For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year. -->
 
 <!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
