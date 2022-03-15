@@ -80,6 +80,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <th scope ="col">Time</th>
     <th scope ="col">Grade Level</th>
     <th scope ="col">Delivery</th>
+    <th scope ="col">Stipend</th>
     <th scope ="col">Registration</th>
   </tr>
 </thead>
@@ -89,6 +90,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
+    <td>No</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
@@ -96,6 +98,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
+    <td>No</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
@@ -103,20 +106,23 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 PM - 5:00 PM EST</td>
     <td>BJC Sparks - Middle School</td>
     <td>Online</td>
-    <td><a href="https://bjc.link/pdapp22">Register Here</a></td>
+    <td>Yes + Hardware</td>
+    <td><a href="https://bjc.link/pdapp22">Register Here</a><br><i>Limited Space</i></td>
   </tr>
   <tr>
     <td>July 25 - 29, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td><a href="https://bjc.link/pdapp22">Register Here</a></td>
+    <td>Yes</td>
+    <td><a href="https://bjc.link/pdapp22">Register Here</a><br><i>Limited Space</i></td>
   </tr>
   <tr>
     <td>August 1 - 5, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
+    <td>No</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
@@ -124,6 +130,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
+    <td>No</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>  
  </tbody>
@@ -146,7 +153,7 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For our July 25-29, 2022 BJC and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend our PD if you are a public high school teacher. Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the BJC workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance to all 5 days of the workshop.
+For our July 25-29, 2022 BJC and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend our PD if you are a public high school teacher. Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the BJC workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance to all 5 days of the workshop. There is limited space in the July 25-29, 2022 workshops, and seats will be allocate first come, first serve.
 
 For our other BJC PD workshops, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
 
