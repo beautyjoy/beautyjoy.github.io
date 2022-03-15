@@ -85,42 +85,42 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 27 - July 1</td>
+    <td>June 27 - July 1, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 18 - 22</td>
+    <td>July 18 - 22, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 25 - 29</td>
+    <td>July 25 - 29, 2022</td>
     <td>11:00 PM - 5:00 PM EST</td>
     <td>BJC Sparks - Middle School</td>
     <td>Online</td>
     <td><a href="https://bjc.link/pdapp22">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 25 - 29</td>
+    <td>July 25 - 29, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
     <td><a href="https://bjc.link/pdapp22">Register Here</a></td>
   </tr>
   <tr>
-    <td>August 1 - 5</td>
+    <td>August 1 - 5, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
-    <td>August 8 - 16</td>
+    <td>August 8 - 16, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
