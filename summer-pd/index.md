@@ -126,7 +126,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
   <tr>
-    <td>August 8 - 16, 2022</td>
+    <td>August 8 - 12, 2022</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
