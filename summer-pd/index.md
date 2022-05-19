@@ -107,7 +107,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>BJC Sparks - Middle School</td>
     <td>Online</td>
     <td>Yes + Hardware</td>
-    <td><a href="https://bjc.link/pdapp22">Register Here</a><br><i>Limited Space</i></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 25 - 29, 2022</td>
@@ -115,7 +115,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>High School</td>
     <td>Online</td>
     <td>Yes</td>
-    <td><a href="https://bjc.link/pdapp22">Register Here</a><br><i>Limited Space</i></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>August 1 - 5, 2022</td>
@@ -153,9 +153,11 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For our July 25-29, 2022 BJC and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend our PD if you are a public high school teacher. Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the BJC workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance to all 5 days of the workshop. There is limited space in the July 25-29, 2022 workshops, and seats will be allocate first come, first serve.
+For our July 25-29, 2022 BJC High School (CS Principles) and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend our PD if you are a public high school or public middle school teacher in the United States. If you are not a public high school or public middle school teacher and you would like to attend either the BJC High School (CS Principles) or the BJC Sparks July 25-29 workshop, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
 
-For our other BJC PD workshops, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
+Public school teachers in the July 25-29, 2022 BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 25-29 BJC High School (CS Principles) workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you will need to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 25-29, 2022 workshops, and seats will be allocated first come, first serve.
+
+For all of our other BJC PD workshops this summer, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free. There is no stipend available for attending these workshops.
 
 <!-- For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year. -->
 
