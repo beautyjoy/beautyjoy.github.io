@@ -1,5 +1,5 @@
 ---
-title: 2021 Professional Development
+title: 2022 Professional Development
 subtitle: One-Week Workshop for Teachers
 layout: summer-pd
 redirect_from:
@@ -27,16 +27,16 @@ We are excited to announce that this summer, we will be offering 2 different wor
 <!-- Or, if you are ready to apply to our PD workshop, please scroll to the Workshop Schedule below.</b> -->
 
 
-### Middle School / Early High School PD
+### BJC Sparks - Middle School / Early High School PD
 
-The creators of BJC are developing a new course for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop in summer 2021 for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
+The creators of BJC are developing a new course called BJC Sparks for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop in summer 2022 for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
 
-We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials in exchange for a stipend described below. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students.
+<!-- We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials in exchange for a stipend described below. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students. -->
 
-This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans — Mary Fries, Lauren Mock, Talia Ye, and BJC TAs and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
+This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans — Mary Fries, Pamela Fox, Michael Ball, Lauren Mock, Brian Harvey, Talia Ye, and BJC TAs and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
 
 
-### High School PD
+### BJC - High School PD
 
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
@@ -47,17 +47,19 @@ BJC has offered High School PD workshops since 2012 at low or no cost to teacher
 
 BJC PD workshops are led by BJC Lead Teachers who have attended a BJC Summer PD workshop, taught the BJC course in high school, and participated in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
-We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2021 PD workshops will be held online.
+We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2022 PD workshops will be held online.
 
 <!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Lead Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
-### BJC PD Summer 2021 Schedule and Application
+### BJC PD Summer 2022 Schedule and Application
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2021 PD schedule for our PD workshops and links to the PD Application. <b>Apps are due by May 31, 2021.</b>
+Below is our 2022 PD schedule for our PD workshops and links to the PD Application.
+
+<!-- <b>Apps are due by May 31, 2022.</b> -->
 
 <!-- Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link] so we can let you know when details are released. -->
 
@@ -78,87 +80,84 @@ Below is our 2021 PD schedule for our PD workshops and links to the PD Applicati
     <th scope ="col">Time</th>
     <th scope ="col">Grade Level</th>
     <th scope ="col">Delivery</th>
+    <th scope ="col">Stipend</th>
     <th scope ="col">Registration</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td>June 28 - July 2</td>
-    <td>11:00 AM - 4:00 PM EST</td>
+    <td>June 27 - July 1, 2022</td>
+    <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
+    <td>No</td>
     <td>Closed</td>
   </tr>
   <tr>
-    <td>July 12 - 16</td>
-    <td>11:00 AM - 4:00 PM EST</td>
+    <td>July 18 - 22, 2022</td>
+    <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
+    <td>No</td>
+    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
+  </tr>
+  <tr>
+    <td>July 25 - 29, 2022</td>
+    <td>11:00 AM - 5:00 PM EST</td>
+    <td>BJC Sparks - Middle School</td>
+    <td>Online</td>
+    <td>Yes + Hardware</td>
     <td>Closed</td>
   </tr>
   <tr>
-    <td>July 19 - 23</td>
-    <td>12:00 PM - 4:00 PM EST</td>
-    <td>Middle School</td>
+    <td>July 25 - 29, 2022</td>
+    <td>11:00 AM - 5:00 PM EST</td>
+    <td>High School</td>
     <td>Online</td>
+    <td>Yes</td>
     <td>Closed</td>
   </tr>
   <tr>
-    <td>July 19 - 23</td>
-    <td>11:00 AM - 4:00 PM EST</td>
+    <td>August 1 - 5, 2022</td>
+    <td>11:00 AM - 5:00 PM EST</td>
     <td>High School</td>
     <td>Online</td>
-    <td>Closed</td>
+    <td>No</td>
+    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
   </tr>
-  <tr>
-    <td>July 26 - 30</td>
-    <td>11:00 AM - 4:00 PM EST</td>
-    <td>High School</td>
-    <td>Online</td>
-    <td>Closed</td>
-  </tr>
-  <tr>
-    <td>July 26 - 30</td>
-    <td>9:00 AM - 4:00 PM EST</td>
-    <td>High School</td>
-    <td>Online</td>
-    <td>Closed</td>
-  </tr>  
  </tbody>
 </table>
 
-<!--**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].-->
+We do offer private PD workshops for school districts or organizations for a fee. If you are interested, please email us at [pd@bjc.berkeley.edu](mailto:pd@bjc.berkeley.edu).
 
 [infosys]: https://www.infosys.com/infosys-foundation/
 [pathfinders]: https://infy.com/Pathfinders
 
-
+<!--**NC and SC teachers ONLY**: Continuing in 2019, NC State University and The Citadel partnered to offer PD on integrated project-based lessons that integrate computational thinking, BJC-style, into STEM courses for middle and high school. One large 5-day workshop was offered in Charleston, SC June 24-28. For more information, please email us at [pd@bjc.berkeley.edu][pd-email].-->
 <!--Scroll up to our schedule of PDs this Summer 2020 to apply!-->
-
 <!--There are three steps to apply: -->
-
 <!--1. Follow the instructions at [https://bjc.link/Admin19][admin-letter] to prepare an Administrator Support Letter that you can upload/send. -->
-
 <!--2. Complete the BJC PD Summer 2019 Application at [https://bjc.link/PD2019App][pd-app-link]. Note that this form requires you to upload your resume and admin support letter. If you have problems with this form, please complete our alternate application form at [http://bjc.link/PD2019App-NoUpload][BJC PD 2019 Alternate App] and email your resume and support letter to pd@bjc.berkeley.edu. -->
-
 <!--3. Pay the non-refundable $75 BJC PD registration fee at [https://bjc.link/reg19][reg-fee]. -->
-
 <!--If you are interested in hosting a BJC PD workshop, email pd@bjc.berkeley.edu. -->
-
 <!--To receive updates (but not apply), leave your name with us on our [2019 PD Interest Form](https://bit.ly/pdinterest19). Most of our dates and locations are set, but we welcome you to email us if you would like to host a BJC PD workshop, email [pd@bjc.berkeley.edu][pd-email]. -->
 
 
 ### How much does it cost?
 
-We are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
+For the July 25-29, 2022 BJC High School (CS Principles) and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 25-29, 2022 PD workshops if you are a public high school or public middle school teacher in the United States. If you are not a public high school or public middle school teacher and you would like to attend either the BJC High School (CS Principles) or the BJC Sparks July 25-29 workshop, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
 
-For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year.
+Public school teachers in the July 25-29, 2022 BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 25-29 BJC High School (CS Principles) workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 25-29, 2022 workshops, and seats will be allocated first come, first serve.
+
+For all of our other BJC PD workshops this summer, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free. There is no stipend available for attending these workshops.
+
+<!-- For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year. -->
 
 <!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
-### How do I become a BJC Lead Teacher?
+<!-- ### How do I become a BJC Lead Teacher?
 
-If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop on June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA).
+If you are a BJC teacher, and would like to prepare to lead BJC workshops, email [pd@bjc.berkeley.edu][pd-email]. Be sure to plan to attend our BJC "Train the Trainer" Lead Teacher workshop on June 26, 2021 from 11:00 AM - 4:00 PM EST online, and one of our online 5-day BJC workshops as a Teaching Assistant (TA). -->
 
 ## The BJC Curriculum, In Short
 

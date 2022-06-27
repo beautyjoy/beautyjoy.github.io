@@ -1,0 +1,49 @@
+name: Jekyll site CI
+
+on:
+  release:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the site in the jekyll/builder container
+      run: |
+        docker run \
+        -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_berkeley \
+        jekyll/builder:latest /bin/bash -c "chmod -R 777 /srv/jekyll && jekyll build --future --config=_config.yml,config/berkeley.yml"
+    - name: Upload a Build Artifact
+      uses: actions/upload-artifact@v2.3.1
+      with:
+        name: bjc.berkeley-site
+        path: _berkeley/*
+    - name: Copy via ssh
+      # You may pin to the exact commit or the version.
+      # uses: garygrossgarten/github-action-scp@dba89d858413133b6e35da91a3c989cc8cde3ad4
+      uses: garygrossgarten/github-action-scp@v0.7.3
+      with:
+        # Path to the local folder you want to copy.
+        local: _berkeley/*
+        # Path on the remote server to copy to.
+        remote: ./
+        # Determines if files with  leading dot (.) on folder copy is included
+        dotfiles: true
+        rmRemote: false
+        concurrency: 3
+        recursive: # optional, default is true
+        verbose: # optional, default is true
+        # Hostname or IP address of the server.
+        host: ${{ secrets.host }}
+        # Username for authentication.
+        username: ${{ secrets.username }}
+        # File Location or string that contains a private key for either key-based or hostbased user authentication (OpenSSH format)
+        # privateKey: ${{ secrets.private_key }}
+        # Password for password-based user authentication.
+        password: ${{ secrets.password }}
+        # For an encrypted private key, this is the passphrase used to decrypt it.
+        # passphrase: ${{ secrets.passphrase }}
+        # Upload files to temporary file first, then rename once upload completed
+        atomicPut: true

@@ -3,15 +3,21 @@
 
 # Path on the destination server.
 # BJC_PATH='/home/cs/bh/public_html/bjc/';
-BJC_PATH="../bjc/";
+BJC_PATH="./";
 # ACCOUNT='michael.ball@login.eecs.berkeley.edu';
 ACCOUNT='michael@abbenay.cs.berkeley.edu';
 
 echo 'Starting to copy files to Berkeley...';
 # Use $1, but .travis.yml (and others) must call this script with the password as an argument!
 # TODO try to use SSHPASS env variable.
-rsync -avhz --progress --rsh="sshpass -e ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" ./_berkeley/* ${ACCOUNT}:${BJC_PATH} 2>sync.err;
-result=$?;
+if [[ $CI = 'true' ]]
+then
+  rsync -avhz --progress --rsh="sshpass -e ssh -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no" ./_berkeley/* ${ACCOUNT}:${BJC_PATH} 2>sync.err;
+  result=$?;
+else
+  rsync -avhz --progress ./_berkeley/* ${ACCOUNT}:${BJC_PATH} 2>sync.err;
+  result=$?;
+fi
 echo 'Syncing complete!';
 echo 'ERROR LOG';
 cat sync.err;

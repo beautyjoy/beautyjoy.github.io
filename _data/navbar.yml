@@ -21,12 +21,14 @@
       href: /edx
 - name: AP CS Principles
   href: /ap-cs-principles
-- title: Professional Development
-  links:
-    - name: National PD (2021)
-      href: /summer-pd/
-    - name: Winter PD (2021)
-      href: /summer-pd/winter-pd/
+- name: Summer PD
+  href: /summer-pd/
+# - title: Professional Development
+#   links:
+#     - name: National PD (2021)
+#       href: /summer-pd/
+#     - name: Winter PD (2021)
+#       href: /summer-pd/winter-pd/
 #     - name: India 2019
 #       href: /india-pd/
 # - name: CSP Forum
