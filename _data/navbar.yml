@@ -13,10 +13,10 @@
       href: /contact
 - title: Curriculum
   links:
-    - name: BJC Curriculum
+    - name: BJC CS Principles
       href: /curriculum
-    - name: Middle School Curriculum
-      href: /ms/
+    - name: Sparks Curriculum
+      href: /sparks/
     - name: edX
       href: /edx
 - name: AP CS Principles
