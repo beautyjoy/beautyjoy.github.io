@@ -1,6 +1,6 @@
 ---
 title: 2022 Professional Development
-subtitle: One-Week Workshop for Teachers
+subtitle: One-Week Workshops for Teachers
 layout: summer-pd
 redirect_from:
   - /pd/
@@ -99,7 +99,7 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
     <td>High School</td>
     <td>Online</td>
     <td>No</td>
-    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 25 - 29, 2022</td>
