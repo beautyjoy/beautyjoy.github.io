@@ -15,10 +15,10 @@
   links:
     - name: BJC CS Principles
       href: /curriculum
-    - name: Sparks Curriculum
+    - name: BJC Sparks
       href: /sparks/
-    - name: edX
-      href: /edx
+    # - name: edX
+    #   href: /edx
 - name: AP CS Principles
   href: /ap-cs-principles
 - name: Summer PD
