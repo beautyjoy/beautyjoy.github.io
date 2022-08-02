@@ -2,7 +2,7 @@
 title: BJC Sparks
 subtitle: Middle School / Early High School Curriculum
 call_to_action: Try the Curriculum
-call_to_action_link: https://bjc.edc.org/bjc-r/course/bjc4nyc.html
+call_to_action_link: /bjc-r/course/sparks.html
 layout: summer-pd
 redirect_from:
   - /ms/
