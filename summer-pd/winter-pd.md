@@ -1,4 +1,5 @@
 ---
+published: false
 title: 2021 Winter Professional Development
 subtitle: Winter Workshop for High School Teachers
 layout: winter-pd
@@ -14,7 +15,7 @@ redirect_from:
 
 [pd-interest-form-link]: https://bjc.link/BJCinterest2021
 [pathfinders-email]: mailto:Pathfinders@infosysfoundationusaevents.org
-[pathfinders-app-winter]: http://www.infosys.org/infosys-foundation-usa/pathfinders/winter/Pages/index.aspx 
+[pathfinders-app-winter]: http://www.infosys.org/infosys-foundation-usa/pathfinders/winter/Pages/index.aspx
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
