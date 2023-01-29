@@ -1,6 +1,8 @@
 #! /bin/bash
 ## This file is to be executed from the root of the repo.
 
+bundle exec jekyll build --future --config=_config.yml,config/berkeley.yml
+
 # Path on the destination server.
 # BJC_PATH='/home/cs/bh/public_html/bjc/';
 BJC_PATH="./";
