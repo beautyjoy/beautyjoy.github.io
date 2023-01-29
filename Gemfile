@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '~> 2.7.5'
+ruby '> 2.7.5'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -14,6 +14,7 @@ ruby '~> 2.7.5'
 gem "jekyll", "< 4"
 gem "kramdown"
 gem "kramdown-parser-gfm"
+
 # Used for syncing content with aws
 # aws.cs10.org is a backup site
 gem 's3_website'
