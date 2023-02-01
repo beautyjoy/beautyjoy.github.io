@@ -29,11 +29,11 @@ We are excited to announce that this summer, we will be offering 2 different wor
 
 ### BJC Sparks - Middle School / Early High School PD
 
-The creators of BJC are developing a new course called BJC Sparks for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop in summer 2022 for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
+The creators of BJC are developing a new course called BJC Sparks for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
 
 <!-- We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials in exchange for a stipend described below. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students. -->
 
-This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans, BJC TAs, and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
+This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans, BJC TAs, and Lead Teachers — and is funded with generous support from the Infosys Pathfinders Foundation and the Hopper Dean Foundation.
 
 
 ### BJC - High School PD
