@@ -24,7 +24,9 @@ keywords: >
 baseurl: ""
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
-url: "https://beautyjoy.github.io"
+# This file only overwrites the nececessary changes from _config
+# Use when building: --config _config.yml _congfig_2.yml
+url: https://bjc.berkeley.edu
 permalink: pretty
 
 # This is used for displaying a warning on sites that aren't the
