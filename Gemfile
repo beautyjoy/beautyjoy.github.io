@@ -14,6 +14,7 @@ ruby '~> 3'
 gem 'jekyll', '~> 4.3'
 gem "kramdown"
 gem "kramdown-parser-gfm"
+
 # Used for syncing content with aws
 # aws.cs10.org is a backup site
 # gem 's3_website'

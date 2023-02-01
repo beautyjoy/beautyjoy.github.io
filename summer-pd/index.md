@@ -1,5 +1,5 @@
 ---
-title: 2022 Professional Development
+title: 2023 Professional Development
 subtitle: One-Week Workshops for Teachers
 layout: summer-pd
 redirect_from:
@@ -33,7 +33,7 @@ The creators of BJC are developing a new course called BJC Sparks for middle sch
 
 <!-- We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials in exchange for a stipend described below. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students. -->
 
-This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans — Mary Fries, Pamela Fox, Michael Ball, Lauren Mock, Brian Harvey, Talia Ye, and BJC TAs and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
+This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans, BJC TAs, and Lead Teachers — and is funded with generous support from the Hopper Dean Foundation.
 
 
 ### BJC - High School PD
@@ -47,17 +47,17 @@ BJC has offered High School PD workshops since 2012 at low or no cost to teacher
 
 BJC PD workshops are led by BJC Lead Teachers who have attended a BJC Summer PD workshop, taught the BJC course in high school, and participated in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
-We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2022 PD workshops will be held online.
+We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2023 PD workshops will be held online.
 
 <!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Lead Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
-### BJC PD Summer 2022 Schedule and Application
+### BJC PD Summer 2023 Schedule and Application
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2022 PD schedule for our PD workshops and links to the PD Application.
+Below is our 2023 PD schedule for our PD workshops and links to the PD Application.
 
 <!-- <b>Apps are due by May 31, 2022.</b> -->
 
@@ -86,44 +86,44 @@ Below is our 2022 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 27 - July 1, 2022</td>
+    <td>June 26 - 30, 2023</td>
     <td>11:00 AM - 5:00 PM EST</td>
-    <td>High School</td>
+    <td>High School - CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>Closed</td>
+    <td><a href="https://bjc.link/pd-su23">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 18 - 22, 2022</td>
+    <td>July 17 - 21, 2023</td>
     <td>11:00 AM - 5:00 PM EST</td>
-    <td>High School</td>
+    <td>High School - CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>Closed</td>
+    <td><a href="https://bjc.link/pd-su23">Register Here</a></td>
   </tr>
   <tr>
-    <td>July 25 - 29, 2022</td>
+    <td>July 24 - 28, 2023</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>BJC Sparks - Middle School</td>
     <td>Online</td>
     <td>Yes + Hardware</td>
-    <td>Closed</td>
+    <td>Coming Soon</td>
   </tr>
   <tr>
-    <td>July 25 - 29, 2022</td>
+    <td>July 24 - 28, 2023</td>
     <td>11:00 AM - 5:00 PM EST</td>
-    <td>High School</td>
+    <td>High School - CS Principles</td>
     <td>Online</td>
     <td>Yes</td>
-    <td>Closed</td>
+    <td>Coming Soon</td>
   </tr>
   <tr>
-    <td>August 1 - 5, 2022</td>
+    <td>July 31 - Aug 4, 2023</td>
     <td>11:00 AM - 5:00 PM EST</td>
-    <td>High School</td>
+    <td>High School - CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td><a href="https://bjc.link/bjcpd22">Register Here</a></td>
+    <td><a href="https://bjc.link/pd-su23">Register Here</a></td>
   </tr>
  </tbody>
 </table>
@@ -145,9 +145,9 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For the July 25-29, 2022 BJC High School (CS Principles) and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 25-29, 2022 PD workshops if you are a public high school or public middle school teacher in the United States. If you are not a public high school or public middle school teacher and you would like to attend either the BJC High School (CS Principles) or the BJC Sparks July 25-29 workshop, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
+For the July 24-28, 2023 BJC High School (CS Principles) and BJC Sparks PD workshops, we are partnering with the Infosys Foundation USA to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 24-28, 2023 PD workshops if you are a public high school or public middle school teacher in the United States. If you are not a public high school or public middle school teacher and you would like to attend either the BJC High School (CS Principles) or the BJC Sparks July 24-28 workshop, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free.
 
-Public school teachers in the July 25-29, 2022 BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 25-29 BJC High School (CS Principles) workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 25-29, 2022 workshops, and seats will be allocated first come, first serve.
+Public school teachers in the July 24-28, 2023 BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 24-28 BJC High School (CS Principles) workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 24-28, 2023 workshops, and seats will be allocated first come, first serve.
 
 For all of our other BJC PD workshops this summer, we are charging a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free. There is no stipend available for attending these workshops.
 
