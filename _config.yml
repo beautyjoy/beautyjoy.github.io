@@ -72,3 +72,6 @@ exclude:
   - README.md
   - vendor # created when the site is built on CircleCI
   - package.json
+  - .*
+  - .github
+  - .devcontainer

@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-ruby '~> 3'
+ruby "~> 3"
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -11,13 +11,16 @@ ruby '~> 3'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'jekyll', '< 4'
+gem "jekyll", "< 4"
 gem "kramdown"
 gem "kramdown-parser-gfm"
 
+# Needed for Ruby 3, Jekyll < 4
+gem "webrick"
+
 # Used for syncing content with aws
 # aws.cs10.org is a backup site
-# gem 's3_website'
+# gem "s3_website"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 # gem "minima"

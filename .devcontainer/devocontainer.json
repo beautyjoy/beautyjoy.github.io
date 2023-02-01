@@ -1,0 +1,26 @@
+{
+	"name": "Jekyll",
+	"image": "mcr.microsoft.com/devcontainers/jekyll:0-bullseye",
+
+	"features": {},
+
+	"forwardPorts": [
+		4000,
+		35729
+	],
+
+	"postCreateCommand": "sh .devcontainer/post-create.sh",
+
+	"customizations": {
+		"vscode": {
+			"settings": {
+			 },
+
+			 "extensions": [
+				"ms-ruby.ruby",
+				"kargware.vscode-extension-jekyll-kw",
+				"rebornix.ruby"
+			 ]
+			}
+	}
+}
