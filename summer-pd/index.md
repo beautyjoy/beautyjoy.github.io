@@ -91,7 +91,7 @@ Below is our 2023 PD schedule for our PD workshops and links to the PD Applicati
     <td>High School - CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td><a href="https://bjc.link/pd-su23">Register Here</a></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 17 - 21, 2023</td>
