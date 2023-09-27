@@ -99,7 +99,7 @@ Below is our 2023 PD schedule for our PD workshops and links to the PD Applicati
     <td>High School - CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td><a href="https://bjc.link/pd-su23">Register Here</a></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 24 - 28, 2023</td>
@@ -107,7 +107,7 @@ Below is our 2023 PD schedule for our PD workshops and links to the PD Applicati
     <td>BJC Sparks - Middle School</td>
     <td>Online</td>
     <td>Yes + Hardware</td>
-    <td><a href="https://bjc.link/path23">Register Here</a></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 24 - 28, 2023</td>
@@ -115,7 +115,7 @@ Below is our 2023 PD schedule for our PD workshops and links to the PD Applicati
     <td>High School - CS Principles</td>
     <td>Online</td>
     <td>Yes</td>
-    <td><a href="https://bjc.link/path23">Register Here</a></td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 31 - Aug 4, 2023</td>
@@ -123,7 +123,7 @@ Below is our 2023 PD schedule for our PD workshops and links to the PD Applicati
     <td>High School - CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td><a href="https://bjc.link/pd-su23">Register Here</a></td>
+    <td>Closed</td>
   </tr>
  </tbody>
 </table>
