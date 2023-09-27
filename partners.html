@@ -3,37 +3,18 @@ layout: page
 title: Partners
 header_background: class2
 ---
+
 {% capture section_content %}
 <div class="row partner-logos">
+    {% for partner in site.data.partners %}
     <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/snap.png">
+        <a href="{{ partner.url }}" target="_blank">
+            <img src="{{ site.baseurl }}/assets/img/partners/{{ partner.img }}" alt="{{ partner.name }}">
+        </a>
     </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/berkeley.png">
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/edx.png">
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/nsf.png">
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/ncsu.png">
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/edc.png">
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/csforall.svg">
-    </div>
+    {% endfor %}
     <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
         <span class="lead">TeachCS.org</span>
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/donorschoose.gif">
-    </div>
-    <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
-        <img src="{{ site.baseurl }}/assets/img/partners/infosys.png">
     </div>
     <div class="col-md-3 col-sm-4 col-xs-6 vcenter">
         <span class="lead">BJC Stars Corp</span>

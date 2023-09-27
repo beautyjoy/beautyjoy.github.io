@@ -1,0 +1,30 @@
+- name: Snap!
+  img: snap.png
+  url: https://snap.berkeley.edu
+- name: UC Berkeley
+  img: berkeley.png
+  url: https://berkeley.edu
+- name: edX
+  img: edx.png
+  url: https://edx.org
+- name: SAP
+  img: sap.png
+  url: https://sap.com
+- name: National Science Foundation
+  img: nsf.png
+  url: https://nsf.org
+- name: North Carolina State University
+  img: ncsu.png
+  url: https://ncsu.ed
+- name: Educational Development Center
+  img: edc.png
+  url: https://edc.org
+- name: CSforALL
+  img: csforall.svg
+  url: https://www.csforall.org/about/
+- name: DonorsChoose
+  img: donorschoose.gif
+  url: https://www.donorschoose.org
+- name: Infosys
+  img: infosys.png
+  url: https://www.infosys.com
