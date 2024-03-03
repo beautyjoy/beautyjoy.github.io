@@ -81,7 +81,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <th scope ="col">Curriculum</th>
     <th scope ="col">Delivery</th>
     <th scope ="col">Stipend</th>
-    <th scope ="col">Registration</th>
+    <th scope ="col">Application Link</th>
   </tr>
 </thead>
 <tbody>
@@ -99,7 +99,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>To Be Releasec</td>
+    <td>To Be Released</td>
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
