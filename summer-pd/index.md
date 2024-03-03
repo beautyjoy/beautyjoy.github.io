@@ -78,7 +78,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
   <tr>
     <th scope ="col">Date</th>
     <th scope ="col">Time</th>
-    <th scope ="col">Grade Level</th>
+    <th scope ="col">Curriculum</th>
     <th scope ="col">Delivery</th>
     <th scope ="col">Stipend</th>
     <th scope ="col">Registration</th>
