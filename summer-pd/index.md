@@ -94,7 +94,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>To Be Released</td>
   </tr>
   <tr>
-    <td>July 9 - 12, 2024</td>
+    <td>July 8 - 12, 2024</td>
     <td>11:00 AM - 5:00 PM EST</td>
     <td>CS Principles</td>
     <td>Online</td>
