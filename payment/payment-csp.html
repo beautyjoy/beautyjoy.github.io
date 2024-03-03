@@ -1,0 +1,74 @@
+---
+title: Pay for CS Priciples Professional Development
+layout: page
+header_background: group1
+permalink: /payment-csp/
+redirect_from:
+  - /payment/
+---
+
+
+<!-- <link rel="stylesheet" href="css/global.css" /> -->
+<!-- Load Stripe.js on your website. -->
+<script src="https://js.stripe.com/v3/"></script>
+
+{% capture section_content %}
+
+      <h1>Summer CS Principles PD Registration Fee</h1>
+      <p>We're excited you're applying for our summer PD workshop! Please proceed at the button below to submit your registration fee payment.</p>
+      <button
+        class="btn"
+        data-checkout-mode="payment"
+        data-price-id="price_1IBbYWLn2wZ1DCXhHDXLUjJ0"
+      >
+        Pay $75 Registration Fee
+      </button>
+      <div id="error-message"></div>
+
+{% endcapture %} {% include section.html %}
+
+<script>
+  // Replace with your own publishable key: https://dashboard.stripe.com/test/apikeys
+  var PUBLISHABLE_KEY = 'pk_live_M4PdukZq1zUBsjQvOSEu6wrF00iY5Ve2Se';
+  var TEST_KEY = 'pk_test_Us6dyIE53jxl7SKdgH5VujQf003UGCM3gJ';
+  // Replace with the domain you want your users to be redirected back to after payment
+  var DOMAIN = location.href.replace(/[^/]*$/, '');
+  var stripe = Stripe(PUBLISHABLE_KEY, { stripeAccount: 'acct_1Fp8QtLn2wZ1DCXh' });
+
+  // Handle any errors from Checkout
+  var handleResult = function (result) {
+    console.log(result)
+    if (result.error) {
+      var displayError = document.getElementById('error-message');
+      displayError.textContent = result.error.message;
+    }
+  };
+
+  let handleError = (result) => {
+    if (result) {
+      var displayError = document.getElementById('error-message');
+      displayError.textContent = result;
+    }
+  };
+
+  document.querySelectorAll('button').forEach(function (button) {
+    button.addEventListener('click', function (e) {
+      var mode = e.target.dataset.checkoutMode;
+      var priceId = e.target.dataset.priceId;
+      var items = [{ price: priceId, quantity: 1 }];
+
+      // Make the call to Stripe.js to redirect to the checkout page
+      // with the sku or plan ID.
+      stripe
+        .redirectToCheckout({
+          mode: mode,
+          lineItems: items,
+          successUrl:
+            DOMAIN + 'thanks?session_id={CHECKOUT_SESSION_ID}',
+          cancelUrl:
+            DOMAIN + 'canceled?session_id={CHECKOUT_SESSION_ID}',
+        })
+        .then(handleResult).catch(handleError);
+    });
+  });
+</script>

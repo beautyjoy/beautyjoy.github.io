@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-xs-12">
                 {% if page.path contains '.md' %}
-                  {{ section_content | markdownify}}
+                  {{ section_content | markdownify }}
                 {% else %}
                   {{ section_content }}
                 {% endif %}

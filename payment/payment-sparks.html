@@ -1,27 +1,35 @@
 ---
-title: Pay for BJC Professional Development
+title: Pay for BJC Sparks PD
 layout: page
 header_background: group1
-permalink: /payment/
+permalink: /payment-sparks/
 ---
 
-
-<!-- <link rel="stylesheet" href="css/global.css" /> -->
+<link rel="stylesheet" href="css/global.css" />
 <!-- Load Stripe.js on your website. -->
 <script src="https://js.stripe.com/v3/"></script>
 
 {% capture section_content %}
 
-      <h1>Summer PD Registration Fee</h1>
-      <p>We're excited you're applying for our summer PD workshop! Please proceed at the button below to submit your registration fee payment.</p>
-      <button
-        class="btn"
-        data-checkout-mode="payment"
-        data-price-id="price_1IBbYWLn2wZ1DCXhHDXLUjJ0"
-      >
-        Pay Your Registration Fee
-      </button>
-      <div id="error-message"></div>
+<h1>Summer Sparks PD Registration Fee</h1>
+
+<p>We're excited you're applying for our summer PD workshop! Please proceed at the button below to submit your registration fee payment.</p>
+
+<p>
+  <strong>The BJC Sparks PD includes hardware which is yours to keep.</strong>
+  <br>
+  Please make sure you include your shipping address.
+</p>
+
+
+<button
+  class="btn"
+  data-checkout-mode="payment"
+  data-price-id="price_1OqNb2Ln2wZ1DCXh7iSynvhZ"
+>
+  Pay $100 Registration Fee
+</button>
+<div id="error-message"></div>
 
 {% endcapture %} {% include section.html %}
 
@@ -38,6 +46,13 @@ permalink: /payment/
     if (result.error) {
       var displayError = document.getElementById('error-message');
       displayError.textContent = result.error.message;
+    }
+  };
+
+  let handleError = (result) => {
+    if (result) {
+      var displayError = document.getElementById('error-message');
+      displayError.textContent = result;
     }
   };
 
@@ -58,7 +73,8 @@ permalink: /payment/
           cancelUrl:
             DOMAIN + 'canceled?session_id={CHECKOUT_SESSION_ID}',
         })
-        .then(handleResult);
+        .then(handleResult)
+        .catch(handleError);
     });
   });
 </script>
