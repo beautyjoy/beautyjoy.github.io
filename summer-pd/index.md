@@ -36,7 +36,7 @@ The creators of BJC developed a new course called BJC Sparks for middle school a
 This workshop will be led by Dan Garcia, Teaching Professor at the University of California, Berkeley. The curriculum and workshop is supported by a small team of BJC veterans, BJC TAs, and Lead Teachers — and is funded with generous support from the Infosys Pathfinders Foundation and the Hopper Dean Foundation.
 
 
-### BJC - High School PD
+### BJC CS Principles - High School PD
 
 [tiffany]: https://eliza.csc.ncsu.edu/
 [nsf-1]: https://nsf.gov/awardsearch/showAward?AWD_ID=1346922
