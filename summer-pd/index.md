@@ -122,7 +122,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>11:00 AM - 5:00 PM EST</td>
     <td>CS Principles</td>
     <td>Online</td>
-    <td>Yes</td>
+    <td>No</td>
     <td>To Be Released</td>
   </tr>
  </tbody>
