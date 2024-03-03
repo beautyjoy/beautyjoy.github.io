@@ -137,9 +137,11 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For the July 22-26, 2024 BJC High School (CS Principles) and BJC Sparks PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 22-26, 2024 PD workshops if you are a public high school or public middle school teacher in the United States. If you are not a public high school or public middle school teacher and you would like to attend either the BJC High School (CS Principles) or the BJC Sparks July 22-26 workshop, there is a non-refundable registration fee to hold your spot ($75 for CS Principles; $100 for BJC Sparks and includes hardware to keep). All course materials and year-long ongoing support are free.
+For the July 22-26, 2024 CS Principles and Sparks PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 22-26, 2024 PD workshops if you are a public high school or public middle school teacher in the United States.
 
-Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 24-28 BJC High School (CS Principles) workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 22-26, 2024 workshops, and seats will be allocated first come, first serve.
+If you are not a public high school or public middle school teacher and would like to attend one of the July 22-26 workshops, there is a non-refundable registration fee to hold your spot ($75 for CS Principles; $100 for BJC Sparks and includes hardware to keep). All course materials and year-long ongoing support are free.
+
+Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 24-28 CS Principles workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 22-26, 2024 workshops, and seats will be allocated first come, first serve.
 
 For all of our other BJC PD workshops this summer, there is a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free. There is no stipend available for attending these workshops.
 
@@ -182,7 +184,7 @@ For more information on how BJC compares to the general CS Principles framework,
 
 ### Who is teaching BJC?
 
-The Beauty and Joy of Computing is taught across the country, with over 600 teachers from 41 states applying to attend our teacher preparation workshops. Teachers are also using our curriculum in Canada, Ireland, Guam, Hong Kong, South Korea, Indonesia, Senegal, Cape Verde, Nepal, Austria, Italy, New Zealand, the Philippines, and Germany.
+The Beauty and Joy of Computing is taught across the country, with over 1,000 teachers from 41 states applying to attend our teacher preparation workshops. Teachers are also using our curriculum in Canada, Ireland, Guam, Hong Kong, South Korea, Indonesia, Senegal, Cape Verde, Nepal, Austria, Italy, New Zealand, the Philippines, Germany, and Peru.
 
 ## Contact
 
