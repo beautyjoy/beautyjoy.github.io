@@ -91,7 +91,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>To Be Released</td>
+    <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
   </tr>
   <tr>
     <td>July 8 - 12, 2024</td>
@@ -99,7 +99,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>To Be Released</td>
+    <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
@@ -107,7 +107,9 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>BJC Sparks</td>
     <td>Online</td>
     <td>Yes + Hardware</td>
-    <td>To Be Released</td>
+    <td>Public Schools: <a href="https://bjc.link/pathfinders2024">Register Here</a>
+        <br>Private Schools: <a href="https://bjc.link/pd-su24">Register Here</a>
+    </td>
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
@@ -115,7 +117,9 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>CS Principles</td>
     <td>Online</td>
     <td>Yes</td>
-    <td>To Be Released</td>
+    <td>Public Schools: <a href="https://bjc.link/pathfinders2024">Register Here</a>
+        <br>Private Schools: <a href="https://bjc.link/pd-su24">Register Here</a>
+    </td>
   </tr>
   <tr>
     <td>August 5 - 9, 2024</td>
@@ -123,7 +127,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>To Be Released</td>
+    <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
   </tr>
  </tbody>
 </table>
