@@ -1,6 +1,8 @@
-source "https://rubygems.org"
+# frozen_string_literal: true
 
-ruby "~> 3"
+source 'https://rubygems.org'
+
+ruby '~> 3'
 
 # Hello! This is where you manage which Jekyll version is used to run.
 # When you want to use a different version, change it below, save the
@@ -11,12 +13,12 @@ ruby "~> 3"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "jekyll", "~> 4"
-gem "kramdown"
-gem "kramdown-parser-gfm"
+gem 'jekyll', '~> 4'
+gem 'kramdown'
+gem 'kramdown-parser-gfm'
 
 # Needed for Ruby 3, Jekyll < 4
-gem "webrick"
+gem 'webrick'
 
 # Used for syncing content with aws
 # aws.cs10.org is a backup site
@@ -31,18 +33,18 @@ gem "webrick"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-github-metadata", "~> 1.0"
-  gem "jekyll-redirect-from"
-  gem "jekyll-feed"
-  gem "jekyll-sitemap"
-  gem "jekyll-seo-tag"
+  gem 'jekyll-feed'
+  gem 'jekyll-github-metadata', '~> 1.0'
+  gem 'jekyll-redirect-from'
+  gem 'jekyll-seo-tag'
+  gem 'jekyll-sitemap'
 end
 
 group :development, :test do
-  gem "rspec"
-  gem "selenium-webdriver"
-  gem "capybara"
-  gem "rack-jekyll"
-  gem "axe-core-rspec"
-  gem "axe-core-capybara"
+  gem 'axe-core-capybara'
+  gem 'axe-core-rspec'
+  gem 'capybara'
+  gem 'rack-jekyll'
+  gem 'rspec'
+  gem 'selenium-webdriver'
 end

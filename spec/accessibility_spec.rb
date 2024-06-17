@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 # Run accessibility specs for all pages in the webiste.
 # This runs the axe accessibility checker on each page in a headless browser.
 
@@ -16,11 +18,11 @@ def load_site_urls
   puts "Running accessibility tests, expected deploy URL: #{site_url}"
   # TODO: Handle case where build is not in _site
   sitemap_text = File.read('_site/sitemap.xml')
-  sitemap_links = sitemap_text.scan(/<loc>.+<\/loc>/)
+  sitemap_links = sitemap_text.scan(%r{<loc>.+</loc>})
   sitemap_links.filter_map do |link|
     link = link.gsub("<loc>#{site_url}", '').gsub('</loc>', '')
 
-    next unless link.end_with?('.html') or link.end_with?('/')
+    next unless link.end_with?('.html') || link.end_with?('/')
 
     link
   end.sort
@@ -36,7 +38,7 @@ ALL_PAGES.each do |path|
       visit(path)
     end
 
-    it "according to WCAG 2.0 AA (REQUIRED)" do
+    it 'according to WCAG 2.0 AA (REQUIRED)' do
       expect(page).to be_axe_clean.according_to(
         :wcag2aa, "path: #{path} does NOT meet WCAG 2.0 AA standards"
       )
