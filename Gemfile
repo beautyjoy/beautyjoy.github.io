@@ -37,3 +37,12 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
 end
+
+group :development, :test do
+  gem "rspec"
+  gem "selenium-webdriver"
+  gem "capybara"
+  gem "rack-jekyll"
+  gem "axe-core-rspec"
+  gem "axe-core-capybara"
+end
