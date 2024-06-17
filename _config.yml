@@ -20,7 +20,7 @@ description: >
   The Beauty and Joy of Computing is an endorsed AP Computer Science Principles course that is a rigorous introduction to programming and that the ways we interact with and are affected by technology every day.
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
-  programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc
+  programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc, BJC Sparks, middle school, robotics,
 baseurl: ""
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
@@ -32,7 +32,7 @@ permalink: pretty
 # This is used for displaying a warning on sites that aren't the
 # production site.
 production_url: https://bjc.berkeley.edu
-twitter_username:   cspbjc
+# twitter_username:   cspbjc
 facebook_username:  cspbjc
 instagram_username: cspbjc
 flipboard_link:     https://bjc.link/computingnews
@@ -49,17 +49,16 @@ lang: en_US
 social:
     name: The Beauty and Joy of Computing
     links:
-        - https://twitter.com/cspbjc
         - https://www.facebook.com/cspbjc
         - https://github.com/beautyjoy
         - https://instagram.com/cspbjc
 google_site_verification: KuWL2ZXn4a2LNuAH4B-ghSObfCQ3tI6yXiSIRo6f05k"
 
-# These are specifically whitelisted by Github
 plugins:
   - jekyll-redirect-from
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
@@ -75,3 +74,4 @@ exclude:
   - .*
   - .github
   - .devcontainer
+  - spec
