@@ -8,8 +8,6 @@
 require 'yaml'
 require 'spec_helper'
 
-# RSPEC_CONFIG_FILE = '_config.yml' or ENV['RSPEC_CONFIG_FILE']
-
 def site_url
   @site_url ||= YAML.load_file(RSPEC_CONFIG_FILE)['url']
 end
@@ -32,16 +30,34 @@ ALL_PAGES = load_site_urls
 puts "Running tests on #{ALL_PAGES.count} pages."
 puts "\t- #{ALL_PAGES.join("\n\t- ")}\n#{'=' * 50}\n\n"
 
+required_a11y_standards = %i[wcag2a wcag2aa section508]
+# axe-core rules that are not required to be accessible / do not apply
+# See: https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md
+skipped_rules = []
+# These are elements that are not required to be accessible
+excluded_elements = []
+
+# These are currently skipped until the basic tests are passing.
+complete_a11y_standards = %i[wcag21 best_practice wcag22]
+
 ALL_PAGES.each do |path|
   describe "Page '#{path}' is accessible", type: :feature, js: true do
     before(:each) do
       visit(path)
     end
 
-    it 'according to WCAG 2.0 AA (REQUIRED)' do
-      expect(page).to be_axe_clean.according_to(
-        :wcag2aa, "path: #{path} does NOT meet WCAG 2.0 AA standards"
-      )
+    it 'according to WCAG 2.0 AA' do
+      expect(page).to be_axe_clean
+        .according_to(*required_a11y_standards, "#{path} does NOT meet WCAG 2.0 AA")
+        .skipping(*skipped_rules)
+        .excluding(*excluded_elements)
+    end
+
+    xit 'according to WCAG 2.2 AA' do
+      expect(page).to be_axe_clean
+        .according_to(*complete_a11y_standards)
+        .skipping(*skipped_rules)
+        .excluding(*excluded_elements)
     end
   end
 end
