@@ -43,7 +43,7 @@ skipped_rules = []
 excluded_elements = []
 
 ALL_PAGES.each do |path|
-  describe "Page '#{path}' is accessible", type: :feature, js: true do
+  describe "'#{path}' is accessible", type: :feature, js: true do
     before(:each) do
       visit(path)
     end
