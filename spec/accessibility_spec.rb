@@ -4,8 +4,6 @@
 # This runs the axe accessibility checker on each page in a headless browser.
 
 # spec_helper ensures the webiste is built and can be served locally
-
-require 'yaml'
 require 'spec_helper'
 
 def site_url
