@@ -1,11 +1,10 @@
 # The Beauty and Joy of Computing
 
-[![Build Status](https://travis-ci.com/beautyjoy/beautyjoy.github.io.svg?branch=master)](https://travis-ci.com/beautyjoy/beautyjoy.github.io)
+[![Page Accessibility Specs](https://github.com/beautyjoy/beautyjoy.github.io/actions/workflows/specs.yml/badge.svg)](https://github.com/beautyjoy/beautyjoy.github.io/actions/workflows/specs.yml)
 
 This is the repo for the BJC homepage.
 
 * [bjc.berkeley.edu – production](https://bjc.berkeley.edu)
-* [beautyjoy.github.io – development](https://beautyjoy.github.io)
 
 # Getting Started
 

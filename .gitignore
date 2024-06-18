@@ -9,3 +9,4 @@ _berkeley
 .sass-cache
 .jekyll-metadata
 sync.err
+tmp/
