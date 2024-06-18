@@ -19,7 +19,9 @@ def load_site_urls
   sitemap_links = sitemap_text.scan(%r{<loc>.+</loc>})
   sitemap_links.filter_map do |link|
     link = link.gsub("<loc>#{site_url}", '').gsub('</loc>', '')
-
+    # Skip non-html pages
+    # (FUTURE?) Are there other pages that should be audited for accessibility?
+    # (e.g. PDFs, documents. They'd need a different checker.)
     next unless link.end_with?('.html') || link.end_with?('/')
 
     link
@@ -28,7 +30,7 @@ end
 
 ALL_PAGES = load_site_urls
 puts "Running tests on #{ALL_PAGES.count} pages."
-puts "\t- #{ALL_PAGES.join("\n\t- ")}\n#{'=' * 50}\n\n"
+puts "  - #{ALL_PAGES.join("\n  - ")}\n#{'=' * 72}\n\n"
 
 # Axe-core test standards groups
 # See https://github.com/dequelabs/axe-core/blob/develop/doc/API.md#axe-core-tags

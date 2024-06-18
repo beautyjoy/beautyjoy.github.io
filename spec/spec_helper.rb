@@ -17,6 +17,8 @@
 # See https://rubydoc.info/gems/rspec-core/RSpec/Core/Configuration
 
 require 'rspec'
+require 'yaml'
+
 require 'capybara/rspec'
 require 'rack/jekyll'
 require 'rack/test'

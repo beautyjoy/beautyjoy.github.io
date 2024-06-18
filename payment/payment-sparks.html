@@ -25,11 +25,13 @@ permalink: /payment-sparks/
 </p>
 
 
-<stripe-buy-button
-  buy-button-id="buy_btn_1OqNnBLn2wZ1DCXhmPLt6yzd"
-  publishable-key="pk_live_M4PdukZq1zUBsjQvOSEu6wrF00iY5Ve2Se"
->
-</stripe-buy-button>
+<div data-a11y-external-errors="true">
+  <stripe-buy-button
+    buy-button-id="buy_btn_1OqNnBLn2wZ1DCXhmPLt6yzd"
+    publishable-key="pk_live_M4PdukZq1zUBsjQvOSEu6wrF00iY5Ve2Se"
+  >
+  </stripe-buy-button>
+</div>
 <div id="error-message"></div>
 
 {% endcapture %} {% include section.html %}
