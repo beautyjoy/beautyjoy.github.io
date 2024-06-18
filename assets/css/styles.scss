@@ -36,6 +36,9 @@ body {
   // Suppress default 100% height, otherwise we end up
   // with min page height exceeding screen height,
   // causing scrolling even on short pages
+
+  // Increse BS3's base font size for better accessibility
+  font-size: 16px;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -171,7 +174,7 @@ blockquote {
 }
 
 .navbar-inverse {
-  margin: 0;
+  margin-left: 1em;
   padding: 0;
   background-color: $dark-color;
   font-family: $header-font-stack;
@@ -180,6 +183,7 @@ blockquote {
   .navbar-brand {
     color: $inverted-text-color;
     padding: 10px 15px;
+    margin: auto 0.5rem;
     height: auto; // Making the BJC logo larger than the template default
 
     > img {

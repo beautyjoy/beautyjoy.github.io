@@ -58,8 +58,14 @@ ALL_PAGES.each do |path|
         .excluding(*excluded_elements)
     end
 
-    # Berkeley: (June 2024) these tests are skipped until the basic tests are passing.
-    it 'according to WCAG 2.2 AA', :skip do
+    it 'according to WCAG 2.2 AA' do
+      expect(page).to be_axe_clean
+        .according_to(*[:wcag21aa, :wcag22aa])
+        .skipping(*skipped_rules)
+        .excluding(*excluded_elements)
+    end
+
+    it 'according to all additional standards', :skip do
       expect(page).to be_axe_clean
         .according_to(*complete_a11y_standards)
         .skipping(*skipped_rules)
