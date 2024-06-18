@@ -40,7 +40,9 @@ complete_a11y_standards = %i[wcag21a wcag21 wcag22aa best-practice secion508]
 # See: https://github.com/dequelabs/axe-core/blob/develop/doc/rule-descriptions.md
 skipped_rules = []
 # These are elements that are not required to be accessible
-excluded_elements = []
+excluded_elements = [
+  '[data-a11y-external-errors="true"]'
+]
 
 ALL_PAGES.each do |path|
   describe "'#{path}' is accessible", type: :feature, js: true do
@@ -48,6 +50,7 @@ ALL_PAGES.each do |path|
       visit(path)
     end
 
+    # These tests should always be enabled.
     it 'according to WCAG 2.0 AA' do
       expect(page).to be_axe_clean
         .according_to(*required_a11y_standards, "#{path} does NOT meet WCAG 2.0 AA")
@@ -55,7 +58,8 @@ ALL_PAGES.each do |path|
         .excluding(*excluded_elements)
     end
 
-    xit 'according to WCAG 2.2 AA' do
+    # Berkeley: (June 2024) these tests are skipped until the basic tests are passing.
+    it 'according to WCAG 2.2 AA', :skip do
       expect(page).to be_axe_clean
         .according_to(*complete_a11y_standards)
         .skipping(*skipped_rules)

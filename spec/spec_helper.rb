@@ -26,6 +26,10 @@ require 'axe-capybara'
 RSPEC_CONFIG_FILE = '_config.yml' or ENV['RSPEC_CONFIG_FILE']
 
 RSpec.configure do |config|
+  # Allow rspec to use `--only-failures` and `--next-failure` flags
+  # Ensure that `tmp` is in your `.gitignore` file
+  config.example_status_persistence_file_path = 'tmp/rspec-failures.txt'
+
   # rspec-expectations config goes here. You can use an alternate
   # assertion/expectation library such as wrong or the stdlib/minitest
   # assertions if you prefer.
