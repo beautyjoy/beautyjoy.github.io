@@ -7,7 +7,7 @@ title: Press Articles
     {% for article in site.data.press-articles %}
     <li>
         <a href="{{ article.url }}" target="_blank" class="article-title">{{ article.title }}</a>
-        <h6 class="article-subheading">{{ article.source }}, {{ article.date | date: "%Y-%m-%d" }}</h6>
+        <div class="article-subheading">{{ article.source }}, {{ article.date | date: "%Y-%m-%d" }}</div>
     </li>
     {% endfor %}
 </ul>
