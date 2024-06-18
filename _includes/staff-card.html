@@ -2,6 +2,6 @@
     {% include profile-photo.html image=profile.image name=profile.name %}
 </div>
 <div class="caption">
-  <h4>{{ profile.name }}</h4>
+  <div class="h2" style="font-size: 2rem;">{{ profile.name }}</div>
   {{ profile.description | markdownify }}
 </div>
