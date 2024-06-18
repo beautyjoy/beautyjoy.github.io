@@ -58,14 +58,7 @@ ALL_PAGES.each do |path|
         .excluding(*excluded_elements)
     end
 
-    it 'according to WCAG 2.2 AA' do
-      expect(page).to be_axe_clean
-        .according_to(*[:wcag21aa, :wcag22aa])
-        .skipping(*skipped_rules)
-        .excluding(*excluded_elements)
-    end
-
-    it 'according to all additional standards' do
+    it 'according to WCAG 2.2 and all additional standards' do
       expect(page).to be_axe_clean
         .according_to(*complete_a11y_standards)
         .skipping(*skipped_rules)
