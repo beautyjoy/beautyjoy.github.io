@@ -14,11 +14,14 @@ layout: default
 {% assign permalink = page.url | prepend: site.baseurl %}
 
 {% capture section_content %}
-<h2 class="page-header">{{ page.title }}</h2>
+<h1 class="page-header">
+    {{ page.title }}
+    <br>
+    <small class="text-uppercase">{{ page.date | date_to_string }}</small>
+</h1>
 {% if page.subtitle %}
-<h4>{{ page.subtitle }}</h4>
+<h2>{{ page.subtitle }}</h2>
 {% endif %}
-<h6 class="text-uppercase">{{ page.date | date_to_string }}</h6>
 
 {{ content }}
 
