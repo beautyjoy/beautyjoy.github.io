@@ -5,28 +5,31 @@ title: Announcements
 {% for post in site.posts %}
 
 {% capture section_content %}
-<h6 class="article-subheading">{{ post.date | date: "%Y-%m-%d" }}</h6>
-<a href="{{ post.url | prepend: site.baseurl }}">
-  <h3>{{ post.title | escape }}</h3>
-</a>
-<p>
-  {{ post.excerpt }}
-</p>
-{% endcapture %}
-{% include section.html %}
+<article>
+  <a href="{{ post.url | prepend: site.baseurl }}">
+    <h2>{{ post.title | escape }}</h2>
+  </a>
+  <div class="article-subheading">{{ post.date | date: "%Y-%m-%d" }}</div>
 
-{% endfor %}
+  <p>
+    {{ post.excerpt }}
+  </p>
+  {% endcapture %}
+  {% include section.html %}
 
-{% capture section_content %}
-<div>
-    <a class="twitter-timeline"
-       href="https://twitter.com/CSPBJC"
-       data-width="500"
-       data-height="500"
-       data-chrome="transparent nofooter">
-        Tweets by CSPBJC
-    </a>
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
+  {% endfor %}
+
+  {% capture section_content %}
+  <div>
+      <a class="twitter-timeline"
+         href="https://twitter.com/CSPBJC"
+         data-width="500"
+         data-height="500"
+         data-chrome="transparent nofooter">
+          Tweets by CSPBJC
+      </a>
+      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  </div>
+</article>
 {% endcapture %}
 {% include section.html %}
