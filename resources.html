@@ -8,8 +8,8 @@ title: Resources
 filter_tags: snap students
 ---
 {% capture section_content %}
-<strong>Filter:</strong>
-<select class="resources-filter">
+<label for="resources-filter">Filter Resources:</strong>
+<select class="resources-filter" id="#resources-filter">
     <option value="all">All</option>
     {% assign filter_tags = page.filter_tags | split: " " %}
     {% for tag in filter_tags %}
@@ -179,7 +179,8 @@ filter_tags: snap students
             {% for project in site.data.snap-projects %}
             <div class="col-md-3 col-xs-6 grid-item">
                 <div class="project-tile">
-                    <img src="{{ site.baseurl }}/assets/img/project_thumbnails/{{ project.thumbnail }}">
+                    <img src="{{ site.baseurl }}/assets/img/project_thumbnails/{{ project.thumbnail }}"
+                        alt="Thumbnail of Snap! project, '{{ project.title }}'">
                     <div class="caption">
                         <a href="{{ project.link }}" class="unstyled-link" target="_blank">
                             <h3 class="project-title">{{ project.title }}</h3>
