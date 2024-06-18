@@ -8,12 +8,12 @@ subtitle: Papers and Publications
     {% for article in site.data.publications %}
     <li>
         <a href="{{ site.baseurl }}/documents/{{ article.filename }}" target="_blank" class="article-title">{{ article.title }}</a>
-        <h6 class="article-subheading">
+        <div class="article-subheading">
             {{ article.authors }}. ({{ article.year }}).
             {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
             {{ article.journal }}.
             {% if article.external_link %}</a>{% endif %}
-        </h6>
+        </div>
         {% if article.abstract %}
         <blockquote>{{ article.abstract | markdownify }}</blockquote>
         {% endif %}
