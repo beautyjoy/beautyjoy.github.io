@@ -4,6 +4,7 @@
 // Color scheme: https://color.adobe.com/Collioure-late-evening-color-theme-8618292/
 $_dummy: ''; // this line is included so vscode renders next variable correctly
 $dark-color: #0C3559;
+$lighter-blue: #18568C;
 $primary-color: $dark-color;
 $accent-color: #F2E205;
 $accent-dark: #BF7E04;
@@ -31,7 +32,7 @@ body {
   margin-top: $body-margin-top; // Push body below navbar height
   height: auto;
   min-height: 100%;
-  background-color: $primary-color;
+  background-color: $lighter-blue;
   // Suppress default 100% height, otherwise we end up
   // with min page height exceeding screen height,
   // causing scrolling even on short pages
@@ -190,6 +191,7 @@ blockquote {
     // all links
     li a,
     li button {
+      text-decoration: none;
       color: $inverted-text-color;
       font-weight: bold;
       line-height: 1.8;
@@ -255,7 +257,7 @@ blockquote {
   min-height: 150px; // Fixed height on all headers
   display: inline-table; // For vertical alignment
   width: 100%;
-  background: $primary-color;
+  background: $lighter-blue;
   box-shadow: none;
   background-position: center;
   background-size: cover;
@@ -328,7 +330,7 @@ blockquote {
   .jumbotron & {
     border: 2.5px white solid;
     border-radius: 6px;
-    // background: rgba(255, 255, 255, 0.4);
+    -webkit-backdrop-filter: blur(4px) brightness(0.4);
     backdrop-filter: blur(4px) brightness(0.4);
   }
 
@@ -355,7 +357,7 @@ blockquote {
   left: 40px;
   border-top-style: solid;
   border-top-width: 12px;
-  border-top-color: $primary-color;
+  border-top-color: $lighter-blue;
   border-left: 8px solid transparent;
   border-right: 8px solid transparent;
   height: 0;
