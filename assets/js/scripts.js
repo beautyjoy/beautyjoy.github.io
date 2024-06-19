@@ -129,7 +129,7 @@ function setupContactForm() {
     }, {});
 
     $form.find('button').html(
-      '<i class="fa fa-spin fa-spinner" aria-label="sending..."></i>'
+      '<i class="fa fa-spin fa-spinner" aria-hidden=true></i>&nbsp;Sending...'
     ).attr('disabled', true);
     $.ajax({
       type: 'POST',
