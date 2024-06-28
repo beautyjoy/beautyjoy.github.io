@@ -95,7 +95,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
-    <td>11:00 AM - 5:00 PM EST</td>
+    <td>11:00 AM - 5:00 PM EST Daily</td>
     <td>BJC Sparks</td>
     <td>Online</td>
     <td>Yes + Hardware</td>
@@ -105,7 +105,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
-    <td>11:00 AM - 5:00 PM EST</td>
+    <td>11:00 AM - 5:00 PM EST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Yes</td>
