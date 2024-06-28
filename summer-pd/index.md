@@ -47,7 +47,7 @@ BJC has offered High School PD workshops since 2012 at low or no cost to teacher
 
 BJC PD workshops are led by BJC Lead Teachers who have attended a BJC Summer PD workshop, taught the BJC course in high school, and participated in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
-We typically offer regional 5-day face to face summer professional development workshops for teachers intending to teach BJC within the next 2 school years (with priority to those teaching sooner), however due to the COVID-19 pandemic, all Summer 2024 PD workshops will be held online.
+We offer vitual summer professional development workshops for teachers intending to teach BJC within the next 2 school years.
 
 <!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Lead Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
@@ -86,16 +86,8 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 24 - 28, 2024</td>
-    <td>11:00 AM - 5:00 PM EST</td>
-    <td>CS Principles</td>
-    <td>Online</td>
-    <td>No</td>
-    <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
-  </tr>
-  <tr>
-    <td>July 8 - 12, 2024</td>
-    <td>11:00 AM - 5:00 PM EST</td>
+    <td>June 24 - August 16, 2024</td>
+    <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
@@ -120,14 +112,6 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>Public Schools: <a href="https://bjc.link/pathfinders2024">Register Here</a>
         <br>Private Schools: <a href="https://bjc.link/pd-su24">Register Here</a>
     </td>
-  </tr>
-  <tr>
-    <td>August 5 - 9, 2024</td>
-    <td>11:00 AM - 5:00 PM EST</td>
-    <td>CS Principles</td>
-    <td>Online</td>
-    <td>No</td>
-    <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
   </tr>
  </tbody>
 </table>
@@ -155,9 +139,9 @@ If you are not a public high school or public middle school teacher and would li
 
 Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 24-28 CS Principles workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 22-26, 2024 workshops, and seats will be allocated first come, first serve.
 
-For all of our other BJC PD workshops this summer, there is a non-refundable $75 registration fee to hold your spot. All course materials and year-long ongoing support are free. There is no stipend available for attending these workshops.
+For our self-paced, asynchronous BJC CSP PD workshop this summer, there is no cost to participate. All course materials and year-long ongoing support are free. There is no stipend available for those participating in the self-paced PD.
 
-<!-- For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year. -->
+<!-- For all of our other BJC PD workshops this summer, there is a non-refundable $75 registration fee to hold your spot. For eligible teachers attending our Summer Middle School / Early High School workshop only, we are offering a $1,000 stipend. Participants will receive half of the stipend ($500) for completing the PD and submitting research consents and pre-instruments at the beginning of the academic year. Participants will receive the other half of the stipend ($500) for submitting mid-year instruments and post-instruments at the end of the academic year. -->
 
 <!--Participating teachers may be eligible for reimbursement for reasonable expenses for travel, lodging, and meals.-->
 
