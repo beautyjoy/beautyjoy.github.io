@@ -32,6 +32,7 @@ permalink: pretty
 # This is used for displaying a warning on sites that aren't the
 # production site.
 production_url: https://bjc.berkeley.edu
+repository: beautyjoy/beautyjoy.github.io
 # twitter_username:   cspbjc
 facebook_username:  cspbjc
 instagram_username: cspbjc
