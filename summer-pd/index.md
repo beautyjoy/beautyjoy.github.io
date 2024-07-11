@@ -82,6 +82,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <th scope ="col">Delivery</th>
     <th scope ="col">Stipend</th>
     <th scope ="col">Application Link</th>
+    <th scope ="col">Application Due Date</th>
   </tr>
 </thead>
 <tbody>
@@ -92,6 +93,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>No</td>
     <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
+    <td>Rolling Acceptance</td>
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
@@ -102,6 +104,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>Public Schools: <a href="https://bjc.link/pathfinders2024">Register Here</a>
         <br>Private Schools: <a href="https://bjc.link/pd-su24">Register Here</a>
     </td>
+    <td>July 12, 2024 11:59pm PST</td>
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
@@ -112,6 +115,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>Public Schools: <a href="https://bjc.link/pathfinders2024">Register Here</a>
         <br>Private Schools: <a href="https://bjc.link/pd-su24">Register Here</a>
     </td>
+    <td>July 12, 2024 11:59pm PST</td>
   </tr>
  </tbody>
 </table>
