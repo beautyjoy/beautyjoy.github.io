@@ -93,7 +93,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>No</td>
     <td><a href="https://bjc.link/pd-su24">Register Here</a></td>
-    <td>Rolling Acceptance</td>
+    <td>Closed</td>
   </tr>
   <tr>
     <td>July 22 - 26, 2024</td>
