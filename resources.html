@@ -7,9 +7,10 @@ title: Resources
 # If a new tag is added to a resource, remember to add it to filter_tags below so it shows up in the dropdown!
 filter_tags: snap students
 ---
+
 {% capture section_content %}
-<label for="resources-filter">Filter Resources:</strong>
-<select class="resources-filter" id="#resources-filter">
+<label for="resources-filter"><strong>Filter Resources:</strong></label>
+<select class="resources-filter" id="resources-filter">
     <option value="all">All</option>
     {% assign filter_tags = page.filter_tags | split: " " %}
     {% for tag in filter_tags %}
