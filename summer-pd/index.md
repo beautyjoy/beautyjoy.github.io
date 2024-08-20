@@ -43,7 +43,7 @@ This workshop will be led by Dan Garcia, Teaching Professor at the University of
 [nsf-2]: https://nsf.gov/awardsearch/showAward?AWD_ID=1542922
 [pd-email]: mailto:pd@bjc.berkeley.edu
 
-BJC has offered High School PD workshops since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), DonorsChoose, and Infosys Foundation USA. They have been organized by [Professor Tiffany Barnes][tiffany] at NC State University, who leads our efforts to provide regional BJC PD workshops at universities around the United States.
+BJC has offered High School PD workshops since 2012 at low or no cost to teachers with support from the National Science Foundation (grants [13469222][nsf-1] and [1542922][nsf-2]), DonorsChoose, and the Infosys Foundation USA. We are also supported by the U.S. Department of Education via the Education Innovation and Research (EIR) grant S411C200074 through our program Improving Equity in AP Computer Science Principles: Scaling Beauty and Joy of Computing. The CSP workshops have been organized by [Professor Tiffany Barnes][tiffany] at NC State University, who leads our efforts to provide regional BJC PD workshops at universities around the United States.
 
 BJC PD workshops are led by BJC Lead Teachers who have attended a BJC Summer PD workshop, taught the BJC course in high school, and participated in our ongoing "Train the Trainer" professional development program. The workshop content is based on the BJC curriculum, but is designed to also prepare teachers for facilitating hands-on programming labs, supporting collaboration, and creating equitable opportunities for students to learn computing.
 
