@@ -2,7 +2,8 @@
 ---
 
 User-agent: *
-Disallow: /website/
+Disallow: /website/*
+Disallow: */old/*
 
 {% if site.url != site.production_url %}
 User-agent: *
