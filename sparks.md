@@ -3,6 +3,8 @@ title: BJC Sparks
 subtitle: Middle School / Early High School Curriculum
 call_to_action: Try the Curriculum
 call_to_action_link: /bjc-r/course/sparks.html
+secondary_action: View the Teacher Guide
+secondary_action_link: /bjc-r/course/sparks-teacher.html
 layout: summer-pd
 redirect_from:
   - /ms/
@@ -16,10 +18,6 @@ The Beauty and Joy of Computing (BJC) is a university-level non-majors course de
 We recognized the opportunity to bring a reduced and simplified version of the curriculum to middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We use a lab-centric paradigm, delivered as a series of “HomeFun” (not “HomeWORK”) programming challenges. We created and piloted two of the units in the 2018-2019 academic year with ten students in grades 4-8. In Summer 2022, we offered a week-long, virtual workshop for teachers, administrators, and parents or community members running extra-curricular activities who started alpha testing curriculum in the 2021-2022 academic year.
 
 <!--Two units are intended to take one academic year to complete, and are intended to be taught in order.-->
-
-<a href="/bjc-r/course/sparks-teacher.html" class="btn btn-md">
-  View the teacher guide
-</a>
 
 ## Design Principles
 
