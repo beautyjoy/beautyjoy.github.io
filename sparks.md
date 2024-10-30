@@ -28,6 +28,10 @@ We seek to support all students by providing open-ended creative projects that a
 ### Supportive (of Teachers)
 Teachers are critical to implementation, and our curriculum will provide a companion teacher guide for each unit of study. This will include an overview of the student content, teaching tips, pacing suggestions, formative and summative assessment items, example solutions, and correlations to the CSTA standards. Throughout our multi-year development process, we will seek early and frequent feedback from teachers on the student-facing materials, the teacher guide, and what more is needed to best support classroom activities.
 
+<a href="/bjc-r/course/sparks-teacher.html" class="btn btn-md">
+  View the teacher guide
+</a>
+
 ### Computational Problem Solving
 Through our open-ended programming activities and meaningful investigations of the social implications of computing innovations, we encourage students to see that there are multiple ways to solve a problem and to develop the habit of evaluating potential solutions by considering aspects such as code-readability and impacts across social groups, and to society. We support students in developing a range of debugging skills as they learn to see programming as both a technical and a creative act, and we encourage them to seek ideas and feedback directly from intended users of their technology.
 
