@@ -22,13 +22,13 @@ layout: default
             </div>
             <div class="col">
                 {% if page.call_to_action and page.call_to_action_link %}
-                <a href="{{ page.call_to_action_link }}" class="btn btn-md">
+                <a href="{{ page.call_to_action_link }}" target="_blank" class="btn btn-md">
                   {{ page.call_to_action }}
                 </a>
                 {% endif %}
 
                 {% if page.secondary_action and page.secondary_action_link %}
-                <a href="{{ page.secondary_action_link }}" class="btn btn-md">
+                <a href="{{ page.secondary_action_link }}" target="_blank" class="btn btn-md">
                   {{ page.secondary_action }}
                 </a>
                 {% endif %}
