@@ -1,5 +1,5 @@
 ---
-title: 2024 Professional Development
+title: 2025 Professional Development
 subtitle: One-Week Workshops for Teachers
 layout: summer-pd
 redirect_from:
@@ -51,13 +51,13 @@ We offer vitual summer professional development workshops for teachers intending
 
 <!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Lead Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
-### BJC PD Summer 2024 Schedule and Application
+### BJC PD Summer 2025 Schedule and Application
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2024 PD schedule for our PD workshops and links to the PD Application.
+Below is our 2025 PD schedule for our PD workshops and links to the PD Application.
 
 <!-- <b>Apps are due by May 31, 2022.</b> -->
 
@@ -70,6 +70,7 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
 <!-- Tuition, travel, boarding and lodging was provided. -->
 
 [pathfinders-app-link]: http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx
+[pathfinders-app-link]: https://bit.ly/pathfinders25
 
 <!-- We also will be holding **regional workshops** in the following locations: -->
 
@@ -87,31 +88,31 @@ Below is our 2024 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 24 - August 16, 2024</td>
+    <td>June 23 - August 15, 2025</td>
     <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>Closed</td>
-    <td>Closed</td>
+    <td>Coming Soon</td>
+    <td>August 1, 2025 11:59pm PST</td>
   </tr>
   <tr>
-    <td>July 22 - 26, 2024</td>
-    <td>11:00 AM - 5:00 PM EST Daily</td>
+    <td>July 28 - August 1, 2025</td>
+    <td>8 AM - 2 PM PST Daily</td>
     <td>BJC Sparks</td>
     <td>Online</td>
     <td>Yes + Hardware</td>
-    <td>Closed</td>
-    <td>July 12, 2024 11:59pm PST</td>
+    <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
+    <td>July 11, 2025 11:59pm PST</td>
   </tr>
   <tr>
-    <td>July 22 - 26, 2024</td>
-    <td>11:00 AM - 5:00 PM EST Daily</td>
+    <td>July 28 - August 1, 2025</td>
+    <td>8 AM - 2 PM EST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Yes</td>
-    <td>Closed</td>
-    <td>July 12, 2024 11:59pm PST</td>
+    <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
+    <td>July 11, 2025 11:59pm PST</td>
   </tr>
  </tbody>
 </table>
@@ -133,11 +134,11 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For the July 22-26, 2024 CS Principles and Sparks PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 22-26, 2024 PD workshops if you are a public high school or public middle school teacher in the United States.
+For the July 28 - August 1, 2025 CS Principles and Sparks PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 28 - August 1, 2025 PD workshops if you are a public high school or public middle school teacher in the United States.
 
 If you are not a public high school or public middle school teacher and would like to attend one of the July 22-26 workshops, there is a non-refundable registration fee to hold your spot ($75 for CS Principles; $100 for BJC Sparks and includes hardware to keep). All course materials and year-long ongoing support are free.
 
-Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 24-28 CS Principles workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 22-26, 2024 workshops, and seats will be allocated first come, first serve.
+Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 28 - August 1 CS Principles workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 28 - August 1, 2025 workshops, and seats will be allocated first come, first serve.
 
 For our self-paced, asynchronous BJC CSP PD workshop this summer, there is no cost to participate. All course materials and year-long ongoing support are free. There is no stipend available for those participating in the self-paced PD.
 
@@ -151,17 +152,21 @@ If you are a BJC teacher, and would like to prepare to lead BJC workshops, email
 
 ## The BJC Curriculum, In Short
 
+[AP CSP]: https://bjc.berkeley.edu/ap-cs-principles/
+
 BJC, The Beauty and Joy of Computing, is an AP Computer Science Principles curriculum that emphasizes the joy and complexity of creating visual computer programs and apps, balanced with critical reflection on both the potential benefits and harms of new computing technologies. The Beauty and Joy of Computing adheres to the College Board's new [AP Computer Science Principles](https://advancesinap.collegeboard.org/stem/computer-science-principles) course requirements.
 
 BJC has a strong design and programming focus, using the visual programming language Snap<em>!</em> and a collaborative, exploratory approach where students work in teams to bring their own unique creations to life.
 
 BJC is culturally situated, presenting programming and computing ideas not in isolation, but in the context of how students interact with computers in their daily lives. In our readings and discussions, we critically explore how technology has changed the world for better, and for worse, enabling students to understand the potential benefits and harms of creating new things with computing. Student readings are taken mainly from the companion book Blown to Bits, which is available for free online download.
 
-BJC is designed to meet the requirements of the [College Board AP Computer Science Principles curriculum framework]({{ site.baseurl }}/ap-cs-principles). It was originally developed as a university breadth course at the University of California, Berkeley, and has been extensively revised for high school use at EDC (Education Development Center).
+BJC is designed to meet the requirements of the [College Board AP Computer Science Principles curriculum framework][AP CSP]. It was originally developed as a university breadth course at the University of California, Berkeley, and has been extensively revised for high school use at EDC (Education Development Center).
 
 The newest curriculum is at [bjc.edc.org](https://bjc.edc.org).
 
 ### Why choose BJC?
+
+[Curriculum Guide]: https://bjc.berkeley.edu/curriculum/
 
 *   BJC teaches strong fundamental concepts of programming.
     *   In BJC students use Snap<em>!</em>, an accessible but full-featured block-based programming language, to explore concepts ranging from loops and variables up through recursion and higher-order functions.
@@ -176,7 +181,7 @@ The newest curriculum is at [bjc.edc.org](https://bjc.edc.org).
 *   BJC is well-supported.
     *   BJC teachers attend face-to-face professional development programs and have access to a wealth of online resources, including a repository of shared course materials, and weekly group calls.
 
-For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide]({{ site.baseurl }}/curriculum/).
+For more information on how BJC compares to the general CS Principles framework, please see [our comparison guide][Curriculum Guide].
 
 ### Who is teaching BJC?
 
