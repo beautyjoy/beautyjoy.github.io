@@ -1,4 +1,4 @@
-name: Run rspec tests
+name: a11y
 
 # Run when a PR is opened, any branch is pushed
 # Also allow manually triggering workflows, and running if a release is created.
@@ -7,7 +7,7 @@ on:
   - push
   - workflow_dispatch
   - deployment
-  - release 
+  - release
 
 jobs:
   build:
@@ -20,7 +20,16 @@ jobs:
           # Use the .ruby-version file in the repository
           # runs 'bundle install' and caches installed gems automatically
           bundler-cache: true
-      # TODO: Setup 'optional' a11y specs, in addition to required ones.
       - name: Run rspec tests
-        run: |
-          bundle exec rspec
+        run: bundle exec rspec
+      - name: summary
+        if: failure()
+        run: ruby spec/support/spec_summary.rb
+      - name: Keep screenshots from failed tests
+        uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: screenshots
+          path: ${{ github.workspace }}/tmp/capybara
+          if-no-files-found: ignore
+          retention-days: 7
