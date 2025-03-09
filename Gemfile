@@ -44,7 +44,9 @@ group :development, :test do
   gem 'axe-core-capybara'
   gem 'axe-core-rspec'
   gem 'capybara'
-  gem 'rack-jekyll'
+  gem 'capybara-screenshot'
+  gem 'rack'
+  gem 'rackup'
   gem 'rspec'
   gem 'selenium-webdriver'
 end
