@@ -5,6 +5,7 @@
 _site
 _aws
 _berkeley
+_site_specs
 
 .sass-cache
 .jekyll-metadata

@@ -2,6 +2,8 @@
 
 require 'jekyll'
 
+OUTPUT_DIR = '_site_specs'
+
 # Tools to build / compile the Jekyll site and extract the sitemap
 def site_config
   # TODO(template): We should standardize the build for specs
@@ -9,7 +11,11 @@ def site_config
   # Consider forcing the desination folder
   # Override the local URL too? Would it break the sitemap?
   # Note: Config keys must be strings and thus use => style hashes.
-  @site_config ||= Jekyll.configuration({ 'sass' => { 'quiet_deps' => true } })
+  @site_config ||= Jekyll.configuration({
+    'sass' => { 'quiet_deps' => true },
+    'destination' => OUTPUT_DIR,
+    'baseurl' => '/',
+  })
 end
 
 def build_jekyll_site!
@@ -21,7 +27,7 @@ end
 
 def load_sitemap
   # Ensure that you have called
-  sitemap_text = File.read('_site/sitemap.xml')
+  sitemap_text = File.read("#{OUTPUT_DIR}/sitemap.xml")
   sitemap_links = sitemap_text.scan(%r{<loc>.+</loc>})
   sitemap_links.filter_map do |link|
     link = link.gsub("<loc>#{site_config['url']}", '').gsub('</loc>', '')
@@ -46,7 +52,7 @@ class StaticSite
 
   def call(env)
     # Remove the /baseurl prefix, which is present in all URLs, but not in the file system.
-    path = "_site#{env['PATH_INFO'].gsub(site_config['baseurl'], '/')}"
+    path = "#{OUTPUT_DIR}/#{env['PATH_INFO'].gsub(site_config['baseurl'], '/')}"
 
     env['PATH_INFO'] = if path.end_with?('/') && exists?("#{path}index.html")
                          "#{path}index.html"

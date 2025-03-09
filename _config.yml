@@ -21,7 +21,7 @@ description: >
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc, BJC Sparks, middle school, robotics,
-baseurl: ""
+baseurl: "/"
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
 # This file only overwrites the nececessary changes from _config

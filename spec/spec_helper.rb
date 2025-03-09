@@ -70,7 +70,7 @@ end
 
 Capybara::Screenshot.autosave_on_failure = true
 Capybara::Screenshot.append_timestamp = false
-Capybara::Screenshot.prune_strategy = :keep_last_run
+# Capybara::Screenshot.prune_strategy = :keep_last_run
 
 # Setup for Capybara to serve static files served by Rack
 Capybara.server = :webrick
