@@ -81,6 +81,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <th scope ="col">Time</th>
     <th scope ="col">Curriculum</th>
     <th scope ="col">Delivery</th>
+    <th scope ="col">Cost</th>
     <th scope ="col">Stipend</th>
     <th scope ="col">Application Link</th>
     <th scope ="col">Application Due Date</th>
@@ -92,6 +93,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
+    <td>Free</td>
     <td>No</td>
     <td><a href="https://bit.ly/bjcpdapcsp25">Apply Here</a></td>
     <td>August 1, 2025 11:59pm PST</td>
@@ -101,7 +103,8 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <td>8 AM - 2 PM PST Daily</td>
     <td>BJC Sparks</td>
     <td>Online</td>
-    <td>Public School Teacher: Yes + Hardware <br><br> Private School Teacher: No + Hardware</td>
+    <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
+    <td>Public School Teacher: $200 + Hardware <br><br> Private School Teacher: No + Hardware</td>
     <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
     <td>July 11, 2025 11:59pm PST</td>
   </tr>
@@ -110,7 +113,8 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <td>8 AM - 2 PM EST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
-    <td>Public School Teacher: Yes <br><br> Private School Teacher: No</td>
+    <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
+    <td>Public School Teacher: $200 <br><br> Private School Teacher: No</td>
     <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
     <td>July 11, 2025 11:59pm PST</td>
   </tr>
