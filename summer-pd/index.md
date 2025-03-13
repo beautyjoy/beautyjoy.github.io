@@ -88,12 +88,12 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 23 - August 15, 2025</td>
+    <td>June 23 - August 31, 2025</td>
     <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>No</td>
-    <td>Coming Soon</td>
+    <td><a href="https://bit.ly/bjcpdapcsp25">Apply Here</a></td>
     <td>August 1, 2025 11:59pm PST</td>
   </tr>
   <tr>
