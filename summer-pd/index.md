@@ -110,7 +110,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
   </tr>
   <tr>
     <td>July 28 - August 1, 2025</td>
-    <td>8 AM - 2 PM EST Daily</td>
+    <td>8 AM - 2 PM PST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
