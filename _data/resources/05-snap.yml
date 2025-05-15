@@ -6,7 +6,7 @@ resources:
     description: Access Snap<em>!</em> here.
 
   - name: Snap<em>!</em> Reference Manual
-    link: https://snap.berkeley.edu/SnapManual.pdf
+    link: https://snap.berkeley.edu/snap/help/SnapManual.pdf
     tags: snap
     description: Descriptions of each lab and their activities and how they touch upon programming, big ideas of computing, social implications, computational thinking, enduring understandings, and learning objectives.
 
@@ -16,7 +16,7 @@ resources:
     description: Snap<em>!</em> advice compiled from our BJC TEALS teachers.
 
   - name: Snap<em>!</em> Example Projects
-    link: https://snap.berkeley.edu/#examples
+    link: https://snap.berkeley.edu/examples
     tags: snap students project
     description: Interested example Snap<em>!</em> projects.
 
@@ -48,7 +48,7 @@ resources:
       Two ways to do this:
 
       1. Run Snap*!*, click on the Snap*!* logo at the top left, and choose "download source."  This will put a folder in your downloads folder with just the HTML and Javascript needed to run Snap*!* minimally, with no libraries, costumes, help screens, etc.
-      2. The complete git repository for Snap*!* is at: <https://github.com/jmoenig/Snap--Build-Your-Own-Blocks>. We recommend finding a git expert to help with downloading it if you are unfamiliar with git.
+      2. The complete git repository for Snap*!* is at: [https://github.com/jmoenig/snap]().
 
       This is good to use when internet connection is intermittent in the short term. However in the long term, this is not a recommended practice because this standalone version will not automatically update whenever our Snap*!* developers push updates.
 
