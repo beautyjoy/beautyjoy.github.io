@@ -59,6 +59,8 @@ We offer vitual summer professional development workshops for teachers intending
 
 Below is our 2025 PD schedule for our PD workshops and links to the PD Application.
 
+*Please Note:* There is a limited number of stipend spots in our workshops, and priority will be given to those who apply before May 31, 2025.
+
 <!-- <b>Apps are due by May 31, 2022.</b> -->
 
 <!-- Our Summer 2021 PD Application will be released this Winter 2021, but in the meantime, leave us your contact information on our [BJC Summer 2021 PD Interest Form][pd-interest-form-link] so we can let you know when details are released. -->
@@ -81,6 +83,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <th scope ="col">Time</th>
     <th scope ="col">Curriculum</th>
     <th scope ="col">Delivery</th>
+    <th scope ="col">Cost</th>
     <th scope ="col">Stipend</th>
     <th scope ="col">Application Link</th>
     <th scope ="col">Application Due Date</th>
@@ -88,12 +91,13 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 23 - August 15, 2025</td>
+    <td>June 23 - August 31, 2025</td>
     <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
+    <td>Free</td>
     <td>No</td>
-    <td>Coming Soon</td>
+    <td><a href="https://bit.ly/bjcpdapcsp25">Apply Here</a></td>
     <td>August 1, 2025 11:59pm PST</td>
   </tr>
   <tr>
@@ -101,16 +105,18 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <td>8 AM - 2 PM PST Daily</td>
     <td>BJC Sparks</td>
     <td>Online</td>
-    <td>Public School Teacher: Yes + Hardware <br><br> Private School Teacher: No + Hardware</td>
+    <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
+    <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
     <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
     <td>July 11, 2025 11:59pm PST</td>
   </tr>
   <tr>
     <td>July 28 - August 1, 2025</td>
-    <td>8 AM - 2 PM EST Daily</td>
+    <td>8 AM - 2 PM PST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
-    <td>Public School Teacher: Yes <br><br> Private School Teacher: No</td>
+    <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
+    <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
     <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
     <td>July 11, 2025 11:59pm PST</td>
   </tr>
