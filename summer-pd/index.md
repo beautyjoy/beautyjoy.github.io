@@ -107,7 +107,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
     <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
-    <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
+    <td>Closed</td>
     <td>July 11, 2025 11:59pm PST</td>
   </tr>
   <tr>
@@ -117,7 +117,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
     <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
-    <td><a href="https://bit.ly/pathfinders25">Apply Here</a></td>
+    <td>Closed</td>
     <td>July 11, 2025 11:59pm PST</td>
   </tr>
  </tbody>
