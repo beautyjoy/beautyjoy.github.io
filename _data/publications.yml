@@ -74,3 +74,370 @@
     '[Scratch](https://scratch.mit.edu) is a computer programming language
     for children, with a graphical drag-and-drop user interface. It is a descendent of Logo, developed at the MIT Media Lab. A small but growing trend among universities is to develop computer science courses for non-majors using Scratch as the programming environment, because it isn''t threatening - the same reason it works for kids. Also, the visible use of multiple threads in Scratch provide a simple introduction to parallelism. One such course was piloted this year at the University of California, Berkeley: "The Beauty and Joy of Computing." But Scratch has weaknesses as a programming language. Most notably, it lacks procedures, so it can't convey the impressive phenomenon of recursion, one of the central ideas of computer science (and also one of the central ideas of early Logo pedagogy). Its support for data structures is also weak. These weaknesses aren't oversights; the designers of Scratch deliberately avoided cluttering the language with anything a child might find threatening. To serve these two audiences, it has been proposed to split the Scratch community with two versions of the language, one for kids and one for advanced users. We believe that this is not necessary. By taking key ideas, such as procedures as first class data, from the Scheme language, we can add only a few features to Scratch and still make it powerful enough to support a serious introductory computer science curriculum. Furthermore, the graphical interface of Scratch makes the reification of procedures as data seem much less abstract and intimidating to novices.
   external_link: ''
+
+# Translated via Claude from an old Google Doc
+# (mb) https://claude.ai/chat/b3b4a9ac-264d-4dce-84dc-409ba253f9ae
+# https://docs.google.com/document/d/1SuEhlGvWWDAn4YeiW4QCR7eD2xynjxVp8sLvU80k1rg/edit?tab=t.0
+# category options: paper, poster, talks, workshop, external evaluation, dissertation
+# =============================================================================
+# Evaluations of BJC courses and professional development
+# =============================================================================
+
+- title: ! 'Beauty and Joy of Computing: 2016-17 Findings from an AP CS Principles course'
+  filename:
+  authors: June Mark, Kelsey Klein
+  doi:
+  category: paper
+  year: 2019
+  journal: SIGCSE 2019
+  abstract: This paper reports on findings from the implementation of BJC as an AP CSP course in NYC from the 2016–17 school year with 1,383 students (33% juniors, 44% seniors; 43% female, 27% black, 28% Hispanic, Asian 23%, white 19%; 60% free or reduced price lunch, 2% English language learners, 7% with disabilities). BJC enrollments for 2017-2018 were 2,383 students with higher participation by females, blacks and Hispanics (49% female, 33% black, 29% Hispanic). Students from all demographic groups showed similar gains in content, confidence, interest, belonging, and identity. When excluding 2 high-performing schools from an analysis of 2017 AP CSP scores, 1,192 NYC students from 75 schools took the exam, with about half using the BJC curriculum. Students taught with BJC passed at a significantly higher rate (54.2%) than students not taught with BJC (37.7%).
+  external_link: https://drive.google.com/open?id=1m2cLnC1xWp5AqR_dMrF8v2Z-uUWXBiJg
+
+- title: Lessons Learned from BJC CS Principles Professional Development
+  filename:
+  authors: Thomas W Price, Veronica Cateté, Jennifer Albert, Tiffany Barnes, Daniel D Garcia
+  doi:
+  category: paper
+  year: 2016
+  journal: SIGCSE 2016
+  abstract: From 2012-2015, the BJC team offered professional development (PD) to 133 teachers, resulting in 89 BJC CSP courses taught in high schools. The PD improved teachers' confidence in our four core content categories and met its primary goal of training teachers in equitable, inquiry-based instruction. In this paper, we present the evolution of the BJC PD, its challenges and lessons that we learned while continually adapting to teachers' needs and contexts.
+  external_link: https://dl.acm.org/citation.cfm?id=2844625
+
+- title: ! 'BJC in action: Comparison of student perceptions of a computer science principles course'
+  filename:
+  authors: Thomas W Price, Jennifer Albert, Veronica Catete, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2015
+  journal: RESPECT 2015
+  abstract: This paper investigates how the responses of females and students from underrepresented racial minority groups (URMs) differed from those of their counterparts in 399 post-course BJC surveys. We found that female students had taken fewer CS courses prior to BJC but that students from URMs had taken more prior CS courses. Both groups were nearly equally likely to recommend the course to a friend, with about 80% recommending. We found no evidence to suggest that female students showed more or less interest in specific CS topics, such as learning how computing has changed the world or making mobile apps/games. Despite having taken more CS courses prior to BJC, we found that students from URMs were overall less likely to intend to take additional CS courses. Overall, our findings suggest that BJC makes some progress towards broadening participation in computing.
+  external_link: https://ieeexplore.ieee.org/abstract/document/7296506/
+
+- title: ! 'Effective computer science teacher professional development: Beauty and joy of computing 2018'
+  filename:
+  authors: Alexandra Milliken, Christa Cody, Veronica Catete, Tiffany Barnes
+  doi: 10.1145/3304221.3319779
+  category: paper
+  year: 2019
+  journal: ITiCSE 2019
+  abstract: The Advanced Placement Computer Science Principles (AP CSP) course has been fully active for 2 years, garnering a large group of diverse students, and flaming the need for highly trained CSP teachers, especially in effective practices for diversity and equity. We have conducted summer professional development (PD) workshops from 2012-2018 which have prepared 748 teachers to teach AP CSP using the Beauty and Joy of Computing (BJC) curriculum. To improve equity and readiness for teaching, we have refined our PD by shortening the PD from 6 weeks to 1 week; developing new, highly scaffolded pre-PD work; and modifying the in-person schedule to incorporate more pedagogy and teaching experiences, while continuing to provide in-depth, hands-on support for teachers to learn the basics of programming. The most recent revisions to our PD schedule resulted in improved post-PD survey results, with teachers from the 2018 cohort planning to adopt more of the BJC curriculum than in past years. From 2017 to 2018, planned adoption rates increased by 13%, resulting in 73% of the 2018 PD participants planning to adopt more than 60% of the BJC curriculum and 58% planning to adopt 80-100% of the BJC curriculum in their classrooms in 2018-2019. In this paper, we discuss the most recent BJC PD implementation and provide evidence of increased teacher self-efficacy in areas including fostering interest in computing for underrepresented populations.
+  external_link: https://dl.acm.org/doi/abs/10.1145/3304221.3319779
+
+# =============================================================================
+# Curriculum design
+# =============================================================================
+
+- title: The beauty and joy of computing
+  filename:
+  authors: D Garcia, B Harvey, T Barnes
+  doi:
+  category: paper
+  year: 2015
+  journal: ACM Inroads
+  abstract: In this article, we share our philosophy, an update on our course design principles, a general flow through our curriculum, the impact BJC has had, and conclude with lessons learned.
+  external_link: https://dl.acm.org/citation.cfm?id=2835184
+
+- title: ! 'The beauty and joy of computing: Computer science for everyone'
+  filename:
+  authors: B Harvey
+  doi:
+  category: paper
+  year: 2012
+  journal: Proceedings of Constructionism
+  abstract: '"The Beauty and Joy of Computing" is a computer science course for undergraduate non-majors that combines a deep programming experience with lectures, readings, and discussions about nonprogramming topics such as the social context of computing and the future and limitations of computing. The course is designed to appeal to a wide range of students, including women and underrepresented minorities. The programming half of the course uses BYOB, an extension to Scratch adding first class procedures, lists, and objects. The course has been chosen as one of the pilots for a coming (2016) high school Advanced Placement exam. Our current work includes further curriculum development, an NSF-funded teacher preparation program, and the implementation of SNAP!, a new browser-based version of BYOB.'
+  external_link: http://ftp.cs.berkeley.edu/~bh/BJC.pdf
+
+# =============================================================================
+# Short introductions to BJC, AP CS Principles, and Workshops
+# =============================================================================
+
+- title: ! 'The first five computer science principles pilots: summary and comparisons'
+  filename:
+  authors: L Snyder, T Barnes, D Garcia, J Paul, B Simon
+  doi:
+  category: paper
+  year: 2012
+  journal: ACM Inroads
+  abstract: This paper presents the 7 Big Ideas and 6 Computational Thinking practices and descriptions of the first 5 pilots for the AP CSP course.
+  external_link: http://homes.cs.washington.edu/~snyder/Snyder-Pilots.pdf
+
+- title: CS principles pilot at University of California, Berkeley
+  filename:
+  authors: DD Garcia, B Harvey, L Segars
+  doi:
+  category: paper
+  year: 2012
+  journal: ACM Inroads
+  abstract:
+  external_link: https://bjc.berkeley.edu/documents/2012%20ACM%20Inroads%20-%20CS%20Principles%20Pilot%20at%20University%20of%20California,%20Berkeley.pdf
+
+- title: CS principles pilot at University of North Carolina at Charlotte
+  filename:
+  authors: T Barnes
+  doi:
+  category: paper
+  year: 2012
+  journal: ACM Inroads
+  abstract:
+  external_link: https://dl.acm.org/citation.cfm?id=2189855
+
+- title: ! 'CS principles: piloting a new course at national scale'
+  filename:
+  authors: O Astrachan, T Barnes, DD Garcia, J Paul, B Simon, L Snyder
+  doi:
+  category: talks
+  year: 2011
+  journal: SIGCSE 2011 Panel
+  abstract:
+  external_link: https://dl.acm.org/citation.cfm?id=1953281
+
+- title: ! 'Transforming K-12 computing education: AP® computer science principles'
+  filename:
+  authors: J Cuny
+  doi:
+  category: paper
+  year: 2015
+  journal: ACM Inroads
+  abstract: This critical perspective focuses on the new Advanced Placement® Computer Science Principles course and its place in the larger CS10K Initiative. CS Principles as defined by the College Board is a framework; several different, aligned curricula have been created.
+  external_link: https://dl.acm.org/citation.cfm?id=2832916
+
+- title: AP CS principles and the beauty and joy of computing curriculum
+  filename:
+  authors: Daniel D Garcia, Tiffany Barnes, Michael Ball, Emil Biga, Josh Paley, Marnie Hill, Nathan Mattix, Parisa Safa, Sean Morris, Shawn Kenner
+  doi:
+  category: workshop
+  year: 2016
+  journal: SIGCSE 2016 Workshop
+  abstract: Workshops like this one have been offered at SIGCSE 2012, 2013, 2014, 2016, and 2018
+  external_link: https://dl.acm.org/citation.cfm?id=2844714
+
+- title: ! 'Scaling Up for CS10K: Teaching and Supporting New Computer Science High School Teachers'
+  filename:
+  authors: Tiffany Barnes, Jamie Payton, Daniel D Garcia
+  doi:
+  category: workshop
+  year: 2016
+  journal: SIGCSE 2016 Workshop
+  abstract: This workshop helped engage college and university computing faculty in supporting local high school teachers in learning to teach computer science.
+  external_link: https://dl.acm.org/citation.cfm?id=2844705
+
+# =============================================================================
+# Design of the Snap programming language
+# =============================================================================
+
+- title: Snap on the Scratch wiki
+  filename:
+  authors: B Harvey
+  doi:
+  category: paper
+  year: 2018
+  journal: Scratch Wiki
+  abstract: An article on the design of the Snap programming language.
+  external_link: https://en.scratch-wiki.info/wiki/Snap!_(programming_language)#Intellectual_Precursors
+
+- title: ! 'Bringing "no ceiling" to scratch: Can one language serve kids and computer scientists'
+  filename:
+  authors: B Harvey, J Mönig
+  doi:
+  category: paper
+  year: 2010
+  journal: Proceedings of Constructionism
+  abstract: By combining graphical drag-and-drop user interface of Scratch and key ideas, such as procedures as first class data, from the Scheme language, this paper describes the ideas for Snap, a programming language that can support a rigorous introductory computer science curriculum.
+  external_link: http://ftp.cs.berkeley.edu/~bh/BYOB.pdf
+
+# =============================================================================
+# Design and study of rubrics for helping new teachers grade BJC labs
+# =============================================================================
+
+- title: Creation and validation of low-stakes rubrics for K-12 computer science
+  filename:
+  authors: Veronica Cateté, Nicholas Lytle, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2018
+  journal: ITiCSE 2018
+  abstract: This paper builds low-stakes rubrics that support novice CS teachers to consistently assess student programming assignments.
+  external_link: https://dl.acm.org/citation.cfm?id=3197134
+
+- title: Application of the Delphi Method in Computer Science Principles Rubric Creation
+  filename:
+  authors: Veronica Cateté, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2017
+  journal: ITiCSE 2017
+  abstract: This research study introduces two variations of the Delphi Method to create learning-oriented rubrics for Computer Science Principles teachers using the Beauty and Joy of Computing curriculum.
+  external_link: https://dl.acm.org/citation.cfm?id=3059042
+
+- title: A Pathway to Strengthening Support for Beauty and Joy of Computing Teachers
+  filename:
+  authors: Meghana Subramaniam, Veronica Cateté
+  doi:
+  category: poster
+  year: 2017
+  journal: SIGCSE 2017
+  abstract: In this paper, we introduce a new style of coding rubric, which allows teachers to better understand the fundamentals of the Beauty and Joy of Computing, an AP Computer Science Principles course.
+  external_link: https://dl.acm.org/citation.cfm?id=3022458
+
+- title: Developing a rubric for a creative CS Principles lab
+  filename:
+  authors: Veronica Cateté, Erin Snider, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2016
+  journal: ITiCSE 2016
+  abstract: The "Beauty and Joy of Computing" Computer Science Principles class has inspired many new teachers to learn to teach creative computing classes in high schools. However, new computer science teachers feel under-prepared to grade open-ended programming assignments and support their students' successful learning. Rubrics have widely been used to help teaching assistants grade programs and are a promising way to support new teachers to learn how to grade BJC programs. In this paper, we adapt general coding criteria from auto-graders to a lab where students write code to draw a brick wall. We tested the rubric on student assignments and showed that we can achieve high inter-rater agreement with the refined rubric.
+  external_link: https://dl.acm.org/citation.cfm?id=2899449
+
+# =============================================================================
+# Prior work and inspiration for the BJC course
+# =============================================================================
+
+- title: ! 'Rediscovering the passion, beauty, joy, and awe: making computing fun again, part 6'
+  filename:
+  authors: DD Garcia, V Barr, M Guzdial, DJ Malan
+  doi:
+  category: paper
+  year: 2013
+  journal: SIGCSE 2013
+  abstract: Dan Garcia's passion, beauty, joy, and awe sessions at SIGCSE were inspirations for creating the BJC course.
+  external_link: https://dl.acm.org/citation.cfm?id=2445308
+
+- title: Lessons from a course on serious games research and prototyping
+  filename:
+  authors: A Chaffin, T Barnes
+  doi:
+  category: paper
+  year: 2010
+  journal: Proceedings of the Fifth International Conference on the Foundations of Digital Games
+  abstract: Tiffany Barnes's work on teaching serious game research and prototyping to students inspired her to introduce creative student-driven projects in introductory computing as in BJC.
+  external_link: https://dl.acm.org/citation.cfm?id=1822353
+
+# =============================================================================
+# Research work on building intelligent data-driven support for novice programming
+# =============================================================================
+
+- title: ! 'iSnap: Data-driven Support for Novice Programming Informed by Evaluations of Hint Quality and Investigations of Student Help-seeking Behavior'
+  filename:
+  authors: Thomas W. Price
+  doi:
+  category: dissertation
+  year: 2018
+  journal: NC State University
+  abstract: Dissertation by Thomas W. Price.
+  external_link: https://repository.lib.ncsu.edu/bitstream/handle/1840.20/35090/etd.pdf?sequence=1
+
+- title: The Impact of Data Quantity and Source on the Quality of Data-driven Hints for Programming
+  filename:
+  authors: Thomas W. Price, Rui Zhi, Yihuan Dong, Nicholas Lytle, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2018
+  journal: AIED 2018
+  abstract: Using two datasets, we investigate how the quantity of data and the source of data (whether it comes from students or experts) impact one hint generation algorithm. We find that with student training data, hint quality stops improving after 15-20 training solutions and can decrease with additional data. We also find that student data outperforms a single expert solution but that a comprehensive set of expert solutions generally performs best.
+  external_link: https://people.engr.ncsu.edu/twprice/website/files/AIED%202018.pdf
+  slides_link: https://drive.google.com/file/d/1DQ-mGXhuWtiAKUSuPJD6kU0twXLjbZvn/view?usp=sharing
+
+- title: Reducing the State Space of Programming Problems through Data-Driven Feature Detection
+  filename:
+  authors: R Zhi, TW Price, N Lytle, Y Dong, T Barnes
+  doi:
+  category: paper
+  year: 2018
+  journal: EDM 2018 - CSEDM Workshop
+  abstract: The large state space of programming problems makes providing adaptive support in intelligent tutoring systems (ITSs) difficult. We present a data-driven feature detection algorithm for reducing the state space size, that could allow for more interpretable analysis of student progress as well as easier integration of data-driven feedback.
+  external_link: https://people.engr.ncsu.edu/twprice/website/files/CSEDM%202018.pdf
+
+- title: Evaluation of a Data-driven Feedback Algorithm for Open-ended Programming
+  filename:
+  authors: TW Price, R Zhi, T Barnes
+  doi:
+  category: paper
+  year: 2017
+  journal: EDM 2017
+  abstract: This paper presents a novel, data-driven algorithm for generating feedback for students on open-ended programming problems, annotating a student's whole program with suggested edits, including code that should be moved, deleted, or added.
+  external_link: http://www4.ncsu.edu/~twprice/website/files/EDM%202017.pdf
+
+- title: Factors Influencing Students' Help-Seeking Behavior while Programming with Human and Computer Tutors
+  filename:
+  authors: TW Price, Z Liu, V Cateté, T Barnes
+  doi:
+  category: paper
+  year: 2017
+  journal: ICER 2017
+  abstract: Busy instructors and large class sizes can make expert help a scarce resource. This paper presents a qualitative analysis of 15 students' interviews, in which they reflect on solving two programming problems with human and computer help.
+  external_link: https://dl.acm.org/citation.cfm?id=3106179
+
+- title: ! 'Position paper: Block-based programming should offer intelligent support for learners'
+  filename:
+  authors: TW Price, T Barnes
+  doi:
+  category: paper
+  year: 2017
+  journal: IEEE Blocks and Beyond Workshop 2017
+  abstract: Block-based programming environments make learning to program easier by allowing learners to focus on concepts rather than syntax. We argue that these environments should offer learners support while they program.
+  external_link: http://www4.ncsu.edu/~twprice/website/files/BB%202017.pdf
+
+- title: The Continuous Hint Factory-Providing Hints in Vast and Sparsely Populated Edit Distance Spaces
+  filename:
+  authors: B Paaßen, B Hammer, TW Price, T Barnes
+  doi:
+  category: paper
+  year: 2017
+  journal: arXiv preprint
+  abstract: Intelligent tutoring systems can support students in solving multi-step tasks by providing a hint regarding what to do next. However, engineering such next-step hints manually or using an expert model becomes infeasible if the space of possible states is too large. We provide a mathematical framework for edit-based hint policies and, based on this theory, propose a novel hint policy to provide edit hints in vast and sparsely populated state spaces. We demonstrate that the Continuous Hint Factory can predict more accurately what capable students would do compared to existing prediction schemes on two learning tasks, especially in an open-ended programming task, and that the Continuous Hint Factory is comparable to existing hint policies at reproducing tutor hints on a simple UML diagram task.
+  external_link: https://arxiv.org/abs/1708.06564
+
+- title: ! 'iSnap: towards intelligent tutoring in novice programming environments'
+  filename:
+  authors: TW Price, Y Dong, D Lipovac
+  doi:
+  category: paper
+  year: 2017
+  journal: SIGCSE 2017
+  abstract: This paper describes a new version of Snap that uses data to provide students with hints while programming.
+  external_link: https://dl.acm.org/citation.cfm?id=3017762
+
+- title: Generating Data-driven Hints for Open-ended Programming
+  filename:
+  authors: TW Price, Y Dong, T Barnes
+  doi:
+  category: paper
+  year: 2016
+  journal: EDM 2016
+  abstract: This paper presented new algorithms to create data-driven hints for Snap and BJC labs.
+  external_link: http://www4.ncsu.edu/~twprice/website/files/EDM%202016.pdf
+
+- title: Comparing textual and block interfaces in a novice programming environment
+  filename:
+  authors: Thomas W Price, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2015
+  journal: ICER 2015
+  abstract: A study of two groups of novice programmers showing that students using blocks spent less time off task and completed more of the activity's goals in less time.
+  external_link: https://dl.acm.org/citation.cfm?id=2787712
+
+- title: Creating data-driven feedback for novices in goal-driven programming projects
+  filename:
+  authors: Thomas W Price, Tiffany Barnes
+  doi:
+  category: paper
+  year: 2015
+  journal: AIED 2015
+  abstract: Original proposal to generate hints for novice programs.
+  external_link: https://link.springer.com/chapter/10.1007/978-3-319-19773-9_132
+
+# =============================================================================
+# Related NCSU research in middle schools
+# =============================================================================
+
+- title: ! 'Infusing computational thinking into middle grade science classrooms: lessons learned'
+  filename:
+  authors: V Cateté, N Lytle, Y Dong, D Boulden, B Akram, J Houchins, T Barnes, E Wiebe, J Lester, B Mott, K Boyer
+  doi:
+  category: paper
+  year: 2018
+  journal: WiPCSE 2018
+  abstract: There is a growing need to present all students with an opportunity to learn computer science and computational thinking (CT) skills during their primary and secondary education. Traditionally, these opportunities are available outside of the core curriculum as stand-alone courses often taken by those with preparatory privilege. Researchers have identified the need to integrate CT into core classes to provide equitable access to these critical skills. We have worked in a research-practice partnership with two magnet middle schools focused on digital sciences to develop and implement computational thinking into life sciences classes. In this report, we present initial lessons learned while conducting our design-based implementation research on integrating computational thinking into middle school science classes. These case studies suggest that several factors including teacher engagement, teacher attitudes, student prior experience with CS/CT, and curriculum design can all impact student engagement in integrated science-CT lessons.
+  external_link: https://dl.acm.org/citation.cfm?id=3265778
