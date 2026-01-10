@@ -59,7 +59,7 @@ We offer vitual summer professional development workshops for teachers intending
 
 Below is our 2026 PD schedule for our PD workshops and links to the PD Application.
 
-*Please Note:* There is a limited number of stipend spots in our synchrous workshops, and priority will be given to those who apply before May 31, 2026.
+*Please Note:* There is a limited number of stipend spots in our synchronous workshops, and priority will be given to those who apply before May 31, 2026.
 
 <!-- <b>Apps are due by May 31, 2022.</b> -->
 
@@ -107,7 +107,7 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
     <td>BJC Sparks</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
-    <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
+    <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited. Priority will be given to those who apply before May 31, 2026.</td>
     <td><a href="https://bit.ly/4510pK6">Leave Your Interest Here</a> so we can contact you when registration opens.</td>
     <td>July 10, 2026 11:59pm PST</td>
   </tr>
@@ -117,7 +117,7 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
     <td>CS Principles</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
-    <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
+    <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited. Priority will be given to those who apply before May 31, 2026.</td>
     <td><a href="https://bit.ly/4510pK6">Leave Your Interest Here</a> so we can contact you when registration opens.</td>
     <td>July 10, 2026 11:59pm PST</td>
   </tr>
