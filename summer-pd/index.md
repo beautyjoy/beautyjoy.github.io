@@ -1,5 +1,5 @@
 ---
-title: 2025 Professional Development
+title: 2026 Professional Development
 subtitle: One-Week Workshops for Teachers
 layout: summer-pd
 redirect_from:
@@ -51,13 +51,13 @@ We offer vitual summer professional development workshops for teachers intending
 
 <!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Lead Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
-### BJC PD Summer 2025 Schedule and Application
+### BJC PD Summer 2026 Schedule and Application
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2025 PD schedule for our PD workshops and links to the PD Application.
+Below is our 2026 PD schedule for our PD workshops and links to the PD Application.
 
 *Please Note:* There is a limited number of stipend spots in our workshops, and priority will be given to those who apply before May 31, 2025.
 
@@ -71,6 +71,7 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
 
 <!-- Tuition, travel, boarding and lodging was provided. -->
 
+[pd-interest-form-link]: https://bit.ly/4510pK6 <!-- 2026 form -->
 [pathfinders-app-link]: http://www.infosys.org/infosys-foundation-usa/pathfinders/summer/Pages/index.aspx
 [pathfinders-app-link]: https://bit.ly/pathfinders25
 
@@ -91,34 +92,34 @@ Below is our 2025 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 23 - August 31, 2025</td>
+    <td>June 22 - August 31, 2026</td>
     <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Free</td>
     <td>No</td>
-    <td><a href="https://bit.ly/bjcpdapcsp25">Apply Here</a></td>
-    <td>August 1, 2025 11:59pm PST</td>
+    <td><a href="https://bit.ly/4510pK6">Leave Your Interest Here</a> so we can contact you when registration opens.</td>
+    <td>July 31, 2026 11:59pm PST</td>
   </tr>
   <tr>
-    <td>July 28 - August 1, 2025</td>
+    <td>July 27 - 31, 2026</td>
     <td>8 AM - 2 PM PST Daily</td>
     <td>BJC Sparks</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
     <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
-    <td>Closed</td>
-    <td>July 11, 2025 11:59pm PST</td>
+    <td><a href="https://bit.ly/4510pK6">Leave Your Interest Here</a> so we can contact you when registration opens.</td>
+    <td>July 10, 2026 11:59pm PST</td>
   </tr>
   <tr>
-    <td>July 28 - August 1, 2025</td>
+    <td>July 27 - 31, 2026</td>
     <td>8 AM - 2 PM PST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
     <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited. Priority will be given to those who apply before May 31, 2025.</td>
-    <td>Closed</td>
-    <td>July 11, 2025 11:59pm PST</td>
+    <td><a href="https://bit.ly/4510pK6">Leave Your Interest Here</a> so we can contact you when registration opens.</td>
+    <td>July 10, 2026 11:59pm PST</td>
   </tr>
  </tbody>
 </table>
@@ -140,11 +141,11 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For the July 28 - August 1, 2025 CS Principles and Sparks PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend the July 28 - August 1, 2025 PD workshops if you are a public high school or public middle school teacher in the United States.
+For the July 27 - 31, 2026 CS Principles and Sparks synchronous PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend these workshops if you are a public high school or public middle school teacher in the United States.
 
-If you are not a public high school or public middle school teacher and would like to attend one of the July 22-26 workshops, there is a non-refundable registration fee to hold your spot ($75 for CS Principles; $100 for BJC Sparks and includes hardware to keep). All course materials and year-long ongoing support are free.
+If you are not a public high school or public middle school teacher and would like to attend one of these workshops, there is a non-refundable registration fee to hold your spot ($75 for CS Principles; $100 for BJC Sparks and includes hardware to keep). All course materials and year-long ongoing support are free.
 
-Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the July 28 - August 1 CS Principles workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in both the July 28 - August 1, 2025 workshops, and seats will be allocated first come, first serve.
+Public school teachers in the BJC Sparks workshop will receive both a $200 stipend and hardware to keep. Public school teachers in the CS Principles synchronous workshop will receive a $200 stipend. The stipend (and the free hardware given only for BJC Sparks participants) are contingent on full participation and attendance in all 5 days of the workshop. Fractional stipends will not be issued for partial PD participation. For BJC Sparks participants, if you fail to attend in full daily, you agree to mail the hardware back to the BJC team at your own cost. There is limited space in the synchrous workshops, and seats will be allocated first come, first serve.
 
 For our self-paced, asynchronous BJC CSP PD workshop this summer, there is no cost to participate. All course materials and year-long ongoing support are free. There is no stipend available for those participating in the self-paced PD.
 
