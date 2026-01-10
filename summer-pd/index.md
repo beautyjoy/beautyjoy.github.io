@@ -59,7 +59,7 @@ We offer vitual summer professional development workshops for teachers intending
 
 Below is our 2026 PD schedule for our PD workshops and links to the PD Application.
 
-*Please Note:* There is a limited number of stipend spots in our workshops, and priority will be given to those who apply before May 31, 2025.
+*Please Note:* There is a limited number of stipend spots in our synchrous workshops, and priority will be given to those who apply before May 31, 2026.
 
 <!-- <b>Apps are due by May 31, 2022.</b> -->
 
