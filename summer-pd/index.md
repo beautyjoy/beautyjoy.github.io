@@ -100,7 +100,7 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Free</td>
     <td>No</td>
-    <td><a href="https://bjc.link/pd-app-2026">Register Here</a></td>
+    <td><a href="https://bjc.link/csp-self-paced-app-2026">Register Here</a></td>
     <td>July 31, 2026 11:59pm PST</td>
   </tr>
   <tr>
