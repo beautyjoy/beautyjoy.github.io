@@ -100,7 +100,7 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Free</td>
     <td>No</td>
-    <td><a href="https://bjc.link/csp-self-paced-app-2026">Register Here</a></td>
+    <td>Registration closed.</td>
     <td>July 31, 2026 11:59pm PST</td>
   </tr>
   <tr>
@@ -110,7 +110,7 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
     <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited.</td>
-    <td>Registration closed, however you can <a href="mailto:pd@bjc.berkeley.edu">email us</a> to check space availability.</td>
+    <td>Registration closed.</td>
     <td>July 17, 2026 11:59pm PST</td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
     <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited.</td>
-    <td>Registration closed, however you can <a href="mailto:pd@bjc.berkeley.edu">email us</a> to check space availability.</td>
+    <td>Registration closed.</td>
     <td>July 17, 2026 11:59pm PST</td>
   </tr>
  </tbody>
