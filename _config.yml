@@ -79,4 +79,5 @@ exclude:
   - .github
   - .devcontainer
   - spec
+  - tmp # rspec/capybara artifacts; otherwise failure screenshots land in the sitemap
   - tools # publications tooling; not part of the published site
