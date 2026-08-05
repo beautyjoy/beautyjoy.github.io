@@ -684,6 +684,27 @@ blockquote {
     vertical-align: top;
     margin-right: 5px;
   }
+
+  // Replaces Facebook's SDK button, so it needs to read as an action rather
+  // than as body-copy link. Scoped to .share-link so it can't interfere with
+  // the Flipboard widget's own markup.
+  .share-link {
+    display: inline-block;
+    padding: 6px 12px;
+    border: 1px solid $dark-color;
+    border-radius: 4px;
+    font-size: 14px;
+    text-decoration: none;
+
+    .fa {
+      margin-right: 6px;
+    }
+
+    &:hover, &:focus {
+      background-color: $dark-color;
+      color: $inverted-text-color;
+    }
+  }
 }
 
 footer {

@@ -12,6 +12,10 @@ _site_specs
 sync.err
 tmp/
 
+# Installed gems (`bundle install --path vendor/bundle`, as CI does)
+.bundle/
+vendor/bundle/
+
 # Publications tooling working files (tools/)
 tools/candidates.json
 tools/.review_state.json

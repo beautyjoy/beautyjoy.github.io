@@ -12,12 +12,12 @@ Locally hosted copies of the PDFs are listed below. Page anchors (e.g., `blown-t
 
 BJC currently uses the **first edition** (2008). A [second edition](https://www.bitsbook.com/wp-content/uploads/2021/08/9780137441075-Blown-to-Bits-2e.pdf) (2021, with Wendy Seltzer added as a co-author) is also available; if you'd like a physical copy of the second edition, you can buy it from [Bookshop.org](https://bookshop.org/shop/cspbjc) or [Amazon](http://amzn.com/dp/0134850017?tag=calphoto-20).
 
-### Full book
+## Full book
 
 - [*Blown to Bits* (complete book, PDF)](/bjc-r/docs/blown-to-bits/blown-to-bits.pdf)
 - [Appendix &mdash; The Internet as System and Spirit](/bjc-r/docs/blown-to-bits/Btb_Appendix.pdf)
 
-### Chapters
+## Chapters
 
 - [Chapter 1 &mdash; Digital Explosion: Why Is It Happening, and What Is at Stake?](/bjc-r/docs/blown-to-bits/chapter1.pdf)
 - [Chapter 2 &mdash; Naked in the Sunlight: Privacy Lost, Privacy Abandoned](/bjc-r/docs/blown-to-bits/chapter2.pdf)
