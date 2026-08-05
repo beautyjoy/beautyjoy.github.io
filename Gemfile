@@ -13,7 +13,7 @@ ruby '~> 3'
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem 'jekyll', '~> 4'
+gem 'jekyll', '~> 4.4'
 gem 'kramdown'
 gem 'kramdown-parser-gfm'
 

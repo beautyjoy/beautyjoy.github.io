@@ -55,6 +55,14 @@ def nicely_print(hash)
 end
 
 def print_summary
+  # Written by the JSON formatter configured in `.rspec`. If it's missing, rspec
+  # died before it could write one (a Jekyll build error, a missing browser, ...).
+  # Say so rather than raising ENOENT on top of the real error.
+  unless File.exist?(RESULTS_PATH)
+    warn "No rspec results at #{RESULTS_PATH} -- rspec exited before writing them. See the test step's log."
+    return
+  end
+
   results_data = JSON.parse(File.read(RESULTS_PATH))
   failing_tests_by_type = summarize_results(results_data)
   total_failures = failing_tests_by_type.values.sum
