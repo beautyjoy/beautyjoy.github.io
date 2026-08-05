@@ -1,0 +1,3 @@
+# Dependencies for the BJC publications tooling (tools/).
+# Install with:  pip install -r tools/requirements.txt
+PyYAML>=5.1

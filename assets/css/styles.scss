@@ -126,6 +126,10 @@ a {
   border-width: 6px;
   border-style: solid;
   border-color: $background-dark;
+  // Works whether the frame is a <div> or a linked <a> (block needed so an
+  // anchor still honors the fixed width/height below; no underline on the image).
+  display: block;
+  text-decoration: none;
 
   .homepage & {
     width: 200px;
@@ -185,7 +189,6 @@ blockquote {
 }
 
 .navbar-inverse {
-  margin-left: 1em;
   padding: 0;
   background-color: $dark-color;
   font-family: $header-font-stack;
@@ -315,9 +318,14 @@ blockquote {
   }
 
   h1 {
-    font-size: 48px;
+    // Scale with viewport width so long single-word titles (e.g.
+    // "Announcements") shrink to fit narrow screens instead of overflowing and
+    // causing horizontal scroll. Caps at 48px on wide screens. The
+    // height-based JS (fitHeaderText) still handles multi-line wrapping.
+    font-size: clamp(1.5rem, 7vw, 48px);
     text-transform: uppercase;
-    word-wrap: break-word; // Will use JS to resize down to one line
+    word-wrap: break-word;
+    overflow-wrap: break-word; // break extreme words as a final safety net
   }
 
   h3 {
@@ -564,6 +572,21 @@ blockquote {
   }
 }
 
+.publications-filter {
+  margin-bottom: 30px;
+
+  .publications-count {
+    margin: 10px 0 0;
+    color: $accent-darker;
+    font-size: 90%;
+  }
+}
+
+.publications-empty {
+  font-style: italic;
+  color: $accent-darker;
+}
+
 .articles-list {
   padding-top: 5px;
 
@@ -575,6 +598,21 @@ blockquote {
     font-weight: bold;
   }
 
+  .publication-type {
+    margin-left: 6px;
+    vertical-align: middle;
+    text-transform: capitalize;
+    font-weight: normal;
+    background-color: $lighter-blue;
+  }
+
+  .publication-external {
+    margin-left: 6px;
+    vertical-align: middle;
+    font-weight: normal;
+    background-color: $accent-darker;
+  }
+
   .article-subheading {
     margin: 5px 0 15px;
   }
@@ -582,11 +620,61 @@ blockquote {
   blockquote {
     padding: 0 20px;
   }
+
+  .publication-abstract {
+    margin-top: 8px;
+
+    summary {
+      display: inline-block;
+      cursor: pointer;
+      padding: 4px 12px;
+      font-size: 90%;
+      font-weight: 600;
+      color: $lighter-blue;
+      border: 1px solid $lighter-blue;
+      border-radius: 4px;
+      list-style: none; // hide default disclosure triangle
+      transition: background-color 0.15s ease, color 0.15s ease;
+
+      &::-webkit-details-marker { display: none; }
+
+      &::before {
+        content: "\f0da"; // fa-caret-right
+        font-family: FontAwesome;
+        margin-right: 8px;
+      }
+
+      &:hover,
+      &:focus {
+        background-color: $lighter-blue;
+        color: $inverted-text-color;
+      }
+    }
+
+    &[open] summary::before {
+      content: "\f0d7"; // fa-caret-down
+    }
+
+    .publication-abstract-body {
+      margin-top: 10px;
+      padding: 10px 15px;
+      background-color: $background-light;
+      border-left: 3px solid $lighter-blue;
+
+      p:last-child { margin-bottom: 0; }
+    }
+  }
 }
 
 .article-subheading {
   text-transform: uppercase;
   margin-bottom: 3px;
+}
+
+// On the Research page, keep author names and venues in their normal case
+// rather than the uppercase used for dates/sources elsewhere.
+.publication .article-subheading {
+  text-transform: none;
 }
 
 .sharing-buttons {
@@ -603,8 +691,24 @@ footer {
   background-color: $primary-color;
   color: $inverted-text-color;
 
+  .footer-logo {
+    text-align: center;
+    margin-bottom: 15px;
+
+    img {
+      width: 180px;
+      max-width: 60%;
+      height: auto;
+    }
+  }
+
   .container {
     padding: 1em;
+
+    // On large screens and up, constrain the footer to a comfortable width.
+    @media (min-width: 1200px) {
+      width: min(1200px, 80%);
+    }
 
     a {
       color: inherit;
@@ -621,6 +725,10 @@ footer {
       a {
         margin-right: 10px;
 
+        // Icons are glyphs, not text; suppress the link underline that
+        // otherwise shows as a small '_' beneath each icon.
+        &,
+        &:hover,
         &:focus {
           text-decoration: none;
         }
