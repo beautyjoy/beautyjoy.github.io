@@ -14,22 +14,8 @@ title: Announcements
   <p>
     {{ post.excerpt }}
   </p>
-  {% endcapture %}
-  {% include section.html %}
-
-  {% endfor %}
-
-  {% capture section_content %}
-  <div>
-      <a class="twitter-timeline"
-         href="https://twitter.com/CSPBJC"
-         data-width="500"
-         data-height="500"
-         data-chrome="transparent nofooter">
-          Tweets by CSPBJC
-      </a>
-      <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-  </div>
 </article>
 {% endcapture %}
 {% include section.html %}
+
+{% endfor %}

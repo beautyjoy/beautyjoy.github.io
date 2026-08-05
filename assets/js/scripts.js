@@ -6,6 +6,7 @@ $(document).ready(function() {
   fitHeaderText();
   setupContactForm();
   setupResourcesContent();
+  setupPublicationsFilter();
 });
 
 $(window).on('resize orientation', function() {
@@ -38,6 +39,62 @@ function setupResourcesContent() {
   });
 
   $('[data-toggle=collapse]').each(toggleResourceCarets);
+}
+
+/*
+  Filter the Research page publications list by free-text search, publication
+  type, and year. All filtering happens client-side over the rendered list
+  (see research.html), so the page keeps working without a server.
+*/
+function setupPublicationsFilter() {
+  var $list = $('.js-publications');
+  if (!$list.length) {
+    return;
+  }
+
+  var $items = $list.find('.publication');
+  var $search = $('#pub-search');
+  var $category = $('#pub-category');
+  var $affiliation = $('#pub-affiliation');
+  var $year = $('#pub-year');
+  var $count = $('.publications-count');
+  var $empty = $('.publications-empty');
+
+  function applyFilters() {
+    var query = $.trim($search.val()).toLowerCase();
+    var category = $category.val();
+    var affiliation = $affiliation.val();
+    var year = $year.val();
+    var visible = 0;
+
+    $items.each(function() {
+      var $item = $(this);
+      var matchesQuery = !query || $item.attr('data-search').indexOf(query) !== -1;
+      var matchesCategory = category === 'all' || $item.attr('data-category') === category;
+      var matchesAffiliation = affiliation === 'all' || $item.attr('data-affiliation') === affiliation;
+      var matchesYear = year === 'all' || $item.attr('data-year') === year;
+      var show = matchesQuery && matchesCategory && matchesAffiliation && matchesYear;
+
+      $item.toggle(show);
+      if (show) {
+        visible += 1;
+      }
+    });
+
+    var total = $items.length;
+    if (visible === total) {
+      $count.text('Showing all ' + total + ' publications');
+    } else {
+      $count.text('Showing ' + visible + ' of ' + total + ' publications');
+    }
+    $empty.prop('hidden', visible !== 0);
+  }
+
+  $search.on('input', applyFilters);
+  $category.on('change', applyFilters);
+  $affiliation.on('change', applyFilters);
+  $year.on('change', applyFilters);
+  applyFilters();
 }
 
 /**

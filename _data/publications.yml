@@ -14,6 +14,7 @@
   authors: Federico Meza, Nicolás Torres, Andrea Vásquez
   doi:
   category:
+  external: true
   year: 2020
   journal: 2020 39th International Conference of the Chilean Computer Science Society (SCCC)
   abstract: There is a growing interest in learning computer programming even among students from majors other than computer science (CS). Many universities offer a common Introduction to Programming (CS1) course, but this approach is usually detrimental to those who are not pursuing a CS major. This article is an experience report that summarizes the results of adapting and implementing the course "The Beauty and Joy of Computing" (BJC) in an Engineering in Product Design first-year class, a group that showed below-average performance in the past. BJC is a course for undergraduate non-CS majors at UC Berkeley, designed to broaden student participation in Computer Science. After a fully online semester of BJC at UTFSM, students showed greater responsibility and commitment when compared to previous cohorts. They also reported greater satisfaction with programming while having a lower attrition rate and comparable final grades to students in the regular CS1 class.
@@ -86,7 +87,7 @@
 - title: ! 'Beauty and Joy of Computing: 2016-17 Findings from an AP CS Principles course'
   filename:
   authors: June Mark, Kelsey Klein
-  doi:
+  doi: 10.1145/3287324.3287375
   category: paper
   year: 2019
   journal: SIGCSE 2019
@@ -196,6 +197,7 @@
   authors: J Cuny
   doi:
   category: paper
+  external: true
   year: 2015
   journal: ACM Inroads
   abstract: This critical perspective focuses on the new Advanced Placement® Computer Science Principles course and its place in the larger CS10K Initiative. CS Principles as defined by the College Board is a framework; several different, aligned curricula have been created.
@@ -441,3 +443,219 @@
   journal: WiPCSE 2018
   abstract: There is a growing need to present all students with an opportunity to learn computer science and computational thinking (CT) skills during their primary and secondary education. Traditionally, these opportunities are available outside of the core curriculum as stand-alone courses often taken by those with preparatory privilege. Researchers have identified the need to integrate CT into core classes to provide equitable access to these critical skills. We have worked in a research-practice partnership with two magnet middle schools focused on digital sciences to develop and implement computational thinking into life sciences classes. In this report, we present initial lessons learned while conducting our design-based implementation research on integrating computational thinking into middle school science classes. These case studies suggest that several factors including teacher engagement, teacher attitudes, student prior experience with CS/CT, and curriculum design can all impact student engagement in integrated science-CT lessons.
   external_link: https://dl.acm.org/citation.cfm?id=3265778
+
+# Added 2026 from Crossref via tools/ (reviewed)
+
+- title: 'The Beauty and Joy of Computing: CS Curricula That Scales from Middle School to University'
+  filename:
+  authors: 'Michael Ball, Dan Garcia, Mary Fries, Marnie Hill, Della Dastur, Lauren Mock'
+  doi: '10.1145/3770761.3777056'
+  category: 'paper'
+  year: 2026
+  journal: 'Proceedings of the 57th ACM Technical Symposium on Computer Science Education V.2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3770761.3777056'
+
+- title: 'Snap! 10 --- From Blocks to AI: Empowering Learning with Custom Primitives and Machine Learning'
+  filename:
+  authors: 'Victoria Phelps, Michael Ball, Dan Garcia, Yuan Garcia'
+  doi: '10.1145/3641555.3705048'
+  category: 'paper'
+  year: 2025
+  journal: 'Proceedings of the 56th ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3641555.3705048'
+
+- title: 'Igniting Curiosity with BJC Sparks: A Transformative Curriculum for Middle and High School Computer Science'
+  filename:
+  authors: 'Daniel Garcia, Mary Fries, Michael Ball, Lauren Mock'
+  doi: '10.1145/3626253.3633415'
+  category: 'paper'
+  year: 2024
+  journal: 'Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3626253.3633415'
+
+- title: 'An Introduction to the Beauty and Joy of Computing for Theological Librarians'
+  filename:
+  authors: 'Clifford B. Anderson, Gayathri Narasimham'
+  doi: '10.1515/9783110536539-009'
+  category: 'paper'
+  external: true
+  year: 2022
+  journal: 'Digital Humanities and Libraries and Archives in Religious Studies'
+  abstract:
+  external_link: 'https://doi.org/10.1515/9783110536539-009'
+
+- title: 'Snap! 7 - Microworlds, Scenes, and Extensions!'
+  filename:
+  authors: 'Dan Garcia, Michael Ball, Yuan Garcia'
+  doi: '10.1145/3478432.3499266'
+  category: 'paper'
+  year: 2022
+  journal: 'Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3478432.3499266'
+
+- title: 'Ten Years of Snap! - Where Should We Go Next?'
+  filename:
+  authors: 'Michael Ball, Dan Garcia, Yuan Garcia'
+  doi: '10.1145/3545947.3573357'
+  category: 'paper'
+  year: 2022
+  journal: 'Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3545947.3573357'
+
+- title: 'Snap! 8 - Smart Script Pics and Metaprogramming for All!'
+  filename:
+  authors: 'Michael Ball, Dan Garcia, Yuan Garcia'
+  doi: '10.1145/3545947.3573231'
+  category: 'paper'
+  year: 2022
+  journal: 'Proceedings of the 54th ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3545947.3573231'
+
+- title: 'Teaching with the Beauty and Joy of Computing – AP CSP and More!'
+  filename:
+  authors: 'Marnie Hill, Dan Garcia, Tiffany Barnes, Lauren Mock, Michael Ball, Amy Isvik, Dave Bell'
+  doi: '10.1145/3408877.3432507'
+  category: 'paper'
+  year: 2021
+  journal: 'Proceedings of the 52nd ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3408877.3432507'
+
+- title: 'Snap!6, Introducing Hyperblocks!'
+  filename:
+  authors: 'Dan Garcia, Michael Ball'
+  doi: '10.1145/3408877.3439545'
+  category: 'paper'
+  year: 2021
+  journal: 'Proceedings of the 52nd ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3408877.3439545'
+
+- title: 'The Beauty and Joy of Computing Curriculum and Teacher Professional Development'
+  filename:
+  authors: 'Michael Ball, Lauren Mock, Dan Garcia, Tiffany Barnes, Marnie Hill, Alexandra Milliken, Joshua Paley, Efrain Lopez, Jason Bohrer'
+  doi: '10.1145/3328778.3367029'
+  category: 'paper'
+  year: 2020
+  journal: 'Proceedings of the 51st ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3328778.3367029'
+
+- title: 'Building Blocks for Powerful Ideas: Designing a Programming Language to Teach the Beauty and Joy of Computing'
+  filename:
+  authors: 'Jens Mönig'
+  doi: '10.26439/ciis2019.5499'
+  category: 'paper'
+  external: true
+  year: 2020
+  journal: 'Actas del Congreso Internacional de Ingeniería de Sistemas'
+  abstract: 'Snap! is a cloud-native graphical programming environment and an online community. It is the programming language made for UC Berkeley’s popular introductory CS course named “The Beauty and Joy of Computing”. Snap! is taught in colleges and high schools across the U.S. from Palo Alto to Philadelphia. It has been translated to more than 40 languages and is used around the world—from Göttingen to Beijing—for teaching and research. Snap! has been designed for inclusion. Its low floor welcomes beginners and its multi-media capabilities invite creative thinkers of all ages. At the same time, Snap! offers sophisticated abstractions that make it suitable for an intellectually rigorous introduction to computer science.'
+  external_link: 'https://doi.org/10.26439/ciis2019.5499'
+
+- title: 'The AP Computer Science Principles Exam'
+  filename:
+  authors: 'Hannah E. Chipman, Marnie Hill, Tiffany Barnes'
+  doi: '10.1145/3328778.3372698'
+  category: 'paper'
+  year: 2020
+  journal: 'Proceedings of the 51st ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3328778.3372698'
+
+- title: 'Snap! v5, Our Biggest, Feature-filled Release Ever!'
+  filename:
+  authors: 'Dan Garcia, Michael Ball'
+  doi: '10.1145/3328778.3372549'
+  category: 'paper'
+  year: 2020
+  journal: 'Proceedings of the 51st ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3328778.3372549'
+
+- title: 'Writing Autograders for Snap! And Integrating them Into Your Course'
+  filename:
+  authors: 'Michael Ball'
+  doi: '10.1145/3017680.3022385'
+  category: 'paper'
+  year: 2017
+  journal: 'Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3017680.3022385'
+
+- title: 'Implementing "In-Lab" Autograding for Snap!'
+  filename:
+  authors: 'Michael Ball'
+  doi: '10.1145/3017680.3022443'
+  category: 'paper'
+  year: 2017
+  journal: 'Proceedings of the 2017 ACM SIGCSE Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3017680.3022443'
+
+- title: 'Evaluation of a Template-Based Puzzle Generator for an Educational Programming Game'
+  filename:
+  authors: 'Yihuan Dong, Tiffany Barnes'
+  doi: '10.1609/aiide.v13i1.12952'
+  category: 'paper'
+  year: 2017
+  journal: 'Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment'
+  abstract: 'Although there has been much work on procedural content generation for other game genres, very few researchers have tackled automated content generation for educational games. In this paper, we present a template-based, automatic puzzle generator for an educational puzzle programming game called BOTS. Two experts created their own new puzzles and evaluated generator-generated puzzles for meeting the educational goals, the structural and visual novelty. We show that our generator can generate puzzles with expert-designed educational goals while saving experts more than 80% of creation time, and these puzzles exhibit structural and visual novelty compared to expert-created puzzles. The contribution of this work is defined and implemented the first template-based automatic puzzle generator that saves expert time while incorporating expert-designed educational goals and enhancing puzzle.'
+  external_link: 'https://doi.org/10.1609/aiide.v13i1.12952'
+
+- title: 'Showpiece: ISnap demonstration'
+  filename:
+  authors: 'Thomas W. Price, Tiffany Barnes'
+  doi: '10.1109/vlhcc.2017.8103499'
+  category: 'paper'
+  year: 2017
+  journal: '2017 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)'
+  abstract:
+  external_link: 'https://doi.org/10.1109/vlhcc.2017.8103499'
+
+- title: 'Computer Science Principles Curricula'
+  filename:
+  authors: 'Daniel D. Garcia, Owen Astrachan, Bennett Brown, Jeff Gray, Calvin Lin, Bradley Beth, Ralph Morelli, Marie desJardins, Nigmanath Sridhar'
+  doi: '10.1145/2676723.2677323'
+  category: 'paper'
+  year: 2015
+  journal: 'Proceedings of the 46th ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/2676723.2677323'
+
+- title: 'Lambda in blocks languages: Lessons learned'
+  filename:
+  authors: 'Brian Harvey, Jens Monig'
+  doi: '10.1109/blocks.2015.7368997'
+  category: 'paper'
+  year: 2015
+  journal: '2015 IEEE Blocks and Beyond Workshop (Blocks and Beyond)'
+  abstract:
+  external_link: 'https://doi.org/10.1109/blocks.2015.7368997'
+
+- title: 'Rediscovering the passion, beauty, joy, and awe'
+  filename:
+  authors: 'Daniel D. Garcia, Michele Friend Hutton, Eugene Lemon, Josh Paley'
+  doi: '10.1145/1953163.1953332'
+  category: 'paper'
+  year: 2011
+  journal: 'Proceedings of the 42nd ACM technical symposium on Computer science education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/1953163.1953332'
+
+# Added via tools/review_publications.py
+
+- title: 'Beauty and Joy of Computing'
+  filename:
+  authors: 'Michael Ball, Lauren Mock, Dan Garcia, Tiffany Barnes, Marnie Hill, Mary Fries, Pamela Fox, Yuan Garcia'
+  doi: '10.1145/3478432.3499145'
+  category: 'workshop'
+  year: 2022
+  journal: 'Proceedings of the 53rd ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3478432.3499145'
