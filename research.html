@@ -3,23 +3,98 @@ layout: page
 title: Research
 subtitle: Papers and Publications
 ---
+{% comment %}
+  Publications live in _data/publications.yml. They are sorted here so the most
+  recent work appears first, and can be filtered client-side (see the
+  `setupPublicationsFilter` function in assets/js/scripts.js).
+{% endcomment %}
+{% assign publications = site.data.publications | sort: 'year' | reverse %}
+{% assign years = site.data.publications | map: 'year' | uniq | sort | reverse %}
+
 {% capture section_content %}
-<ul class="list-unstyled articles-list">
-    {% for article in site.data.publications %}
-    <li>
-        <a href="{{ site.baseurl }}/documents/{{ article.filename }}" target="_blank" class="article-title">{{ article.title }}</a>
+<div class="publications-filter" role="search">
+    <div class="row">
+        <div class="form-group col-sm-6">
+            <label for="pub-search" class="sr-only">Search publications</label>
+            <input type="search" id="pub-search" class="form-control"
+                placeholder="Search by title, author, or venue&hellip;"
+                aria-label="Search publications by title, author, or venue">
+        </div>
+        <div class="form-group col-sm-2">
+            <label for="pub-category" class="sr-only">Filter by type</label>
+            <select id="pub-category" class="form-control" aria-label="Filter by publication type">
+                <option value="all">All types</option>
+                <option value="paper">Papers</option>
+                <option value="poster">Posters</option>
+                <option value="talks">Talks</option>
+                <option value="workshop">Workshops</option>
+                <option value="dissertation">Dissertations</option>
+                <option value="external evaluation">External evaluations</option>
+            </select>
+        </div>
+        <div class="form-group col-sm-2">
+            <label for="pub-affiliation" class="sr-only">Filter by authorship</label>
+            <select id="pub-affiliation" class="form-control" aria-label="Filter by authorship">
+                <option value="all">All work</option>
+                <option value="bjc">BJC team</option>
+                <option value="external">External work</option>
+            </select>
+        </div>
+        <div class="form-group col-sm-2">
+            <label for="pub-year" class="sr-only">Filter by year</label>
+            <select id="pub-year" class="form-control" aria-label="Filter by year">
+                <option value="all">All years</option>
+                {% for year in years %}
+                <option value="{{ year }}">{{ year }}</option>
+                {% endfor %}
+            </select>
+        </div>
+    </div>
+    <p class="publications-count" aria-live="polite"></p>
+</div>
+
+<ul class="list-unstyled articles-list js-publications">
+    {% for article in publications %}
+    {% comment %} Entries imported from the older list have no category; they are all papers. {% endcomment %}
+    {% assign category = article.category | default: 'paper' %}
+    {% comment %} Prefer a hosted PDF, then an external link, for the title. {% endcomment %}
+    {% if article.filename %}
+        {% assign title_link = '/documents/' | append: article.filename | prepend: site.baseurl %}
+    {% else %}
+        {% assign title_link = article.external_link %}
+    {% endif %}
+    {% comment %} "external" flags work with no BJC-team authors (see _data/publications.yml). {% endcomment %}
+    {% if article.external %}{% assign affiliation = 'external' %}{% else %}{% assign affiliation = 'bjc' %}{% endif %}
+    <li class="publication"
+        data-category="{{ category | downcase }}"
+        data-year="{{ article.year }}"
+        data-affiliation="{{ affiliation }}"
+        data-search="{{ article.title | append: ' ' | append: article.authors | append: ' ' | append: article.journal | downcase | strip_newlines | escape }}">
+        {% if title_link and title_link != '' %}
+        <a href="{{ title_link }}" target="_blank" rel="noopener" class="article-title">{{ article.title }}</a>
+        {% else %}
+        <span class="article-title">{{ article.title }}</span>
+        {% endif %}
+        <span class="publication-type label label-default">{{ category }}</span>
+        {% if article.external %}<span class="publication-external label label-warning" title="No BJC team members are authors on this work">external work</span>{% endif %}
         <div class="article-subheading">
             {{ article.authors }}. ({{ article.year }}).
-            {% if article.external_link %}<a href="{{ article.external_link }}" target="_blank">{% endif %}
+            {% if article.external_link and article.external_link != '' %}<a href="{{ article.external_link }}" target="_blank" rel="noopener">{% endif %}
             {{ article.journal }}.
-            {% if article.external_link %}</a>{% endif %}
+            {% if article.external_link and article.external_link != '' %}</a>{% endif %}
+            {% if article.slides_link %}<a href="{{ article.slides_link }}" target="_blank" rel="noopener">[slides]</a>{% endif %}
         </div>
         {% if article.abstract %}
-        <blockquote>{{ article.abstract | markdownify }}</blockquote>
+        <details class="publication-abstract">
+            {% comment %} Visible text is generic; aria-label is unique per paper for screen readers. {% endcomment %}
+            <summary aria-label="Show abstract for {{ article.title | strip_newlines | escape }}">Show Abstract</summary>
+            <div class="publication-abstract-body">{{ article.abstract | markdownify }}</div>
+        </details>
         {% endif %}
     </li>
     {% endfor %}
 </ul>
+<p class="publications-empty" hidden>No publications match your filters.</p>
 {% endcapture %}
 {% include section.html %}
 

@@ -21,7 +21,10 @@ description: >
 keywords: >
   AP CSP, advanced placement, computer scince principles, comp sci, snap,
   programming, computing, BJC, computer science, cs10, bjcx, bjc4nyc, BJC Sparks, middle school, robotics,
-baseurl: "/"
+# Empty (not "/") so root-relative asset URLs render as "/assets/..." rather
+# than "//assets/..." (a protocol-relative URL that fails to load locally / on
+# preview builds). CI overrides this via `jekyll build --baseurl` for Pages.
+baseurl: ""
 # NOTE: This URL is needed for Github pages. It will get overriden
 # in the build scripts.
 # This file only overwrites the nececessary changes from _config
@@ -76,3 +79,4 @@ exclude:
   - .github
   - .devcontainer
   - spec
+  - tools # publications tooling; not part of the published site

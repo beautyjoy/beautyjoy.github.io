@@ -1,0 +1,65 @@
+# Publications a human reviewed and chose NOT to publish on the
+# Research page. Kept with full metadata so the fetch/review tools
+# can skip them instead of re-surfacing them. Delete an entry here
+# to allow it to be re-reviewed.
+---
+
+- title: 'Student Mission Control: Integrating Space Data Exploration into Data and Computer Science Education'
+  filename:
+  authors: 'Dan Garcia, Josh Hug, Anirudhan Badrinath, Michael Ball, Lauren Mock'
+  doi: '10.1145/3626253.3633417'
+  category: 'paper'
+  year: 2024
+  journal: 'Proceedings of the 55th ACM Technical Symposium on Computer Science Education V. 2'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3626253.3633417'
+
+- title: 'A Survey of K-12 Teacher Needs for an Online Programming Learning System'
+  filename:
+  authors: 'Ally Limke, Marnie Hill, Veronica Cateté, Tiffany Barnes'
+  doi: '10.1145/3613905.3651110'
+  category: 'paper'
+  year: 2024
+  journal: 'Extended Abstracts of the CHI Conference on Human Factors in Computing Systems'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3613905.3651110'
+
+- title: 'A Framework for Socially-Relevant Service-Learning Internship Experiences for High School Students'
+  filename:
+  authors: 'Veronica Catete, Amy Isvik, Marnie Hill'
+  doi: '10.1145/3478431.3499355'
+  category: 'paper'
+  year: 2022
+  journal: 'Proceedings of the 53rd ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3478431.3499355'
+
+- title: 'Effective Video Production for Online and In-Person Courses'
+  filename:
+  authors: 'Michael Ball, Dan Garcia, Eric Arvai'
+  doi: '10.1145/3408877.3432509'
+  category: 'paper'
+  year: 2021
+  journal: 'Proceedings of the 52nd ACM Technical Symposium on Computer Science Education'
+  abstract:
+  external_link: 'https://doi.org/10.1145/3408877.3432509'
+
+- title: 'Blocks at your fingertips: Blurring the line between blocks and text in GP'
+  filename:
+  authors: 'Jens Monig, Yoshiki Ohshima, John Maloney'
+  doi: '10.1109/blocks.2015.7369001'
+  category: 'paper'
+  year: 2015
+  journal: '2015 IEEE Blocks and Beyond Workshop (Blocks and Beyond)'
+  abstract:
+  external_link: 'https://doi.org/10.1109/blocks.2015.7369001'
+
+- title: 'A module system for a general-purpose blocks language'
+  filename:
+  authors: 'Yoshiki Ohshima, Jens Monig, John Maloney'
+  doi: '10.1109/blocks.2015.7368998'
+  category: 'paper'
+  year: 2015
+  journal: '2015 IEEE Blocks and Beyond Workshop (Blocks and Beyond)'
+  abstract:
+  external_link: 'https://doi.org/10.1109/blocks.2015.7368998'
