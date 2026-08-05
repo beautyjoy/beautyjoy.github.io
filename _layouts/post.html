@@ -30,13 +30,14 @@ layout: default
     <!-- Tumblr -->
     <!-- <a class="tumblr-share-button" data-color="blue" data-notes="none" href="https://embed.tumblr.com/share"></a>
     <script>!function(d,s,id){var js,ajs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://assets.tumblr.com/share-button.js";ajs.parentNode.insertBefore(js,ajs);}}(document, "script", "tumblr-js");</script> -->
-    <!-- Flipboard. FA 4.6.3 has no Flipboard glyph, so fa-newspaper-o stands in.
-         If flbuttons.min.js rewrites this anchor's contents, .share-link just
-         frames whatever it injects rather than fighting it. -->
-    <a class="share-link" data-flip-widget="flipit" href="https://flipboard.com">
+    <!-- Flipboard. Same treatment as Facebook: flbuttons.min.js replaced this
+         anchor's class and contents outright with its own 45x20px widget, so
+         any styling here was a no-op. This is the URL that script built.
+         FA 4.6.3 has no Flipboard glyph, so fa-newspaper-o stands in. -->
+    <a class="share-link" target="_blank" rel="noopener"
+       href="https://share.flipboard.com/bookmarklet/popout?v=2&title={{ page.title | url_encode }}&url={{ page.url | absolute_url | url_encode }}">
       <i class="fa fa-newspaper-o" aria-hidden="true"></i> Add to Flipboard Magazine
     </a>
-    <script src="https://cdn.flipboard.com/web/buttons/js/flbuttons.min.js" type="text/javascript"></script>
 </div>
 {% endcapture %}
 {% include section.html %}
