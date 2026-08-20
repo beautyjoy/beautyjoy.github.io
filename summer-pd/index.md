@@ -1,5 +1,5 @@
 ---
-title: 2026 Professional Development
+title: 2027 Professional Development
 subtitle: One-Week Workshops for Teachers
 layout: summer-pd
 redirect_from:
@@ -14,7 +14,7 @@ redirect_from:
 
 ## BJC Professional Development Workshops
 
-[pd-interest-form-link]: https://bjc.link/BJCinterest2021
+[pd-interest-form-link]: https://bjc.link/pd-interest-form
 [pathfinders-email]: mailto:Pathfinders@infosysfoundationusaevents.org
 <!--[pd-app-link]: https://bjc.link/PD2019App. -->
 <!-- ## [For Reference Only: 2019 Informational Flyer]({{ site.baseurl }}/documents/bjc-pd-2019-flyer.pdf) -->
@@ -31,7 +31,7 @@ We are excited to announce that this summer, we will be offering 2 different wor
 
 The creators of BJC developed a new course called BJC Sparks for middle school and early high school that teaches a <em>functional</em> approach to programming, emphasizing the flow of information through functions — rather than emphasizing iteration and commands — and including exciting projects in graphics, data, and media. We are offering a week-long, virtual workshop for teachers, administrators, and parents or community members running extra-curricular activities. No prior experience with computer science is necessary, and all course materials will be available online for free.
 
-*New in 2026* - We've been working on a new AI unit for Sparks, exploring supervised and reinforcement learning, generative AI, and the ethics of AI. True to the BJC philosophy, students don’t just use AI tools—they learn how AI works. Join the PD this summer to learn more!
+*New in 2027* - We've been working on a new AI unit for Sparks, exploring supervised and reinforcement learning, generative AI, and the ethics of AI. True to the BJC philosophy, students don’t just use AI tools—they learn how AI works. Join the PD this summer to learn more!
 
 <!-- We are looking for a cohort of at least 20 teachers who are interested in piloting at least one semester of these new materials with students in the 2021-2022 school year and providing us with feedback to help us revise and improve these materials in exchange for a stipend described below. One of our goals is to produce a curriculum that reaches students traditionally underrepresented in computer science, so BIPOC teachers and teachers of BIPOC students are strongly encouraged to participate and provide feedback about how best we can develop a program to serve BIPOC students. -->
 
@@ -53,15 +53,15 @@ We offer vitual summer professional development workshops for teachers intending
 
 <!-- In 2019, we will offer several 5-day in-person regional workshops. To sign up for email updates when we finalize our 2019 locations, complete our interest form at [{{site.pd_interest_url}}]({{site.pd_interest_url}}). If you are interested in hosting a BJC workshop, or becoming a BJC Lead Teacher, email [pd@bjc.berkeley.edu][pd-email]. -->
 
-### BJC PD Summer 2026 Schedule and Application
+### BJC PD Summer 2027 Schedule and Application
 
 [admin-letter]: https://bjc.link/Admin19
 [BJC PD 2019 Alternate App]: https://bjc.link/PD2019App-NoUpload
 [reg-fee]: https://bjc.link/reg19
 
-Below is our 2026 PD schedule for our PD workshops and links to the PD Application.
+Below is our 2027 PD schedule for our PD workshops and links to the PD Application.
 
-*Please Note:* There is a limited number of stipend spots in our synchronous workshops, and priority will be given to those who apply before May 31, 2026.
+*Please Note:* There is a limited number of stipend spots in our synchronous workshops, and priority will be given to those who apply before May 1, 2027.
 
 <!-- <b>Apps are due by May 31, 2022.</b> -->
 
@@ -94,34 +94,34 @@ Below is our 2026 PD schedule for our PD workshops and links to the PD Applicati
 </thead>
 <tbody>
   <tr>
-    <td>June 22 - August 31, 2026</td>
+    <td>June - August 2027</td>
     <td>Self-Paced Asynchronous</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Free</td>
     <td>No</td>
-    <td>Registration closed.</td>
-    <td>July 31, 2026 11:59pm PST</td>
+    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</a></td>
+    <td>TBA</td>
   </tr>
   <tr>
-    <td>July 27 - 31, 2026</td>
+    <td>July 2027</td>
     <td>8 AM - 2 PM PST Daily</td>
     <td>BJC Sparks</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
     <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited.</td>
-    <td>Registration closed.</td>
-    <td>July 17, 2026 11:59pm PST</td>
+    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</td>
+    <td>TBA</td>
   </tr>
   <tr>
-    <td>July 27 - 31, 2026</td>
+    <td>July 2027</td>
     <td>8 AM - 2 PM PST Daily</td>
     <td>CS Principles</td>
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
     <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited.</td>
-    <td>Registration closed.</td>
-    <td>July 17, 2026 11:59pm PST</td>
+    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</td>
+    <td>TBA</td>
   </tr>
  </tbody>
 </table>
@@ -143,7 +143,7 @@ We do offer private PD workshops for school districts or organizations for a fee
 
 ### How much does it cost?
 
-For the July 27 - 31, 2026 CS Principles and Sparks synchronous PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend these workshops if you are a public high school or public middle school teacher in the United States.
+For the CS Principles and Sparks synchronous PD workshops, we are partnering with the Infosys Foundation to offer PD free of charge to all public school teachers in the United States. There is no cost to attend these workshops if you are a public high school or public middle school teacher in the United States.
 
 If you are not a public high school or public middle school teacher and would like to attend one of these workshops, there is a non-refundable registration fee to hold your spot ($75 for CS Principles; $100 for BJC Sparks and includes hardware to keep). All course materials and year-long ongoing support are free.
 
