@@ -110,7 +110,7 @@ Below is our 2027 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $100</td>
     <td>Public School Teacher: $200 + Hardware* <br><br> Private School Teacher: No + Hardware <br><br> *Stipend spots are limited.</td>
-    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</td>
+    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</a></td>
     <td>TBA</td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ Below is our 2027 PD schedule for our PD workshops and links to the PD Applicati
     <td>Online</td>
     <td>Public School Teacher: Free<br><br>Private School Teacher: $75</td>
     <td>Public School Teacher: $200* <br><br> Private School Teacher: No <br><br> Stipend spots are limited.</td>
-    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</td>
+    <td>TBA - <a href="https://bjc.link/pd-interest-form">Leave your interest here.</a></td>
     <td>TBA</td>
   </tr>
  </tbody>
