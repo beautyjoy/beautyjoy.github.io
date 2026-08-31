@@ -1,0 +1,48 @@
+name: Generate release news posts
+
+# Generates Jekyll posts in _posts/ from GitHub releases of related projects
+# (Snap!, BJC Curriculum, Snap! Community, Snap! Manual). Runs every Tuesday
+# and can also be triggered manually from the Actions tab.
+
+on:
+  schedule:
+    - cron: '17 14 * * 2'  # Tuesdays, 14:17 UTC (~7am Pacific)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-news
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version-file: .ruby-version
+          bundler-cache: false
+
+      - name: Generate release news posts
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: ruby script/generate_release_news.rb --verbose
+
+      - name: Commit and push new posts
+        run: |
+          set -euo pipefail
+          if [[ -z "$(git status --porcelain _posts)" ]]; then
+            echo "No new release posts."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add _posts
+          git commit -m "Auto-generate release news posts"
+          git push
